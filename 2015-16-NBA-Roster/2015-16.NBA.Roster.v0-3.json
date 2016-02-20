@@ -441,7 +441,7 @@
           "drb": 12,
           "pss": 12,
           "reb": 61,
-          "pot": 50,
+          "pot": 53,
           "skills": []
         }
       ],
@@ -2356,10 +2356,10 @@
           "jmp": 82,
           "endu": 67,
           "ins": 83,
-          "dnk": 88,
+          "dnk": 79,
           "ft": 82,
-          "fg": 62,
-          "tp": 60,
+          "fg": 57,
+          "tp": 58,
           "blk": 68,
           "stl": 18,
           "drb": 20,
@@ -2651,7 +2651,7 @@
           "drb": 33,
           "pss": 45,
           "reb": 20,
-          "pot": 63,
+          "pot": 61,
           "skills": [
             "A"
 			]
@@ -3537,7 +3537,7 @@
       "name": "Dario Saric",
       "imgURL": "http://stats.nba.com/media/players/230x185/203967.png",
       "contract": {
-        "amount": 2100,"exp": 2017
+        "amount": 2900,"exp": 2018
       },
       "draft": {
         "round": 1,
@@ -4984,25 +4984,23 @@
       "tid": 23,
       "ratings": [
         {
-          "hgt": 58,
+          "hgt": 72,
           "stre": 82,
-          "spd": 25,
+          "spd": 35,
           "jmp": 56,
           "endu": 58,
-          "ins": 50,
+          "ins": 60,
           "dnk": 59,
           "ft": 61,
           "fg": 62,
-          "tp": 0,
+          "tp": 45,
           "blk": 59,
           "stl": 26,
           "drb": 21,
           "pss": 27,
-          "reb": 83,
+          "reb": 77,
           "pot": 52,
-          "skills": [
-            "R"
-			]
+          "skills": []
         }
       ],
       "pos": "PF",
@@ -5193,25 +5191,23 @@
       "tid": 24,
       "ratings": [
         {
-          "hgt": 62,
-          "stre": 50,
-          "spd": 31,
+          "hgt": 92,
+          "stre": 69,
+          "spd": 55,
           "jmp": 69,
           "endu": 55,
-          "ins": 50,
-          "dnk": 82,
+          "ins": 70,
+          "dnk": 72,
           "ft": 41,
           "fg": 51,
-          "tp": 5,
+          "tp": 0,
           "blk": 49,
           "stl": 29,
           "drb": 18,
           "pss": 30,
           "reb": 76,
-          "pot": 50,
-          "skills": [
-            "A"
-          ]
+          "pot": 55,
+          "skills": []
         }
       ],
       "pos": "C",
@@ -5668,10 +5664,10 @@
           "spd": 36,
           "jmp": 43,
           "endu": 33,
-          "ins": 76,
-          "dnk": 64,
+          "ins": 68,
+          "dnk": 58,
           "ft": 80,
-          "fg": 69,
+          "fg": 60,
           "tp": 0,
           "blk": 26,
           "stl": 49,
@@ -5679,10 +5675,7 @@
           "pss": 44,
           "reb": 81,
           "pot": 57,
-          "skills": [
-            "Di",
-            "R"
-          ]
+          "skills": ["Di","R"]
         }
       ],
       "awards": [
@@ -7371,7 +7364,7 @@
       "name": "Anderson Varejao",
       "imgURL": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2419.png",
       "contract": {
-        "amount": 8314,"exp": 2017
+        "amount": 3500,"exp": 2017
       },
       "draft": {
         "round": 2,
@@ -8838,26 +8831,23 @@
       "tid": 17,
       "ratings": [
         {
-          "hgt": 27,
+          "hgt": 21,
           "stre": 43,
           "spd": 53,
-          "jmp": 25,
+          "jmp": 35,
           "endu": 40,
           "ins": 20,
-          "dnk": 56,
+          "dnk": 66,
           "ft": 75,
-          "fg": 63,
-          "tp": 48,
+          "fg": 68,
+          "tp": 18,
           "blk": 12,
           "stl": 44,
           "drb": 85,
           "pss": 84,
           "reb": 20,
           "pot": 47,
-          "skills": [
-            "Ps",
-            "Po"
-          ]
+          "skills": ["Ps"]
         }
       ],
       "pos": "G",
@@ -8911,7 +8901,7 @@
       "name": "Tony Mitchell",
       "imgURL": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2583664.png&w=350&h=254",
       "contract": {
-        "amount": 816,"exp": 2016
+        "amount": 900,"exp": 2016
       },
       "draft": {
         "round": 2,
@@ -9605,15 +9595,15 @@
         {
           "hgt": 62,
           "stre": 79,
-          "spd": 73,
-          "jmp": 76,
-          "endu": 69,
+          "spd": 77,
+          "jmp": 86,
+          "endu": 75,
           "ins": 59,
-          "dnk": 74,
-          "ft": 74,
+          "dnk": 70,
+          "ft": 22,
           "fg": 60,
-          "tp": 89,
-          "blk": 64,
+          "tp": 84,
+          "blk": 68,
           "stl": 59,
           "drb": 32,
           "pss": 95,
@@ -9900,7 +9890,7 @@
       "injury": {"type": "Healthy","gamesRemaining": 0}
     },
     {
-      "tid": 1,
+      "tid": -1,
       "ratings": [
         {
           "hgt": 71,
@@ -9930,7 +9920,7 @@
       "name": "David Lee",
       "imgURL": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2772.png",
       "contract": {
-        "amount": 13280,"exp": 2016
+        "amount": 1500,"exp": 2016
       },
       "draft": {
         "round": 1,
@@ -9948,8 +9938,8 @@
           "stre": 68,
           "spd": 62,
           "jmp": 59,
-          "endu": 38,
-          "ins": 24,
+          "endu": 48,
+          "ins": 34,
           "dnk": 58,
           "ft": 60,
           "fg": 60,
@@ -10643,7 +10633,7 @@
       "pos": "GF",
       "hgt": 79,"weight": 195,
       "born": {
-        "year": 1980
+        "year": 1980,"loc": "Santo Domingo, Dominican Republic"
       },
       "name": "Francisco Garcia",
       "imgURL": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2755.png",
@@ -12340,7 +12330,7 @@
       "name": "Xavier Henry",
       "imgURL": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4241.png",
       "contract": {
-        "amount": 1082,"exp": 2015
+        "amount": 500,"exp": 2016
       },
       "draft": {
         "round": 1,
@@ -12349,8 +12339,8 @@
         "year": 2010,"loc": "USA"
       },
       "injury": {
-        "type": "Achilles",
-        "gamesRemaining": 60	
+        "type": "Healthy",
+        "gamesRemaining": 0	
       }
     },
     {
@@ -12951,25 +12941,23 @@
       "tid": 24,
       "ratings": [
         {
-          "hgt": 77,
-          "stre": 36,
-          "spd": 28,
-          "jmp": 55,
+          "hgt": 79,
+          "stre": 86,
+          "spd": 48,
+          "jmp": 65,
           "endu": 61,
-          "ins": 55,
-          "dnk": 75,
+          "ins": 75,
+          "dnk": 55,
           "ft": 46,
-          "fg": 62,
+          "fg": 32,
           "tp": 0,
           "blk": 62,
           "stl": 15,
           "drb": 16,
           "pss": 27,
-          "reb": 80,
+          "reb": 85,
           "pot": 50,
-          "skills": [
-            "R"
-          ]
+          "skills": ["R"]
         }
       ],
       "pos": "FC",
@@ -13538,7 +13526,7 @@
       "name": "Michael Beasley",
       "imgURL": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3418.png",
       "contract": {
-        "amount": 1000,"exp": 2015
+        "amount": 2500,"exp": 2016
       },
       "draft": {
         "round": 1,
@@ -13833,43 +13821,43 @@
       "injury": {"type": "Healthy","gamesRemaining": 0}
     },
     {
-      "tid": -1,
+      "tid": -2,
       "ratings": [
         {
-          "hgt": 39,
-          "stre": 31,
+          "hgt": 79,
+          "stre": 71,
           "spd": 56,
           "jmp": 49,
           "endu": 51,
-          "ins": 33,
-          "dnk": 35,
-          "ft": 74,
-          "fg": 50,
-          "tp": 70,
-          "blk": 16,
+          "ins": 63,
+          "dnk": 55,
+          "ft": 64,
+          "fg": 60,
+          "tp": 0,
+          "blk": 66,
           "stl": 22,
-          "drb": 45,
-          "pss": 53,
-          "reb": 23,
-          "pot": 35,
+          "drb": 25,
+          "pss": 33,
+          "reb": 73,
+          "pot": 61,
           "skills": []
         }
       ],
-      "pos": "G",
-      "hgt": 77,"weight": 205,
+      "pos": "PF",
+      "hgt": 82,"weight": 240,
       "born": {
-        "year": 1980
+        "year": 1996,"loc": "Muskegeon, MI"
       },
-      "name": "Roger Mason, Jr",
-      "imgURL": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1721.png",
+      "name": "Deyonta Davis",
+      "imgURL": "",
       "contract": {
-        "amount": 500,"exp": 2013	
+        "amount": 1500,"exp": 2019	
       },
       "draft": {
-        "round": 2,
-        "pick": 2,
-        "tid": 4,"originalTid": 4,
-        "year": 2002,"loc": "USA"
+        "round": 0,
+        "pick": 0,
+        "tid": -1,"originalTid": -1,
+        "year": 2016,"loc": "USA"
       },
       "injury": {"type": "Healthy","gamesRemaining": 0}
     },
@@ -14256,14 +14244,14 @@
       "ratings": [
         {
           "hgt": 86,
-          "stre": 78,
-          "spd": 48,
+          "stre": 70,
+          "spd": 40,
           "jmp": 51,
-          "endu": 62,
+          "endu": 52,
           "ins": 71,
           "dnk": 57,
           "ft": 40,
-          "fg": 40,
+          "fg": 30,
           "tp": 0,
           "blk": 84,
           "stl": 32,
@@ -14688,11 +14676,11 @@
         {
           "hgt": 86,
           "stre": 76,
-          "spd": 36,
-          "jmp": 60,
+          "spd": 43,
+          "jmp": 70,
           "endu": 65,
-          "ins": 63,
-          "dnk": 54,
+          "ins": 69,
+          "dnk": 58,
           "ft": 78,
           "fg": 32,
           "tp": 0,
@@ -14742,7 +14730,7 @@
           "drb": 42,
           "pss": 15,
           "reb": 38,
-          "pot": 60,
+          "pot": 56,
           "skills": []
         }
       ],
@@ -15220,7 +15208,7 @@
         "tid": 17,"originalTid": -1,
         "year": 2008,"loc": "USA"
       },
-      "injury": {"type": "Healthy","gamesRemaining": 0}
+      "injury": {"type": "Right Achilles surgery","gamesRemaining": 30}
     },
     {
       "tid": 10,
@@ -15360,11 +15348,11 @@
           "stre": 28,
           "spd": 80,
           "jmp": 53,
-          "endu": 63,
-          "ins": 60,
+          "endu": 53,
+          "ins": 20,
           "dnk": 72,
           "ft": 92,
-          "fg": 70,
+          "fg": 77,
           "tp": 70,
           "blk": 15,
           "stl": 53,
@@ -15652,21 +15640,21 @@
       "ratings": [
         {
           "hgt": 70,
-          "stre": 28,
+          "stre": 63,
           "spd": 58,
           "jmp": 59,
           "endu": 51,
           "ins": 55,
-          "dnk": 46,
+          "dnk": 56,
           "ft": 61,
           "fg": 53,
-          "tp": 59,
+          "tp": 61,
           "blk": 42,
           "stl": 39,
           "drb": 27,
           "pss": 12,
           "reb": 60,
-          "pot": 52,
+          "pot": 56,
           "skills": [
             "A"
           ]
@@ -17333,16 +17321,16 @@
           "jmp": 70,
           "endu": 62,
           "ins": 49,
-          "dnk": 60,
+          "dnk": 55,
           "ft": 76,
           "fg": 32,
-          "tp": 61,
+          "tp": 53,
           "blk": 59,
           "stl": 75,
           "drb": 39,
           "pss": 24,
           "reb": 58,
-          "pot": 62,
+          "pot": 58,
           "skills": []
         }
       ],
@@ -19174,12 +19162,12 @@
           "dnk": 68,
           "ft": 74,
           "fg": 75,
-          "tp": 80,
+          "tp": 84,
           "blk": 26,
           "stl": 31,
           "drb": 45,
           "pss": 27,
-          "reb": 30,
+          "reb": 20,
           "pot": 55,
           "skills": []
         }
@@ -19206,15 +19194,15 @@
       "tid": 24,
       "ratings": [
         {
-          "hgt": 34,
-          "stre": 36,
-          "spd": 75,
-          "jmp": 76,
+          "hgt": 36,
+          "stre": 38,
+          "spd": 77,
+          "jmp": 79,
           "endu": 69,
           "ins": 52,
-          "dnk": 83,
+          "dnk": 87,
           "ft": 79,
-          "fg": 79,
+          "fg": 83,
           "tp": 74,
           "blk": 14,
           "stl": 59,
@@ -19222,7 +19210,7 @@
           "pss": 50,
           "reb": 28,
           "pot": 67,
-          "skills": []
+          "skills": ["3"]
         }
       ],
       "pos": "G",
@@ -19413,15 +19401,15 @@
       "tid": 24,
       "ratings": [
         {
-          "hgt": 32,
-          "stre": 42,
+          "hgt": 36,
+          "stre": 46,
           "spd": 85,
           "jmp": 72,
           "endu": 65,
           "ins": 86,
           "dnk": 90,
           "ft": 88,
-          "fg": 74,
+          "fg": 84,
           "tp": 83,
           "blk": 20,
           "stl": 58,
@@ -19746,14 +19734,14 @@
         {
           "hgt": 71,
           "stre": 42,
-          "spd": 71,
+          "spd": 61,
           "jmp": 67,
           "endu": 41,
-          "ins": 48,
+          "ins": 38,
           "dnk": 55,
           "ft": 81,
           "fg": 40,
-          "tp": 70,
+          "tp": 60,
           "blk": 32,
           "stl": 63,
           "drb": 52,
@@ -23586,7 +23574,7 @@
       "tid": 5,
       "ratings": [
         {
-          "hgt": 79,
+          "hgt": 95,
           "stre": 80,
           "spd": 32,
           "jmp": 55,
@@ -31527,7 +31515,7 @@
       "pos": "SG",
       "hgt": 77,"weight": 209,
       "born": {
-        "year": 1985
+        "year": 1985,"loc": "Homer, LA"
       },
       "name": "Von Wafer",
       "imgURL": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2793.png&w=350&h=254",
@@ -31693,7 +31681,7 @@
       "pos": "GF",
       "hgt": 78,"weight": 225,
       "born": {
-        "year": 1980
+        "year": 1980,"loc": "Washington, NC"
       },
       "name": "Damien Wilkins",
       "imgURL": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2506.png",
@@ -32030,7 +32018,7 @@
       "pos": "G",
       "hgt": 74,"weight": 205,
       "born": {
-        "year": 1981	
+        "year": 1981,"loc": "Las Vegas, NV"
       },
       "name": "Marcus Banks",
       "imgURL": "http://www.sluc-basket.fr/wp/wp-content/uploads/2013/11/i.png",
@@ -33066,7 +33054,7 @@
       "pos": "PG",
       "hgt": 75,"weight": 197,
       "born": {
-        "year": 1978	
+        "year": 1978,"loc": "Brooklyn, NY"
       },
       "name": "Jamaal Tinsley",
       "imgURL": "http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1024.png",
@@ -34118,7 +34106,7 @@
 "ratings":[
 {
 "hgt":93,
-"stre":44,
+"stre":48,
 "spd":35,
 "jmp":55,
 "endu":42,
@@ -34180,6 +34168,12 @@
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2016,"loc":""},
 "injury":{"type":"Healthy","gamesRemaining":0}
 },
+{"tid":-4,
+"name":"Dejounte Murray",
+"pos":"G","hgt":77,"weight":170,
+"imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/recruiting/ncb/players/full/172533.png&w=350&h=254",
+"born":{"year":1996,"loc":"Seattle, WA"},"contract":{"amount":"","exp":""},"draft":{"round":"","pick":"","tid":"","originalTid":"","year":"2016","loc":""},
+"ratings":[{"hgt":47,"stre":23,"spd":83,"jmp":66,"endu":53,"ins":22,"dnk":71,"ft":56,"fg":54,"tp":32,"blk":23,"stl":45,"drb":64,"pss":64,"reb":43,"pot":62}],"skills":[]},
 {
 "tid":-4,
 "ratings":[
@@ -34221,12 +34215,7 @@
 "imgURL":"http://content.draftexpress.com/headshots/sviatoslavmykhailiuk.jpg",
 "born":{"year":1997,"loc":"Cherkasy, Ukraine"},"contract":{"amount":"","exp":""},"draft":{"round":"","pick":"","tid":"","originalTid":"","year":"2016","loc":""},
 "ratings":[{"hgt":52,"stre":34,"spd":76,"jmp":56,"endu":45,"ins":33,"dnk":32,"ft":73,"fg":65,"tp":55,"blk":21,"stl":55,"drb":53,"pss":54,"reb":34,"pot":55}],"skills":[]},
-{"tid":-2,
-"name":"Dejounte Murray",
-"pos":"G","hgt":77,"weight":170,
-"imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/recruiting/ncb/players/full/172533.png&w=350&h=254",
-"born":{"year":1996,"loc":"Seattle, WA"},"contract":{"amount":"","exp":""},"draft":{"round":"","pick":"","tid":"","originalTid":"","year":"2016","loc":""},
-"ratings":[{"hgt":47,"stre":23,"spd":83,"jmp":66,"endu":53,"ins":22,"dnk":71,"ft":56,"fg":54,"tp":32,"blk":23,"stl":45,"drb":64,"pss":64,"reb":43,"pot":62}],"skills":[]},
+
 {"tid":-2,
 "name":"Jamal Murray",
 "pos":"G","hgt":76,"weight":205,
@@ -34646,9 +34635,9 @@
 "tid":-2,
 "ratings":[
 {
-"hgt":79,
-"stre":37,
-"spd":11,
+"hgt":86,
+"stre":57,
+"spd":21,
 "jmp":25,
 "endu":46,
 "ins":58,
@@ -34667,19 +34656,12 @@
 ],
 "name":"Moussa Diagne",
 "pos":"C",
-"hgt":83,
-"weight":225,
+"hgt":83,"weight":225,
 "born":{"year":1994,"loc":"Guediawaye, Senegal"},
-"imgURL":"http://www.eurohopes.com/img/med/CARA_MOUSSA.jpg",
-"contract":{
-"amount":500,
-"exp":2015
-},
+"imgURL":"http://i.imgur.com/ak6rYDk.png",
+"contract":{"amount":500,"exp":2017},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2016,"loc":""},
-"injury":{
-"type":"Healthy",
-"gamesRemaining":0
-}
+"injury":{"type":"Healthy","gamesRemaining":0}
 },
 {
 "tid":-2,
