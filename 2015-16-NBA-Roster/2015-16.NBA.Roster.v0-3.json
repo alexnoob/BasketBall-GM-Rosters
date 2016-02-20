@@ -1026,7 +1026,7 @@
 "imgURL": "http://stats.nba.com/media/players/230x185/203952.png",
 "contract": {"amount": 4936,"exp": 2018},
 "draft": {"round": 1,"pick": 1,"tid": 5,"originalTid": -1,"year": 2014,"loc": "USA"},
-"ratings": [{"hgt": 66,"stre": 52,"spd": 81"jmp": 90,"endu": 72,"ins": 72,"dnk": 75,"ft": 68,"fg": 79,"tp": 70,"blk": 40,"stl": 42,"drb": 48,"pss": 36,"reb": 48,"pot": 85,"skills": ["A"]}],
+"ratings": [{"hgt": 66,"stre": 52,"spd": 81,"jmp": 90,"endu": 72,"ins": 72,"dnk": 75,"ft": 68,"fg": 79,"tp": 70,"blk": 40,"stl": 42,"drb": 48,"pss": 36,"reb": 48,"pot": 85,"skills": ["A"]}],
 "awards": [{"season": 2015,"type": "Rookie of the Year"}],
 "injury": {"type": "Healthy","gamesRemaining": 0}},
 {"tid": -1,
