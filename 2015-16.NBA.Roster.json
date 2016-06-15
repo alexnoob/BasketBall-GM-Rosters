@@ -6071,7 +6071,7 @@
 "name":"Josh Childress",
 "ratings":[{"hgt":53,"stre":25,"spd":55,"jmp":56,"endu":48,"ins":58,"dnk":51,"ft":62,"fg":37,"tp":46,"blk":26,"stl":49,"drb":40,"pss":25,"reb":37,"pot":36,"skills":[]}],
 "pos":"SF","hgt":80,"weight":210,
-"born":{"year":1983},
+"born":{"year":1983,"loc":"Harbor City, CA"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2373.png&w=350&h=254",
 "contract":{"amount":500,"exp":2015},
 "draft":{"round":1,"pick":6,"tid":0,"originalTid":0,"year":2004,"loc":"Harbor City, CA"},
