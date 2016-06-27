@@ -1,4 +1,4 @@
-{"startingSeason":2017,
+{"startingSeason":2016,
  "players":[
 {"tid":15,
 "name":"Chris Bosh",
@@ -989,7 +989,7 @@
 "contract":{"amount":3238,"exp":2018},
 "draft":{"round":1,"pick":5,"tid":28,"originalTid":-1,"year":2014},
 "college":"Lake Ginninderra (AUS)",
-"injury":{"type":"Torn left ACL","gamesRemaining":100}},
+"injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":13,
 "name":"Julius Randle",
@@ -1011,7 +1011,7 @@
 "contract":{"amount":3600,"exp":2017},
 "draft":{"round":1,"pick":3,"tid":22,"originalTid":-1,"year":2014},
 "college":"Kansas",
-"injury":{"type":"Foot stress fracture","gamesRemaining":100}},
+"injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":16,
 "name":"Jabari Parker",
@@ -1318,7 +1318,7 @@
 "college":"LSU",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":0,
 "name":"Kris Humphries",
 "ratings":[{"hgt":73,"stre":82,"spd":35,"jmp":56,"endu":58,"ins":60,"dnk":59,"ft":61,"fg":62,"tp":45,"blk":59,"stl":26,"drb":21,"pss":27,"reb":77,"pot":52,"skills":[]}],
 "pos":"PF","hgt":81,"weight":235,
@@ -2084,6 +2084,7 @@
 "imgURL":"http://i.imgur.com/tY2IMP3.png",
 "contract":{"amount":500,"exp":2016},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2014},
+"college":"Gonzaga",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":6,
@@ -2105,6 +2106,7 @@
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/991.png",
 "contract":{"amount":1000,"exp":2016},
 "draft":{"round":1,"pick":26,"tid":22,"originalTid":22,"year":2001},
+"college":"Seton Hall",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":6,
@@ -2150,6 +2152,7 @@
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6611.png",
 "contract":{"amount":915,"exp":2015},
 "draft":{"round":2,"pick":8,"tid":7,"originalTid":7,"year":2012},
+"college":"Baylor",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":7,
@@ -2363,7 +2366,7 @@
 
 {"tid":8,
 "name":"Andre Drummond",
-"ratings":[{"hgt":96,"stre":90,"spd":59,"jmp":97,"endu":80,"ins":91,"dnk":88,"ft":0,"fg":37,"tp":0,"blk":41,"stl":63,"drb":24,"pss":24,"reb":99,"pot":83,"skills":["Di","A","R"]}],
+"ratings":[{"hgt":96,"stre":90,"spd":59,"jmp":97,"endu":80,"ins":91,"dnk":88,"ft":0,"fg":37,"tp":0,"blk":36,"stl":63,"drb":24,"pss":24,"reb":99,"pot":83,"skills":["Di","A","R"]}],
 "pos":"FC","hgt":84,"weight":270,
 "born":{"year":1993,"loc":"Mount Vernon, NY"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6585.png",
@@ -2424,6 +2427,7 @@
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2585629.png&w=350&h=254",
 "contract":{"amount":1750,"exp":2015},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2010},
+"college":"Italy",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":21,
@@ -3318,18 +3322,6 @@
 "college":"Spain",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":13,
-"name":"Kobe Bryant",
-"ratings":[{"hgt":56,"stre":49,"spd":70,"jmp":67,"endu":60,"ins":50,"dnk":75,"ft":63,"fg":69,"tp":55,"blk":30,"stl":60,"drb":78,"pss":61,"reb":31,"pot":68,"skills":[]}],
-"awards":[{"season":2008,"type":"Most Valuable Player"}],
-"pos":"SG","hgt":78,"weight":205,
-"born":{"year":1978,"loc":"Philadelphia, PA"},
-"imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/110.png",
-"contract":{"amount":21428,"exp":2016},
-"draft":{"round":1,"pick":13,"tid":3,"originalTid":3,"year":1996},
-"college":"Lower Merion HS (PA)",
-"injury":{"type":"Healthy","gamesRemaining":0}},
-
 {"tid":23,
 "name":"Devin Booker",
 "pos":"SG","hgt":78,"weight":205,
@@ -3542,7 +3534,7 @@
 
 {"tid":-1,
 "name":"Mario Chalmers",
-"ratings":[{"hgt":27,"stre":28,"spd":76,"jmp":57,"endu":74,"ins":58,"dnk":72,"ft":75,"fg":70,"tp":73,"blk":15,"stl":85,"drb":71,"pss":58,"reb":14,"pot":57,"skills":[]}],
+"ratings":[{"hgt":27,"stre":28,"spd":70,"jmp":53,"endu":67,"ins":38,"dnk":66,"ft":75,"fg":70,"tp":73,"blk":15,"stl":85,"drb":71,"pss":58,"reb":14,"pot":55,"skills":[]}],
 "pos":"PG","hgt":74,"weight":190,
 "born":{"year":1986,"loc":"Anchorage, Alaska"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3419.png",
@@ -3791,19 +3783,20 @@
 "college":"Argentina",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
-"name":"Luke Ridnour",
-"ratings":[{"hgt":20,"stre":10,"spd":60,"jmp":30,"endu":51,"ins":40,"dnk":38,"ft":90,"fg":50,"tp":63,"blk":0,"stl":65,"drb":77,"pss":79,"reb":15,"pot":43,"skills":[]}],
-"pos":"PG","hgt":74,"weight":175,
-"born":{"year":1981,"loc":"Coeur d'Alene, ID"},
-"imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1985.png",
+{"tid":-2,
+"name":"Dennis Smith",
+"ratings":[{"hgt":21,"stre":20,"spd":80,"jmp":75,"endu":51,"ins":20,"dnk":68,"ft":70,"fg":60,"tp":63,"blk":0,"stl":75,"drb":77,"pss":79,"reb":15,"pot":71,"skills":[]}],
+"pos":"PG","hgt":74,"weight":180,
+"born":{"year":1997,"loc":"Fayetteville, NC"},
+"imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/recruiting/ncb/players/full/175957.png&w=350&h=254",
 "contract":{"amount":2750,"exp":2016},
-"draft":{"round":1,"pick":14,"tid":20,"originalTid":20,"year":2003},
-"injury":{"type":"Sit out the 2015-16 season","gamesRemaining":100}},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2017},
+"college":"NC State",
+"injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":25,
 "name":"Caron Butler",
-"ratings":[{"hgt":58,"stre":36,"spd":58,"jmp":51,"endu":52,"ins":52,"dnk":48,"ft":77,"fg":74,"tp":70,"blk":20,"stl":58,"drb":55,"pss":40,"reb":31,"pot":55,"skills":["3"]}],
+"ratings":[{"hgt":58,"stre":36,"spd":58,"jmp":51,"endu":52,"ins":52,"dnk":48,"ft":77,"fg":74,"tp":70,"blk":20,"stl":58,"drb":55,"pss":40,"reb":31,"pot":49,"skills":["3"]}],
 "pos":"SF","hgt":79,"weight":228,
 "born":{"year":1980,"loc":"Pittsfield, ME"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1705.png",
@@ -4246,7 +4239,7 @@
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2987.png",
 "contract":{"amount":1170,"exp":2016},
 "draft":{"round":1,"pick":1,"tid":27,"originalTid":27,"year":2006},
-"ratings":[{"hgt":92,"stre":28,"spd":53,"jmp":42,"endu":62,"ins":50,"dnk":66,"ft":82,"fg":59,"tp":63,"blk":33,"stl":22,"drb":37,"pss":37,"reb":24,"pot":52,"skills":[]}],
+"ratings":[{"hgt":92,"stre":28,"spd":53,"jmp":32,"endu":42,"ins":40,"dnk":66,"ft":82,"fg":59,"tp":63,"blk":33,"stl":22,"drb":37,"pss":35,"reb":24,"pot":52,"skills":[]}],
 "college":"Italy",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
@@ -4280,6 +4273,7 @@
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2448.png",
 "contract":{"amount":1870,"exp":2016},
 "draft":{"round":1,"pick":28,"tid":26,"originalTid":26,"year":2004},
+"college":"Slovenia",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":19,
@@ -4335,6 +4329,7 @@
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6476.png&w=350&h=254",
 "contract":{"amount":884.293,"exp":2016},
 "draft":{"round":2,"pick":9,"tid":3,"originalTid":3,"year":2011},
+"college":"San Diego HS (CA)",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":20,
@@ -4367,6 +4362,7 @@
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6598.png",
 "contract":{"amount":1750,"exp":2016},
 "draft":{"round":1,"pick":28,"tid":20,"originalTid":20,"year":2012},
+"college":"Baylor",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":3,
@@ -5173,7 +5169,7 @@
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/1626219.png?interpolation=lanczos-none&resize=250:*",
 "contract":{"amount":884.293,"exp":2015},
 "draft":{"round":0,"pick":0,"tid":0,"originalTid":-1,"year":2015},
-"college":"Dayton - West Virginia",
+"college":"West Virginia",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":25,
@@ -5626,14 +5622,14 @@
 
 {"tid":16,
 "name":"Greivis Vasquez",
-"ratings":[{"hgt":49,"stre":30,"spd":63,"jmp":55,"endu":58,"ins":20,"dnk":66,"ft":77,"fg":65,"tp":59,"blk":16,"stl":40,"drb":65,"pss":75,"reb":25,"pot":55,"skills":[]}],
+"ratings":[{"hgt":49,"stre":30,"spd":63,"jmp":55,"endu":58,"ins":20,"dnk":66,"ft":77,"fg":65,"tp":59,"blk":16,"stl":40,"drb":65,"pss":75,"reb":25,"pot":54,"skills":[]}],
 "pos":"PG","hgt":78,"weight":211,
 "born":{"year":1987,"loc":"Caracas, Venezuela"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4291.png",
 "contract":{"amount":5657,"exp":2016},
 "draft":{"round":1,"pick":28,"tid":14,"originalTid":-1,"year":2010},
 "college":"Maryland",
-"injury":{"type":"Bone spur surgery","gamesRemaining":60}},
+"injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
 "name":"Chuck Hayes",
@@ -8007,7 +8003,7 @@
 
 {"tid":16,
 "name":"Thon Maker",
-"ratings":[{"hgt":93,"stre":31,"spd":56,"jmp":66,"endu":31,"ins":47,"dnk":39,"ft":40,"fg":28,"tp":0,"blk":50,"stl":34,"drb":10,"pss":29,"reb":59,"pot":57,"skills":[]}],
+"ratings":[{"hgt":93,"stre":31,"spd":56,"jmp":66,"endu":31,"ins":47,"dnk":39,"ft":40,"fg":28,"tp":0,"blk":50,"stl":34,"drb":10,"pss":29,"reb":59,"pot":63,"skills":[]}],
 "pos":"FC","hgt":85,"weight":220,
 "born":{"year":1997,"loc":"Sydney, Australia"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/recruiting/ncb/players/full/172416.png&w=350&h=254",
@@ -8329,7 +8325,7 @@
 "born":{"year":1988,"loc":"Bronx, NY"},
 "imgURL":"http://tof.canardpc.com/view/f529d855-75cd-486b-ba59-25a3ddc835cd.jpg",
 "contract":{"amount":500,"exp":2016},
-"draft":{"round":-1,"pick":-2,"tid":-1,"originalTid":-1,"year":2011},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2011},
 "college":"Boston University",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
@@ -8456,12 +8452,12 @@
 
 {"tid":23,
 "name":"Marquese Chriss",
-"ratings":[{"hgt":71,"stre":63,"spd":58,"jmp":66,"endu":49,"ins":80,"dnk":60,"ft":43,"fg":60,"tp":0,"blk":38,"stl":26,"drb":14,"pss":19,"reb":71,"pot":57,"skills":[]}],
+"ratings":[{"hgt":71,"stre":63,"spd":58,"jmp":66,"endu":49,"ins":80,"dnk":60,"ft":43,"fg":60,"tp":0,"blk":38,"stl":26,"drb":14,"pss":19,"reb":71,"pot":59,"skills":[]}],
 "pos":"PF","hgt":81,"weight":235,
 "born":{"year":1997,"loc":"Sacramento, CA"},
 "imgURL":"http://image.cdnllnwnl.xosnetwork.com/pics33/400/VT/VTJLIWNBOJINSZA.20150629035322.jpg",
 "contract":{"amount":2368,"exp":2016},
-"draft":{"round":1,"pick":1,"tid":25,"originalTid":25,"year":2016},
+"draft":{"round":1,"pick":8,"tid":25,"originalTid":25,"year":2016},
 "college":"Washington",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
@@ -8478,7 +8474,7 @@
 
 {"tid":-1,
 "name":"Drew Gordon",
-"ratings":[{"hgt":66,"stre":72,"spd":26,"jmp":44,"endu":42,"ins":53,"dnk":64,"ft":64,"fg":69,"tp":0,"blk":29,"stl":28,"drb":16,"pss":41,"reb":75,"pot":57,"skills":[]}],
+"ratings":[{"hgt":66,"stre":72,"spd":33,"jmp":52,"endu":42,"ins":53,"dnk":64,"ft":64,"fg":69,"tp":0,"blk":29,"stl":28,"drb":16,"pss":41,"reb":75,"pot":52,"skills":[]}],
 "pos":"PF","hgt":81,"weight":245,
 "born":{"year":1990,"loc":"San Jose, CA"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1711.png",
@@ -8814,7 +8810,7 @@
 "contract":{"amount":3819,"exp":2020},
 "draft":{"round":1,"pick":3,"tid":1,"originalTid":1,"year":2016},
 "college":"California",
-"ratings":[{"hgt":54,"stre":48,"spd":76,"jmp":60,"endu":46,"ins":43,"dnk":63,"ft":88,"fg":70,"tp":70,"blk":12,"stl":23,"drb":60,"pss":52,"reb":14,"pot":71,"skills":["3"]}],
+"ratings":[{"hgt":54,"stre":48,"spd":86,"jmp":85,"endu":62,"ins":33,"dnk":69,"ft":78,"fg":55,"tp":30,"blk":12,"stl":23,"drb":60,"pss":52,"reb":14,"pot":71,"skills":["3"]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-2,
@@ -8966,7 +8962,7 @@
 "imgURL":"http://i.cdn.turner.com/nba/nba/.element/img/3.0/sect/draft/2016/prospects/murray_jamal.jpg",
 "born":{"year":1997,"loc":"Kitchner, Canada"},"contract":{"amount":"2585","exp":"2020"},"draft":{"round":"1","pick":"7","tid":"7","originalTid":"7","year":"2016"},
 "college":"Kentucky",
-"ratings":[{"hgt":47,"stre":43,"spd":73,"jmp":56,"endu":43,"ins":32,"dnk":64,"ft":56,"fg":54,"tp":43,"blk":23,"stl":45,"drb":74,"pss":64,"reb":43,"pot":59}],"skills":[]},
+"ratings":[{"hgt":47,"stre":43,"spd":73,"jmp":56,"endu":43,"ins":32,"dnk":64,"ft":56,"fg":54,"tp":43,"blk":23,"stl":45,"drb":74,"pss":64,"reb":43,"pot":62}],"skills":[]},
 
 {"tid":23,
 "name":"Dragan Bender",
@@ -8983,7 +8979,7 @@
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/recruiting/ncb/players/full/146796.png&w=350&h=254",
 "born":{"year":1997,"loc":"Kinston, NC"},"contract":{"amount":"4252","exp":"2020"},"draft":{"round":"1","pick":"2","tid":"13","originalTid":"13","year":"2016"},
 "college":"Duke",
-"ratings":[{"hgt":75,"stre":20,"spd":67,"jmp":78,"endu":54,"ins":46,"dnk":67,"ft":62,"fg":73,"tp":40,"blk":74,"stl":55,"drb":52,"pss":45,"reb":65,"pot":80}],"skills":[]},
+"ratings":[{"hgt":75,"stre":20,"spd":67,"jmp":78,"endu":54,"ins":46,"dnk":67,"ft":62,"fg":73,"tp":61,"blk":74,"stl":55,"drb":52,"pss":45,"reb":65,"pot":80}],"skills":[]},
 
 {"tid":17,
 "name":"Kris Dunn",
@@ -9059,7 +9055,7 @@
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/recruiting/ncb/players/full/162855.png&w=350&h=254",
 "born":{"year":1994,"loc":"Savannah, GA"},"contract":{"amount":"500","exp":"2016"},"draft":{"round":"0","pick":"0","tid":"-1","originalTid":"-1","year":"2016"},
 "college":"LSU",
-"ratings":[{"hgt":50,"stre":32,"spd":66,"jmp":44,"endu":34,"ins":44,"dnk":54,"ft":45,"fg":44,"tp":32,"blk":40,"stl":55,"drb":69,"pss":64,"reb":55,"pot":54}],"skills":[]},
+"ratings":[{"hgt":50,"stre":32,"spd":66,"jmp":44,"endu":34,"ins":14,"dnk":54,"ft":45,"fg":44,"tp":32,"blk":10,"stl":45,"drb":69,"pss":54,"reb":55,"pot":54}],"skills":[]},
 
 {"tid":27,
 "name":"Jakob Poeltl",
@@ -9497,14 +9493,8 @@
 "imgURL":"https://upload.wikimedia.org/wikipedia/fr/thumb/d/d6/Wizards2015.png/800px-Wizards2015.png"}],
 
 "gameAttributes": [
-    {
-      "key": "luxuryPayroll",
-      "value": 85000
-    },
-    {
-      "key": "luxuryTax",
-      "value": 1.5
-    },
+{"key": "luxuryPayroll","value": 85000},
+{"key": "luxuryTax","value": 1.5},
     {
       "key": "maxContract",
       "value": 23000
@@ -9520,8 +9510,23 @@
     {
       "key": "salaryCap",
       "value": 70000
+    },
+    {
+      "key": "phase",
+      "value": 8
+    },
+    {
+      "key": "phaseText",
+      "value": "2016 free agency"
+    },
+    {
+      "key": "statusText",
+      "value": "30 days left"
+    },
+    {
+      "key": "daysLeft",
+      "value": 30
     }
   ]
-
 
 }
