@@ -9677,6 +9677,8 @@
 {"tid":0,"originalTid":29,"round":2,"season":2019,"dpid":240,"abbrev":"ATL"}],
 
 
+"meta": {"phaseText": "2016 free agency"},
+  
 "gameAttributes": [
 {"key": "luxuryPayroll","value": 113000},
 {"key": "luxuryTax","value": 1.5},
