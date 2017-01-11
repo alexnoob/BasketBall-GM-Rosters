@@ -45,8 +45,8 @@
 "ratings":[{"hgt":31,"stre":48,"spd":65,"jmp":66,"endu":50,"ins":31,"dnk":30,"ft":53,"fg":61,"tp":0,"blk":12,"stl":26,"drb":52,"pss":52,"reb":21,"pot":52,"skills":[]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
-"name":"Walter Tavares",
+{"tid":13,
+"name":"Edy Tavares",
 "ratings":[{"hgt":99,"stre":44,"spd":35,"jmp":35,"endu":52,"ins":48,"dnk":45,"ft":53,"fg":30,"tp":0,"blk":73,"stl":16,"drb":12,"pss":12,"reb":64,"pot":56,"skills":[]}],
 "pos":"C","hgt":87,"weight":260,
 "born":{"year":1992,"loc":"Maio, Cape Verde"},
@@ -431,7 +431,7 @@
 "college":"Arizona",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":13,
 "name":"Bruno Caboclo",
 "ratings":[{"hgt":83,"stre":32,"spd":65,"jmp":42,"endu":50,"ins":28,"dnk":32,"ft":58,"fg":52,"tp":51,"blk":30,"stl":38,"drb":33,"pss":31,"reb":34,"pot":64,"skills":[]}],
 "pos":"F","hgt":81,"weight":205,
@@ -464,7 +464,7 @@
 "college":"Saint Joseph's",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":12,
 "name":"Josh Huestis",
 "pos":"F","hgt":79,"weight":230,
 "born":{"year":1991,"loc":"Webster, TX"},
@@ -934,7 +934,7 @@
 "awards":[{"season":2005,"type":"Sixth Man of the Year"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":12,
 "name":"Jannero Pargo",
 "ratings":[{"hgt":14,"stre":16,"spd":59,"jmp":39,"endu":42,"ins":21,"dnk":26,"ft":80,"fg":61,"tp":59,"blk":10,"stl":36,"drb":50,"pss":40,"reb":15,"pot":27,"skills":[]}],
 "pos":"PG","hgt":73,"weight":185,
@@ -1842,7 +1842,7 @@
 "college":"Syracuse",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":12,
 "name":"Xavier Henry",
 "ratings":[{"hgt":51,"stre":28,"spd":74,"jmp":66,"endu":51,"ins":52,"dnk":69,"ft":36,"fg":45,"tp":61,"blk":19,"stl":53,"drb":46,"pss":25,"reb":26,"pot":41,"skills":[]}],
 "pos":"GF","hgt":78,"weight":220,
@@ -3508,12 +3508,12 @@
 "college":"Latvia",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":13,
 "name":"C.J. Leslie",
 "ratings":[{"hgt":57,"stre":28,"spd":60,"jmp":67,"endu":55,"ins":43,"dnk":55,"ft":41,"fg":43,"tp":37,"blk":49,"stl":43,"drb":28,"pss":27,"reb":59,"pot":52,"skills":[]}],
 "pos":"PF","hgt":81,"weight":209,
 "born":{"year":1991,"loc":"Holly Springs, NC"},
-"imgURL":"http://roundballdirect.com/wp-content/uploads/2012/03/lesliecj.jpg",
+"imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/203466.png",
 "contract":{"amount":490.18,"exp":2017},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2013},
 "college":"North Carolina State",
@@ -3805,7 +3805,7 @@
 "college":"San Diego State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":12,
 "name":"Chris Wright",
 "ratings":[{"hgt":35,"stre":36,"spd":63,"jmp":67,"endu":50,"ins":33,"dnk":40,"ft":59,"fg":45,"tp":46,"blk":53,"stl":29,"drb":27,"pss":27,"reb":56,"pot":42,"skills":[]}],
 "pos":"SF","hgt":81,"weight":226,
@@ -4740,7 +4740,7 @@
 "college":"France",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":12,
 "name":"Reggie Williams",
 "ratings":[{"hgt":49,"stre":32,"spd":71,"jmp":45,"endu":50,"ins":54,"dnk":53,"ft":46,"fg":59,"tp":70,"blk":19,"stl":48,"drb":57,"pss":30,"reb":30,"pot":42,"skills":[]}],
 "pos":"GF","hgt":78,"weight":205,
@@ -5356,7 +5356,7 @@
 "college":"NC State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":12,
 "name":"Daniel Hamilton",
 "ratings":[{"hgt":57,"stre":29,"spd":63,"jmp":61,"endu":41,"ins":38,"dnk":57,"ft":25,"fg":45,"tp":60,"blk":28,"stl":30,"drb":37,"pss":34,"reb":25,"pot":49,"skills":[]}],
 "pos":"SG","hgt":79,"weight":197,
@@ -6041,11 +6041,11 @@
 "ratings":[{"hgt":56,"stre":30,"spd":55,"jmp":37,"endu":36,"ins":45,"dnk":41,"ft":50,"fg":59,"tp":70,"blk":29,"stl":48,"drb":52,"pss":48,"reb":29,"pot":49,"skills":[]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":12,
 "name":"Kaleb Tarczewski",
 "pos":"C","hgt":84,"weight":245,
 "born":{"year":1993,"loc":"Claremont, NH"},
-"imgURL":"http://image.cdnllnwnl.xosnetwork.com/pics33/400/WD/WDBUZLHOSQKJJKD.20130829165539.jpg",
+"imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/1627818.png",
 "contract":{"amount":"500","exp":"2017"},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2016},
 "college":"Arizona",
