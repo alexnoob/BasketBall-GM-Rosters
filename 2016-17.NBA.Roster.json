@@ -1046,6 +1046,7 @@
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2585616.png&w=350&h=254",
 "contract":{"amount":1200,"exp":2016},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2013},
+"college":"Macedonia",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
@@ -1055,6 +1056,7 @@
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6577.png&w=350&h=254",
 "contract":{"amount":2300,"exp":2016},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2013},
+"college":"Turkey",
 "ratings":[{"hgt":70,"stre":68,"spd":35,"jmp":35,"endu":57,"ins":36,"dnk":33,"ft":57,"fg":57,"tp":0,"blk":52,"stl":26,"drb":30,"pss":30,"reb":76,"pot":51,"skills":[]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
@@ -1107,8 +1109,9 @@
 "pos":"C","hgt":82,"weight":250,
 "born":{"year":1985,"loc":"Tepic, Mexico"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6546.png",
-"contract":{"amount":1500,"exp":2015},
+"contract":{"amount":1500,"exp":2017},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2011},
+"college":"San José State",
 "ratings":[{"hgt":70,"stre":65,"spd":33,"jmp":40,"endu":57,"ins":40,"dnk":60,"ft":27,"fg":57,"tp":0,"blk":55,"stl":28,"drb":22,"pss":27,"reb":58,"pot":46,"skills":[]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
@@ -1885,7 +1888,7 @@
 "college":"Duke",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":7,
 "name":"Alonzo Gee",
 "ratings":[{"hgt":52,"stre":42,"spd":59,"jmp":60,"endu":67,"ins":22,"dnk":42,"ft":70,"fg":45,"tp":54,"blk":23,"stl":68,"drb":46,"pss":31,"reb":33,"pot":50,"skills":[]}],
 "pos":"GF","hgt":78,"weight":225,
@@ -8908,7 +8911,7 @@
 "ratings":[{"hgt":28,"stre":32,"spd":64,"jmp":32,"endu":61,"ins":28,"dnk":32,"ft":66,"fg":63,"tp":66,"blk":14,"stl":34,"drb":38,"pss":33,"reb":25,"pot":51,"skills":[]}],
 "pos":"SG","hgt":77,"weight":205,
 "born":{"year":1994,"loc":"Bakersfield, CA"},
-"imgURL":"http://image.cdnllnwnl.xosnetwork.com/pics33/200/UB/UBPRXCDZZINQOBR.20141010014011.jpg",
+"imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/1627820.png",
 "contract":{"amount":500,"exp":2018},
 "draft":{"round":2,"pick":30,"tid":28,"originalTid":28,"year":2016},
 "college":"California",
