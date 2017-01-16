@@ -158,7 +158,7 @@
 
 {"tid":2,
 "name":"Sean Kilpatrick",
-"ratings":[{"hgt":36,"stre":50,"spd":68,"jmp":69,"endu":67,"ins":35,"dnk":65,"ft":58,"fg":70,"tp":63,"blk":12,"stl":46,"drb":35,"pss":32,"reb":31,"pot":56,"skills":[]}],
+"ratings":[{"hgt":36,"stre":50,"spd":68,"jmp":73,"endu":70,"ins":39,"dnk":72,"ft":75,"fg":75,"tp":73,"blk":12,"stl":46,"drb":35,"pss":32,"reb":31,"pot":56,"skills":[]}],
 "pos":"SG","hgt":76,"weight":219,
 "born":{"year":1990,"loc":"Yonkers, NY"},
 "imgURL":"http://stats.nba.com/media/players/230x185/203930.png",
@@ -1006,7 +1006,7 @@
 
 {"tid":22,
 "name":"Joel Embiid",
-"ratings":[{"hgt":93,"stre":75,"spd":54,"jmp":65,"endu":50,"ins":71,"dnk":76,"ft":59,"fg":60,"tp":35,"blk":79,"stl":23,"drb":41,"pss":30,"reb":80,"pot":75,"skills":["R"]}],
+"ratings":[{"hgt":93,"stre":75,"spd":54,"jmp":69,"endu":50,"ins":71,"dnk":76,"ft":59,"fg":60,"tp":35,"blk":79,"stl":23,"drb":41,"pss":30,"reb":80,"pot":75,"skills":["R"]}],
 "pos":"C","hgt":84,"weight":250,
 "born":{"year":1994,"loc":"Yaoundé, Cameroon"},
 "imgURL":"http://stats.nba.com/media/players/230x185/203954.png",
@@ -2524,6 +2524,7 @@
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2959736.png&w=350&h=254",
 "contract":{"amount":1104,"exp":2017},
 "draft":{"round":1,"pick":30,"tid":23,"originalTid":23,"year":2013},
+"college":"Serbia",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":24,
@@ -2739,7 +2740,7 @@
 
 {"tid":2,
 "name":"Jeremy Lin",
-"ratings":[{"hgt":26,"stre":20,"spd":73,"jmp":58,"endu":68,"ins":55,"dnk":75,"ft":75,"fg":70,"tp":70,"blk":20,"stl":68,"drb":70,"pss":63,"reb":28,"pot":59,"skills":["Ps"]}],
+"ratings":[{"hgt":26,"stre":20,"spd":73,"jmp":58,"endu":68,"ins":55,"dnk":75,"ft":75,"fg":70,"tp":70,"blk":20,"stl":68,"drb":75,"pss":69,"reb":28,"pot":59,"skills":[]}],
 "pos":"PG","hgt":75,"weight":200,
 "born":{"year":1988,"loc":"Palo Alto, CA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202391.png",
@@ -3683,7 +3684,7 @@
 
 {"tid":16,
 "name":"Giannis Antetokounmpo",
-"ratings":[{"hgt":90,"stre":67,"spd":67,"jmp":87,"endu":75,"ins":69,"dnk":86,"ft":60,"fg":59,"tp":56,"blk":55,"stl":62,"drb":69,"pss":70,"reb":62,"pot":83,"skills":[]}],
+"ratings":[{"hgt":90,"stre":67,"spd":70,"jmp":89,"endu":75,"ins":69,"dnk":86,"ft":60,"fg":59,"tp":56,"blk":55,"stl":62,"drb":69,"pss":70,"reb":62,"pot":83,"skills":[]}],
 "pos":"GF","hgt":81,"weight":222,
 "born":{"year":1994,"loc":"Athens, Greece"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3032977.png&w=350&h=254",
@@ -4841,7 +4842,7 @@
 
 {"tid":2,
 "name":"Justin Hamilton",
-"ratings":[{"hgt":90,"stre":55,"spd":31,"jmp":56,"endu":52,"ins":56,"dnk":52,"ft":43,"fg":55,"tp":8,"blk":59,"stl":18,"drb":16,"pss":19,"reb":71,"pot":43,"skills":[]}],
+"ratings":[{"hgt":90,"stre":62,"spd":31,"jmp":58,"endu":58,"ins":58,"dnk":56,"ft":43,"fg":55,"tp":58,"blk":59,"stl":18,"drb":16,"pss":19,"reb":71,"pot":52,"skills":[]}],
 "pos":"C","hgt":84,"weight":255,
 "born":{"year":1990,"loc":"Newport Beach, CA"},
 "imgURL":"http://stats.nba.com/media/players/230x185/203120.png",
@@ -5517,7 +5518,7 @@
 
 {"tid":27,
 "name":"Jonas Valanciunas",
-"ratings":[{"hgt":92,"stre":84,"spd":55,"jmp":50,"endu":70,"ins":90,"dnk":84,"ft":75,"fg":65,"tp":0,"blk":70,"stl":30,"drb":28,"pss":18,"reb":86,"pot":68,"skills":["R"]}],
+"ratings":[{"hgt":92,"stre":84,"spd":55,"jmp":50,"endu":70,"ins":90,"dnk":84,"ft":90,"fg":65,"tp":0,"blk":70,"stl":30,"drb":28,"pss":18,"reb":86,"pot":68,"skills":["R"]}],
 "pos":"C","hgt":83,"weight":255,
 "born":{"year":1992,"loc":"Utena, Lithuania"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6477.png",
@@ -6428,7 +6429,7 @@
 "ratings":[{"hgt":50,"stre":28,"spd":49,"jmp":43,"endu":52,"ins":36,"dnk":95,"ft":81,"fg":69,"tp":70,"blk":23,"stl":24,"drb":37,"pss":24,"reb":36,"pot":48,"skills":[]}],
 "pos":"SF","hgt":79,"weight":220,
 "born":{"year":1991,"loc":"Fort Wayne, IN"},
-"imgURL":"http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/draft2013/headshot/Thomas-Deshaun.jpg",
+"imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/203472.png",
 "contract":{"amount":490.18,"exp":2016},
 "draft":{"round":2,"pick":28,"tid":26,"originalTid":23,"year":2013},
 "college":"Ohio State",
@@ -6654,7 +6655,7 @@
 "college":"Duke",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":6,
 "name":"Pierre Jackson",
 "ratings":[{"hgt":10,"stre":3,"spd":88,"jmp":63,"endu":45,"ins":55,"dnk":60,"ft":77,"fg":59,"tp":68,"blk":4,"stl":55,"drb":71,"pss":57,"reb":14,"pot":55,"skills":[]}],
 "pos":"PG","hgt":70,"weight":176,
@@ -8501,7 +8502,7 @@
 
 {"tid":2,
 "name":"Joe Harris",
-"ratings":[{"hgt":36,"stre":13,"spd":51,"jmp":33,"endu":34,"ins":30,"dnk":63,"ft":74,"fg":53,"tp":70,"blk":14,"stl":51,"drb":55,"pss":29,"reb":18,"pot":26,"skills":[]}],
+"ratings":[{"hgt":36,"stre":19,"spd":59,"jmp":53,"endu":58,"ins":30,"dnk":63,"ft":45,"fg":53,"tp":73,"blk":14,"stl":51,"drb":55,"pss":26,"reb":48,"pot":26,"skills":[]}],
 "pos":"SG","hgt":78,"weight":219,
 "born":{"year":1991,"loc":"Chelan, WA"},
 "imgURL":"http://stats.nba.com/media/players/230x185/203925.png",
