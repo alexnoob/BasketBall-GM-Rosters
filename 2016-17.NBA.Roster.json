@@ -5359,7 +5359,7 @@
 "draft":{"round":1,"pick":23,"tid":24,"originalTid":24,"year":2003},
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":15,
+{"tid":-1,
 "name":"Derrick Williams",
 "ratings":[{"hgt":74,"stre":36,"spd":55,"jmp":67,"endu":61,"ins":50,"dnk":57,"ft":55,"fg":69,"tp":70,"blk":53,"stl":25,"drb":30,"pss":22,"reb":70,"pot":55,"skills":["A"]}],
 "pos":"PF","hgt":80,"weight":240,

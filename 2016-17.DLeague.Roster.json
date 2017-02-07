@@ -449,7 +449,7 @@
 "ratings":[{"hgt":77,"stre":66,"spd":53,"jmp":64,"endu":34,"ins":52,"dnk":57,"ft":58,"fg":40,"tp":4,"blk":72,"stl":29,"drb":25,"pss":35,"reb":56,"pot":56,"skills":[]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":3,
+{"tid":8,
 "name":"Cliff Alexander",
 "ratings":[{"hgt":78,"stre":72,"spd":38,"jmp":56,"endu":47,"ins":58,"dnk":36,"ft":56,"fg":39,"tp":6,"blk":63,"stl":24,"drb":20,"pss":22,"reb":74,"pot":53,"skills":[]}],
 "pos":"PF","hgt":81,"weight":240,
@@ -602,7 +602,7 @@
 "ratings":[{"hgt":64,"stre":62,"spd":38,"jmp":59,"endu":51,"ins":70,"dnk":72,"ft":62,"fg":60,"tp":55,"blk":43,"stl":30,"drb":30,"pss":24,"reb":62,"pot":52,"skills":[]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":20,
 "name":"John Jenkins",
 "pos":"SG","hgt":76,"weight":215,
 "born":{"year":1991,"loc":"Hendersonville, TN"},
@@ -1708,7 +1708,7 @@
 "ratings":[{"hgt":78,"stre":72,"spd":42,"jmp":59,"endu":41,"ins":35,"dnk":38,"ft":61,"fg":40,"tp":0,"blk":77,"stl":43,"drb":16,"pss":12,"reb":63,"pot":41,"skills":["Di","A"]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":19,
+{"tid":14,
 "name":"Gary Neal",
 "pos":"G","hgt":76,"weight":210,
 "born":{"year":1984,"loc":"Baltimore, MD"},
@@ -2795,15 +2795,15 @@
 "college":"Arizona",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
-"name":"Lucas Nogueira",
-"ratings":[{"hgt":92,"stre":40,"spd":44,"jmp":59,"endu":52,"ins":50,"dnk":44,"ft":34,"fg":30,"tp":0,"blk":71,"stl":30,"drb":10,"pss":13,"reb":70,"pot":60,"skills":[]}],
-"pos":"C","hgt":83,"weight":215,
-"born":{"year":1992,"loc":"Sao Goncalo, Brazil"},
-"imgURL":"http://stats.nba.com/media/players/230x185/203512.png",
-"contract":{"amount":1580,"exp":2017},
+{"tid":17,
+"name":"Dennis Clifford",
+"ratings":[{"hgt":95,"stre":70,"spd":44,"jmp":59,"endu":52,"ins":50,"dnk":44,"ft":34,"fg":30,"tp":0,"blk":71,"stl":30,"drb":10,"pss":13,"reb":70,"pot":49,"skills":[]}],
+"pos":"C","hgt":85,"weight":260,
+"born":{"year":1992,"loc":"Bridgewater, MA"},
+"imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/1627990.png",
+"contract":{"amount":150,"exp":2017},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2016},
-"college":"Brazil",
+"college":"Boston College",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":13,
@@ -4632,7 +4632,7 @@
 "college":"Croatia",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":2,
+{"tid":6,
 "name":"Cat Barber",
 "ratings":[{"hgt":21,"stre":26,"spd":68,"jmp":62,"endu":55,"ins":18,"dnk":58,"ft":46,"fg":63,"tp":49,"blk":25,"stl":35,"drb":72,"pss":68,"reb":22,"pot":52,"skills":[]}],
 "pos":"PG","hgt":74,"weight":185,
@@ -4863,7 +4863,7 @@
 "college":"Ohio State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":6,
+{"tid":2,
 "name":"Aaron Harrison",
 "ratings":[{"hgt":42,"stre":36,"spd":79,"jmp":57,"endu":28,"ins":0,"dnk":43,"ft":75,"fg":53,"tp":70,"blk":11,"stl":32,"drb":72,"pss":74,"reb":10,"pot":55,"skills":[]}],
 "pos":"SG","hgt":78,"weight":210,
