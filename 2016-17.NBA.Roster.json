@@ -918,7 +918,7 @@
 
 {"tid":24,
 "name":"Jusuf Nurkic",
-"ratings":[{"hgt":88,"stre":85,"spd":43,"jmp":35,"endu":55,"ins":75,"dnk":72,"ft":72,"fg":65,"tp":0,"blk":73,"stl":61,"drb":32,"pss":46,"reb":83,"pot":66,"skills":["R"]}],
+"ratings":[{"hgt":88,"stre":85,"spd":54,"jmp":49,"endu":63,"ins":79,"dnk":77,"ft":20,"fg":66,"tp":0,"blk":73,"stl":61,"drb":32,"pss":46,"reb":83,"pot":66,"skills":["R"]}],
 "pos":"C","hgt":84,"weight":280,
 "born":{"year":1994,"loc":"Tuzla, Republic of Bosnia and Herzegovina"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3102530.png&w=350&h=254",
@@ -4566,7 +4566,7 @@
 
 {"tid":24,
 "name":"Maurice Harkless",
-"ratings":[{"hgt":65,"stre":30,"spd":70,"jmp":70,"endu":62,"ins":64,"dnk":68,"ft":76,"fg":22,"tp":63,"blk":59,"stl":75,"drb":39,"pss":24,"reb":58,"pot":58,"skills":[]}],
+"ratings":[{"hgt":65,"stre":30,"spd":70,"jmp":70,"endu":62,"ins":64,"dnk":68,"ft":76,"fg":22,"tp":69,"blk":59,"stl":75,"drb":39,"pss":24,"reb":52,"pot":58,"skills":[]}],
 "pos":"SF","hgt":80,"weight":220,
 "born":{"year":1993,"loc":"South Kent, CT"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6591.png",
