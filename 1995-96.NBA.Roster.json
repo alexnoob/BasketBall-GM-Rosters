@@ -497,7 +497,7 @@
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-91Fr.jpg",
 "born":{"year":1965,"loc":"Beirut, Lebanon"},"contract":{"amount":"800","exp":"1998"},"draft":{"round":2,"pick":"25","tid":"20","originalTid":"20","year":"1988"},
 "college":"Arizona",
-"ratings":[{"hgt":30,"stre":37,"spd":56,"jmp":45,"endu":58,"ins":6,"dnk":45,"ft":82,"fg":84,"tp":90,"blk":32,"stl":56,"drb":71,"pss":73,"reb":34,"pot":57}],"skills":[]},
+"ratings":[{"hgt":30,"stre":37,"spd":59,"jmp":50,"endu":62,"ins":6,"dnk":48,"ft":82,"fg":84,"tp":90,"blk":32,"stl":56,"drb":76,"pss":73,"reb":34,"pot":56}],"skills":[]},
 
 {"tid":4,
 "name":"Terrell Brandon",
@@ -505,7 +505,7 @@
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-687736Fr.jpg",
 "born":{"year":1970,"loc":"Portland, OR"},"contract":{"amount":"1155","exp":"1999"},"draft":{"round":1,"pick":"11","tid":"4","originalTid":"4","year":"1991"},
 "college":"Oregon",
-"ratings":[{"hgt":6,"stre":35,"spd":83,"jmp":74,"endu":85,"ins":56,"dnk":86,"ft":95,"fg":85,"tp":72,"blk":37,"stl":56,"drb":85,"pss":78,"reb":33,"pot":66}],"skills":[]},
+"ratings":[{"hgt":6,"stre":35,"spd":83,"jmp":79,"endu":85,"ins":56,"dnk":86,"ft":95,"fg":85,"tp":72,"blk":37,"stl":70,"drb":90,"pss":86,"reb":39,"pot":66}],"skills":[]},
 
 {"tid":4,
 "name":"Dan Majerle",
@@ -521,7 +521,7 @@
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-687787Fr.jpg",
 "born":{"year":1970,"loc":"Los Angeles, CA"},"contract":{"amount":"1040","exp":"1997"},"draft":{"round":1,"pick":"22","tid":"4","originalTid":"4","year":"1993"},
 "college":"Arizona",
-"ratings":[{"hgt":54,"stre":56,"spd":72,"jmp":70,"endu":85,"ins":35,"dnk":65,"ft":75,"fg":64,"tp":68,"blk":46,"stl":57,"drb":38,"pss":49,"reb":64,"pot":59}],"skills":[]},
+"ratings":[{"hgt":54,"stre":60,"spd":76,"jmp":75,"endu":85,"ins":45,"dnk":75,"ft":75,"fg":74,"tp":74,"blk":46,"stl":57,"drb":38,"pss":49,"reb":64,"pot":59}],"skills":[]},
 
 {"tid":4,
 "name":"Bobby Phills",
@@ -529,7 +529,7 @@
 "imgURL":"http://www.cavshistory.com/images/players/Bobby_Phills.jpg",
 "born":{"year":1969,"loc":"Baton Rouge, LA"},"contract":{"amount":"1658","exp":"1997"},"draft":{"round":2,"pick":"18","tid":"14","originalTid":"14","year":"1991"},
 "college":"Southern",
-"ratings":[{"hgt":65,"stre":54,"spd":71,"jmp":73,"endu":85,"ins":44,"dnk":75,"ft":60,"fg":72,"tp":82,"blk":65,"stl":34,"drb":56,"pss":44,"reb":55,"pot":61}],"skills":[]},
+"ratings":[{"hgt":65,"stre":54,"spd":71,"jmp":73,"endu":85,"ins":44,"dnk":75,"ft":60,"fg":72,"tp":82,"blk":65,"stl":34,"drb":56,"pss":44,"reb":42,"pot":61}],"skills":[]},
 
 {"tid":4,
 "name":"John Amaechi",
@@ -541,7 +541,7 @@
 {"tid":4,
 "name":"Michael Cage",
 "pos":"FC","hgt":81,"weight":224,
-"imgURL":"http://www.chicagonow.com/lists-that-actually-matter/files/2011/07/michael_cage.jpg",
+"imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/25620/25620-3002579Fr.jpg",
 "born":{"year":1962,"loc":"West Memphis, AR"},"contract":{"amount":"2126","exp":"1996"},"draft":{"round":1,"pick":14,"tid":11,"originalTid":11,"year":1984},
 "college":"San Diego State",
 "ratings":[{"hgt":72,"stre":74,"spd":30,"jmp":72,"endu":63,"ins":64,"dnk":65,"ft":0,"fg":27,"tp":0,"blk":53,"stl":60,"drb":25,"pss":45,"reb":82,"pot":55}],"skills":[]},
@@ -559,7 +559,7 @@
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2227/2227-678684Bk.jpg",
 "born":{"year":1969,"loc":"Orange, NJ"},"contract":{"amount":"350","exp":"1996"},"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":"1991"},
 "college":"Virginia",
-"ratings":[{"hgt":15,"stre":40,"spd":52,"jmp":54,"endu":50,"ins":25,"dnk":54,"ft":85,"fg":49,"tp":64,"blk":38,"stl":57,"drb":76,"pss":69,"reb":34,"pot":53}],"skills":[]},
+"ratings":[{"hgt":15,"stre":40,"spd":56,"jmp":54,"endu":50,"ins":25,"dnk":54,"ft":85,"fg":49,"tp":64,"blk":38,"stl":57,"drb":86,"pss":79,"reb":34,"pot":53}],"skills":[]},
 
 {"tid":4,
 "name":"Danny Ferry",
@@ -670,7 +670,7 @@
 "name":"Loren Meyer",
 "pos":"FC","hgt":82,"weight":257,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-687969Fr.jpg",
-"born":{"year":1972,"loc":"Emmetsburg, IO"},"contract":{"amount":"556","exp":"1998"},"draft":{"round":1,"pick":"24","tid":"5","originalTid":"5","year":1995},
+"born":{"year":1972,"loc":"Emmetsburg, IO"},"contract":{"amount":"556","exp":"1998"},"draft":{"round":1,"pick":"24","tid":"5","originalTid":"17","year":1995},
 "college":"Iowa State",
 "ratings":[{"hgt":79,"stre":65,"spd":44,"jmp":55,"endu":49,"ins":65,"dnk":45,"ft":68,"fg":52,"tp":24,"blk":65,"stl":42,"drb":34,"pss":43,"reb":73,"pot":51}],"skills":[]},
 
@@ -833,7 +833,7 @@
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2172/2172-126Fr.jpg",
 "born":{"year":1970,"loc":"Philadelphia, PA"},"contract":{"amount":"950","exp":"1996"},"draft":{"round":1,"pick":"16","tid":"11","originalTid":"11","year":"1992"},
 "college":"La Salle",
-"ratings":[{"hgt":4,"stre":55,"spd":54,"jmp":54,"endu":34,"ins":23,"dnk":54,"ft":34,"fg":54,"tp":65,"blk":76,"stl":45,"drb":43,"pss":54,"reb":65,"pot":53}],"skills":[]},
+"ratings":[{"hgt":4,"stre":50,"spd":64,"jmp":58,"endu":34,"ins":23,"dnk":54,"ft":34,"fg":54,"tp":65,"blk":76,"stl":45,"drb":43,"pss":54,"reb":65,"pot":53}],"skills":[]},
 
 {"tid":7,
 "name":"Joe Dumars",
@@ -872,7 +872,7 @@
 "name":"Theo Ratliff",
 "pos":"FC","hgt":82,"weight":225,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-259Fr.jpg",
-"born":{"year":1973,"loc":"Demopolis, AL"},"contract":{"amount":"714","exp":"1998"},"draft":{"round":1,"pick":"18","tid":"7","originalTid":"7","year":1995},
+"born":{"year":1973,"loc":"Demopolis, AL"},"contract":{"amount":"714","exp":"1998"},"draft":{"round":1,"pick":"18","tid":"7","originalTid":"21","year":1995},
 "college":"Wyoming",
 "ratings":[{"hgt":82,"stre":75,"spd":65,"jmp":73,"endu":50,"ins":50,"dnk":44,"ft":55,"fg":26,"tp":0,"blk":86,"stl":53,"drb":24,"pss":54,"reb":73,"pot":57}],"skills":[]},
 
@@ -993,7 +993,7 @@
 "name":"Joe Smith",
 "pos":"PF","hgt":82,"weight":225,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2346/2346-684604Fr.jpg",
-"born":{"year":1975,"loc":"Norfolk, VA"},"contract":{"amount":"2473","exp":"1998"},"draft":{"round":1,"pick":1,"tid":"8","year":1995},
+"born":{"year":1975,"loc":"Norfolk, VA"},"contract":{"amount":"2473","exp":"1998"},"draft":{"round":1,"pick":1,"tid":"8","originalTid":"8","year":1995},
 "college":"Maryland",
 "ratings":[{"hgt":80,"stre":75,"spd":58,"jmp":67,"endu":72,"ins":75,"dnk":75,"ft":74,"fg":62,"tp":12,"blk":74,"stl":56,"drb":40,"pss":56,"reb":82,"pot":66}],"skills":[]},
 
@@ -1068,7 +1068,7 @@
 "born":{"year":1963,"loc":"Lagos, Nigeria"},"contract":{"amount":"5305","exp":"1997"},"draft":{"round":1,"pick":1,"tid":9,"originalTid":9,"year":1984},
 "college":"Houston",
 "awards":[{"season":1993,"type":"Defensive Player of the Year"},{"season":1994,"type":"Defensive Player of the Year"}],
-"ratings":[{"hgt":96,"stre":87,"spd":73,"jmp":87,"endu":94,"ins":96,"dnk":97,"ft":72,"fg":78,"tp":0,"blk":93,"stl":53,"drb":45,"pss":63,"reb":93,"pot":76}],"skills":[]},
+"ratings":[{"hgt":96,"stre":87,"spd":77,"jmp":87,"endu":94,"ins":96,"dnk":97,"ft":72,"fg":86,"tp":0,"blk":93,"stl":53,"drb":45,"pss":63,"reb":93,"pot":76}],"skills":[]},
 
 {"tid":9,
 "name":"Clyde Drexler",
@@ -1235,7 +1235,7 @@
 "name":"Travis Best",
 "pos":"PG","hgt":71,"weight":182,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-687989Fr.jpg",
-"born":{"year":1972,"loc":"Springfield, MA"},"contract":{"amount":"580","exp":"1998"},"draft":{"round":1,"pick":"23","tid":"10","year":1995},
+"born":{"year":1972,"loc":"Springfield, MA"},"contract":{"amount":"580","exp":"1998"},"draft":{"round":1,"pick":"23","tid":"10","originalTid":10,"year":1995},
 "college":"Georgia Tech",
 "ratings":[{"hgt":5,"stre":24,"spd":88,"jmp":69,"endu":63,"ins":24,"dnk":65,"ft":45,"fg":65,"tp":46,"blk":76,"stl":45,"drb":77,"pss":75,"reb":34,"pot":58}],"skills":[]},
 
@@ -1275,7 +1275,7 @@
 "name":"Fred Hoiberg",
 "pos":"SG","hgt":76,"weight":203,
 "imgURL":"http://a.espncdn.com/i/headshots/nba/players/65/339.jpg",
-"born":{"year":1972,"loc":"Lincoln, NE"},"contract":{"amount":"200","exp":"1996"},"draft":{"round":2,"pick":"23","tid":"10","year":1995},
+"born":{"year":1972,"loc":"Lincoln, NE"},"contract":{"amount":"200","exp":"1996"},"draft":{"round":2,"pick":"23","tid":"10","originalTid":10,"year":1995},
 "college":"Iowa State",
 "ratings":[{"hgt":35,"stre":34,"spd":62,"jmp":43,"endu":54,"ins":25,"dnk":45,"ft":85,"fg":82,"tp":80,"blk":34,"stl":66,"drb":50,"pss":51,"reb":34,"pot":56}],"skills":[]},
 
@@ -1332,7 +1332,7 @@
 "name":"Brent Barry",
 "pos":"SG","hgt":78,"weight":185,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-687999Fr.jpg",
-"born":{"year":1971,"loc":"Hempstead, NY"},"contract":{"amount":"833","exp":"1998"},"draft":{"round":1,"pick":"15","tid":"6","year":1995},
+"born":{"year":1971,"loc":"Hempstead, NY"},"contract":{"amount":"833","exp":"1998"},"draft":{"round":1,"pick":"15","tid":"6","originalTid":6,"year":1995},
 "college":"Oregon State",
 "ratings":[{"hgt":54,"stre":23,"spd":63,"jmp":85,"endu":60,"ins":35,"dnk":82,"ft":35,"fg":64,"tp":76,"blk":54,"stl":64,"drb":61,"pss":54,"reb":34,"pot":58}],"skills":[]},
 
@@ -1436,7 +1436,7 @@
 "name":"Frankie King",
 "pos":"G","hgt":73,"weight":185,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2410/2410-686688Fr.jpg",
-"born":{"year":1972,"loc":"Baxley, GA"},"contract":{"amount":"200","exp":"1996"},"draft":{"round":2,"pick":8,"tid":"12","year":1995},
+"born":{"year":1972,"loc":"Baxley, GA"},"contract":{"amount":"200","exp":"1996"},"draft":{"round":2,"pick":8,"tid":"12","originalTid":12,"year":1995},
 "college":"Western Carolina",
 "ratings":[{"hgt":14,"stre":33,"spd":62,"jmp":54,"endu":44,"ins":25,"dnk":45,"ft":65,"fg":45,"tp":64,"blk":45,"stl":34,"drb":54,"pss":65,"reb":45,"pot":56}],"skills":[]},
 
@@ -1511,7 +1511,7 @@
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-687907Fr.jpg",
 "born":{"year":1970,"loc":"Chesapeake, VA"},"contract":{"amount":"4560","exp":"1996"},"draft":{"round":1,"pick":2,"tid":"2","year":"1992"},
 "college":"Georgetown",
-"ratings":[{"hgt":88,"stre":86,"spd":58,"jmp":75,"endu":77,"ins":84,"dnk":85,"ft":76,"fg":54,"tp":0,"blk":91,"stl":54,"drb":46,"pss":32,"reb":87,"pot":88}],"skills":[]},
+"ratings":[{"hgt":88,"stre":86,"spd":65,"jmp":75,"endu":85,"ins":84,"dnk":85,"ft":76,"fg":54,"tp":0,"blk":91,"stl":54,"drb":46,"pss":32,"reb":87,"pot":88}],"skills":[]},
 
 {"tid":13,
 "name":"Billy Owens",
@@ -1525,9 +1525,9 @@
 "name":"Kurt Thomas",
 "pos":"PF","hgt":81,"weight":230,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-687944Fr.jpg",
-"born":{"year":1972,"loc":"Dallas, TX"},"contract":{"amount":"1071","exp":"1998"},"draft":{"round":1,"pick":10,"tid":"13","year":1995},
+"born":{"year":1972,"loc":"Dallas, TX"},"contract":{"amount":"1071","exp":"1998"},"draft":{"round":1,"pick":10,"tid":"13","originalTid":13,"year":1995},
 "college":"Texas Christian",
-"ratings":[{"hgt":75,"stre":68,"spd":55,"jmp":64,"endu":53,"ins":55,"dnk":65,"ft":45,"fg":35,"tp":0,"blk":65,"stl":45,"drb":39,"pss":44,"reb":73,"pot":59}],"skills":[]},
+"ratings":[{"hgt":75,"stre":68,"spd":55,"jmp":64,"endu":53,"ins":55,"dnk":65,"ft":45,"fg":35,"tp":0,"blk":65,"stl":45,"drb":39,"pss":42,"reb":73,"pot":59}],"skills":[]},
 
 {"tid":13,
 "name":"Rex Chapman",
@@ -1654,7 +1654,7 @@
 "name":"Shawn Respert",
 "pos":"SG","hgt":73,"weight":195,
 "imgURL":"http://25.media.tumblr.com/tumblr_m4ikziraJf1qa47iwo1_500.jpg",
-"born":{"year":1972,"loc":"Detroit, MI"},"contract":{"amount":"1232","exp":"1998"},"draft":{"round":1,"pick":8,"tid":"21","year":1995},
+"born":{"year":1972,"loc":"Detroit, MI"},"contract":{"amount":"1232","exp":"1998"},"draft":{"round":1,"pick":8,"tid":"21","originalTid":7,"year":1995},
 "college":"Michigan State",
 "ratings":[{"hgt":15,"stre":46,"spd":74,"jmp":64,"endu":57,"ins":36,"dnk":49,"ft":64,"fg":55,"tp":56,"blk":34,"stl":67,"drb":55,"pss":56,"reb":43,"pot":60}],"skills":[]},
 
@@ -1843,7 +1843,7 @@
 "born":{"year":1967,"loc":"Mobile, AL"},"contract":{"amount":"5476","exp":"1999"},"draft":{"round":1,"pick":1,"tid":"16","year":"1990"},
 "college":"Syracuse",
 "ratings":[{"hgt":80,"stre":73,"spd":56,"jmp":66,"endu":74,"ins":84,"dnk":82,"ft":64,"fg":72,"tp":32,"blk":67,"stl":54,"drb":34,"pss":54,"reb":83,"pot":73}],
-"injury":{"type":"Irregular heartbeat","gamesRemaining":20},
+"injury":{"type":"Irregular heartbeat and sprained right ankle","gamesRemaining":80},
 "awards":[{"season":1991,"type":"Rookie of the Year"}],"skills":[]},
 
 {"tid":16,
@@ -1868,7 +1868,7 @@
 "imgURL":"http://a.espncdn.com/i/headshots/nba/players/65/99.jpg",
 "born":{"year":1969,"loc":"Detroit, MI"},"contract":{"amount":"960","exp":"1996"},"draft":{"round":2,"pick":2,"tid":"16","year":"1992"},
 "college":"Louisiana Tech",
-"ratings":[{"hgt":86,"stre":74,"spd":50,"jmp":65,"endu":64,"ins":79,"dnk":65,"ft":34,"fg":51,"tp":5,"blk":70,"stl":55,"drb":45,"pss":34,"reb":78,"pot":59}],"skills":[]},
+"ratings":[{"hgt":86,"stre":74,"spd":50,"jmp":65,"endu":64,"ins":74,"dnk":62,"ft":34,"fg":41,"tp":5,"blk":70,"stl":55,"drb":45,"pss":34,"reb":78,"pot":59}],"skills":[]},
 
 {"tid":16,
 "name":"Chris Childs",
@@ -2187,7 +2187,7 @@
 "name":"Jerry Stackhouse",
 "pos":"GF","hgt":78,"weight":218,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-358Fr.jpg",
-"born":{"year":1974,"loc":"Kinston, NC"},"contract":{"amount":"1987","exp":"1998"},"draft":{"round":1,"pick":3,"tid":"19","year":1995},
+"born":{"year":1974,"loc":"Kinston, NC"},"contract":{"amount":"1987","exp":"1998"},"draft":{"round":1,"pick":3,"tid":"19","originalTid":19,"year":1995},
 "college":"North Carolina",
 "ratings":[{"hgt":53,"stre":46,"spd":83,"jmp":85,"endu":62,"ins":40,"dnk":85,"ft":78,"fg":84,"tp":65,"blk":32,"stl":70,"drb":60,"pss":62,"reb":32,"pot":66}],"skills":[]},
 
@@ -2283,7 +2283,7 @@
 "name":"Michael Finley",
 "pos":"GF","hgt":79,"weight":215,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-253Fr.jpg",
-"born":{"year":1973,"loc":"Melrose Park, IL"},"contract":{"amount":"628","exp":"1998"},"draft":{"round":1,"pick":"21","tid":"20","year":1995},
+"born":{"year":1973,"loc":"Melrose Park, IL"},"contract":{"amount":"628","exp":"1998"},"draft":{"round":1,"pick":"21","tid":"20","originalTid":12,"year":1995},
 "college":"Wisconsin",
 "ratings":[{"hgt":58,"stre":54,"spd":72,"jmp":74,"endu":72,"ins":40,"dnk":72,"ft":76,"fg":69,"tp":62,"blk":45,"stl":35,"drb":54,"pss":65,"reb":62,"pot":64}],"skills":[]},
 
@@ -2348,7 +2348,7 @@
 "name":"Chris Carr",
 "pos":"GF","hgt":77,"weight":207,
 "imgURL":"http://i.imgur.com/QtMCo4E.png",
-"born":{"year":1974,"loc":"Ironton, MO"},"contract":{"amount":"200","exp":"1996"},"draft":{"round":2,"pick":"27","tid":"20","year":1995},
+"born":{"year":1974,"loc":"Ironton, MO"},"contract":{"amount":"200","exp":"1996"},"draft":{"round":2,"pick":"27","tid":"20","originalTid":20,"year":1995},
 "college":"Southern Illinois",
 "ratings":[{"hgt":44,"stre":44,"spd":65,"jmp":87,"endu":48,"ins":24,"dnk":62,"ft":72,"fg":40,"tp":42,"blk":44,"stl":54,"drb":50,"pss":45,"reb":65,"pot":56}],"skills":[]},
 
@@ -2404,7 +2404,7 @@
 "name":"Gary Trent",
 "pos":"PF","hgt":80,"weight":250,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-687982Fr.jpg",
-"born":{"year":1974,"loc":"Columbus, OH"},"contract":{"amount":"1022","exp":"1998"},"draft":{"round":1,"pick":"11","tid":"14","year":1995},
+"born":{"year":1974,"loc":"Columbus, OH"},"contract":{"amount":"1022","exp":"1998"},"draft":{"round":1,"pick":"11","tid":"14","originalTid":14,"year":1995},
 "college":"Ohio",
 "ratings":[{"hgt":65,"stre":66,"spd":52,"jmp":52,"endu":57,"ins":66,"dnk":65,"ft":65,"fg":60,"tp":0,"blk":66,"stl":56,"drb":46,"pss":45,"reb":72,"pot":58}],"skills":[]},
 
@@ -2430,7 +2430,7 @@
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-98Fr.jpg",
 "born":{"year":1966,"loc":"Bronx, NY"},"contract":{"amount":"2280","exp":"1998"},"draft":{"round":1,"pick":"19","tid":"17","year":"1988"},
 "college":"DePaul",
-"ratings":[{"hgt":29,"stre":39,"spd":76,"jmp":68,"endu":73,"ins":31,"dnk":85,"ft":77,"fg":72,"tp":69,"blk":25,"stl":62,"drb":81,"pss":90,"reb":47,"pot":63}],"skills":[]},
+"ratings":[{"hgt":29,"stre":39,"spd":84,"jmp":74,"endu":86,"ins":31,"dnk":85,"ft":77,"fg":78,"tp":69,"blk":25,"stl":62,"drb":85,"pss":90,"reb":47,"pot":63}],"skills":[]},
 
 {"tid":21,
 "name":"Aaron McKie",
@@ -2444,7 +2444,7 @@
 "name":"Buck Williams",
 "pos":"PF","hgt":81,"weight":215,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-687924Fr.jpg",
-"born":{"year":1960,"loc":"Rocky Mount, NC"},"contract":{"amount":"3400","exp":"1996"},"draft":{"round":1,"pick":3,"tid":16,"year":1981},
+"born":{"year":1960,"loc":"Rocky Mount, NC"},"contract":{"amount":"3400","exp":"1996"},"draft":{"round":1,"pick":3,"tid":16,"originalTid":16,"year":1981},
 "college":"Maryland",
 "ratings":[{"hgt":72,"stre":82,"spd":45,"jmp":58,"endu":60,"ins":77,"dnk":75,"ft":85,"fg":45,"tp":0,"blk":67,"stl":52,"drb":30,"pss":30,"reb":87,"pot":57}],
 "awards":[{"season":1982,"type":"Rookie of the Year"}],"skills":[]},
@@ -2453,7 +2453,7 @@
 "name":"Randolph Childress",
 "pos":"PG","hgt":74,"weight":188,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-688005Fr.jpg",
-"born":{"year":1972,"loc":"Washington, DC"},"contract":{"amount":"682","exp":"1998"},"draft":{"round":1,"pick":"19","tid":"7","year":1995},
+"born":{"year":1972,"loc":"Washington, DC"},"contract":{"amount":"682","exp":"1998"},"draft":{"round":1,"pick":"19","tid":"7","originalTid":9,"year":1995},
 "college":"Wake Forest",
 "ratings":[{"hgt":20,"stre":34,"spd":65,"jmp":66,"endu":56,"ins":24,"dnk":53,"ft":84,"fg":65,"tp":52,"blk":27,"stl":45,"drb":76,"pss":68,"reb":21,"pot":55}],"skills":[]},
 
@@ -2463,7 +2463,7 @@
 "imgURL":"http://www.thedraftreview.com/history/drafted1989/images/anthony-cook.jpg",
 "born":{"year":1967,"loc":"Los Angeles, CA"},"contract":{"amount":"225","exp":"1996"},"draft":{"round":1,"pick":"24","tid":"20","year":"1989"},
 "college":"Arizona",
-"ratings":[{"hgt":67,"stre":63,"spd":43,"jmp":45,"endu":45,"ins":65,"dnk":64,"ft":56,"fg":54,"tp":42,"blk":64,"stl":54,"drb":56,"pss":54,"reb":74,"pot":59}],"skills":[]},
+"ratings":[{"hgt":67,"stre":63,"spd":43,"jmp":45,"endu":33,"ins":60,"dnk":56,"ft":56,"fg":34,"tp":0,"blk":64,"stl":54,"drb":26,"pss":24,"reb":74,"pot":50}],"skills":[]},
 
 {"tid":21,
 "name":"Dontonio Wingfield",
@@ -2517,7 +2517,7 @@
 "name":"Corliss Williamson",
 "pos":"PF","hgt":79,"weight":245,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-687993Fr.jpg",
-"born":{"year":1973,"loc":"Russellville, AR"},"contract":{"amount":"923","exp":"1998"},"draft":{"round":1,"pick":"13","tid":"22","year":1995},
+"born":{"year":1973,"loc":"Russellville, AR"},"contract":{"amount":"923","exp":"1998"},"draft":{"round":1,"pick":"13","tid":"22","originalTid":22,"year":1995},
 "college":"Arkansas",
 "ratings":[{"hgt":64,"stre":65,"spd":53,"jmp":54,"endu":65,"ins":65,"dnk":55,"ft":76,"fg":45,"tp":4,"blk":43,"stl":54,"drb":40,"pss":50,"reb":72,"pot":59}],"skills":[]},
 
@@ -2598,7 +2598,7 @@
 "name":"Tyus Edney",
 "pos":"PG","hgt":70,"weight":152,
 "imgURL":"http://i.imgur.com/eiJzXfs.jpg",
-"born":{"year":1973,"loc":"Gardena, CA"},"contract":{"amount":"210","exp":"1997"},"draft":{"round":2,"pick":"18","tid":"22","year":1995},
+"born":{"year":1973,"loc":"Gardena, CA"},"contract":{"amount":"210","exp":"1997"},"draft":{"round":2,"pick":"18","tid":"22","originalTid":22,"year":1995},
 "college":"UCLA",
 "ratings":[{"hgt":5,"stre":15,"spd":82,"jmp":64,"endu":55,"ins":25,"dnk":68,"ft":54,"fg":55,"tp":65,"blk":35,"stl":65,"drb":80,"pss":72,"reb":47,"pot":65}],"skills":[]},
 
@@ -2690,7 +2690,7 @@
 "name":"Cory Alexander",
 "pos":"PG","hgt":73,"weight":185,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-301Fr.jpg",
-"born":{"year":1973,"loc":"Waynesboro, VA"},"contract":{"amount":"490","exp":"1998"},"draft":{"round":1,"pick":"29","tid":"23","year":1995},
+"born":{"year":1973,"loc":"Waynesboro, VA"},"contract":{"amount":"490","exp":"1998"},"draft":{"round":1,"pick":"29","tid":"23","originalTid":23,"year":1995},
 "college":"Virginia",
 "ratings":[{"hgt":15,"stre":34,"spd":64,"jmp":55,"endu":55,"ins":24,"dnk":55,"ft":34,"fg":52,"tp":43,"blk":55,"stl":64,"drb":77,"pss":65,"reb":44,"pot":53}],"skills":[]},
 
@@ -2770,7 +2770,7 @@
 "name":"Sam Perkins",
 "pos":"FC","hgt":81,"weight":235,
 "imgURL":"http://i.imgur.com/TN25Pah.png",
-"born":{"year":1961,"loc":"Brooklyn, NY"},"contract":{"amount":3967,"exp":"1996"},"draft":{"round":1,"pick":4,"tid":5,"year":1984},
+"born":{"year":1961,"loc":"Brooklyn, NY"},"contract":{"amount":3967,"exp":"1996"},"draft":{"round":1,"pick":4,"tid":5,"originalTid":5,"year":1984},
 "college":"North Carolina",
 "ratings":[{"hgt":75,"stre":73,"spd":41,"jmp":59,"endu":47,"ins":62,"dnk":61,"ft":46,"fg":62,"tp":68,"blk":78,"stl":64,"drb":40,"pss":52,"reb":83,"pot":54}],"skills":[]},
 
@@ -2834,7 +2834,7 @@
 "name":"Sherell Ford",
 "pos":"SF","hgt":79,"weight":210,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2462/2462-332Fr.jpg",
-"born":{"year":1972,"loc":"Baton Rouge, LA"},"contract":{"amount":"500","exp":"1998"},"draft":{"round":1,"pick":"26","tid":"24","year":1995},
+"born":{"year":1972,"loc":"Baton Rouge, LA"},"contract":{"amount":"500","exp":"1998"},"draft":{"round":1,"pick":"26","tid":"24","originalTid":24,"year":1995},
 "college":"UIC",
 "ratings":[{"hgt":45,"stre":44,"spd":44,"jmp":54,"endu":44,"ins":55,"dnk":45,"ft":45,"fg":44,"tp":45,"blk":46,"stl":34,"drb":44,"pss":45,"reb":45,"pot":49}],"skills":[]},
 
@@ -2842,7 +2842,7 @@
 "name":"Damon Stoudamire",
 "pos":"PG","hgt":70,"weight":171,
 "imgURL":"http://www.djagile.com/wp-content/uploads/2011/11/8CAB41B81FBB5CE6E98E4418DC8C67.jpg",
-"born":{"year":1973,"loc":"Portland, OR"},"contract":{"amount":"1345","exp":"1998"},"draft":{"round":1,"pick":7,"tid":"25","year":1995},
+"born":{"year":1973,"loc":"Portland, OR"},"contract":{"amount":"1345","exp":"1998"},"draft":{"round":1,"pick":7,"tid":"25","originalTid":25,"year":1995},
 "college":"Arizona",
 "ratings":[{"hgt":11,"stre":32,"spd":83,"jmp":72,"endu":72,"ins":34,"dnk":83,"ft":78,"fg":65,"tp":69,"blk":34,"stl":63,"drb":82,"pss":90,"reb":33,"pot":66}],"skills":[]},
 
@@ -2890,7 +2890,7 @@
 "name":"Martin Lewis",
 "pos":"SG","hgt":77,"weight":210,
 "imgURL":"http://i.imgur.com/GRVIWGm.png",
-"born":{"year":1975,"loc":"Liberal, KS"},"contract":{"amount":"200","exp":"1996"},"draft":{"round":2,"pick":"21","tid":"8","year":1995},
+"born":{"year":1975,"loc":"Liberal, KS"},"contract":{"amount":"200","exp":"1996"},"draft":{"round":2,"pick":"21","tid":"8","originalTid":8,"year":1995},
 "college":"Seward County CC",
 "ratings":[{"hgt":44,"stre":36,"spd":55,"jmp":65,"endu":40,"ins":25,"dnk":50,"ft":65,"fg":44,"tp":55,"blk":25,"stl":34,"drb":60,"pss":65,"reb":55,"pot":52}],"skills":[]},
 
@@ -2922,7 +2922,7 @@
 "name":"Jimmy King",
 "pos":"SG","hgt":77,"weight":210,
 "imgURL":"http://i.imgur.com/VaxkWK7.jpg",
-"born":{"year":1973,"loc":"South Bend, IN"},"contract":{"amount":"300","exp":"1997"},"draft":{"round":2,"pick":6,"tid":"25","year":1995},
+"born":{"year":1973,"loc":"South Bend, IN"},"contract":{"amount":"300","exp":"1997"},"draft":{"round":2,"pick":6,"tid":"25","originalTid":25,"year":1995},
 "college":"Michigan",
 "ratings":[{"hgt":54,"stre":35,"spd":63,"jmp":54,"endu":55,"ins":35,"dnk":65,"ft":45,"fg":45,"tp":34,"blk":43,"stl":64,"drb":43,"pss":54,"reb":43,"pot":52}],"skills":[]},
 
@@ -3108,7 +3108,7 @@
 "name":"Bryant Reeves",
 "pos":"C","hgt":84,"weight":275,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2346/2346-684573Fr.jpg",
-"born":{"year":1973,"loc":"Fort Smith, AR"},"contract":{"amount":"1474","exp":"1998"},"draft":{"round":1,"pick":6,"tid":"27","year":1995},
+"born":{"year":1973,"loc":"Fort Smith, AR"},"contract":{"amount":"1474","exp":"1998"},"draft":{"round":1,"pick":6,"tid":"27","originalTid":27,"year":1995},
 "college":"Oklahoma State",
 "ratings":[{"hgt":92,"stre":82,"spd":31,"jmp":54,"endu":66,"ins":76,"dnk":74,"ft":65,"fg":43,"tp":0,"blk":69,"stl":54,"drb":22,"pss":33,"reb":78,"pot":59}],"skills":[]},
 
@@ -3156,7 +3156,7 @@
 "name":"Byron Scott",
 "pos":"G","hgt":75,"weight":195,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-687964Fr.jpg",
-"born":{"year":1961,"loc":"Ogden, UT"},"contract":{"amount":"1650","exp":"1997"},"draft":{"round":1,"pick":4,"tid":"11","year":1983},
+"born":{"year":1961,"loc":"Ogden, UT"},"contract":{"amount":"1650","exp":"1997"},"draft":{"round":1,"pick":4,"tid":"11","originalTid":11,"year":1983},
 "college":"Arizona State",
 "ratings":[{"hgt":43,"stre":49,"spd":65,"jmp":62,"endu":66,"ins":35,"dnk":71,"ft":74,"fg":76,"tp":75,"blk":15,"stl":72,"drb":62,"pss":57,"reb":32,"pot":56}],"skills":[]},
 
@@ -3228,7 +3228,7 @@
 "name":"Rasheed Wallace",
 "pos":"FC","hgt":82,"weight":230,
 "imgURL":"http://www.tradingcarddb.com/Images/Cards/Basketball/2447/2447-134Fr.jpg",
-"born":{"year":1974,"loc":"Philadelphia, PA"},"contract":{"amount":"1493","exp":"1998"},"draft":{"round":1,"pick":4,"tid":"28","year":1995},
+"born":{"year":1974,"loc":"Philadelphia, PA"},"contract":{"amount":"1493","exp":"1998"},"draft":{"round":1,"pick":4,"tid":"28","originalTid":28,"year":1995},
 "college":"North Carolina",
 "ratings":[{"hgt":83,"stre":72,"spd":56,"jmp":67,"endu":65,"ins":76,"dnk":74,"ft":63,"fg":45,"tp":21,"blk":64,"stl":54,"drb":43,"pss":43,"reb":75,"pot":67}],"skills":[]},
 
@@ -3317,7 +3317,7 @@
 "name":"Dominique Wilkins",
 "pos":"SF","hgt":79,"weight":200,
 "imgURL":"http://i.imgur.com/7lTkDIe.png",
-"born":{"year":1960,"loc":"Paris, France"},"contract":{"amount":10000,"exp":1989},"draft":{"round":1,"pick":3,"tid":26,"year":1982},
+"born":{"year":1960,"loc":"Paris, France"},"contract":{"amount":10000,"exp":1989},"draft":{"round":1,"pick":3,"tid":26,"originalTid":26,"year":1982},
 "college":"Georgia",
 "injury":{"type":"Europe","gamesRemaining":150},
 "ratings":[{"hgt":60,"stre":72,"spd":63,"jmp":75,"endu":74,"ins":61,"dnk":72,"ft":86,"fg":72,"tp":26,"blk":55,"stl":63,"drb":58,"pss":48,"reb":67,"pot":55}],"skills":[]},
@@ -3382,7 +3382,7 @@
 "name":"Scott Skiles",
 "pos":"PG","hgt":73,"weight":180,
 "imgURL":"http://i.imgur.com/9DQSbs3.png",
-"born":{"year":1964,"loc":"LaPorte, IN"},"contract":{"amount":"225","exp":"1996"},"draft":{"round":1,"pick":"22","tid":"14","year":1986},
+"born":{"year":1964,"loc":"LaPorte, IN"},"contract":{"amount":"225","exp":"1996"},"draft":{"round":1,"pick":"22","tid":"14","originalTid":14,"year":1986},
 "college":"Michigan State",
 "ratings":[{"hgt":44,"stre":42,"spd":54,"jmp":45,"endu":52,"ins":44,"dnk":43,"ft":62,"fg":66,"tp":67,"blk":43,"stl":56,"drb":72,"pss":68,"reb":45,"pot":50}],"skills":[]},
 
@@ -3390,9 +3390,9 @@
 "name":"LaSalle Thompson",
 "pos":"C","hgt":82,"weight":245,
 "imgURL":"http://i.imgur.com/Xiz483Y.png",
-"born":{"year":1961,"loc":"Cincinnati, OH"},"contract":{"amount":1225,"exp":1996},"draft":{"round":1,"pick":5,"tid":22,"year":1982},
+"born":{"year":1961,"loc":"Cincinnati, OH"},"contract":{"amount":225,"exp":1996},"draft":{"round":1,"pick":5,"tid":22,"originalTid":22,"year":1982},
 "college":"Texas",
-"ratings":[{"hgt":81,"stre":71,"spd":53,"jmp":67,"endu":58,"ins":64,"dnk":63,"ft":76,"fg":56,"tp":0,"blk":55,"stl":62,"drb":33,"pss":43,"reb":86,"pot":52}],"skills":[]},
+"ratings":[{"hgt":81,"stre":71,"spd":33,"jmp":60,"endu":38,"ins":60,"dnk":57,"ft":63,"fg":36,"tp":0,"blk":55,"stl":62,"drb":25,"pss":28,"reb":81,"pot":48}],"skills":[]},
 
 {"tid":-1,
 "name":"Trevor Wilson",
@@ -4773,7 +4773,7 @@
 "gameAttributes": [
 {"key": "luxuryPayroll","value": 25000},
 {"key": "luxuryTax","value": 1.5},
-{"key": "maxContract","value": 10000},
+{"key": "maxContract","value": 7000},
 {"key": "minContract","value": 200},
 {"key": "minPayroll","value": 15000},
 {"key": "salaryCap","value": 23000},
