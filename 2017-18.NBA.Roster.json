@@ -4308,7 +4308,7 @@
 "awards":[{"season":2013,"type":"Sixth Man of the Year"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":8,
+{"tid":-1,
 "name":"Beno Udrih",
 "ratings":[{"hgt":32,"stre":19,"spd":64,"jmp":45,"endu":55,"ins":32,"dnk":55,"ft":72,"fg":64,"tp":68,"blk":16,"stl":48,"drb":76,"pss":68,"reb":36,"pot":48,"skills":[]}],
 "pos":"PG","hgt":75,"weight":205,
@@ -7756,7 +7756,7 @@
 "college":"Xavier",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":11,
+{"tid":-1,
 "name":"Jarrod Uthoff",
 "ratings":[{"hgt":71,"stre":25,"spd":58,"jmp":45,"endu":51,"ins":31,"dnk":25,"ft":16,"fg":27,"tp":8,"blk":35,"stl":35,"drb":30,"pss":29,"reb":41,"pot":44,"skills":[]}],
 "pos":"PF","hgt":81,"weight":220,
@@ -8822,7 +8822,7 @@
 "college":"Miami (Florida)",
 "injury":{"type":"Torn Meniscus","gamesRemaining":40}},
 
-{"tid":28,
+{"tid":-1,
 "name":"Joel Bolomboy",
 "ratings":[{"hgt":74,"stre":65,"spd":50,"jmp":69,"endu":38,"ins":55,"dnk":56,"ft":56,"fg":35,"tp":1,"blk":66,"stl":39,"drb":22,"pss":24,"reb":62,"pot":52,"skills":[]}],
 "pos":"PF","hgt":81,"weight":235,
