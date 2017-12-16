@@ -3,7 +3,7 @@
 "players":[
 {"tid":5,
 "name":"Kevin Love",
-"pos":"FC","hgt":82,"weight":251,
+"pos":"FC","hgt":83,"weight":251,
 "born":{"year":1988,"loc":"Santa Monica, CA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201567.png",
 "contract":{"amount":21165,"exp":2020},
