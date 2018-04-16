@@ -3581,7 +3581,7 @@
 
 {"tid":5,
 "name":"LeBron James",
-"ratings":[{"hgt":57,"stre":92,"spd":89,"jmp":90,"endu":93,"ins":76,"dnk":82,"ft":46,"fg":78,"tp":60,"diq":19,"oiq":67,"drb":86,"pss":57,"reb":53,"pot":83,"skills":["A","Ps","Dp","B","Di","Po"]}],
+"ratings":[{"hgt":99,"stre":99,"spd":89,"jmp":99,"endu":99,"ins":99,"dnk":99,"ft":46,"fg":99,"tp":99,"diq":99,"oiq":99,"drb":99,"pss":99,"reb":99,"pot":99,"skills":["A","Ps","Dp","B","Di","Po"]}],
 "pos":"SF","hgt":80,"weight":250,
 "born":{"year":1984,"loc":"Akron, OH"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2544.png",
