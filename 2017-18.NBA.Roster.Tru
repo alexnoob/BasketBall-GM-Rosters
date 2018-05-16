@@ -599,7 +599,7 @@
 
 {"tid":15,
 "name":"Justise Winslow",
-"ratings":[{"hgt":48,"stre":62,"spd":70,"jmp":76,"endu":67,"ins":40,"dnk":60,"ft":32,"fg":50,"tp":50,"diq":42,"oiq":52,"drb":43,"pss":47,"reb":66,"pot":62,"skills":[]}],
+"ratings":[{"hgt":48,"stre":87,"spd":70,"jmp":84,"endu":67,"ins":76,"dnk":90,"ft":32,"fg":50,"tp":50,"diq":42,"oiq":52,"drb":43,"pss":47,"reb":66,"pot":62,"skills":[]}],
 "pos":"SF","hgt":79,"weight":225,
 "born":{"year":1996,"loc":"Houston, TX"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626159.png",
@@ -699,7 +699,7 @@
 
 {"tid":4,
 "name":"Zach LaVine",
-"ratings":[{"hgt":42,"stre":28,"spd":82,"jmp":92,"endu":78,"ins":38,"dnk":82,"ft":61,"fg":59,"tp":70,"diq":30,"oiq":57,"drb":39,"pss":59,"reb":37,"pot":66,"skills":["A","3"]}],
+"ratings":[{"hgt":42,"stre":28,"spd":82,"jmp":92,"endu":78,"ins":69,"dnk":82,"ft":61,"fg":59,"tp":70,"diq":30,"oiq":57,"drb":39,"pss":59,"reb":37,"pot":66,"skills":["A","3"]}],
 "pos":"SG","hgt":77,"weight":185,
 "born":{"year":1995,"loc":"Renton, WA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203897.png",
@@ -1018,7 +1018,7 @@
 
 {"tid":17,
 "name":"Andrew Wiggins",
-"ratings":[{"hgt":54,"stre":99,"spd":83,"jmp":82,"endu":84,"ins":66,"dnk":89,"ft":32,"fg":77,"tp":60,"diq":40,"oiq":52,"drb":48,"pss":36,"reb":22,"pot":78,"skills":["A"]}],
+"ratings":[{"hgt":54,"stre":99,"spd":83,"jmp":82,"endu":84,"ins":92,"dnk":89,"ft":32,"fg":77,"tp":60,"diq":40,"oiq":52,"drb":48,"pss":36,"reb":22,"pot":78,"skills":["A"]}],
 "pos":"GF","hgt":80,"weight":199,
 "born":{"year":1995,"loc":"Toronto, CA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203952.png",
@@ -2749,7 +2749,7 @@
 
 {"tid":10,
 "name":"James Harden",
-"ratings":[{"hgt":43,"stre":70,"spd":86,"jmp":82,"endu":98,"ins":74,"dnk":96,"ft":67,"fg":92,"tp":74,"diq":45,"oiq":72,"drb":90,"pss":83,"reb":50,"pot":83,"skills":["3","B"]}],
+"ratings":[{"hgt":43,"stre":70,"spd":86,"jmp":82,"endu":98,"ins":74,"dnk":96,"ft":99,"fg":92,"tp":74,"diq":45,"oiq":72,"drb":90,"pss":83,"reb":50,"pot":83,"skills":["3","B"]}],
 "pos":"SG","hgt":77,"weight":220,
 "born":{"year":1989,"loc":"Los Angeles, CA"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3992.png",
@@ -2926,7 +2926,7 @@
 
 {"tid":20,
 "name":"Paul George",
-"ratings":[{"hgt":59,"stre":78,"spd":81,"jmp":60,"endu":85,"ins":53,"dnk":82,"ft":61,"fg":70,"tp":71,"diq":55,"oiq":65,"drb":45,"pss":63,"reb":43,"pot":78,"skills":["Dp","A"]}],
+"ratings":[{"hgt":59,"stre":78,"spd":81,"jmp":60,"endu":85,"ins":76,"dnk":82,"ft":61,"fg":70,"tp":71,"diq":55,"oiq":65,"drb":67,"pss":63,"reb":43,"pot":78,"skills":["Dp","A"]}],
 "pos":"GF","hgt":81,"weight":220,
 "born":{"year":1990,"loc":"Palmdale, CA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202331.png",
@@ -2959,7 +2959,7 @@
 
 {"tid":5,
 "name":"George Hill",
-"ratings":[{"hgt":30,"stre":30,"spd":76,"jmp":66,"endu":81,"ins":29,"dnk":66,"ft":57,"fg":67,"tp":77,"diq":40,"oiq":55,"drb":72,"pss":56,"reb":24,"pot":58,"skills":["3"]}],
+"ratings":[{"hgt":30,"stre":30,"spd":76,"jmp":78,"endu":81,"ins":29,"dnk":66,"ft":57,"fg":67,"tp":77,"diq":40,"oiq":55,"drb":72,"pss":56,"reb":24,"pot":58,"skills":["3"]}],
 "pos":"G","hgt":74,"weight":188,
 "born":{"year":1986,"loc":"Indianapolis, IN"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201588.png",
@@ -3147,7 +3147,7 @@
 
 {"tid":10,
 "name":"Chris Paul",
-"ratings":[{"hgt":23,"stre":46,"spd":78,"jmp":66,"endu":79,"ins":43,"dnk":83,"ft":77,"fg":83,"tp":70,"diq":50,"oiq":72,"drb":92,"pss":85,"reb":50,"pot":75,"skills":["B","Ps"]}],
+"ratings":[{"hgt":23,"stre":46,"spd":78,"jmp":66,"endu":79,"ins":78,"dnk":83,"ft":77,"fg":83,"tp":70,"diq":50,"oiq":72,"drb":92,"pss":85,"reb":50,"pot":75,"skills":["B","Ps"]}],
 "awards":[{"season":2006,"type":"Rookie of the Year"}],
 "pos":"PG","hgt":72,"weight":175,
 "born":{"year":1985,"loc":"Winston-Salem, NC"},
@@ -3192,7 +3192,7 @@
 
 {"tid":17,
 "name":"Jamal Crawford",
-"ratings":[{"hgt":41,"stre":30,"spd":74,"jmp":52,"endu":58,"ins":44,"dnk":70,"ft":75,"fg":74,"tp":61,"diq":28,"oiq":50,"drb":83,"pss":46,"reb":22,"pot":60,"skills":["B","3"]}],
+"ratings":[{"hgt":41,"stre":30,"spd":74,"jmp":52,"endu":58,"ins":65,"dnk":70,"ft":75,"fg":74,"tp":61,"diq":28,"oiq":50,"drb":99,"pss":46,"reb":22,"pot":60,"skills":["B","3"]}],
 "pos":"G","hgt":77,"weight":195,
 "born":{"year":1980,"loc":"Seattle, WA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2037.png",
@@ -3593,8 +3593,8 @@
 
 {"tid":5,
 "name":"LeBron James",
-"ratings":[{"hgt":57,"stre":92,"spd":89,"jmp":90,"endu":93,"ins":76,"dnk":82,"ft":46,"fg":78,"tp":60,"diq":19,"oiq":67,"drb":86,"pss":57,"reb":53,"pot":83,"skills":["A","Ps","Dp","B","Di","Po"]}],
-"pos":"SF","hgt":80,"weight":250,
+"ratings":[{"hgt":57,"stre":92,"spd":89,"jmp":90,"endu":93,"ins":99,"dnk":82,"ft":46,"fg":78,"tp":60,"diq":19,"oiq":67,"drb":89,"pss":57,"reb":53,"pot":83,"skills":["A","Ps","Dp","B","Di","Po"]}],
+"pos":"SF","hgt":80,"weight":250
 "born":{"year":1984,"loc":"Akron, OH"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2544.png",
 "contract":{"amount":33285,"exp":2018},
@@ -3605,7 +3605,7 @@
 
 {"tid":15,
 "name":"Dwyane Wade",
-"ratings":[{"hgt":37,"stre":73,"spd":73,"jmp":65,"endu":52,"ins":53,"dnk":73,"ft":53,"fg":61,"tp":45,"diq":50,"oiq":53,"drb":85,"pss":50,"reb":47,"pot":62,"skills":[]}],
+"ratings":[{"hgt":37,"stre":73,"spd":73,"jmp":65,"endu":52,"ins":53,"dnk":73,"ft":53,"fg":61,"tp":45,"diq":50,"oiq":53,"drb":92,"pss":70,"reb":47,"pot":62,"skills":[]}],
 "pos":"G","hgt":76,"weight":220,
 "born":{"year":1982,"loc":"Chicago, IL"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2548.png",
@@ -3694,7 +3694,7 @@
 
 {"tid":16,
 "name":"Giannis Antetokounmpo",
-"ratings":[{"hgt":69,"stre":73,"spd":78,"jmp":83,"endu":85,"ins":85,"dnk":88,"ft":52,"fg":75,"tp":50,"diq":45,"oiq":62,"drb":75,"pss":63,"reb":55,"pot":87,"skills":["A","R","Ps","Dp"]}],
+"ratings":[{"hgt":69,"stre":73,"spd":78,"jmp":83,"endu":85,"ins"97,"dnk":98,"ft":52,"fg":75,"tp":50,"diq":45,"oiq":62,"drb":75,"pss":63,"reb":55,"pot":87,"skills":["A","R","Ps","Dp"]}],
 "pos":"GF","hgt":83,"weight":222,
 "born":{"year":1994,"loc":"Athens, Greece"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3032977.png&w=350&h=254",
