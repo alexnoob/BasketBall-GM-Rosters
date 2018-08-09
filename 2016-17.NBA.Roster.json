@@ -3928,7 +3928,7 @@
 "name":"Davis Bertans",
 "pos":"SF","hgt":81,"weight":210,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202722.png",
-"born":{"year":1992,"loc":"Valmiera, Latvia"},"contract":{"amount":"543","exp":"2018"},"draft":{"round":"2","pick":"12","tid":"11","orig. team":"11","year":"2011"},
+"born":{"year":1992,"loc":"Valmiera, Latvia"},"contract":{"amount":"543","exp":"2018"},"draft":{"round":2,"pick":12,"tid":11,"orig. team":11,"year":2011},
 "college":"Latvia",
 "ratings":[{"hgt":71,"stre":35,"spd":63,"jmp":63,"endu":57,"ins":34,"dnk":40,"ft":63,"fg":65,"tp":60,"blk":58,"stl":56,"drb":67,"pss":63,"reb":42,"pot":55}],"skills":[]},
 
@@ -7245,7 +7245,7 @@
 "name":"Bobby Brown",
 "pos":"PG","hgt":74,"weight":175,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201628.png",
-"born":{"year":1984,"loc":"Los Angeles, CA"},"contract":{"amount":"500","exp":"2017"},"draft":{"round":"0","pick":"0","tid":"-1","originalTid":"-1","year":"2007"},
+"born":{"year":1984,"loc":"Los Angeles, CA"},"contract":{"amount":"500","exp":"2017"},"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2007},
 "college":"Cal State Fullerton",
 "ratings":[{"hgt":21,"stre":32,"spd":62,"jmp":52,"endu":52,"ins":24,"dnk":52,"ft":61,"fg":62,"tp":55,"blk":34,"stl":51,"drb":68,"pss":69,"reb":42,"pot":50}],"skills":[]},
 
@@ -8541,7 +8541,7 @@
 "ratings":[{"hgt":66,"stre":72,"spd":33,"jmp":52,"endu":42,"ins":53,"dnk":64,"ft":64,"fg":69,"tp":0,"blk":29,"stl":28,"drb":16,"pss":41,"reb":75,"pot":52,"skills":[]}],
 "pos":"PF","hgt":81,"weight":245,
 "born":{"year":1990,"loc":"San Jose, CA"},
-"imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1711.png",
+"imgURL":"https://i.imgur.com/oPnAe9U.png",
 "contract":{"amount":500,"exp":2015},
 "draft":{"round":1,"pick":4,"tid":6,"originalTid":6,"year":2002},
 "college":"New Mexico",
@@ -8991,7 +8991,7 @@
 "name":"Dejounte Murray",
 "pos":"G","hgt":77,"weight":170,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627749.png",
-"born":{"year":1996,"loc":"Seattle, WA"},"contract":{"amount":"1180","exp":"2020"},"draft":{"round":"1","pick":"29","tid":"26","originalTid":"26","year":"2016"},
+"born":{"year":1996,"loc":"Seattle, WA"},"contract":{"amount":"1180","exp":"2020"},"draft":{"round":1,"pick":29,"tid":26,"originalTid":26,"year":2016},
 "college":"Washington",
 "ratings":[{"hgt":47,"stre":23,"spd":83,"jmp":66,"endu":53,"ins":32,"dnk":71,"ft":56,"fg":54,"tp":57,"blk":23,"stl":58,"drb":71,"pss":57,"reb":43,"pot":59}],"skills":[]},
 
@@ -8999,7 +8999,7 @@
 "name":"Skal Labissiere",
 "pos":"FC","hgt":84,"weight":225,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627746.png",
-"born":{"year":1996,"loc":"Port-au-Prince, Haiti"},"contract":{"amount":"1188","exp":"2020"},"draft":{"round":"1","pick":"28","tid":"23","originalTid":"23","year":"2016"},
+"born":{"year":1996,"loc":"Port-au-Prince, Haiti"},"contract":{"amount":"1188","exp":"2020"},"draft":{"round":1,"pick":28,"tid":23,"originalTid":23,"year":2016},
 "college":"Kentucky",
 "ratings":[{"hgt":90,"stre":50,"spd":56,"jmp":75,"endu":47,"ins":45,"dnk":60,"ft":20,"fg":53,"tp":4,"blk":71,"stl":35,"drb":27,"pss":39,"reb":62,"pot":56}],"skills":[]},
 
@@ -9008,7 +9008,7 @@
 "pos":"C","hgt":84,"weight":245,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627745.png",
 "born":{"year":1995,"loc":"Baton Rouge, LA"},
-"contract":{"amount":"1171","exp":"2020"},"draft":{"round":"1","pick":"30","tid":"9","originalTid":"9","year":"2016"},
+"contract":{"amount":"1171","exp":"2020"},"draft":{"round":1,"pick":30,"tid":9,"originalTid":9,"year":2016},
 "college":"Vanderbilt",
 "ratings":[{"hgt":87,"stre":63,"spd":58,"jmp":70,"endu":37,"ins":45,"dnk":60,"ft":54,"fg":33,"tp":0,"blk":63,"stl":27,"drb":12,"pss":15,"reb":67,"pot":58}],"skills":[]},
 
@@ -9024,7 +9024,7 @@
 "name":"Jamal Murray",
 "pos":"G","hgt":76,"weight":207,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627750.png",
-"born":{"year":1997,"loc":"Kitchner, Canada"},"contract":{"amount":"3210","exp":"2020"},"draft":{"round":"1","pick":"7","tid":"7","originalTid":"7","year":"2016"},
+"born":{"year":1997,"loc":"Kitchner, Canada"},"contract":{"amount":"3210","exp":"2020"},"draft":{"round":1,"pick":"7","tid":"7","originalTid":"7","year":2016},
 "college":"Kentucky",
 "ratings":[{"hgt":47,"stre":43,"spd":65,"jmp":62,"endu":62,"ins":39,"dnk":66,"ft":60,"fg":64,"tp":75,"blk":14,"stl":42,"drb":74,"pss":56,"reb":37,"pot":64}],"skills":[]},
 
@@ -9034,7 +9034,7 @@
 "pos":"FC","hgt":85,"weight":225,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627733.png",
 "born":{"year":1997,"loc":"Capljina, Bosnia and Herzegovina"},
-"contract":{"amount":"4276","exp":"2020"},"draft":{"round":"1","pick":"4","tid":"23","originalTid":"23","year":"2016"},
+"contract":{"amount":"4276","exp":"2020"},"draft":{"round":1,"pick":"4","tid":"23","originalTid":"23","year":2016},
 "college":"Croatia"},
 
 {"tid":13,
@@ -9043,14 +9043,14 @@
 "pos":"SF","hgt":81,"weight":190,
 "imgURL":"http://stats.nba.com/media/players/230x185/1627742.png",
 "born":{"year":1997,"loc":"Kinston, NC"},
-"contract":{"amount":"5281","exp":"2020"},"draft":{"round":"1","pick":"2","tid":"13","originalTid":"13","year":"2016"},
+"contract":{"amount":"5281","exp":"2020"},"draft":{"round":1,"pick":"2","tid":"13","originalTid":"13","year":2016},
 "college":"Duke"},
 
 {"tid":17,
 "name":"Kris Dunn",
 "pos":"PG","hgt":76,"weight":205,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627739.png",
-"born":{"year":1994,"loc":"New London, CT"},"contract":{"amount":"3872","exp":"2020"},"draft":{"round":1,"pick":5,"tid":17,"originalTid":17,"year":"2016"},
+"born":{"year":1994,"loc":"New London, CT"},"contract":{"amount":"3872","exp":"2020"},"draft":{"round":1,"pick":5,"tid":17,"originalTid":17,"year":2016},
 "college":"Providence",
 "ratings":[{"hgt":38,"stre":42,"spd":82,"jmp":78,"endu":51,"ins":21,"dnk":55,"ft":23,"fg":48,"tp":57,"blk":35,"stl":70,"drb":67,"pss":65,"reb":33,"pot":62}],"skills":[]},
 
@@ -9059,7 +9059,7 @@
 "pos":"PG","hgt":73,"weight":201,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627743.png",
 "born":{"year":1994,"loc":"Mishawaka, IN"},
-"contract":{"amount":"1450","exp":"2020"},"draft":{"round":"2","pick":"15","tid":"1","originalTid":"1","year":"2016"},
+"contract":{"amount":"1450","exp":"2020"},"draft":{"round":2,"pick":"15","tid":"1","originalTid":"1","year":2016},
 "college":"Notre Dame",
 "ratings":[{"hgt":14,"stre":56,"spd":65,"jmp":34,"endu":54,"ins":23,"dnk":43,"ft":54,"fg":23,"tp":33,"blk":43,"stl":12,"drb":62,"pss":76,"reb":34,"pot":56}],"skills":[]},
 
@@ -9068,7 +9068,7 @@
 "pos":"FC","hgt":81,"weight":220,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627767.png",
 "contract":{"amount":"544","exp":"2018"},
-"born":{"year":1996,"loc":"Bamako, Mali"},"draft":{"round":"2","pick":"3","tid":"12","originalTid":"12","year":"2016"},
+"born":{"year":1996,"loc":"Bamako, Mali"},"draft":{"round":2,"pick":"3","tid":"12","originalTid":"12","year":2016},
 "college":"Kansas",
 "ratings":[{"hgt":75,"stre":68,"spd":58,"jmp":64,"endu":40,"ins":52,"dnk":54,"ft":55,"fg":24,"tp":0,"blk":73,"stl":50,"drb":12,"pss":18,"reb":70,"pot":55}],"skills":[]},
 
@@ -9085,7 +9085,7 @@
 "pos":"PF","hgt":82,"weight":240,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627734.png",
 "born":{"year":1996,"loc":"Portland, OR"},
-"contract":{"amount":"1964","exp":"2020"},"draft":{"round":"1","pick":"11","tid":"21","originalTid":"-1","year":"2016"},
+"contract":{"amount":"1964","exp":"2020"},"draft":{"round":1,"pick":"11","tid":"21","originalTid":"-1","year":2016},
 "college":"Gonzaga",
 "ratings":[{"hgt":78,"stre":67,"spd":52,"jmp":55,"endu":56,"ins":66,"dnk":60,"ft":55,"fg":50,"tp":20,"blk":54,"stl":34,"drb":45,"pss":41,"reb":73,"pot":63}],"skills":[]},
 
@@ -9093,7 +9093,7 @@
 "name":"Furkan Korkmaz",
 "pos":"SG","hgt":79,"weight":175,
 "imgURL":"http://i.imgur.com/6nwoWQ3.png",
-"born":{"year":1997,"loc":"Bakirkoy, Turkey"},"contract":{"amount":"1026","exp":"2020"},"draft":{"round":"1","pick":"26","tid":"22","originalTid":"22","year":"2016"},
+"born":{"year":1997,"loc":"Bakirkoy, Turkey"},"contract":{"amount":"1026","exp":"2020"},"draft":{"round":1,"pick":"26","tid":"22","originalTid":"22","year":2016},
 "college":"Turkey",
 "ratings":[{"hgt":54,"stre":18,"spd":62,"jmp":32,"endu":41,"ins":33,"dnk":43,"ft":64,"fg":44,"tp":56,"blk":43,"stl":33,"drb":53,"pss":38,"reb":54,"pot":57}],"skills":[]},
 
@@ -9109,7 +9109,7 @@
 "name":"Guerschon Yabusele",
 "pos":"PF","hgt":80,"weight":260,
 "imgURL":"http://www.wiki-basket.com/wp-content/uploads/2014/10/guerschon_yabusele.jpg",
-"born":{"year":1995,"loc":"Dreux, France"},"contract":{"amount":"1573","exp":"2020"},"draft":{"round":"1","pick":"16","tid":"1","originalTid":"1","year":"2016"},
+"born":{"year":1995,"loc":"Dreux, France"},"contract":{"amount":"1573","exp":"2020"},"draft":{"round":1,"pick":"16","tid":"1","originalTid":"1","year":2016},
 "college":"France",
 "ratings":[{"hgt":67,"stre":80,"spd":57,"jmp":70,"endu":54,"ins":55,"dnk":50,"ft":54,"fg":35,"tp":10,"blk":41,"stl":14,"drb":37,"pss":27,"reb":55,"pot":57}],"skills":[]},
 
@@ -9134,7 +9134,7 @@
 "name":"Jakob Poeltl",
 "pos":"C","hgt":85,"weight":230,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627751.png",
-"born":{"year":1995,"loc":"Vienna, Austria"},"contract":{"amount":"2703","exp":"2020"},"draft":{"round":"1","pick":"9","tid":"27","originalTid":"27","year":"2016"},
+"born":{"year":1995,"loc":"Vienna, Austria"},"contract":{"amount":"2703","exp":"2020"},"draft":{"round":1,"pick":"9","tid":"27","originalTid":"27","year":2016},
 "college":"Utah",
 "ratings":[{"hgt":89,"stre":55,"spd":40,"jmp":27,"endu":31,"ins":56,"dnk":54,"ft":43,"fg":42,"tp":30,"blk":54,"stl":40,"drb":45,"pss":32,"reb":65,"pot":59}],"skills":[]},
 
@@ -9143,7 +9143,7 @@
 "pos":"PF","hgt":82,"weight":255,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627754.png",
 "born":{"year":1997,"loc":"Milwaukee, WI"},
-"contract":{"amount":"543","exp":"2018"},"draft":{"round":"2","pick":"10","tid":"18","originalTid":"-1","year":"2016"},
+"contract":{"amount":"543","exp":"2018"},"draft":{"round":2,"pick":"10","tid":"18","originalTid":"-1","year":2016},
 "college":"Maryland",
 "ratings":[{"hgt":79,"stre":80,"spd":35,"jmp":30,"endu":47,"ins":62,"dnk":61,"ft":78,"fg":50,"tp":0,"blk":65,"stl":45,"drb":30,"pss":40,"reb":74,"pot":56}],"skills":[]},
 
@@ -9159,7 +9159,7 @@
 "pos":"C","hgt":84,"weight":240,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627757.png",
 "born":{"year":1996,"loc":"Las Vegas, NV"},
-"contract":{"amount":"950","exp":"2019"},"draft":{"round":"2","pick":"11","tid":"21","originalTid":"21","year":"2016"},
+"contract":{"amount":"950","exp":"2019"},"draft":{"round":2,"pick":"11","tid":"21","originalTid":"21","year":2016},
 "college":"UNLV",
 "ratings":[{"hgt":87,"stre":86,"spd":23,"jmp":22,"endu":37,"ins":56,"dnk":45,"ft":54,"fg":33,"tp":0,"blk":63,"stl":27,"drb":12,"pss":24,"reb":67,"pot":52}],"skills":[]},
 
@@ -9193,7 +9193,7 @@
 "name":"Devin Robinson",
 "pos":"SF","hgt":80,"weight":180,
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/recruiting/ncb/players/full/168375.png&w=350&h=254",
-"born":{"year":1995,"loc":"Chesterfield, VA"},"contract":{"amount":"","exp":""},"draft":{"round":"","pick":"","tid":"","originalTid":"","year":"2016"},
+"born":{"year":1995,"loc":"Chesterfield, VA"},"contract":{"amount":"","exp":""},"draft":{"round":"","pick":"","tid":"","originalTid":"","year":2016},
 "college":"Florida",
 "ratings":[{"hgt":64,"stre":33,"spd":57,"jmp":66,"endu":45,"ins":63,"dnk":64,"ft":32,"fg":12,"tp":10,"blk":55,"stl":35,"drb":37,"pss":31,"reb":56,"pot":47}],"skills":[]},
 
@@ -9201,7 +9201,7 @@
 "name":"Taurean Prince",
 "pos":"SF","hgt":80,"weight":220,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627752.png",
-"born":{"year":1994,"loc":"San Antonio, TX"},"contract":{"amount":"2318","exp":"2020"},"draft":{"round":"1","pick":"12","tid":"28","originalTid":"28","year":"2016"},
+"born":{"year":1994,"loc":"San Antonio, TX"},"contract":{"amount":"2318","exp":"2020"},"draft":{"round":1,"pick":"12","tid":"28","originalTid":"28","year":2016},
 "college":"Baylor",
 "ratings":[{"hgt":57,"stre":57,"spd":59,"jmp":64,"endu":50,"ins":50,"dnk":50,"ft":45,"fg":44,"tp":46,"blk":46,"stl":43,"drb":31,"pss":40,"reb":47,"pot":57}],"skills":[]},
 
@@ -9226,7 +9226,7 @@
 "pos":"PF","hgt":81,"weight":230,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627744.png",
 "born":{"year":1994,"loc":"Cordova, SC"},
-"contract":{"amount":"1273","exp":"2020"},"draft":{"round":"1","pick":"25","tid":"12","originalTid":"12","year":"2016"},
+"contract":{"amount":"1273","exp":"2020"},"draft":{"round":1,"pick":"25","tid":"12","originalTid":"12","year":2016},
 "college":"North Carolina",
 "ratings":[{"hgt":72,"stre":52,"spd":60,"jmp":78,"endu":55,"ins":55,"dnk":63,"ft":62,"fg":42,"tp":22,"blk":56,"stl":34,"drb":35,"pss":35,"reb":60,"pot":54}],"skills":[],
 "injury":{"type":"Herniated disc","gamesRemaining":50}},
@@ -9235,14 +9235,14 @@
 "name":"Rade Zagorac",
 "pos":"GF","hgt":80,"weight":190,
 "imgURL":"http://www.bcmegabasket.net/images/razno/Zagorac.jpg",
-"born":{"year":1995,"loc":"Belgrade, Serbia"},"contract":{"amount":"500","exp":"2018"},"draft":{"round":"2","pick":"5","tid":"1","originalTid":"1","year":"2016"},
+"born":{"year":1995,"loc":"Belgrade, Serbia"},"contract":{"amount":"500","exp":"2018"},"draft":{"round":2,"pick":"5","tid":"1","originalTid":"1","year":2016},
 "college":"Serbia",
 "ratings":[{"hgt":64,"stre":38,"spd":54,"jmp":58,"endu":42,"ins":54,"dnk":45,"ft":52,"fg":44,"tp":45,"blk":56,"stl":66,"drb":34,"pss":44,"reb":54,"pot":52}],"skills":[]},
 
 {"tid":-1,
 "name":"Zhou Qi","pos":"C","hgt":86,"weight":210,
 "imgURL":"https://i.imgur.com/PVyodQL.png",
-"born":{"year":1996,"loc":"Henan, China"},"contract":{"amount":"500","exp":"2018"},"draft":{"round":"2","pick":"13","tid":"10","originalTid":"10","year":"2016"},
+"born":{"year":1996,"loc":"Henan, China"},"contract":{"amount":"500","exp":"2018"},"draft":{"round":2,"pick":"13","tid":"10","originalTid":"10","year":2016},
 "college":"China",
 "ratings":[{"hgt":94,"stre":30,"spd":42,"jmp":47,"endu":50,"ins":63,"dnk":51,"ft":65,"fg":59,"tp":44,"blk":76,"stl":35,"drb":36,"pss":20,"reb":43,"pot":55}],"skills":[]},
 
@@ -9251,7 +9251,7 @@
 "pos":"FC","hgt":82,"weight":245,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627778.png",
 "born":{"year":1996,"loc":"Lanham, MD"},
-"contract":{"amount":"500","exp":"2018"},"draft":{"round":"2","pick":"7","tid":"10","originalTid":"10","year":"2016"},
+"contract":{"amount":"500","exp":"2018"},"draft":{"round":2,"pick":"7","tid":"10","originalTid":"10","year":2016},
 "college":"Louisville",
 "ratings":[{"hgt":74,"stre":70,"spd":40,"jmp":50,"endu":43,"ins":57,"dnk":59,"ft":54,"fg":37,"tp":0,"blk":64,"stl":34,"drb":43,"pss":45,"reb":67,"pot":55}],"skills":[]},
 
@@ -9269,7 +9269,7 @@
 "pos":"SG","hgt":"77","weight":"213",
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627785.png",
 "born":{"year":1995,"loc":"Brooklyn, NY"},
-"contract":{"amount":"500","exp":"2018"},"draft":{"round":"2","pick":"12","tid":"28","originalTid":"28","year":"2016"},
+"contract":{"amount":"500","exp":"2018"},"draft":{"round":2,"pick":"12","tid":"28","originalTid":"28","year":2016},
 "college":"Seton Hall",
 "ratings":[{"hgt":53,"stre":45,"spd":63,"jmp":65,"endu":48,"ins":23,"dnk":45,"ft":74,"fg":38,"tp":46,"blk":53,"stl":44,"drb":60,"pss":54,"reb":32,"pot":57}],"skills":[]},
 
@@ -9278,7 +9278,7 @@
 "pos":"PF","hgt":"83","weight":"220",
 "imgURL":"http://i.imgur.com/S9mIEbt.png",
 "born":{"year":1995,"loc":"Calais, France"},
-"contract":{"amount":"500","exp":"2018"},"draft":{"round":"2","pick":"23","tid":"7","originalTid":"7","year":"2016"},
+"contract":{"amount":"500","exp":"2018"},"draft":{"round":2,"pick":"23","tid":"7","originalTid":"7","year":2016},
 "college":"France",
 "ratings":[{"hgt":86,"stre":50,"spd":52,"jmp":70,"endu":46,"ins":55,"dnk":47,"ft":56,"fg":42,"tp":0,"blk":55,"stl":53,"drb":22,"pss":22,"reb":62,"pot":54}],"skills":[]},
 
@@ -9314,7 +9314,7 @@
 "pos":"GF","hgt":"79","weight":"200",
 "imgURL":"http://stats.nba.com/media/players/230x185/1627771.png",
 "born":{"year":1992,"loc":"Richmond, VA"},
-"contract":{"amount":"650","exp":"2018"},"draft":{"round":"2","pick":"19","tid":"8","originalTid":"8","year":"2016"},
+"contract":{"amount":"650","exp":"2018"},"draft":{"round":2,"pick":"19","tid":"8","originalTid":"8","year":2016},
 "college":"Syracuse",
 "ratings":[{"hgt":57,"stre":33,"spd":52,"jmp":65,"endu":50,"ins":42,"dnk":55,"ft":23,"fg":45,"tp":58,"blk":23,"stl":45,"drb":53,"pss":40,"reb":56,"pot":48}],"skills":[]},
 
@@ -9359,7 +9359,7 @@
 "pos":"F","hgt":"81","weight":"225",
 "imgURL":"http://content.draftexpress.com/headshots/aleksandarvezenkov.jpg",
 "born":{"year":1995,"loc":"Lefkosia, Cyprus"},
-"contract":{"amount":"","exp":""},"draft":{"round":"","pick":"","tid":"","originalTid":"","year":"2016"},
+"contract":{"amount":"","exp":""},"draft":{"round":"","pick":"","tid":"","originalTid":"","year":2016},
 "college":"Greece",
 "ratings":[{"hgt":71,"stre":44,"spd":51,"jmp":50,"endu":42,"ins":43,"dnk":44,"ft":34,"fg":54,"tp":34,"blk":43,"stl":55,"drb":63,"pss":34,"reb":44,"pot":53}],"skills":[]},
 
@@ -9368,7 +9368,7 @@
 "pos":"PG","hgt":"69","weight":"176",
 "imgURL":"http://stats.nba.com/media/players/230x185/1627770.png",
 "born":{"year":1995,"loc":"Detroit, MI"},
-"contract":{"amount":"500","exp":"2018"},"draft":{"round":"2","pick":"24","tid":"0","originalTid":"0","year":"2016"},
+"contract":{"amount":"500","exp":"2018"},"draft":{"round":2,"pick":"24","tid":"0","originalTid":"0","year":2016},
 "college":"Notre Dame",
 "ratings":[{"hgt":0,"stre":34,"spd":84,"jmp":74,"endu":44,"ins":29,"dnk":64,"ft":53,"fg":62,"tp":55,"blk":4,"stl":63,"drb":73,"pss":63,"reb":24,"pot":54}],"skills":[]},
 
@@ -9412,7 +9412,7 @@
 "pos":"PF","hgt":"80","weight":"210",
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627835.png",
 "born":{"year":1994,"loc":"Heidelberg, Germany"},
-"contract":{"amount":"750","exp":"2018"},"draft":{"round":"2","pick":"18","tid":"4","originalTid":"4","year":"2016"},
+"contract":{"amount":"750","exp":"2018"},"draft":{"round":2,"pick":"18","tid":"4","originalTid":"4","year":2016},
 "college":"Germany",
 "ratings":[{"hgt":64,"stre":50,"spd":55,"jmp":63,"endu":42,"ins":43,"dnk":51,"ft":72,"fg":49,"tp":37,"blk":50,"stl":35,"drb":15,"pss":20,"reb":50,"pot":50}],"skills":[]},
 
@@ -9430,7 +9430,7 @@
 "pos":"SG","hgt":"77","weight":"190",
 "imgURL":"http://i.imgur.com/POK6tP0.png",
 "born":{"year":1996,"loc":"Créteil, France"},
-"contract":{"amount":"500","exp":"2018"},"draft":{"round":"2","pick":"14","tid":"0","originalTid":"0","year":"2016"},
+"contract":{"amount":"500","exp":"2018"},"draft":{"round":2,"pick":"14","tid":"0","originalTid":"0","year":2016},
 "college":"France",
 "ratings":[{"hgt":43,"stre":29,"spd":70,"jmp":60,"endu":45,"ins":31,"dnk":56,"ft":71,"fg":52,"tp":40,"blk":20,"stl":49,"drb":52,"pss":55,"reb":33,"pot":56}],"skills":[]},
 
