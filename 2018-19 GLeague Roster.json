@@ -67,7 +67,23 @@
 {"key":"maxRosterSize","value":12},
 {"key":"numGames","value":50},
 {"key":"numPlayoffByes","value":4},
-{"key":"numGamesPlayoffSeries","value":[1,1,1,3]}
+{"key":"numGamesPlayoffSeries","value":[1,1,1,3]},
+
+{"key":"confs",
+"value":[
+{"cid":0, "name":"Eastern Conference"},
+{"cid":1, "name":"Western Conference"}
+]},
+{"key":"divs",
+"value":[
+{"did":0, "cid":0, "name":"Atlantic"},
+{"did":1, "cid":0, "name":"Central"},
+{"did":2, "cid":0, "name":"Southeast"},
+{"did":3, "cid":1, "name":"Midwest"},
+{"did":4, "cid":1, "name":"Pacific"},
+{"did":5, "cid":1, "name":"Southwest"}
+]}
+
 ]
 
 }
