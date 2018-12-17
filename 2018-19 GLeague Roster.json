@@ -1,0 +1,31 @@
+{
+"teams": [
+{"tid": 0, "cid": 0, "did": 2, "region": "Agua Caliente", "name": "Clippers", "abbrev": "ACC", "pop": 5.4},
+{"tid": 1, "cid": 0, "did": 0, "region": "Austin", "name": "Spurs", "abbrev": "AUS", "pop": 5.0},
+{"tid": 2, "cid": 0, "did": 0, "region": "Canton", "name": "Charge", "abbrev": "CAN", "pop": 19.1},
+{"tid": 3, "cid": 0, "did": 2, "region": "Capital City", "name": "Go-Go", "abbrev": "CGG", "pop": 1.8},
+{"tid": 4, "cid": 0, "did": 1, "region": "Delaware", "name": "Blue Coats", "abbrev": "DEL", "pop": 9.6},
+{"tid": 5, "cid": 0, "did": 1, "region": "Erie", "name": "Bayhawks", "abbrev": "HAW", "pop": 2.1},
+{"tid": 6, "cid": 1, "did": 3, "region": "Fort Wayne", "name": "Mad Ants", "abbrev": "FOR", "pop": 6.4},
+{"tid": 7, "cid": 1, "did": 4, "region": "Grand Rapids", "name": "Drive", "abbrev": "GRR", "pop": 2.6},
+{"tid": 8, "cid": 0, "did": 1, "region": "Greensboro", "name": "Swarm", "abbrev": "SWR", "pop": 4.4},
+{"tid": 9, "cid": 1, "did": 5, "region": "Iowa", "name": "Wolves", "abbrev": "WOL", "pop": 4.3},
+{"tid": 10, "cid": 1, "did": 3, "region": "Lakeland", "name": "Magic", "abbrev": "LKL", "pop": 5.9},
+{"tid": 11, "cid": 0, "did": 1, "region": "Long Island", "name": "Nets", "abbrev": "LIN", "pop": 1.7},
+{"tid": 12, "cid": 1, "did": 5, "region": "Maine", "name": "Red Claws", "abbrev": "MAI", "pop": 12.9},
+{"tid": 13, "cid": 1, "did": 5, "region": "Memphis", "name": "Hustle", "abbrev": "MEM", "pop": 12.9},
+{"tid": 14, "cid": 1, "did": 3, "region": "Northern Arizona", "name": "Suns", "abbrev": "NAS", "pop": 1.3},
+{"tid": 15, "cid": 0, "did": 2, "region": "Oklahoma City", "name": "Blue", "abbrev": "OKL", "pop": 5.6},
+{"tid": 16, "cid": 0, "did": 1, "region": "Raptors", "name": "905", "abbrev": "RAP", "pop": 1.6},
+{"tid": 17, "cid": 1, "did": 4, "region": "Rio Grande Valley", "name": "Vipers", "abbrev": "RIO", "pop": 3.3},
+{"tid": 18, "cid": 1, "did": 3, "region": "Salt Lake City", "name": "Stars", "abbrev": "SLS", "pop": 1.2},
+{"tid": 19, "cid": 0, "did": 0, "region": "Santa Cruz", "name": "Warriors", "abbrev": "SAN", "pop": 19.1},
+{"tid": 20, "cid": 1, "did": 4, "region": "Sioux Falls", "name": "Skyforce", "abbrev": "SFL", "pop": 1.2},
+{"tid": 21, "cid": 0, "did": 2, "region": "South Bay", "name": "Lakers", "abbrev": "SBL", "pop": 2.1},
+{"tid": 22, "cid": 0, "did": 0, "region": "Stockton", "name": "Kings", "abbrev": "STK", "pop": 6.0},
+{"tid": 23, "cid": 1, "did": 5, "region": "Texas", "name": "Legends", "abbrev": "TEX", "pop": 4.4},
+{"tid": 24, "cid": 1, "did": 4, "region": "Westchester", "name": "Knicks", "abbrev": "WES", "pop": 2.2},
+{"tid": 25, "cid": 1, "did": 5, "region": "Windy City", "name": "Bulls", "abbrev": "WCB", "pop": 2.1},
+{"tid": 26, "cid": 1, "did": 3, "region": "Wisconsin", "name": "Herd", "abbrev": "WIS", "pop": 2.1}
+]
+}
