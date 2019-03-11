@@ -1938,7 +1938,7 @@
 "ratings":[{"hgt":48,"stre":20,"spd":61,"jmp":46,"endu":35,"ins":33,"dnk":50,"ft":60,"fg":69,"tp":60,"diq":29,"oiq":43,"drb":46,"pss":29,"reb":22}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":17,
 "name":"Cameron Reynolds",
 "pos":"F","hgt":80,"weight":225,
 "born":{"year":1995,"loc":"Pearland, TX"},
@@ -3086,7 +3086,7 @@
 
 {"tid":8,
 "name":"Blake Griffin",
-"ratings":[{"hgt":61,"stre":78,"spd":66,"jmp":82,"endu":72,"ins":81,"dnk":96,"ft":50,"fg":69,"tp":55,"diq":32,"oiq":53,"drb":55,"pss":59,"reb":81}],
+"ratings":[{"hgt":61,"stre":78,"spd":66,"jmp":82,"endu":72,"ins":77,"dnk":92,"ft":50,"fg":75,"tp":55,"diq":32,"oiq":50,"drb":64,"pss":59,"reb":81}],
 "awards":[{"season":2011,"type":"Rookie of the Year"}],
 "pos":"FC","hgt":82,"weight":251,
 "born":{"year":1989,"loc":"Oklahoma City, OK"},
@@ -4508,7 +4508,7 @@
 
 {"tid":9,
 "name":"Kevin Durant",
-"ratings":[{"hgt":60,"stre":74,"spd":70,"jmp":77,"endu":78,"ins":82,"dnk":86,"ft":72,"fg":88,"tp":52,"diq":37,"oiq":66,"drb":78,"pss":74,"reb":52}],
+"ratings":[{"hgt":60,"stre":74,"spd":70,"jmp":73,"endu":76,"ins":82,"dnk":86,"ft":72,"fg":88,"tp":52,"diq":35,"oiq":66,"drb":78,"pss":74,"reb":57}],
 "pos":"SF","hgt":81,"weight":240,
 "born":{"year":1989,"loc":"Washington, DC"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201142.png",
@@ -4684,7 +4684,7 @@
 "college":"Duke",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":0,
+{"tid":-1,
 "name":"B.J. Johnson",
 "ratings":[{"hgt":48,"stre":29,"spd":61,"jmp":29,"endu":38,"ins":36,"dnk":58,"ft":25,"fg":52,"tp":60,"diq":41,"oiq":33,"drb":58,"pss":53,"reb":17}],
 "pos":"SG","hgt":79,"weight":200,
