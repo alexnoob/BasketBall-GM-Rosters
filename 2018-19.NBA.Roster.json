@@ -448,7 +448,7 @@
 
 {"tid":2,
 "name":"D'Angelo Russell",
-"ratings":[{"hgt":41,"stre":41,"spd":66,"jmp":58,"endu":55,"ins":62,"dnk":86,"ft":63,"fg":84,"tp":63,"diq":40,"oiq":59,"drb":64,"pss":52,"reb":52}],
+"ratings":[{"hgt":41,"stre":41,"spd":70,"jmp":58,"endu":58,"ins":72,"dnk":86,"ft":63,"fg":88,"tp":67,"diq":42,"oiq":62,"drb":66,"pss":60,"reb":52}],
 "pos":"G","hgt":77,"weight":195,
 "born":{"year":1996,"loc":"Louisville, KY"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626156.png",
@@ -837,7 +837,7 @@
 
 {"tid":10,
 "name":"Clint Capela",
-"ratings":[{"hgt":69,"stre":76,"spd":59,"jmp":84,"endu":52,"ins":92,"dnk":94,"ft":18,"fg":40,"tp":3,"diq":43,"oiq":68,"drb":14,"pss":5,"reb":94}],
+"ratings":[{"hgt":69,"stre":76,"spd":60,"jmp":84,"endu":58,"ins":92,"dnk":94,"ft":26,"fg":45,"tp":3,"diq":43,"oiq":68,"drb":24,"pss":15,"reb":94}],
 "pos":"FC","hgt":83,"weight":240,
 "born":{"year":1994,"loc":"Geneva, Switzerland"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
@@ -1292,7 +1292,7 @@
 
 {"tid":13,
 "name":"Rajon Rondo",
-"ratings":[{"hgt":26,"stre":39,"spd":67,"jmp":63,"endu":49,"ins":30,"dnk":66,"ft":15,"fg":60,"tp":49,"diq":40,"oiq":60,"drb":70,"pss":73,"reb":61}],
+"ratings":[{"hgt":26,"stre":39,"spd":67,"jmp":54,"endu":51,"ins":30,"dnk":70,"ft":30,"fg":60,"tp":49,"diq":45,"oiq":60,"drb":70,"pss":78,"reb":73}],
 "pos":"PG","hgt":73,"weight":186,
 "born":{"year":1986,"loc":"Louisville, KY"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200765.png",
@@ -2017,7 +2017,7 @@
 
 {"tid":28,
 "name":"Jae Crowder",
-"ratings":[{"hgt":46,"stre":86,"spd":56,"jmp":70,"endu":62,"ins":61,"dnk":67,"ft":62,"fg":50,"tp":66,"diq":53,"oiq":52,"drb":39,"pss":49,"reb":50}],
+"ratings":[{"hgt":46,"stre":85,"spd":52,"jmp":61,"endu":62,"ins":59,"dnk":61,"ft":39,"fg":50,"tp":71,"diq":53,"oiq":52,"drb":43,"pss":49,"reb":59}],
 "pos":"SF","hgt":78,"weight":235,
 "born":{"year":1991,"loc":"Villa Rica, GA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203109.png",
@@ -2807,13 +2807,13 @@
 "awards":[{"season":2010,"type":"Most Improved Player"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":13,
 "name":"Andre Ingram",
-"ratings":[{"hgt":33,"stre":25,"spd":48,"jmp":47,"endu":38,"ins":22,"dnk":50,"ft":23,"fg":52,"tp":68,"diq":53,"oiq":41,"drb":46,"pss":32,"reb":30}],
+"ratings":[{"hgt":33,"stre":25,"spd":48,"jmp":47,"endu":32,"ins":22,"dnk":50,"ft":23,"fg":52,"tp":68,"diq":53,"oiq":41,"drb":46,"pss":32,"reb":30}],
 "pos":"SG","hgt":75,"weight":190,
 "born":{"year":1986,"loc":"Richmond, VA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/201281.png",
-"contract":{"amount":1538,"exp":2018},
+"contract":{"amount":850,"exp":2019},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2007},
 "college":"American",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -4184,7 +4184,7 @@
 
 {"tid":10,
 "name":"Eric Gordon",
-"ratings":[{"hgt":36,"stre":36,"spd":66,"jmp":51,"endu":74,"ins":40,"dnk":88,"ft":62,"fg":88,"tp":88,"diq":28,"oiq":66,"drb":70,"pss":38,"reb":21}],
+"ratings":[{"hgt":36,"stre":36,"spd":66,"jmp":51,"endu":74,"ins":40,"dnk":88,"ft":55,"fg":88,"tp":78,"diq":28,"oiq":62,"drb":55,"pss":52,"reb":31}],
 "pos":"SG","hgt":76,"weight":215,
 "born":{"year":1989,"loc":"Indianapolis, IN"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201569.png",
@@ -8794,7 +8794,7 @@
 
 {"tid":2,
 "name":"Spencer Dinwiddie",
-"ratings":[{"hgt":44,"stre":38,"spd":62,"jmp":47,"endu":53,"ins":43,"dnk":83,"ft":58,"fg":77,"tp":78,"diq":35,"oiq":55,"drb":68,"pss":51,"reb":45}],
+"ratings":[{"hgt":44,"stre":38,"spd":62,"jmp":47,"endu":53,"ins":66,"dnk":87,"ft":58,"fg":82,"tp":78,"diq":34,"oiq":52,"drb":68,"pss":51,"reb":37}],
 "pos":"G","hgt":78,"weight":200,
 "born":{"year":1993,"loc":"Los Angeles, CA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203915.png",
