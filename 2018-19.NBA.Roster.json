@@ -1484,7 +1484,7 @@
 
 {"tid":3,
 "name":"Cody Zeller",
-"ratings":[{"hgt":67,"stre":65,"spd":50,"jmp":38,"endu":42,"ins":75,"dnk":70,"ft":44,"fg":53,"tp":0,"diq":32,"oiq":55,"drb":53,"pss":43,"reb":69}],
+"ratings":[{"hgt":67,"stre":65,"spd":50,"jmp":38,"endu":42,"ins":75,"dnk":70,"ft":55,"fg":53,"tp":0,"diq":32,"oiq":55,"drb":53,"pss":43,"reb":69}],
 "pos":"FC","hgt":84,"weight":240,
 "born":{"year":1993,"loc":"Washington, IN"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203469.png",
@@ -1496,7 +1496,7 @@
 
 {"tid":3,
 "name":"Michael Kidd-Gilchrist",
-"ratings":[{"hgt":48,"stre":54,"spd":56,"jmp":63,"endu":44,"ins":55,"dnk":62,"ft":62,"fg":43,"tp":25,"diq":54,"oiq":53,"drb":55,"pss":35,"reb":48}],
+"ratings":[{"hgt":48,"stre":54,"spd":56,"jmp":63,"endu":44,"ins":55,"dnk":62,"ft":54,"fg":43,"tp":25,"diq":54,"oiq":53,"drb":55,"pss":35,"reb":55}],
 "pos":"SF","hgt":79,"weight":232,
 "born":{"year":1994,"loc":"Philadelphia, PA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203077.png",
@@ -1518,7 +1518,7 @@
 
 {"tid":3,
 "name":"Bismack Biyombo",
-"ratings":[{"hgt":57,"stre":77,"spd":43,"jmp":82,"endu":53,"ins":59,"dnk":58,"ft":57,"fg":50,"tp":0,"diq":57,"oiq":44,"drb":13,"pss":21,"reb":86}],
+"ratings":[{"hgt":57,"stre":78,"spd":43,"jmp":72,"endu":53,"ins":66,"dnk":58,"ft":37,"fg":50,"tp":0,"diq":57,"oiq":40,"drb":33,"pss":31,"reb":86}],
 "pos":"C","hgt":81,"weight":255,
 "born":{"year":1993,"loc":"Lubumbashi, Congo"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202687.png",
@@ -1529,7 +1529,7 @@
 
 {"tid":3,
 "name":"Kemba Walker",
-"ratings":[{"hgt":28,"stre":59,"spd":73,"jmp":81,"endu":74,"ins":67,"dnk":90,"ft":68,"fg":86,"tp":75,"diq":42,"oiq":73,"drb":68,"pss":49,"reb":52}],
+"ratings":[{"hgt":28,"stre":59,"spd":73,"jmp":85,"endu":74,"ins":67,"dnk":90,"ft":64,"fg":86,"tp":75,"diq":45,"oiq":73,"drb":64,"pss":49,"reb":52}],
 "pos":"PG","hgt":73,"weight":184,
 "born":{"year":1990,"loc":"Bronx, NY"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202689.png",
@@ -3681,7 +3681,7 @@
 
 {"tid":3,
 "name":"Miles Bridges",
-"ratings":[{"hgt":44,"stre":50,"spd":63,"jmp":70,"endu":38,"ins":46,"dnk":68,"ft":51,"fg":60,"tp":58,"diq":46,"oiq":44,"drb":38,"pss":35,"reb":49}],
+"ratings":[{"hgt":44,"stre":50,"spd":63,"jmp":70,"endu":38,"ins":46,"dnk":68,"ft":51,"fg":60,"tp":58,"diq":46,"oiq":44,"drb":38,"pss":35,"reb":53}],
 "pos":"SF","hgt":78,"weight":225,
 "born":{"year":1998,"loc":"Flint, MI"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628970.png",
@@ -4684,7 +4684,7 @@
 "college":"Duke",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":0,
 "name":"B.J. Johnson",
 "ratings":[{"hgt":48,"stre":29,"spd":61,"jmp":29,"endu":38,"ins":36,"dnk":58,"ft":25,"fg":52,"tp":60,"diq":41,"oiq":33,"drb":58,"pss":53,"reb":17}],
 "pos":"SG","hgt":79,"weight":200,
@@ -5225,7 +5225,7 @@
 
 {"tid":3,
 "name":"Nicolas Batum",
-"ratings":[{"hgt":55,"stre":40,"spd":51,"jmp":52,"endu":57,"ins":41,"dnk":60,"ft":62,"fg":60,"tp":60,"diq":44,"oiq":48,"drb":48,"pss":62,"reb":48}],
+"ratings":[{"hgt":55,"stre":40,"spd":51,"jmp":52,"endu":57,"ins":41,"dnk":60,"ft":62,"fg":60,"tp":69,"diq":50,"oiq":48,"drb":48,"pss":62,"reb":48}],
 "pos":"GF","hgt":80,"weight":200,
 "born":{"year":1989,"loc":"Lisieux, France"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3416.png",
@@ -5887,7 +5887,7 @@
 
 {"tid":3,
 "name":"Marvin Williams",
-"ratings":[{"hgt":58,"stre":64,"spd":50,"jmp":48,"endu":44,"ins":55,"dnk":55,"ft":63,"fg":56,"tp":76,"diq":45,"oiq":50,"drb":42,"pss":40,"reb":63}],
+"ratings":[{"hgt":58,"stre":64,"spd":47,"jmp":48,"endu":44,"ins":55,"dnk":55,"ft":63,"fg":56,"tp":72,"diq":45,"oiq":50,"drb":42,"pss":40,"reb":60}],
 "pos":"F","hgt":81,"weight":237,
 "born":{"year":1987,"loc":"Bremerton, WA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101107.png",
@@ -8593,7 +8593,7 @@
 
 {"tid":3,
 "name":"Willy Hernangomez",
-"ratings":[{"hgt":65,"stre":64,"spd":52,"jmp":55,"endu":42,"ins":68,"dnk":76,"ft":33,"fg":32,"tp":30,"diq":48,"oiq":47,"drb":43,"pss":37,"reb":83}],
+"ratings":[{"hgt":63,"stre":64,"spd":52,"jmp":55,"endu":42,"ins":68,"dnk":76,"ft":38,"fg":32,"tp":35,"diq":30,"oiq":47,"drb":53,"pss":45,"reb":83}],
 "pos":"C","hgt":83,"weight":240,
 "born":{"year":1994,"loc":"Madrid, Spain"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626195.png",
