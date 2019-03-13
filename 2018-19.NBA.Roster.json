@@ -1484,7 +1484,7 @@
 
 {"tid":3,
 "name":"Cody Zeller",
-"ratings":[{"hgt":67,"stre":65,"spd":50,"jmp":38,"endu":42,"ins":75,"dnk":70,"ft":55,"fg":53,"tp":0,"diq":32,"oiq":55,"drb":53,"pss":43,"reb":69}],
+"ratings":[{"hgt":67,"stre":45,"spd":55,"jmp":41,"endu":42,"ins":75,"dnk":70,"ft":55,"fg":56,"tp":25,"diq":41,"oiq":59,"drb":53,"pss":49,"reb":69}],
 "pos":"FC","hgt":84,"weight":240,
 "born":{"year":1993,"loc":"Washington, IN"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203469.png",
@@ -3681,7 +3681,7 @@
 
 {"tid":3,
 "name":"Miles Bridges",
-"ratings":[{"hgt":44,"stre":50,"spd":63,"jmp":70,"endu":38,"ins":46,"dnk":68,"ft":51,"fg":60,"tp":58,"diq":46,"oiq":44,"drb":38,"pss":35,"reb":53}],
+"ratings":[{"hgt":44,"stre":50,"spd":63,"jmp":70,"endu":38,"ins":46,"dnk":68,"ft":51,"fg":60,"tp":58,"diq":42,"oiq":44,"drb":38,"pss":35,"reb":53}],
 "pos":"SF","hgt":78,"weight":225,
 "born":{"year":1998,"loc":"Flint, MI"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628970.png",
@@ -4059,7 +4059,7 @@
 
 {"tid":3,
 "name":"Devonte' Graham",
-"ratings":[{"hgt":30,"stre":22,"spd":61,"jmp":44,"endu":34,"ins":20,"dnk":62,"ft":55,"fg":54,"tp":57,"diq":25,"oiq":48,"drb":52,"pss":55,"reb":23}],
+"ratings":[{"hgt":30,"stre":22,"spd":61,"jmp":44,"endu":34,"ins":20,"dnk":62,"ft":55,"fg":54,"tp":57,"diq":41,"oiq":48,"drb":52,"pss":55,"reb":23}],
 "pos":"SG","hgt":74,"weight":185,
 "born":{"year":1995,"loc":"Raleigh, NC"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628984.png",
@@ -5225,7 +5225,7 @@
 
 {"tid":3,
 "name":"Nicolas Batum",
-"ratings":[{"hgt":55,"stre":40,"spd":51,"jmp":52,"endu":57,"ins":41,"dnk":60,"ft":62,"fg":60,"tp":69,"diq":50,"oiq":48,"drb":48,"pss":62,"reb":48}],
+"ratings":[{"hgt":55,"stre":40,"spd":51,"jmp":52,"endu":57,"ins":41,"dnk":60,"ft":68,"fg":60,"tp":69,"diq":52,"oiq":48,"drb":48,"pss":62,"reb":48}],
 "pos":"GF","hgt":80,"weight":200,
 "born":{"year":1989,"loc":"Lisieux, France"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3416.png",
@@ -5544,7 +5544,7 @@
 
 {"tid":3,
 "name":"Tony Parker",
-"ratings":[{"hgt":30,"stre":37,"spd":63,"jmp":48,"endu":36,"ins":41,"dnk":82,"ft":43,"fg":66,"tp":32,"diq":34,"oiq":63,"drb":77,"pss":49,"reb":37}],
+"ratings":[{"hgt":30,"stre":37,"spd":60,"jmp":46,"endu":36,"ins":65,"dnk":82,"ft":43,"fg":66,"tp":32,"diq":34,"oiq":63,"drb":70,"pss":49,"reb":37}],
 "pos":"PG","hgt":74,"weight":185,
 "born":{"year":1982,"loc":"Bruges, Belgium"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2225.png",
