@@ -892,7 +892,7 @@
 
 {"tid":7,
 "name":"Gary Harris",
-"ratings":[{"hgt":42,"stre":40,"spd":63,"jmp":60,"endu":75,"ins":35,"dnk":75,"ft":64,"fg":76,"tp":78,"diq":54,"oiq":71,"drb":60,"pss":56,"reb":30}],
+"ratings":[{"hgt":42,"stre":40,"spd":63,"jmp":60,"endu":65,"ins":52,"dnk":75,"ft":64,"fg":76,"tp":63,"diq":50,"oiq":63,"drb":60,"pss":56,"reb":30}],
 "pos":"SG","hgt":77,"weight":210,
 "born":{"year":1995,"loc":"Fishers, IN"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203914.png",
@@ -1169,7 +1169,7 @@
 
 {"tid":7,
 "name":"Paul Millsap",
-"ratings":[{"hgt":54,"stre":73,"spd":50,"jmp":66,"endu":50,"ins":72,"dnk":75,"ft":45,"fg":63,"tp":45,"diq":56,"oiq":61,"drb":49,"pss":64,"reb":71}],
+"ratings":[{"hgt":54,"stre":73,"spd":50,"jmp":43,"endu":50,"ins":82,"dnk":61,"ft":45,"fg":63,"tp":45,"diq":66,"oiq":61,"drb":58,"pss":60,"reb":79}],
 "pos":"PF","hgt":80,"weight":246,
 "born":{"year":1985,"loc":"Monroe, LA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200794.png",
@@ -1370,7 +1370,7 @@
 
 {"tid":7,
 "name":"Mason Plumlee",
-"ratings":[{"hgt":67,"stre":71,"spd":47,"jmp":63,"endu":50,"ins":72,"dnk":78,"ft":12,"fg":51,"tp":0,"diq":49,"oiq":64,"drb":38,"pss":50,"reb":76}],
+"ratings":[{"hgt":67,"stre":71,"spd":47,"jmp":69,"endu":50,"ins":83,"dnk":80,"ft":17,"fg":21,"tp":0,"diq":43,"oiq":64,"drb":38,"pss":50,"reb":76}],
 "pos":"FC","hgt":84,"weight":255,
 "born":{"year":1990,"loc":"Fort Wayne, IN"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203486.png",
@@ -3602,7 +3602,7 @@
 
 {"tid":7,
 "name":"Monte Morris",
-"ratings":[{"hgt":29,"stre":27,"spd":68,"jmp":55,"endu":50,"ins":31,"dnk":60,"ft":59,"fg":65,"tp":60,"diq":46,"oiq":63,"drb":66,"pss":60,"reb":50}],
+"ratings":[{"hgt":29,"stre":27,"spd":68,"jmp":55,"endu":55,"ins":48,"dnk":60,"ft":59,"fg":65,"tp":60,"diq":46,"oiq":65,"drb":66,"pss":67,"reb":50}],
 "pos":"PG","hgt":74,"weight":175,
 "born":{"year":1996,"loc":"Flint, MI"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628420.png",
@@ -4728,14 +4728,14 @@
 "college":"Kentucky",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":21,
 "name":"Michael Carter-Williams",
 "ratings":[{"hgt":44,"stre":25,"spd":56,"jmp":52,"endu":40,"ins":25,"dnk":57,"ft":15,"fg":54,"tp":38,"diq":48,"oiq":46,"drb":50,"pss":48,"reb":62}],
 "awards":[{"season":2014,"type":"Rookie of the Year"}],
 "pos":"PG","hgt":78,"weight":190,
 "born":{"year":1992,"loc":"Hamilton, MA"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2596108.png&w=350&h=254",
-"contract":{"amount":1750,"exp":2019},
+"contract":{"amount":850,"exp":2019},
 "draft":{"round":1,"pick":11,"tid":22,"originalTid":22,"year":2013},
 "college":"Syracuse",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -5175,7 +5175,7 @@
 "contract":{"amount":11825,"exp":2022},
 "draft":{"round":2,"pick":10,"tid":24,"originalTid":17,"year":2012},
 "college":"Memphis",
-"ratings":[{"hgt":42,"stre":32,"spd":65,"jmp":87,"endu":47,"ins":48,"dnk":83,"ft":60,"fg":79,"tp":55,"diq":41,"oiq":64,"drb":44,"pss":65,"reb":58}],
+"ratings":[{"hgt":42,"stre":32,"spd":65,"jmp":82,"endu":47,"ins":57,"dnk":83,"ft":63,"fg":69,"tp":64,"diq":38,"oiq":54,"drb":44,"pss":70,"reb":65}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":11,
@@ -5357,13 +5357,13 @@
 
 {"tid":7,
 "name":"Isaiah Thomas",
+"ratings":[{"hgt":11,"stre":45,"spd":60,"jmp":56,"endu":59,"ins":50,"dnk":82,"ft":75,"fg":85,"tp":58,"diq":36,"oiq":56,"drb":74,"pss":59,"reb":47}],
 "pos":"PG","hgt":69,"weight":185,
 "born":{"year":1989,"loc":"Tacoma, WA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202738.png",
 "contract":{"amount":2025,"exp":2019},
 "draft":{"round":2,"pick":30,"tid":25,"originalTid":4,"year":2011},
 "college":"Washington",
-"ratings":[{"hgt":11,"stre":45,"spd":65,"jmp":76,"endu":59,"ins":50,"dnk":82,"ft":75,"fg":85,"tp":58,"diq":19,"oiq":56,"drb":74,"pss":59,"reb":47}],
 "injury":{"type":"Hip","gamesRemaining":60}},
 
 {"tid":9,
@@ -6393,7 +6393,7 @@
 
 {"tid":7,
 "name":"Trey Lyles",
-"ratings":[{"hgt":59,"stre":59,"spd":36,"jmp":46,"endu":50,"ins":72,"dnk":59,"ft":42,"fg":70,"tp":47,"diq":48,"oiq":57,"drb":38,"pss":33,"reb":72}],
+"ratings":[{"hgt":59,"stre":59,"spd":58,"jmp":58,"endu":40,"ins":72,"dnk":59,"ft":42,"fg":70,"tp":47,"diq":34,"oiq":45,"drb":38,"pss":33,"reb":72}],
 "pos":"PF","hgt":82,"weight":234,
 "born":{"year":1996,"loc":"Saskatoon, Canada"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626168.png",
@@ -6581,7 +6581,7 @@
 
 {"tid":7,
 "name":"Malik Beasley",
-"ratings":[{"hgt":43,"stre":41,"spd":69,"jmp":75,"endu":45,"ins":48,"dnk":67,"ft":70,"fg":59,"tp":71,"diq":39,"oiq":52,"drb":45,"pss":31,"reb":40}],
+"ratings":[{"hgt":43,"stre":43,"spd":74,"jmp":80,"endu":49,"ins":58,"dnk":71,"ft":75,"fg":59,"tp":77,"diq":39,"oiq":56,"drb":45,"pss":52,"reb":40}],
 "pos":"SG","hgt":77,"weight":196,
 "born":{"year":1997,"loc":"Alpharetta, GA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627736.png",
@@ -7012,7 +7012,7 @@
 
 {"tid":7,
 "name":"Michael Porter",
-"ratings":[{"hgt":60,"stre":46,"spd":61,"jmp":71,"endu":28,"ins":50,"dnk":65,"ft":60,"fg":77,"tp":72,"diq":45,"oiq":46,"drb":43,"pss":39,"reb":50}],
+"ratings":[{"hgt":60,"stre":46,"spd":61,"jmp":71,"endu":28,"ins":50,"dnk":65,"ft":60,"fg":77,"tp":72,"diq":45,"oiq":37,"drb":43,"pss":39,"reb":50}],
 "pos":"SF","hgt":82,"weight":215,
 "born":{"year":1999,"loc":"Columbia, MO"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629008.png",
@@ -7255,13 +7255,13 @@
 "college":"UNLV",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":15,
 "name":"Charles Cooke",
 "ratings":[{"hgt":42,"stre":26,"spd":53,"jmp":52,"endu":29,"ins":28,"dnk":57,"ft":25,"fg":61,"tp":55,"diq":27,"oiq":39,"drb":56,"pss":52,"reb":29}],
 "pos":"SG","hgt":77,"weight":196,
 "born":{"year":1995,"loc":"Trenton, NJ"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628429.png",
-"contract":{"amount":850,"exp":2018},
+"contract":{"amount":850,"exp":2019},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2017},
 "college":"Dayton",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -8761,7 +8761,7 @@
 
 {"tid":7,
 "name":"Nikola Jokic",
-"ratings":[{"hgt":69,"stre":80,"spd":61,"jmp":35,"endu":60,"ins":82,"dnk":84,"ft":67,"fg":69,"tp":42,"diq":48,"oiq":70,"drb":71,"pss":73,"reb":96}],
+"ratings":[{"hgt":69,"stre":80,"spd":40,"jmp":22,"endu":60,"ins":82,"dnk":84,"ft":67,"fg":69,"tp":42,"diq":65,"oiq":70,"drb":71,"pss":78,"reb":96}],
 "pos":"FC","hgt":83,"weight":250,
 "born":{"year":1995,"loc":"Sombor, Serbia"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203999.png",
@@ -9063,7 +9063,7 @@
 "contract":{"amount":3500,"exp":2020},
 "draft":{"round":1,"pick":7,"tid":7,"originalTid":19,"year":2016},
 "college":"Kentucky",
-"ratings":[{"hgt":40,"stre":45,"spd":65,"jmp":68,"endu":60,"ins":62,"dnk":88,"ft":60,"fg":84,"tp":66,"diq":44,"oiq":55,"drb":64,"pss":69,"reb":59}]},
+"ratings":[{"hgt":40,"stre":45,"spd":65,"jmp":68,"endu":60,"ins":62,"dnk":88,"ft":66,"fg":84,"tp":66,"diq":44,"oiq":55,"drb":64,"pss":69,"reb":59}]},
 
 {"tid":23,
 "name":"Dragan Bender",
