@@ -459,7 +459,7 @@
 
 {"tid":1,
 "name":"Terry Rozier",
-"ratings":[{"hgt":30,"stre":38,"spd":63,"jmp":71,"endu":46,"ins":39,"dnk":72,"ft":53,"fg":67,"tp":72,"diq":40,"oiq":55,"drb":73,"pss":54,"reb":73}],
+"ratings":[{"hgt":30,"stre":38,"spd":69,"jmp":71,"endu":46,"ins":47,"dnk":72,"ft":53,"fg":67,"tp":68,"diq":40,"oiq":42,"drb":68,"pss":54,"reb":73}],
 "pos":"PG","hgt":74,"weight":190,
 "born":{"year":1994,"loc":"Cleveland, OH"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626179.png",
@@ -525,7 +525,7 @@
 
 {"tid":14,
 "name":"Bruno Caboclo",
-"ratings":[{"hgt":57,"stre":38,"spd":56,"jmp":57,"endu":28,"ins":44,"dnk":45,"ft":58,"fg":32,"tp":37,"diq":56,"oiq":38,"drb":33,"pss":31,"reb":38}],
+"ratings":[{"hgt":57,"stre":43,"spd":62,"jmp":61,"endu":33,"ins":54,"dnk":55,"ft":58,"fg":42,"tp":37,"diq":56,"oiq":42,"drb":39,"pss":39,"reb":46}],
 "pos":"F","hgt":81,"weight":205,
 "born":{"year":1996,"loc":"Osasco, Brazil"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203998.png",
@@ -3502,7 +3502,7 @@
 
 {"tid":14,
 "name":"Mike Conley",
-"ratings":[{"hgt":27,"stre":46,"spd":74,"jmp":63,"endu":65,"ins":54,"dnk":69,"ft":59,"fg":77,"tp":68,"diq":50,"oiq":72,"drb":68,"pss":63,"reb":35}],
+"ratings":[{"hgt":27,"stre":46,"spd":74,"jmp":63,"endu":65,"ins":64,"dnk":77,"ft":66,"fg":77,"tp":68,"diq":57,"oiq":72,"drb":66,"pss":56,"reb":41}],
 "pos":"PG","hgt":73,"weight":175,
 "born":{"year":1988,"loc":"Fayetteville, AR"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201144.png",
@@ -4112,7 +4112,7 @@
 "college":"Duke",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":10,
 "name":"Chris Chiozza",
 "ratings":[{"hgt":23,"stre":28,"spd":61,"jmp":34,"endu":43,"ins":25,"dnk":51,"ft":50,"fg":49,"tp":59,"diq":34,"oiq":35,"drb":50,"pss":58,"reb":48}],
 "pos":"PG","hgt":72,"weight":175,
@@ -7741,7 +7741,7 @@
 "college":"Rhode Island",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":27,
+{"tid":-1,
 "name":"Eric Moreland",
 "ratings":[{"hgt":59,"stre":54,"spd":36,"jmp":47,"endu":40,"ins":59,"dnk":58,"ft":0,"fg":35,"tp":0,"diq":45,"oiq":48,"drb":37,"pss":38,"reb":55}],
 "pos":"FC","hgt":82,"weight":218,
