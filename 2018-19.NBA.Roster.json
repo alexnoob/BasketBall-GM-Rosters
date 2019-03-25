@@ -1270,7 +1270,7 @@
 
 {"tid":14,
 "name":"Avery Bradley",
-"ratings":[{"hgt":30,"stre":56,"spd":64,"jmp":55,"endu":56,"ins":25,"dnk":62,"ft":53,"fg":75,"tp":44,"diq":55,"oiq":50,"drb":50,"pss":54,"reb":55}],
+"ratings":[{"hgt":30,"stre":56,"spd":64,"jmp":55,"endu":56,"ins":40,"dnk":62,"ft":53,"fg":75,"tp":60,"diq":55,"oiq":50,"drb":62,"pss":64,"reb":55}],
 "pos":"G","hgt":74,"weight":180,
 "born":{"year":1991,"loc":"Tacoma, WA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202340.png",
@@ -8905,13 +8905,13 @@
 
 {"tid":14,
 "name":"Ivan Rabb",
+"ratings":[{"hgt":62,"stre":58,"spd":55,"jmp":56,"endu":42,"ins":75,"dnk":63,"ft":58,"fg":33,"tp":10,"diq":44,"oiq":52,"drb":42,"pss":32,"reb":69}],
 "pos":"PF","hgt":82,"weight":215,
 "born":{"year":1997,"loc":"Oakland, CA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628397.png",
 "contract":{"amount":1375,"exp":2020},
 "draft":{"round":2,"pick":5,"tid":21,"originalTid":21,"year":2017},
 "college":"California",
-"ratings":[{"hgt":62,"stre":58,"spd":50,"jmp":48,"endu":42,"ins":75,"dnk":58,"ft":58,"fg":24,"tp":0,"diq":44,"oiq":52,"drb":36,"pss":29,"reb":69}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":2,
