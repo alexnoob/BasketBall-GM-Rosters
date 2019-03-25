@@ -604,7 +604,7 @@
 
 {"tid":15,
 "name":"Justise Winslow",
-"ratings":[{"hgt":48,"stre":64,"spd":64,"jmp":73,"endu":56,"ins":44,"dnk":71,"ft":32,"fg":61,"tp":59,"diq":56,"oiq":53,"drb":40,"pss":61,"reb":62}],
+"ratings":[{"hgt":48,"stre":64,"spd":64,"jmp":73,"endu":56,"ins":44,"dnk":74,"ft":32,"fg":64,"tp":59,"diq":46,"oiq":53,"drb":50,"pss":63,"reb":64}],
 "pos":"SF","hgt":79,"weight":225,
 "born":{"year":1996,"loc":"Houston, TX"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626159.png",
@@ -1237,7 +1237,7 @@
 
 {"tid":15,
 "name":"Kelly Olynyk",
-"ratings":[{"hgt":67,"stre":45,"spd":44,"jmp":44,"endu":51,"ins":59,"dnk":59,"ft":53,"fg":68,"tp":77,"diq":42,"oiq":59,"drb":29,"pss":48,"reb":50}],
+"ratings":[{"hgt":67,"stre":45,"spd":44,"jmp":44,"endu":51,"ins":59,"dnk":59,"ft":53,"fg":68,"tp":74,"diq":42,"oiq":59,"drb":29,"pss":48,"reb":50}],
 "pos":"FC","hgt":84,"weight":238,
 "born":{"year":1991,"loc":"Toronto, Canada"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203482.png",
@@ -2415,13 +2415,13 @@
 "college":"Duke",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":1,
 "name":"Greg Monroe",
 "ratings":[{"hgt":63,"stre":85,"spd":20,"jmp":30,"endu":40,"ins":70,"dnk":65,"ft":45,"fg":40,"tp":0,"diq":64,"oiq":62,"drb":40,"pss":38,"reb":75}],
 "pos":"FC","hgt":83,"weight":265,
 "born":{"year":1990,"loc":"Harvey, LA"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4260.png",
-"contract":{"amount":2150,"exp":2019},
+"contract":{"amount":850,"exp":2019},
 "draft":{"round":1,"pick":7,"tid":8,"originalTid":8,"year":2010},
 "college":"Georgetown",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -3625,7 +3625,7 @@
 
 {"tid":15,
 "name":"Dwyane Wade",
-"ratings":[{"hgt":37,"stre":73,"spd":62,"jmp":55,"endu":38,"ins":53,"dnk":73,"ft":53,"fg":61,"tp":54,"diq":50,"oiq":58,"drb":71,"pss":49,"reb":47}],
+"ratings":[{"hgt":37,"stre":65,"spd":62,"jmp":55,"endu":38,"ins":53,"dnk":83,"ft":37,"fg":69,"tp":54,"diq":50,"oiq":62,"drb":75,"pss":41,"reb":53}],
 "pos":"G","hgt":76,"weight":220,
 "born":{"year":1982,"loc":"Chicago, IL"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2548.png",
@@ -5589,7 +5589,7 @@
 
 {"tid":14,
 "name":"Jonas Valanciunas",
-"ratings":[{"hgt":67,"stre":82,"spd":50,"jmp":49,"endu":42,"ins":73,"dnk":77,"ft":60,"fg":68,"tp":36,"diq":43,"oiq":60,"drb":42,"pss":45,"reb":86}],
+"ratings":[{"hgt":68,"stre":82,"spd":54,"jmp":49,"endu":47,"ins":87,"dnk":77,"ft":60,"fg":60,"tp":36,"diq":45,"oiq":65,"drb":52,"pss":45,"reb":86}],
 "pos":"C","hgt":83,"weight":255,
 "born":{"year":1992,"loc":"Utena, Lithuania"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202685.png",
@@ -6669,7 +6669,7 @@
 
 {"tid":15,
 "name":"Bam Adebayo",
-"ratings":[{"hgt":58,"stre":76,"spd":48,"jmp":66,"endu":49,"ins":71,"dnk":73,"ft":59,"fg":38,"tp":0,"diq":66,"oiq":57,"drb":36,"pss":42,"reb":74}],
+"ratings":[{"hgt":58,"stre":76,"spd":54,"jmp":66,"endu":49,"ins":73,"dnk":73,"ft":48,"fg":38,"tp":0,"diq":60,"oiq":57,"drb":36,"pss":42,"reb":80}],
 "pos":"PF","hgt":81,"weight":240,
 "born":{"year":1998,"loc":"Gatesville, NC"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628389.png",
@@ -7246,7 +7246,7 @@
 
 {"tid":15,
 "name":"Derrick Jones Jr.",
-"ratings":[{"hgt":50,"stre":35,"spd":60,"jmp":84,"endu":39,"ins":59,"dnk":67,"ft":66,"fg":40,"tp":26,"diq":49,"oiq":45,"drb":36,"pss":35,"reb":44}],
+"ratings":[{"hgt":50,"stre":45,"spd":65,"jmp":89,"endu":39,"ins":59,"dnk":67,"ft":66,"fg":40,"tp":26,"diq":49,"oiq":45,"drb":36,"pss":35,"reb":44}],
 "pos":"SF","hgt":79,"weight":190,
 "born":{"year":1997,"loc":"Chester, PA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627884.png",
@@ -7255,7 +7255,7 @@
 "college":"UNLV",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":15,
+{"tid":-1,
 "name":"Charles Cooke",
 "ratings":[{"hgt":42,"stre":26,"spd":53,"jmp":52,"endu":29,"ins":28,"dnk":57,"ft":25,"fg":61,"tp":55,"diq":27,"oiq":39,"drb":56,"pss":52,"reb":29}],
 "pos":"SG","hgt":77,"weight":196,
