@@ -604,7 +604,7 @@
 
 {"tid":15,
 "name":"Justise Winslow",
-"ratings":[{"hgt":48,"stre":64,"spd":64,"jmp":73,"endu":56,"ins":44,"dnk":74,"ft":32,"fg":64,"tp":59,"diq":46,"oiq":53,"drb":50,"pss":63,"reb":64}],
+"ratings":[{"hgt":48,"stre":64,"spd":64,"jmp":73,"endu":56,"ins":44,"dnk":74,"ft":32,"fg":64,"tp":59,"diq":45,"oiq":53,"drb":58,"pss":63,"reb":64}],
 "pos":"SF","hgt":79,"weight":225,
 "born":{"year":1996,"loc":"Houston, TX"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626159.png",
@@ -3715,7 +3715,7 @@
 
 {"tid":16,
 "name":"Giannis Antetokounmpo",
-"ratings":[{"hgt":72,"stre":85,"spd":75,"jmp":70,"endu":78,"ins":89,"dnk":95,"ft":40,"fg":90,"tp":29,"diq":36,"oiq":74,"drb":52,"pss":66,"reb":81}],
+"ratings":[{"hgt":72,"stre":85,"spd":75,"jmp":70,"endu":83,"ins":93,"dnk":95,"ft":40,"fg":90,"tp":31,"diq":36,"oiq":74,"drb":52,"pss":66,"reb":90}],
 "pos":"PF","hgt":83,"weight":222,
 "born":{"year":1995,"loc":"Athens, Greece"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3032977.png&w=350&h=254",
@@ -4172,7 +4172,7 @@
 
 {"tid":15,
 "name":"Ryan Anderson",
-"ratings":[{"hgt":58,"stre":50,"spd":44,"jmp":44,"endu":44,"ins":52,"dnk":65,"ft":55,"fg":75,"tp":74,"diq":37,"oiq":55,"drb":28,"pss":29,"reb":63}],
+"ratings":[{"hgt":58,"stre":40,"spd":40,"jmp":44,"endu":34,"ins":45,"dnk":52,"ft":50,"fg":65,"tp":74,"diq":31,"oiq":55,"drb":28,"pss":29,"reb":53}],
 "pos":"PF","hgt":82,"weight":240,
 "born":{"year":1988,"loc":"Sacramento, CA"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3412.png",
@@ -4742,7 +4742,7 @@
 
 {"tid":15,
 "name":"Josh Richardson",
-"ratings":[{"hgt":45,"stre":48,"spd":67,"jmp":78,"endu":55,"ins":55,"dnk":87,"ft":70,"fg":83,"tp":74,"diq":47,"oiq":57,"drb":52,"pss":53,"reb":37}],
+"ratings":[{"hgt":45,"stre":48,"spd":67,"jmp":78,"endu":55,"ins":45,"dnk":87,"ft":68,"fg":83,"tp":74,"diq":47,"oiq":50,"drb":52,"pss":58,"reb":37}],
 "pos":"SG","hgt":78,"weight":200,
 "born":{"year":1994,"loc":"Edmond, OK"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626196.png",
@@ -4987,7 +4987,7 @@
 
 {"tid":16,
 "name":"Eric Bledsoe",
-"ratings":[{"hgt":26,"stre":58,"spd":68,"jmp":68,"endu":59,"ins":43,"dnk":82,"ft":55,"fg":68,"tp":70,"diq":55,"oiq":60,"drb":72,"pss":63,"reb":44}],
+"ratings":[{"hgt":26,"stre":58,"spd":68,"jmp":68,"endu":59,"ins":53,"dnk":82,"ft":55,"fg":68,"tp":62,"diq":55,"oiq":60,"drb":63,"pss":63,"reb":54}],
 "pos":"G","hgt":73,"weight":205,
 "born":{"year":1990,"loc":"Birmingham, AL"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202339.png",
@@ -5020,7 +5020,7 @@
 
 {"tid":15,
 "name":"Goran Dragic",
-"ratings":[{"hgt":35,"stre":39,"spd":69,"jmp":55,"endu":65,"ins":42,"dnk":86,"ft":59,"fg":85,"tp":62,"diq":36,"oiq":57,"drb":67,"pss":48,"reb":41}],
+"ratings":[{"hgt":35,"stre":39,"spd":69,"jmp":55,"endu":65,"ins":42,"dnk":86,"ft":59,"fg":85,"tp":62,"diq":32,"oiq":51,"drb":67,"pss":48,"reb":41}],
 "pos":"PG","hgt":75,"weight":190,
 "born":{"year":1986,"loc":"Ljubljana, Slovenia"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201609.png",
@@ -5346,13 +5346,13 @@
 
 {"tid":23,
 "name":"Jimmer Fredette",
+"ratings":[{"hgt":27,"stre":25,"spd":50,"jmp":44,"endu":40,"ins":38,"dnk":42,"ft":76,"fg":62,"tp":65,"diq":21,"oiq":39,"drb":52,"pss":48,"reb":28}],
 "pos":"G","hgt":74,"weight":195,
 "born":{"year":1989,"loc":"Glens Falls, NY"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6434.png",
 "contract":{"amount":850,"exp":2019},
 "draft":{"round":1,"pick":10,"tid":16,"originalTid":16,"year":2011},
 "college":"Brigham Young",
-"ratings":[{"hgt":27,"stre":25,"spd":48,"jmp":39,"endu":40,"ins":38,"dnk":32,"ft":76,"fg":57,"tp":70,"diq":10,"oiq":39,"drb":52,"pss":48,"reb":22}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":7,
@@ -6347,7 +6347,7 @@
 "college":"Texas Tech",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":16,
+{"tid":-1,
 "name":"Trevon Duval",
 "ratings":[{"hgt":33,"stre":29,"spd":62,"jmp":63,"endu":25,"ins":26,"dnk":52,"ft":31,"fg":45,"tp":48,"diq":31,"oiq":30,"drb":61,"pss":56,"reb":22}],
 "pos":"PG","hgt":75,"weight":191,
@@ -6756,15 +6756,15 @@
 "relatives":[{"type":"brother","pid":232,"name":"Stephen Curry"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
-"name":"Pierre Jackson",
-"ratings":[{"hgt":14,"stre":3,"spd":68,"jmp":52,"endu":35,"ins":25,"dnk":60,"ft":77,"fg":59,"tp":58,"diq":34,"oiq":55,"drb":71,"pss":57,"reb":14}],
-"pos":"PG","hgt":70,"weight":176,
-"born":{"year":1992,"loc":"Las Vegas, NV"},
-"imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/203510.png",
-"contract":{"amount":500,"exp":2017},
-"draft":{"round":2,"pick":12,"tid":22,"originalTid":22,"year":2013},
-"college":"Baylor",
+{"tid":25,
+"name":"Cody Demps",
+"ratings":[{"hgt":37,"stre":30,"spd":58,"jmp":52,"endu":35,"ins":25,"dnk":60,"ft":55,"fg":49,"tp":38,"diq":34,"oiq":55,"drb":61,"pss":57,"reb":42}],
+"pos":"PG","hgt":76,"weight":195,
+"born":{"year":1994,"loc":"Elk Grove, CA"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/1628610.png",
+"contract":{"amount":850,"exp":2019},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2016},
+"college":"Sacramento State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
@@ -6955,7 +6955,7 @@
 "college":"St. John's",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":23,
+{"tid":20,
 "name":"Jawun Evans",
 "ratings":[{"hgt":22,"stre":28,"spd":66,"jmp":48,"endu":32,"ins":4,"dnk":54,"ft":62,"fg":32,"tp":52,"diq":30,"oiq":45,"drb":62,"pss":65,"reb":20}],
 "pos":"PG","hgt":72,"weight":190,
@@ -7521,7 +7521,7 @@
 
 {"tid":16,
 "name":"Malcolm Brogdon",
-"ratings":[{"hgt":46,"stre":43,"spd":61,"jmp":66,"endu":53,"ins":38,"dnk":71,"ft":82,"fg":79,"tp":72,"diq":26,"oiq":60,"drb":52,"pss":65,"reb":42}],
+"ratings":[{"hgt":46,"stre":43,"spd":61,"jmp":56,"endu":53,"ins":48,"dnk":71,"ft":82,"fg":79,"tp":72,"diq":36,"oiq":64,"drb":54,"pss":55,"reb":52}],
 "pos":"SG","hgt":78,"weight":215,
 "born":{"year":1993,"loc":"Norcross, GA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627763.png",
