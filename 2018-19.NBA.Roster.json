@@ -825,7 +825,7 @@
 
 {"tid":20,
 "name":"Jerami Grant",
-"ratings":[{"hgt":52,"stre":45,"spd":59,"jmp":75,"endu":43,"ins":52,"dnk":71,"ft":34,"fg":62,"tp":40,"diq":55,"oiq":55,"drb":29,"pss":30,"reb":50}],
+"ratings":[{"hgt":53,"stre":52,"spd":50,"jmp":75,"endu":53,"ins":64,"dnk":71,"ft":44,"fg":62,"tp":49,"diq":55,"oiq":55,"drb":39,"pss":31,"reb":58}],
 "pos":"PF","hgt":80,"weight":210,
 "born":{"year":1994,"loc":"Portland, OR"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203924.png",
@@ -3176,7 +3176,7 @@
 "awards":[{"season":2008,"type":"League Assists Leader"},{"season":2009,"type":"League Assists Leader"},{"season":2014,"type":"League Assists Leader"},{"season":2015,"type":"League Assists Leader"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":4,
 "firstName":"Walter","lastName":"Lemon Jr.",
 "ratings":[{"hgt":33,"stre":36,"spd":51,"jmp":55,"endu":27,"ins":23,"dnk":57,"ft":52,"fg":60,"tp":61,"diq":30,"oiq":39,"drb":61,"pss":47,"reb":13}],
 "pos":"PG","hgt":75,"weight":180,
@@ -3189,7 +3189,7 @@
 
 {"tid":20,
 "name":"Terrance Ferguson",
-"ratings":[{"hgt":48,"stre":37,"spd":56,"jmp":78,"endu":45,"ins":29,"dnk":51,"ft":32,"fg":45,"tp":61,"diq":46,"oiq":40,"drb":52,"pss":36,"reb":43}],
+"ratings":[{"hgt":48,"stre":37,"spd":56,"jmp":78,"endu":45,"ins":29,"dnk":51,"ft":32,"fg":45,"tp":61,"diq":46,"oiq":40,"drb":52,"pss":36,"reb":34}],
 "pos":"SG","hgt":79,"weight":201,
 "born":{"year":1998,"loc":"Flower Mound, TX"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628390.png",
@@ -4437,7 +4437,7 @@
 "contract":{"amount":10000,"exp":2020},
 "draft":{"round":1,"pick":26,"tid":17,"originalTid":14,"year":2013},
 "college":"Colorado",
-"injury":{"type":"Left knee ruptured patellar tendon","gamesRemaining":75}},
+"injury":{"type":"Left knee ruptured patellar tendon","gamesRemaining":80}},
 
 {"tid":-1,
 "name":"Perry Jones",
