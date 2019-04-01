@@ -1683,7 +1683,7 @@
 
 {"tid":21,
 "name":"D.J. Augustin",
-"ratings":[{"hgt":22,"stre":27,"spd":61,"jmp":45,"endu":42,"ins":35,"dnk":69,"ft":68,"fg":73,"tp":70,"diq":31,"oiq":48,"drb":70,"pss":59,"reb":42}],
+"ratings":[{"hgt":22,"stre":27,"spd":61,"jmp":45,"endu":42,"ins":43,"dnk":69,"ft":68,"fg":73,"tp":70,"diq":31,"oiq":48,"drb":70,"pss":52,"reb":42}],
 "pos":"PG","hgt":72,"weight":183,
 "born":{"year":1988,"loc":"New Orleans, LA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201571.png",
@@ -3838,7 +3838,7 @@
 
 {"tid":8,
 "name":"Zaza Pachulia",
-"ratings":[{"hgt":65,"stre":74,"spd":43,"jmp":40,"endu":48,"ins":66,"dnk":69,"ft":61,"fg":60,"tp":0,"diq":40,"oiq":56,"drb":38,"pss":61,"reb":82}],
+"ratings":[{"hgt":65,"stre":74,"spd":43,"jmp":40,"endu":33,"ins":66,"dnk":59,"ft":61,"fg":55,"tp":0,"diq":40,"oiq":50,"drb":38,"pss":52,"reb":82}],
 "pos":"C","hgt":83,"weight":275,
 "born":{"year":1984,"loc":"Tbilisi, Georgia"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2585.png",
@@ -4462,7 +4462,7 @@
 
 {"tid":8,
 "name":"Reggie Jackson",
-"ratings":[{"hgt":33,"stre":40,"spd":68,"jmp":78,"endu":62,"ins":22,"dnk":85,"ft":65,"fg":69,"tp":62,"diq":31,"oiq":46,"drb":70,"pss":59,"reb":48}],
+"ratings":[{"hgt":33,"stre":40,"spd":68,"jmp":74,"endu":62,"ins":32,"dnk":85,"ft":65,"fg":69,"tp":65,"diq":28,"oiq":39,"drb":60,"pss":59,"reb":48}],
 "pos":"G","hgt":75,"weight":208,
 "born":{"year":1990,"loc":"Pordenone, Italy"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202704.png",
@@ -4619,7 +4619,7 @@
 
 {"tid":21,
 "name":"Nikola Vucevic",
-"ratings":[{"hgt":70,"stre":83,"spd":35,"jmp":48,"endu":60,"ins":86,"dnk":85,"ft":55,"fg":80,"tp":46,"diq":55,"oiq":64,"drb":53,"pss":38,"reb":90}],
+"ratings":[{"hgt":70,"stre":83,"spd":39,"jmp":48,"endu":60,"ins":90,"dnk":85,"ft":55,"fg":80,"tp":46,"diq":52,"oiq":64,"drb":66,"pss":38,"reb":90}],
 "pos":"C","hgt":84,"weight":240,
 "born":{"year":1991,"loc":"Morges, Switzerland"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202696.png",
@@ -4997,7 +4997,7 @@
 
 {"tid":8,
 "name":"Ish Smith",
-"ratings":[{"hgt":22,"stre":28,"spd":73,"jmp":57,"endu":44,"ins":21,"dnk":64,"ft":30,"fg":65,"tp":56,"diq":15,"oiq":55,"drb":68,"pss":44,"reb":48}],
+"ratings":[{"hgt":22,"stre":28,"spd":73,"jmp":57,"endu":44,"ins":21,"dnk":64,"ft":30,"fg":65,"tp":56,"diq":31,"oiq":55,"drb":68,"pss":44,"reb":48}],
 "pos":"PG","hgt":72,"weight":175,
 "born":{"year":1989,"loc":"Charlotte, NC"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202397.png",
@@ -8782,7 +8782,7 @@
 
 {"tid":8,
 "firstName":"Glenn","lastName":"Robinson III",
-"ratings":[{"hgt":45,"stre":28,"spd":54,"jmp":83,"endu":31,"ins":38,"dnk":60,"ft":67,"fg":57,"tp":60,"diq":38,"oiq":51,"drb":45,"pss":32,"reb":32}],
+"ratings":[{"hgt":45,"stre":28,"spd":54,"jmp":77,"endu":31,"ins":38,"dnk":52,"ft":67,"fg":57,"tp":60,"diq":38,"oiq":42,"drb":45,"pss":32,"reb":32}],
 "pos":"SF","hgt":78,"weight":222,
 "born":{"year":1994,"loc":"Gary, IN"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203922.png",
@@ -8981,7 +8981,7 @@
 
 {"tid":21,
 "name":"Isaiah Briscoe",
-"ratings":[{"hgt":33,"stre":32,"spd":56,"jmp":29,"endu":46,"ins":28,"dnk":50,"ft":66,"fg":63,"tp":60,"diq":34,"oiq":34,"drb":58,"pss":33,"reb":35}],
+"ratings":[{"hgt":33,"stre":32,"spd":56,"jmp":34,"endu":46,"ins":33,"dnk":54,"ft":66,"fg":63,"tp":60,"diq":36,"oiq":36,"drb":58,"pss":46,"reb":40}],
 "pos":"G","hgt":75,"weight":215,
 "born":{"year":1996,"loc":"Newark, NJ"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628515.png",
@@ -9052,7 +9052,7 @@
 "contract":{"amount":1490,"exp":2021},
 "draft":{"round":2,"pick":17,"tid":13,"originalTid":7,"year":2018},
 "college":"Kansas",
-"ratings":[{"hgt":53,"stre":34,"spd":65,"jmp":46,"endu":35,"ins":33,"dnk":32,"ft":51,"fg":65,"tp":55,"diq":21,"oiq":55,"drb":53,"pss":54,"reb":34}]},
+"ratings":[{"hgt":53,"stre":34,"spd":65,"jmp":46,"endu":24,"ins":33,"dnk":32,"ft":51,"fg":55,"tp":55,"diq":21,"oiq":45,"drb":53,"pss":54,"reb":34}]},
 
 {"tid":7,
 "name":"Jamal Murray",
