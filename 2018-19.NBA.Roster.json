@@ -2414,7 +2414,7 @@
 "college":"Duke",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":1,
+{"tid":-1,
 "name":"Greg Monroe",
 "ratings":[{"hgt":63,"stre":85,"spd":20,"jmp":30,"endu":40,"ins":70,"dnk":65,"ft":45,"fg":40,"tp":0,"diq":64,"oiq":62,"drb":40,"pss":38,"reb":75}],
 "pos":"FC","hgt":83,"weight":265,
@@ -4135,7 +4135,7 @@
 
 {"tid":24,
 "name":"Al-Farouq Aminu",
-"ratings":[{"hgt":57,"stre":75,"spd":50,"jmp":55,"endu":64,"ins":55,"dnk":62,"ft":61,"fg":50,"tp":63,"diq":42,"oiq":56,"drb":32,"pss":39,"reb":81}],
+"ratings":[{"hgt":57,"stre":75,"spd":50,"jmp":49,"endu":60,"ins":55,"dnk":69,"ft":66,"fg":50,"tp":53,"diq":52,"oiq":46,"drb":32,"pss":39,"reb":81}],
 "pos":"F","hgt":81,"weight":220,
 "born":{"year":1991,"loc":"Atlanta, GA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202329.png",
@@ -4818,7 +4818,7 @@
 
 {"tid":24,
 "name":"Evan Turner",
-"ratings":[{"hgt":48,"stre":28,"spd":53,"jmp":51,"endu":51,"ins":40,"dnk":55,"ft":66,"fg":65,"tp":46,"diq":38,"oiq":42,"drb":65,"pss":53,"reb":64}],
+"ratings":[{"hgt":48,"stre":39,"spd":53,"jmp":51,"endu":51,"ins":40,"dnk":55,"ft":42,"fg":65,"tp":31,"diq":38,"oiq":49,"drb":65,"pss":63,"reb":59}],
 "pos":"GF","hgt":79,"weight":220,
 "born":{"year":1989,"loc":"Chicago, IL"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202323.png",
@@ -5123,7 +5123,7 @@
 
 {"tid":24,
 "name":"Meyers Leonard",
-"ratings":[{"hgt":71,"stre":54,"spd":38,"jmp":49,"endu":42,"ins":55,"dnk":56,"ft":74,"fg":62,"tp":67,"diq":45,"oiq":38,"drb":25,"pss":31,"reb":68}],
+"ratings":[{"hgt":71,"stre":54,"spd":38,"jmp":49,"endu":42,"ins":55,"dnk":56,"ft":65,"fg":62,"tp":74,"diq":45,"oiq":48,"drb":35,"pss":39,"reb":68}],
 "pos":"FC","hgt":85,"weight":255,
 "born":{"year":1992,"loc":"Woodbridge, VA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203086.png",
@@ -5156,7 +5156,7 @@
 
 {"tid":24,
 "name":"Damian Lillard",
-"ratings":[{"hgt":37,"stre":55,"spd":75,"jmp":80,"endu":78,"ins":76,"dnk":92,"ft":76,"fg":95,"tp":68,"diq":48,"oiq":63,"drb":84,"pss":44,"reb":50}],
+"ratings":[{"hgt":37,"stre":55,"spd":75,"jmp":80,"endu":78,"ins":76,"dnk":92,"ft":76,"fg":95,"tp":68,"diq":48,"oiq":63,"drb":84,"pss":44,"reb":57}],
 "awards":[{"season":2013,"type":"Rookie of the Year"}],
 "pos":"PG","hgt":75,"weight":195,
 "born":{"year":1991,"loc":"Oakland, CA"},
@@ -6745,7 +6745,7 @@
 
 {"tid":24,
 "name":"Seth Curry",
-"ratings":[{"hgt":33,"stre":22,"spd":64,"jmp":54,"endu":48,"ins":21,"dnk":55,"ft":67,"fg":57,"tp":65,"diq":31,"oiq":52,"drb":62,"pss":37,"reb":24}],
+"ratings":[{"hgt":33,"stre":22,"spd":64,"jmp":54,"endu":48,"ins":21,"dnk":55,"ft":67,"fg":57,"tp":72,"diq":31,"oiq":56,"drb":62,"pss":37,"reb":24}],
 "pos":"SG","hgt":75,"weight":185,
 "born":{"year":1991,"loc":"Charlotte, NC"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203552.png",
@@ -8570,7 +8570,7 @@
 
 {"tid":24,
 "name":"Zach Collins",
-"ratings":[{"hgt":68,"stre":50,"spd":59,"jmp":70,"endu":31,"ins":62,"dnk":58,"ft":59,"fg":49,"tp":55,"diq":49,"oiq":33,"drb":26,"pss":30,"reb":70}],
+"ratings":[{"hgt":68,"stre":50,"spd":52,"jmp":65,"endu":31,"ins":62,"dnk":63,"ft":59,"fg":49,"tp":55,"diq":49,"oiq":35,"drb":30,"pss":35,"reb":55}],
 "pos":"FC","hgt":84,"weight":230,
 "born":{"year":1998,"loc":"Las Vegas, NV"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628380.png",
