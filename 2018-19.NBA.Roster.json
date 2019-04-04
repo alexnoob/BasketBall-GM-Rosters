@@ -226,7 +226,7 @@
 
 {"tid":25,
 "name":"Nemanja Bjelica",
-"ratings":[{"hgt":59,"stre":60,"spd":45,"jmp":41,"endu":47,"ins":55,"dnk":59,"ft":57,"fg":68,"tp":63,"diq":45,"oiq":62,"drb":50,"pss":62,"reb":67}],
+"ratings":[{"hgt":59,"stre":60,"spd":45,"jmp":49,"endu":47,"ins":55,"dnk":59,"ft":50,"fg":58,"tp":63,"diq":50,"oiq":62,"drb":50,"pss":62,"reb":67}],
 "pos":"F","hgt":82,"weight":225,
 "born":{"year":1988,"loc":"Belgrade, Serbia"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202357.png",
@@ -593,13 +593,13 @@
 
 {"tid":25,
 "name":"Willie Cauley-Stein",
+"ratings":[{"hgt":68,"stre":68,"spd":68,"jmp":76,"endu":51,"ins":75,"dnk":78,"ft":15,"fg":66,"tp":3,"diq":41,"oiq":54,"drb":54,"pss":54,"reb":65}],
 "pos":"FC","hgt":84,"weight":240,
 "born":{"year":1994,"loc":"Spearville, KS"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626161.png",
 "contract":{"amount":4700,"exp":2019},
 "draft":{"round":1,"pick":6,"tid":25,"originalTid":25,"year":2015},
 "college":"Kentucky",
-"ratings":[{"hgt":68,"stre":68,"spd":61,"jmp":76,"endu":51,"ins":75,"dnk":78,"ft":15,"fg":66,"tp":3,"diq":49,"oiq":54,"drb":54,"pss":59,"reb":57}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":15,
@@ -2414,7 +2414,7 @@
 "college":"Duke",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":22,
 "name":"Greg Monroe",
 "ratings":[{"hgt":63,"stre":85,"spd":20,"jmp":30,"endu":40,"ins":70,"dnk":65,"ft":45,"fg":40,"tp":0,"diq":64,"oiq":62,"drb":40,"pss":38,"reb":75}],
 "pos":"FC","hgt":83,"weight":265,
@@ -2550,7 +2550,7 @@
 
 {"tid":25,
 "name":"Harrison Barnes",
-"ratings":[{"hgt":53,"stre":62,"spd":61,"jmp":80,"endu":72,"ins":56,"dnk":68,"ft":63,"fg":70,"tp":65,"diq":22,"oiq":64,"drb":57,"pss":42,"reb":48}],
+"ratings":[{"hgt":53,"stre":62,"spd":61,"jmp":65,"endu":72,"ins":56,"dnk":68,"ft":63,"fg":77,"tp":65,"diq":34,"oiq":59,"drb":57,"pss":48,"reb":53}],
 "pos":"SF","hgt":80,"weight":225,
 "born":{"year":1992,"loc":"Ames, IA"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6578.png",
@@ -2652,7 +2652,7 @@
 
 {"tid":25,
 "name":"Harry Giles",
-"ratings":[{"hgt":60,"stre":68,"spd":56,"jmp":71,"endu":28,"ins":52,"dnk":41,"ft":62,"fg":49,"tp":0,"diq":47,"oiq":55,"drb":24,"pss":55,"reb":52}],
+"ratings":[{"hgt":60,"stre":68,"spd":56,"jmp":71,"endu":38,"ins":63,"dnk":51,"ft":62,"fg":49,"tp":0,"diq":47,"oiq":55,"drb":34,"pss":55,"reb":62}],
 "pos":"PF","hgt":82,"weight":230,
 "born":{"year":1998,"loc":"Winston-Salem, NC"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628385.png",
@@ -2727,13 +2727,13 @@
 "college":"UCLA",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":26,
 "name":"Donatas Motiejunas",
 "ratings":[{"hgt":67,"stre":67,"spd":29,"jmp":33,"endu":35,"ins":67,"dnk":57,"ft":62,"fg":60,"tp":50,"diq":52,"oiq":50,"drb":22,"pss":29,"reb":60}],
 "pos":"FC","hgt":84,"weight":222,
 "born":{"year":1991,"loc":"Kaunas, Lithuania"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6464.png",
-"contract":{"amount":5000,"exp":2017},
+"contract":{"amount":850,"exp":2019},
 "draft":{"round":1,"pick":20,"tid":17,"originalTid":14,"year":2011},
 "college":"Lithuania",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -4674,7 +4674,7 @@
 
 {"tid":25,
 "name":"Marvin Bagley",
-"ratings":[{"hgt":65,"stre":62,"spd":58,"jmp":78,"endu":44,"ins":70,"dnk":71,"ft":31,"fg":45,"tp":20,"diq":38,"oiq":60,"drb":25,"pss":34,"reb":74}],
+"ratings":[{"hgt":65,"stre":62,"spd":59,"jmp":78,"endu":45,"ins":60,"dnk":82,"ft":31,"fg":55,"tp":30,"diq":38,"oiq":60,"drb":35,"pss":44,"reb":74}],
 "pos":"PF","hgt":83,"weight":225,
 "born":{"year":1999,"loc":"Phoenix, AZ"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628963.png",
@@ -5775,7 +5775,7 @@
 
 {"tid":28,
 "name":"Rudy Gobert",
-"ratings":[{"hgt":80,"stre":70,"spd":41,"jmp":42,"endu":71,"ins":80,"dnk":80,"ft":32,"fg":33,"tp":0,"diq":66,"oiq":56,"drb":68,"pss":44,"reb":93}],
+"ratings":[{"hgt":80,"stre":70,"spd":39,"jmp":45,"endu":71,"ins":72,"dnk":93,"ft":32,"fg":33,"tp":0,"diq":66,"oiq":59,"drb":68,"pss":38,"reb":93}],
 "pos":"C","hgt":86,"weight":245,
 "born":{"year":1993,"loc":"Saint-Quentin, France"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203497.png",
@@ -6249,7 +6249,7 @@
 
 {"tid":25,
 "name":"De'Aaron Fox",
-"ratings":[{"hgt":32,"stre":39,"spd":87,"jmp":80,"endu":53,"ins":46,"dnk":76,"ft":50,"fg":69,"tp":69,"diq":49,"oiq":61,"drb":54,"pss":69,"reb":54}],
+"ratings":[{"hgt":32,"stre":46,"spd":87,"jmp":80,"endu":53,"ins":46,"dnk":76,"ft":50,"fg":76,"tp":59,"diq":49,"oiq":61,"drb":54,"pss":69,"reb":54}],
 "pos":"PG","hgt":75,"weight":170,
 "born":{"year":1998,"loc":"Katy, TX"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628368.png",
@@ -7343,7 +7343,7 @@
 
 {"tid":25,
 "name":"Bogdan Bogdanovic",
-"ratings":[{"hgt":40,"stre":36,"spd":66,"jmp":50,"endu":58,"ins":43,"dnk":69,"ft":66,"fg":86,"tp":72,"diq":44,"oiq":53,"drb":55,"pss":55,"reb":52}],
+"ratings":[{"hgt":40,"stre":36,"spd":66,"jmp":50,"endu":58,"ins":43,"dnk":76,"ft":66,"fg":76,"tp":72,"diq":52,"oiq":53,"drb":55,"pss":55,"reb":56}],
 "pos":"SG","hgt":78,"weight":205,
 "born":{"year":1993,"loc":"Belgrade, Serbia"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203992.png",
@@ -7875,7 +7875,7 @@
 "college":"Serbia",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":22,
+{"tid":-1,
 "name":"Justin Patton",
 "ratings":[{"hgt":69,"stre":66,"spd":53,"jmp":58,"endu":38,"ins":66,"dnk":52,"ft":10,"fg":31,"tp":0,"diq":46,"oiq":40,"drb":19,"pss":25,"reb":75}],
 "pos":"C","hgt":84,"weight":226,
@@ -8316,7 +8316,7 @@
 
 {"tid":25,
 "name":"Yogi Ferrell",
-"ratings":[{"hgt":22,"stre":19,"spd":61,"jmp":48,"endu":35,"ins":5,"dnk":55,"ft":57,"fg":52,"tp":72,"diq":43,"oiq":55,"drb":63,"pss":50,"reb":34}],
+"ratings":[{"hgt":22,"stre":35,"spd":61,"jmp":48,"endu":35,"ins":35,"dnk":65,"ft":57,"fg":52,"tp":62,"diq":43,"oiq":59,"drb":63,"pss":55,"reb":44}],
 "pos":"PG","hgt":72,"weight":180,
 "born":{"year":1993,"loc":"Indianapolis, IN"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2991018.png&w=350&h=254",
@@ -8926,7 +8926,7 @@
 
 {"tid":25,
 "name":"Buddy Hield",
-"ratings":[{"hgt":37,"stre":38,"spd":65,"jmp":68,"endu":60,"ins":62,"dnk":83,"ft":72,"fg":82,"tp":80,"diq":44,"oiq":58,"drb":62,"pss":53,"reb":62}],
+"ratings":[{"hgt":37,"stre":38,"spd":65,"jmp":68,"endu":60,"ins":62,"dnk":83,"ft":72,"fg":82,"tp":82,"diq":44,"oiq":60,"drb":62,"pss":50,"reb":66}],
 "pos":"SG","hgt":76,"weight":214,
 "born":{"year":1993,"loc":"Freeport, Bahamas"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627741.png",
@@ -8979,7 +8979,7 @@
 "college":"Indiana",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":21,
+{"tid":-1,
 "name":"Isaiah Briscoe",
 "ratings":[{"hgt":33,"stre":32,"spd":56,"jmp":34,"endu":46,"ins":33,"dnk":54,"ft":66,"fg":63,"tp":60,"diq":36,"oiq":36,"drb":58,"pss":46,"reb":40}],
 "pos":"G","hgt":75,"weight":215,
