@@ -1826,7 +1826,7 @@
 "college":"Arizona State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":14,
 "name":"Tyler Zeller",
 "ratings":[{"hgt":67,"stre":68,"spd":33,"jmp":41,"endu":42,"ins":65,"dnk":62,"ft":36,"fg":64,"tp":0,"diq":46,"oiq":44,"drb":27,"pss":51,"reb":68}],
 "pos":"FC","hgt":84,"weight":253,
@@ -2172,7 +2172,7 @@
 "college":"Morehead State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":14,
+{"tid":-1,
 "name":"Dusty Hannahs",
 "pos":"G","hgt":75,"weight":209,
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/1628605.png",
