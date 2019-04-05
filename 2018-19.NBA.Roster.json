@@ -4217,7 +4217,7 @@
 
 {"tid":-1,
 "name":"Luke Babbitt",
-"ratings":[{"hgt":55,"stre":42,"spd":43,"jmp":46,"endu":42,"ins":26,"dnk":45,"ft":60,"fg":85,"tp":86,"diq":18,"oiq":29,"drb":46,"pss":45,"reb":42}],
+"ratings":[{"hgt":55,"stre":42,"spd":43,"jmp":46,"endu":42,"ins":26,"dnk":45,"ft":60,"fg":85,"tp":79,"diq":18,"oiq":29,"drb":46,"pss":45,"reb":42}],
 "pos":"SF","hgt":81,"weight":225,
 "born":{"year":1990,"loc":"Cincinnati, OH"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202337.png",
@@ -8926,7 +8926,7 @@
 
 {"tid":25,
 "name":"Buddy Hield",
-"ratings":[{"hgt":37,"stre":38,"spd":65,"jmp":68,"endu":60,"ins":62,"dnk":83,"ft":72,"fg":82,"tp":82,"diq":44,"oiq":60,"drb":62,"pss":50,"reb":66}],
+"ratings":[{"hgt":37,"stre":38,"spd":65,"jmp":68,"endu":65,"ins":62,"dnk":83,"ft":72,"fg":82,"tp":86,"diq":44,"oiq":60,"drb":62,"pss":50,"reb":69}],
 "pos":"SG","hgt":76,"weight":214,
 "born":{"year":1993,"loc":"Freeport, Bahamas"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627741.png",
