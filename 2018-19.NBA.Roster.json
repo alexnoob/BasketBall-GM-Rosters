@@ -3275,7 +3275,7 @@
 "college":"Gonzaga",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":29,
+{"tid":-1,
 "name":"Wesley Johnson",
 "ratings":[{"hgt":48,"stre":44,"spd":61,"jmp":52,"endu":58,"ins":43,"dnk":56,"ft":55,"fg":55,"tp":60,"diq":57,"oiq":45,"drb":45,"pss":29,"reb":41}],
 "pos":"GF","hgt":79,"weight":215,
@@ -3488,7 +3488,7 @@
 
 {"tid":27,
 "name":"Marc Gasol",
-"ratings":[{"hgt":70,"stre":79,"spd":41,"jmp":46,"endu":56,"ins":74,"dnk":75,"ft":50,"fg":66,"tp":47,"diq":52,"oiq":65,"drb":60,"pss":62,"reb":65}],
+"ratings":[{"hgt":70,"stre":79,"spd":41,"jmp":46,"endu":56,"ins":69,"dnk":75,"ft":50,"fg":66,"tp":47,"diq":56,"oiq":60,"drb":60,"pss":62,"reb":65}],
 "pos":"C","hgt":85,"weight":255,
 "born":{"year":1985,"loc":"Barcelona, Spain"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201188.png",
@@ -3944,7 +3944,7 @@
 "draft":{"round":2,"pick":12,"tid":11,"orig. team":11,"year":2011},
 "college":"Latvia",
 "relatives":[{"type":"brother","pid":332,"name":"Dairis Bertāns"}],
-"ratings":[{"hgt":56,"stre":35,"spd":47,"jmp":48,"endu":38,"ins":34,"dnk":40,"ft":60,"fg":65,"tp":71,"diq":48,"oiq":58,"drb":67,"pss":51,"reb":32}]},
+"ratings":[{"hgt":56,"stre":35,"spd":47,"jmp":48,"endu":38,"ins":22,"dnk":35,"ft":60,"fg":60,"tp":79,"diq":48,"oiq":60,"drb":57,"pss":41,"reb":42}]},
 
 {"tid":4,
 "name":"Chandler Hutchison",
@@ -4294,7 +4294,7 @@
 
 {"tid":27,
 "name":"OG Anunoby",
-"ratings":[{"hgt":52,"stre":58,"spd":62,"jmp":63,"endu":43,"ins":52,"dnk":64,"ft":0,"fg":51,"tp":66,"diq":49,"oiq":54,"drb":55,"pss":42,"reb":54}],
+"ratings":[{"hgt":52,"stre":58,"spd":62,"jmp":63,"endu":43,"ins":52,"dnk":64,"ft":21,"fg":51,"tp":66,"diq":49,"oiq":54,"drb":55,"pss":42,"reb":54}],
 "pos":"F","hgt":80,"weight":215,
 "born":{"year":1998,"loc":"Jefferson City, MO"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628384.png",
@@ -4484,7 +4484,7 @@
 
 {"tid":27,
 "name":"Serge Ibaka",
-"ratings":[{"hgt":64,"stre":84,"spd":42,"jmp":66,"endu":56,"ins":79,"dnk":75,"ft":65,"fg":40,"tp":50,"diq":58,"oiq":58,"drb":57,"pss":29,"reb":72}],
+"ratings":[{"hgt":64,"stre":84,"spd":42,"jmp":66,"endu":56,"ins":79,"dnk":75,"ft":65,"fg":58,"tp":35,"diq":58,"oiq":58,"drb":57,"pss":29,"reb":72}],
 "pos":"FC","hgt":82,"weight":235,
 "born":{"year":1990,"loc":"Brazzaville, Republic of the Congo"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201586.png",
@@ -5454,7 +5454,7 @@
 
 {"tid":27,
 "name":"Kawhi Leonard",
-"ratings":[{"hgt":56,"stre":74,"spd":70,"jmp":69,"endu":74,"ins":74,"dnk":86,"ft":62,"fg":80,"tp":68,"diq":65,"oiq":67,"drb":73,"pss":43,"reb":52}],
+"ratings":[{"hgt":56,"stre":74,"spd":70,"jmp":69,"endu":74,"ins":83,"dnk":86,"ft":62,"fg":82,"tp":61,"diq":65,"oiq":67,"drb":73,"pss":43,"reb":60}],
 "pos":"SF","hgt":79,"weight":230,
 "born":{"year":1992,"loc":"Los Angeles, CA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202695.png",
@@ -5499,7 +5499,7 @@
 
 {"tid":26,
 "name":"Marco Belinelli",
-"ratings":[{"hgt":39,"stre":18,"spd":62,"jmp":31,"endu":60,"ins":30,"dnk":57,"ft":68,"fg":82,"tp":77,"diq":38,"oiq":57,"drb":50,"pss":45,"reb":43}],
+"ratings":[{"hgt":39,"stre":22,"spd":62,"jmp":31,"endu":60,"ins":30,"dnk":57,"ft":75,"fg":88,"tp":77,"diq":38,"oiq":57,"drb":50,"pss":53,"reb":46}],
 "pos":"SG","hgt":77,"weight":210,
 "born":{"year":1986,"loc":"San Giovanni in Persiceto, Italia"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201158.png",
@@ -5709,7 +5709,7 @@
 
 {"tid":27,
 "name":"Kyle Lowry",
-"ratings":[{"hgt":25,"stre":58,"spd":66,"jmp":70,"endu":80,"ins":35,"dnk":70,"ft":67,"fg":70,"tp":79,"diq":41,"oiq":55,"drb":80,"pss":68,"reb":75}],
+"ratings":[{"hgt":25,"stre":64,"spd":66,"jmp":70,"endu":80,"ins":35,"dnk":70,"ft":67,"fg":70,"tp":79,"diq":52,"oiq":55,"drb":80,"pss":68,"reb":75}],
 "pos":"PG","hgt":72,"weight":205,
 "born":{"year":1986,"loc":"Philadelphia, PA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200768.png",
@@ -6989,7 +6989,7 @@
 
 {"tid":27,
 "name":"Fred VanVleet",
-"ratings":[{"hgt":22,"stre":42,"spd":61,"jmp":58,"endu":52,"ins":34,"dnk":69,"ft":64,"fg":65,"tp":64,"diq":59,"oiq":60,"drb":50,"pss":60,"reb":52}],
+"ratings":[{"hgt":22,"stre":42,"spd":61,"jmp":61,"endu":52,"ins":49,"dnk":69,"ft":64,"fg":65,"tp":64,"diq":55,"oiq":60,"drb":66,"pss":60,"reb":52}],
 "pos":"PG","hgt":72,"weight":195,
 "born":{"year":1994,"loc":"Rockford, IL"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627832.png",
@@ -7676,7 +7676,7 @@
 
 {"tid":27,
 "name":"Pascal Siakam",
-"ratings":[{"hgt":59,"stre":68,"spd":64,"jmp":68,"endu":60,"ins":80,"dnk":79,"ft":55,"fg":44,"tp":35,"diq":47,"oiq":65,"drb":55,"pss":52,"reb":66}],
+"ratings":[{"hgt":59,"stre":64,"spd":73,"jmp":76,"endu":55,"ins":66,"dnk":79,"ft":55,"fg":44,"tp":48,"diq":47,"oiq":63,"drb":55,"pss":59,"reb":66}],
 "pos":"PF","hgt":81,"weight":230,
 "born":{"year":1994,"loc":"Douala, Cameroon"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627783.png",
@@ -8416,7 +8416,7 @@
 
 {"tid":27,
 "name":"Norman Powell",
-"ratings":[{"hgt":38,"stre":51,"spd":62,"jmp":75,"endu":48,"ins":39,"dnk":75,"ft":66,"fg":68,"tp":69,"diq":14,"oiq":40,"drb":44,"pss":46,"reb":35}],
+"ratings":[{"hgt":38,"stre":51,"spd":62,"jmp":75,"endu":48,"ins":39,"dnk":75,"ft":66,"fg":68,"tp":69,"diq":25,"oiq":40,"drb":44,"pss":46,"reb":35}],
 "pos":"SG","hgt":76,"weight":215,
 "born":{"year":1994,"loc":"San Diego, CA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626181.png",
