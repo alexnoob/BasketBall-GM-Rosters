@@ -393,7 +393,7 @@
 
 {"tid":13,
 "name":"Alex Caruso",
-"ratings":[{"hgt":41,"stre":24,"spd":43,"jmp":57,"endu":35,"ins":21,"dnk":59,"ft":53,"fg":61,"tp":60,"diq":32,"oiq":46,"drb":32,"pss":32,"reb":21}],
+"ratings":[{"hgt":41,"stre":24,"spd":49,"jmp":57,"endu":35,"ins":21,"dnk":59,"ft":53,"fg":61,"tp":60,"diq":32,"oiq":46,"drb":32,"pss":32,"reb":21}],
 "pos":"G","hgt":77,"weight":186,
 "born":{"year":1994,"loc":"College Station, TX"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627936.png",
@@ -3880,7 +3880,7 @@
 "college":"Holy Cross",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":12,
+{"tid":-1,
 "firstName":"Luc","lastName":"Mbah a Moute",
 "ratings":[{"hgt":52,"stre":66,"spd":59,"jmp":54,"endu":42,"ins":53,"dnk":57,"ft":34,"fg":55,"tp":50,"diq":60,"oiq":47,"drb":38,"pss":34,"reb":60}],
 "pos":"F","hgt":80,"weight":230,
@@ -4484,7 +4484,7 @@
 
 {"tid":27,
 "name":"Serge Ibaka",
-"ratings":[{"hgt":64,"stre":84,"spd":42,"jmp":66,"endu":56,"ins":79,"dnk":75,"ft":65,"fg":58,"tp":35,"diq":58,"oiq":58,"drb":57,"pss":29,"reb":72}],
+"ratings":[{"hgt":64,"stre":84,"spd":42,"jmp":69,"endu":56,"ins":85,"dnk":75,"ft":65,"fg":58,"tp":35,"diq":58,"oiq":58,"drb":57,"pss":39,"reb":72}],
 "pos":"FC","hgt":82,"weight":235,
 "born":{"year":1990,"loc":"Brazzaville, Republic of the Congo"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201586.png",
@@ -5454,7 +5454,7 @@
 
 {"tid":27,
 "name":"Kawhi Leonard",
-"ratings":[{"hgt":56,"stre":74,"spd":70,"jmp":69,"endu":74,"ins":83,"dnk":86,"ft":62,"fg":82,"tp":61,"diq":65,"oiq":67,"drb":73,"pss":43,"reb":60}],
+"ratings":[{"hgt":57,"stre":74,"spd":72,"jmp":69,"endu":74,"ins":83,"dnk":88,"ft":62,"fg":82,"tp":61,"diq":60,"oiq":69,"drb":75,"pss":43,"reb":60}],
 "pos":"SF","hgt":79,"weight":230,
 "born":{"year":1992,"loc":"Los Angeles, CA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202695.png",
@@ -7676,7 +7676,7 @@
 
 {"tid":27,
 "name":"Pascal Siakam",
-"ratings":[{"hgt":59,"stre":64,"spd":73,"jmp":76,"endu":55,"ins":66,"dnk":79,"ft":55,"fg":44,"tp":48,"diq":47,"oiq":63,"drb":55,"pss":59,"reb":66}],
+"ratings":[{"hgt":59,"stre":64,"spd":73,"jmp":76,"endu":55,"ins":66,"dnk":79,"ft":55,"fg":50,"tp":46,"diq":47,"oiq":63,"drb":55,"pss":59,"reb":69}],
 "pos":"PF","hgt":81,"weight":230,
 "born":{"year":1994,"loc":"Douala, Cameroon"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627783.png",
