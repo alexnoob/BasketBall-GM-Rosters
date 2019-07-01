@@ -25,7 +25,7 @@
 "awards":[{"season":2009,"type":"Rookie of the Year"},{"season":2011,"type":"Most Valuable Player"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":29,
+{"tid":-1,
 "name":"Sam Dekker",
 "ratings":[{"hgt":56,"stre":54,"spd":43,"jmp":46,"endu":44,"ins":71,"dnk":75,"ft":38,"fg":31,"tp":62,"diq":42,"oiq":46,"drb":22,"pss":38,"reb":64}],
 "pos":"SF","hgt":81,"weight":230,
@@ -390,7 +390,7 @@
 "college":"Houston",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":13,
+{"tid":-1,
 "name":"Alex Caruso",
 "ratings":[{"hgt":41,"stre":28,"spd":50,"jmp":57,"endu":42,"ins":43,"dnk":63,"ft":53,"fg":62,"tp":60,"diq":35,"oiq":48,"drb":48,"pss":40,"reb":33}],
 "pos":"G","hgt":77,"weight":186,
@@ -589,7 +589,7 @@
 "ratings":[{"hgt":59,"stre":67,"spd":50,"jmp":54,"endu":36,"ins":62,"dnk":57,"ft":58,"fg":40,"tp":4,"diq":41,"oiq":53,"drb":25,"pss":35,"reb":75}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":25,
+{"tid":-1,
 "name":"Willie Cauley-Stein",
 "ratings":[{"hgt":68,"stre":68,"spd":68,"jmp":76,"endu":51,"ins":75,"dnk":78,"ft":15,"fg":66,"tp":3,"diq":41,"oiq":54,"drb":54,"pss":54,"reb":65}],
 "pos":"FC","hgt":84,"weight":240,
@@ -634,7 +634,7 @@
 "awards":[{"season":2016,"type":"Rookie of the Year"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":19,
+{"tid":-1,
 "name":"Emmanuel Mudiay",
 "ratings":[{"hgt":41,"stre":50,"spd":71,"jmp":76,"endu":52,"ins":43,"dnk":82,"ft":52,"fg":65,"tp":49,"diq":38,"oiq":43,"drb":59,"pss":62,"reb":36}],
 "pos":"PG","hgt":77,"weight":200,
@@ -678,7 +678,7 @@
 "college":"Southern California",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":23,
+{"tid":-1,
 "name":"Kelly Oubre",
 "ratings":[{"hgt":48,"stre":37,"spd":61,"jmp":65,"endu":53,"ins":42,"dnk":64,"ft":62,"fg":66,"tp":66,"diq":48,"oiq":62,"drb":33,"pss":38,"reb":62}],
 "pos":"SF","hgt":79,"weight":205,
@@ -755,13 +755,13 @@
 "college":"UNLV",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":19,
 "name":"Elfrid Payton",
 "ratings":[{"hgt":33,"stre":32,"spd":71,"jmp":57,"endu":47,"ins":36,"dnk":72,"ft":34,"fg":62,"tp":34,"diq":39,"oiq":56,"drb":58,"pss":68,"reb":65}],
 "pos":"PG","hgt":75,"weight":185,
 "born":{"year":1994,"loc":"Gretna, LA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203901.png",
-"contract":{"amount":13000,"exp":2024},
+"contract":{"amount":8000,"exp":2021},
 "draft":{"round":1,"pick":10,"tid":22,"originalTid":18,"year":2014},
 "college":"Louisiana–Lafayette",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -1009,7 +1009,7 @@
 "college":"Kansas",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":29,
+{"tid":-1,
 "name":"Jabari Parker",
 "ratings":[{"hgt":54,"stre":59,"spd":63,"jmp":58,"endu":64,"ins":64,"dnk":78,"ft":55,"fg":80,"tp":52,"diq":30,"oiq":49,"drb":48,"pss":39,"reb":51}],
 "pos":"F","hgt":80,"weight":250,
@@ -1065,7 +1065,7 @@
 "ratings":[{"hgt":52,"stre":62,"spd":36,"jmp":48,"endu":43,"ins":72,"dnk":70,"ft":62,"fg":63,"tp":50,"diq":53,"oiq":44,"drb":30,"pss":33,"reb":62}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":19,
+{"tid":-1,
 "name":"John Jenkins",
 "pos":"SG","hgt":76,"weight":215,
 "born":{"year":1991,"loc":"Hendersonville, TN"},
@@ -1143,7 +1143,7 @@
 "college":"Kentucky",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":21,
+{"tid":-1,
 "name":"Jarell Martin",
 "pos":"PF","hgt":81,"weight":239,
 "born":{"year":1994,"loc":"Baton Rouge, LA"},
@@ -1332,7 +1332,7 @@
 "college":"Ohio",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":5,
+{"tid":-1,
 "name":"David Nwaba",
 "ratings":[{"hgt":38,"stre":39,"spd":69,"jmp":68,"endu":31,"ins":30,"dnk":56,"ft":32,"fg":56,"tp":55,"diq":52,"oiq":36,"drb":45,"pss":34,"reb":61}],
 "pos":"GF","hgt":76,"weight":219,
@@ -1343,7 +1343,7 @@
 "college":"Cal Poly",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":1,
+{"tid":-1,
 "name":"Daniel Theis",
 "ratings":[{"hgt":59,"stre":64,"spd":38,"jmp":51,"endu":48,"ins":66,"dnk":68,"ft":43,"fg":65,"tp":30,"diq":64,"oiq":56,"drb":14,"pss":22,"reb":79}],
 "pos":"FC","hgt":81,"weight":243,
@@ -1390,7 +1390,7 @@
 "college":"St. Bonaventure",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":17,
+{"tid":-1,
 "name":"Mitchell Creek",
 "ratings":[{"hgt":40,"stre":40,"spd":56,"jmp":54,"endu":38,"ins":37,"dnk":58,"ft":57,"fg":60,"tp":50,"diq":48,"oiq":45,"drb":36,"pss":45,"reb":35}],
 "pos":"GF","hgt":77,"weight":225,
@@ -1542,7 +1542,7 @@
 "pos":"PF","hgt":83,"weight":240,
 "born":{"year":1992,"loc":"Würzburg, Germany"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628467.png",
-"contract":{"amount":1375,"exp":2019},
+"contract":{"amount":8750,"exp":2023},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2014},
 "college":"Germany",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -2002,7 +2002,7 @@
 "college":"Miami (FL)",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":2,
+{"tid":-1,
 "name":"Theo Pinson",
 "ratings":[{"hgt":44,"stre":39,"spd":62,"jmp":51,"endu":27,"ins":36,"dnk":54,"ft":52,"fg":52,"tp":40,"diq":42,"oiq":40,"drb":40,"pss":45,"reb":38}],
 "pos":"SG","hgt":78,"weight":218,
@@ -2035,13 +2035,13 @@
 "college":"LSU",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":19,
 "name":"Wayne Ellington",
 "ratings":[{"hgt":37,"stre":38,"spd":56,"jmp":52,"endu":50,"ins":34,"dnk":52,"ft":67,"fg":75,"tp":85,"diq":45,"oiq":57,"drb":35,"pss":43,"reb":42}],
 "pos":"SG","hgt":76,"weight":200,
 "born":{"year":1988,"loc":"Wynnewood, PA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201961.png",
-"contract":{"amount":1500,"exp":2019},
+"contract":{"amount":8000,"exp":2021},
 "draft":{"round":1,"pick":28,"tid":17,"originalTid":1,"year":2009},
 "college":"North Carolina",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -2201,7 +2201,7 @@
 "college":"North Carolina",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":23,
+{"tid":-1,
 "name":"Ray Spalding",
 "pos":"PF","hgt":82,"weight":225,
 "born":{"year":1997,"loc":"Atlanta, GA"},
@@ -2366,7 +2366,7 @@
 "college":"Georgia",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":7,
+{"tid":-1,
 "name":"Brandon Goodwin",
 "ratings":[{"hgt":29,"stre":31,"spd":62,"jmp":48,"endu":29,"ins":32,"dnk":53,"ft":44,"fg":39,"tp":32,"diq":32,"oiq":45,"drb":60,"pss":34,"reb":20}],
 "pos":"PG","hgt":74,"weight":180,
@@ -2389,7 +2389,7 @@
 "awards":[{"season":2016,"type":"League Rebounding Leader"},{"season":2018,"type":"League Rebounding Leader"},{"season":2019,"type":"League Rebounding Leader"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":9,
+{"tid":-1,
 "name":"Marcus Derrickson",
 "ratings":[{"hgt":48,"stre":45,"spd":47,"jmp":40,"endu":31,"ins":28,"dnk":42,"ft":36,"fg":46,"tp":40,"diq":35,"oiq":35,"drb":47,"pss":39,"reb":57}],
 "pos":"SF","hgt":79,"weight":249,
@@ -2478,7 +2478,7 @@
 "relatives":[{"type":"brother","pid":630,"name":"Michael Porter"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":0,
+{"tid":-1,
 "name":"Justin Anderson",
 "ratings":[{"hgt":44,"stre":42,"spd":53,"jmp":44,"endu":46,"ins":36,"dnk":52,"ft":65,"fg":60,"tp":63,"diq":34,"oiq":44,"drb":42,"pss":33,"reb":45}],
 "pos":"GF","hgt":78,"weight":230,
@@ -3058,7 +3058,7 @@
 "college":"DePaul",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":3,
+{"tid":-1,
 "name":"J.P. Macura",
 "ratings":[{"hgt":41,"stre":43,"spd":45,"jmp":41,"endu":31,"ins":38,"dnk":56,"ft":60,"fg":47,"tp":45,"diq":47,"oiq":41,"drb":41,"pss":48,"reb":21}],
 "pos":"SG","hgt":77,"weight":205,
@@ -3194,7 +3194,7 @@
 "college":"Advanced Prep International",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":21,
+{"tid":-1,
 "name":"Amile Jefferson",
 "ratings":[{"hgt":56,"stre":60,"spd":53,"jmp":63,"endu":38,"ins":45,"dnk":53,"ft":45,"fg":32,"tp":25,"diq":40,"oiq":32,"drb":39,"pss":41,"reb":60}],
 "pos":"F","hgt":81,"weight":224,
@@ -3910,7 +3910,7 @@
 "college":"UCLA",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":17,
+{"tid":-1,
 "name":"Jared Terrell",
 "ratings":[{"hgt":33,"stre":26,"spd":53,"jmp":46,"endu":26,"ins":53,"dnk":52,"ft":57,"fg":55,"tp":42,"diq":37,"oiq":38,"drb":43,"pss":43,"reb":31}],
 "pos":"SG","hgt":75,"weight":216,
@@ -3987,7 +3987,7 @@
 "college":"St. John's",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":8,
+{"tid":-1,
 "name":"Kalin Lucas",
 "ratings":[{"hgt":26,"stre":8,"spd":68,"jmp":42,"endu":38,"ins":38,"dnk":41,"ft":67,"fg":62,"tp":60,"diq":11,"oiq":40,"drb":72,"pss":74,"reb":15}],
 "pos":"PG","hgt":73,"weight":195,
@@ -4098,13 +4098,13 @@
 "college":"Kentucky",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":10,
 "name":"Austin Rivers",
 "ratings":[{"hgt":38,"stre":39,"spd":64,"jmp":49,"endu":55,"ins":45,"dnk":70,"ft":25,"fg":70,"tp":65,"diq":49,"oiq":52,"drb":44,"pss":67,"reb":27}],
 "pos":"G","hgt":76,"weight":200,
 "born":{"year":1993,"loc":"Santa Monica, CA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203085.png",
-"contract":{"amount":1200,"exp":2019},
+"contract":{"amount":2150,"exp":2021},
 "draft":{"round":1,"pick":10,"tid":18,"originalTid":17,"year":2012},
 "college":"Duke",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -4369,7 +4369,7 @@
 "college":"California",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":11,
+{"tid":-1,
 "name":"Edmond Sumner",
 "ratings":[{"hgt":41,"stre":26,"spd":61,"jmp":61,"endu":31,"ins":15,"dnk":55,"ft":47,"fg":50,"tp":46,"diq":29,"oiq":40,"drb":66,"pss":69,"reb":26}],
 "pos":"G","hgt":77,"weight":185,
@@ -4403,7 +4403,7 @@
 "college":"Green Bay",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":3,
+{"tid":-1,
 "name":"Joe Chealey",
 "ratings":[{"hgt":33,"stre":26,"spd":53,"jmp":41,"endu":30,"ins":28,"dnk":41,"ft":34,"fg":45,"tp":40,"diq":35,"oiq":43,"drb":57,"pss":50,"reb":28}],
 "pos":"PG","hgt":75,"weight":190,
@@ -4583,7 +4583,7 @@
 "college":"St. Bonaventure",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":24,
+{"tid":15,
 "name":"Maurice Harkless",
 "ratings":[{"hgt":52,"stre":50,"spd":61,"jmp":57,"endu":47,"ins":80,"dnk":69,"ft":33,"fg":32,"tp":35,"diq":59,"oiq":52,"drb":39,"pss":32,"reb":61}],
 "pos":"SF","hgt":80,"weight":220,
@@ -4651,7 +4651,7 @@
 
 {"tid":18,
 "name":"Zion Williamson",
-"ratings":[{"hgt":48,"stre":83,"spd":72,"jmp":85,"endu":55,"ins":73,"dnk":82,"ft":47,"fg":59,"tp":30,"diq":45,"oiq":47,"drb":48,"pss":46,"reb":69}],
+"ratings":[{"hgt":48,"stre":83,"spd":72,"jmp":85,"endu":55,"ins":73,"dnk":82,"ft":47,"fg":59,"tp":30,"diq":45,"oiq":47,"drb":48,"pss":57,"reb":69}],
 "pos":"PF","hgt":79,"weight":285,
 "born":{"year":2001,"loc":"Salisbury, NC"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629627.png",
@@ -4726,14 +4726,14 @@
 "college":"Kentucky",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":21,
 "name":"Michael Carter-Williams",
 "ratings":[{"hgt":44,"stre":25,"spd":56,"jmp":52,"endu":40,"ins":25,"dnk":57,"ft":15,"fg":54,"tp":38,"diq":48,"oiq":46,"drb":50,"pss":48,"reb":62}],
 "awards":[{"season":2014,"type":"Rookie of the Year"}],
 "pos":"PG","hgt":78,"weight":190,
 "born":{"year":1992,"loc":"Hamilton, MA"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2596108.png&w=350&h=254",
-"contract":{"amount":850,"exp":2019},
+"contract":{"amount":1500,"exp":2020},
 "draft":{"round":1,"pick":11,"tid":22,"originalTid":22,"year":2013},
 "college":"Syracuse",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -4794,7 +4794,7 @@
 "ratings":[{"hgt":55,"stre":28,"spd":59,"jmp":57,"endu":22,"ins":38,"dnk":43,"ft":31,"fg":20,"tp":30,"diq":32,"oiq":29,"drb":32,"pss":20,"reb":52}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":19,
+{"tid":-1,
 "name":"Billy Garrett",
 "ratings":[{"hgt":44,"stre":28,"spd":59,"jmp":48,"endu":42,"ins":23,"dnk":68,"ft":59,"fg":65,"tp":43,"diq":48,"oiq":52,"drb":42,"pss":66,"reb":28}],
 "pos":"SG","hgt":78,"weight":215,
@@ -4904,7 +4904,7 @@
 "college":"Maryland",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":12,
+{"tid":-1,
 "name":"Ángel Delgado",
 "ratings":[{"hgt":59,"stre":55,"spd":38,"jmp":32,"endu":20,"ins":56,"dnk":62,"ft":43,"fg":55,"tp":8,"diq":52,"oiq":28,"drb":26,"pss":39,"reb":61}],
 "pos":"C","hgt":82,"weight":240,
@@ -4995,13 +4995,13 @@
 "college":"Kentucky",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":29,
 "name":"Ish Smith",
 "ratings":[{"hgt":22,"stre":28,"spd":73,"jmp":57,"endu":44,"ins":21,"dnk":64,"ft":30,"fg":65,"tp":56,"diq":31,"oiq":55,"drb":68,"pss":44,"reb":48}],
 "pos":"PG","hgt":72,"weight":175,
 "born":{"year":1989,"loc":"Charlotte, NC"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202397.png",
-"contract":{"amount":6000,"exp":2019},
+"contract":{"amount":6000,"exp":2021},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2010},
 "college":"Wake Forest",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -5122,7 +5122,7 @@
 "college":"Kansas",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":24,
+{"tid":15,
 "name":"Meyers Leonard",
 "ratings":[{"hgt":71,"stre":54,"spd":38,"jmp":49,"endu":42,"ins":55,"dnk":56,"ft":65,"fg":62,"tp":74,"diq":45,"oiq":48,"drb":35,"pss":39,"reb":68}],
 "pos":"FC","hgt":85,"weight":255,
@@ -5453,7 +5453,7 @@
 "college":"Washington State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":27,
+{"tid":-1,
 "name":"Kawhi Leonard",
 "ratings":[{"hgt":57,"stre":77,"spd":72,"jmp":69,"endu":74,"ins":83,"dnk":88,"ft":62,"fg":85,"tp":56,"diq":60,"oiq":69,"drb":75,"pss":52,"reb":60}],
 "pos":"SF","hgt":79,"weight":230,
@@ -5465,13 +5465,13 @@
 "awards":[{"season":2014,"type":"Finals MVP"},{"season":2015,"type":"Defensive Player of the Year"},{"season":2015,"type":"League Steals Leader"},{"season":2016,"type":"Defensive Player of the Year"},{"season":2019,"type":"Finals MVP"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":25,
 "name":"Cory Joseph",
 "ratings":[{"hgt":32,"stre":33,"spd":61,"jmp":54,"endu":50,"ins":30,"dnk":69,"ft":53,"fg":65,"tp":53,"diq":57,"oiq":56,"drb":74,"pss":45,"reb":51}],
 "pos":"G","hgt":75,"weight":190,
 "born":{"year":1992,"loc":"Toronto, Canada"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202709.png",
-"contract":{"amount":7950,"exp":2019},
+"contract":{"amount":12000,"exp":2022},
 "draft":{"round":1,"pick":29,"tid":26,"originalTid":26,"year":2011},
 "college":"Texas",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -5554,7 +5554,7 @@
 "relatives":[{"type":"brother","pid":577,"name":"Lonzo Ball"},{"type":"brother","pid":685,"name":"LiAngelo Ball"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":5,
+{"tid":-1,
 "name":"Jaron Blossomgame",
 "ratings":[{"hgt":48,"stre":60,"spd":53,"jmp":49,"endu":32,"ins":38,"dnk":71,"ft":50,"fg":52,"tp":32,"diq":54,"oiq":42,"drb":36,"pss":58,"reb":56}],
 "pos":"SF","hgt":79,"weight":220,
@@ -5664,7 +5664,7 @@
 "ratings":[{"hgt":55,"stre":18,"spd":65,"jmp":30,"endu":36,"ins":38,"dnk":40,"ft":72,"fg":55,"tp":70,"diq":34,"oiq":34,"drb":33,"pss":30,"reb":32}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":26,
+{"tid":-1,
 "name":"Ben Moore",
 "pos":"SF","hgt":80,"weight":200,
 "born":{"year":1995,"loc":"Bolingbrook, IL"},
@@ -5741,7 +5741,7 @@
 "college":"Kentucky",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":1,
+{"tid":-1,
 "name":"Brad Wanamaker",
 "ratings":[{"hgt":38,"stre":30,"spd":51,"jmp":46,"endu":36,"ins":10,"dnk":58,"ft":62,"fg":57,"tp":58,"diq":43,"oiq":47,"drb":65,"pss":55,"reb":25}],
 "pos":"G","hgt":76,"weight":210,
@@ -5819,13 +5819,13 @@
 "college":"Central Florida",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":1,
 "name":"Enes Kanter",
 "ratings":[{"hgt":66,"stre":74,"spd":54,"jmp":58,"endu":56,"ins":86,"dnk":75,"ft":48,"fg":73,"tp":0,"diq":28,"oiq":70,"drb":34,"pss":36,"reb":92}],
 "pos":"C","hgt":83,"weight":245,
 "born":{"year":1992,"loc":"Zurich, Switzerland"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202683.png",
-"contract":{"amount":1500,"exp":2019},
+"contract":{"amount":5000,"exp":2020},
 "draft":{"round":1,"pick":3,"tid":28,"originalTid":2,"year":2011},
 "college":"Stoneridge PS (CA)",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -5918,7 +5918,7 @@
 "college":"Georgia",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":21,
+{"tid":-1,
 "name":"Troy Caupain",
 "ratings":[{"hgt":37,"stre":38,"spd":59,"jmp":46,"endu":31,"ins":23,"dnk":49,"ft":52,"fg":33,"tp":33,"diq":42,"oiq":32,"drb":57,"pss":55,"reb":30}],
 "pos":"PG","hgt":76,"weight":210,
@@ -6050,7 +6050,7 @@
 "college":"Kentucky",
 "injury":{"type":"Left Achilles tendon surgery","gamesRemaining":70}},
 
-{"tid":18,
+{"tid":-1,
 "name":"Stanley Johnson",
 "ratings":[{"hgt":49,"stre":54,"spd":61,"jmp":60,"endu":39,"ins":32,"dnk":69,"ft":54,"fg":57,"tp":53,"diq":44,"oiq":46,"drb":39,"pss":49,"reb":48}],
 "pos":"SF","hgt":79,"weight":245,
@@ -6138,7 +6138,7 @@
 "college":"UCLA",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":10,
+{"tid":-1,
 "firstName":"","lastName":"Nene",
 "ratings":[{"hgt":66,"stre":92,"spd":43,"jmp":42,"endu":34,"ins":79,"dnk":70,"ft":30,"fg":55,"tp":8,"diq":63,"oiq":63,"drb":34,"pss":48,"reb":70}],
 "pos":"FC","hgt":83,"weight":250,
@@ -6347,7 +6347,7 @@
 "college":"Texas Tech",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":10,
+{"tid":-1,
 "name":"Trevon Duval",
 "ratings":[{"hgt":33,"stre":29,"spd":62,"jmp":63,"endu":25,"ins":26,"dnk":52,"ft":31,"fg":45,"tp":48,"diq":31,"oiq":30,"drb":61,"pss":56,"reb":22}],
 "pos":"PG","hgt":75,"weight":191,
@@ -6391,7 +6391,7 @@
 "college":"Duke",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":7,
+{"tid":-1,
 "name":"Trey Lyles",
 "ratings":[{"hgt":59,"stre":59,"spd":58,"jmp":58,"endu":40,"ins":72,"dnk":59,"ft":42,"fg":70,"tp":47,"diq":34,"oiq":45,"drb":38,"pss":33,"reb":72}],
 "pos":"PF","hgt":82,"weight":234,
@@ -6413,7 +6413,7 @@
 "college":"Notre Dame",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":0,
+{"tid":-1,
 "name":"Isaac Humphries",
 "ratings":[{"hgt":66,"stre":68,"spd":43,"jmp":51,"endu":34,"ins":57,"dnk":55,"ft":45,"fg":42,"tp":40,"diq":35,"oiq":46,"drb":12,"pss":42,"reb":74}],
 "pos":"FC","hgt":84,"weight":255,
@@ -6436,7 +6436,7 @@
 "relatives":[{"type":"brother","pid":685,"name":"LiAngelo Ball"},{"type":"brother","pid":497,"name":"LaMelo Ball"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":19,
+{"tid":-1,
 "name":"Isaiah Hicks",
 "ratings":[{"hgt":56,"stre":52,"spd":41,"jmp":57,"endu":36,"ins":58,"dnk":55,"ft":55,"fg":52,"tp":15,"diq":49,"oiq":38,"drb":19,"pss":27,"reb":66}],
 "pos":"PF","hgt":81,"weight":240,
@@ -6502,7 +6502,7 @@
 "college":"Yale",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":20,
+{"tid":-1,
 "name":"Mike Muscala",
 "ratings":[{"hgt":63,"stre":62,"spd":33,"jmp":41,"endu":35,"ins":71,"dnk":65,"ft":75,"fg":57,"tp":42,"diq":56,"oiq":56,"drb":38,"pss":35,"reb":64}],
 "pos":"FC","hgt":83,"weight":240,
@@ -6569,7 +6569,7 @@
 "college":"Hofstra",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":23,
+{"tid":-1,
 "name":"George King",
 "ratings":[{"hgt":44,"stre":38,"spd":53,"jmp":58,"endu":38,"ins":43,"dnk":58,"ft":41,"fg":50,"tp":58,"diq":44,"oiq":43,"drb":38,"pss":31,"reb":48}],
 "pos":"SF","hgt":78,"weight":225,
@@ -6734,7 +6734,7 @@
 "college":"Virginia",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":28,
+{"tid":-1,
 "name":"Raul Neto",
 "ratings":[{"hgt":25,"stre":22,"spd":64,"jmp":45,"endu":34,"ins":32,"dnk":70,"ft":62,"fg":51,"tp":57,"diq":30,"oiq":50,"drb":72,"pss":56,"reb":35}],
 "pos":"G","hgt":73,"weight":179,
@@ -6745,13 +6745,13 @@
 "college":"Brazil",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":6,
 "name":"Seth Curry",
 "ratings":[{"hgt":33,"stre":22,"spd":64,"jmp":49,"endu":48,"ins":21,"dnk":55,"ft":67,"fg":67,"tp":74,"diq":31,"oiq":56,"drb":62,"pss":37,"reb":24}],
 "pos":"SG","hgt":75,"weight":185,
 "born":{"year":1991,"loc":"Charlotte, NC"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203552.png",
-"contract":{"amount":2800,"exp":2019},
+"contract":{"amount":8000,"exp":2023},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2013},
 "college":"Duke",
 "relatives":[{"type":"brother","pid":232,"name":"Stephen Curry"}],
@@ -6790,7 +6790,7 @@
 "college":"Oregon",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":9,
+{"tid":-1,
 "name":"Quinn Cook",
 "ratings":[{"hgt":29,"stre":18,"spd":61,"jmp":48,"endu":38,"ins":22,"dnk":56,"ft":77,"fg":55,"tp":52,"diq":33,"oiq":59,"drb":63,"pss":72,"reb":17}],
 "pos":"PG","hgt":74,"weight":179,
@@ -6867,7 +6867,7 @@
 "college":"Eastern Washington",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":19,
+{"tid":-1,
 "name":"Luke Kornet",
 "ratings":[{"hgt":67,"stre":48,"spd":43,"jmp":42,"endu":30,"ins":48,"dnk":47,"ft":61,"fg":76,"tp":70,"diq":40,"oiq":37,"drb":28,"pss":34,"reb":55}],
 "pos":"PF","hgt":84,"weight":250,
@@ -6956,7 +6956,7 @@
 "college":"St. John's",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":20,
+{"tid":-1,
 "name":"Jawun Evans",
 "ratings":[{"hgt":22,"stre":28,"spd":66,"jmp":48,"endu":32,"ins":4,"dnk":54,"ft":62,"fg":32,"tp":52,"diq":30,"oiq":45,"drb":62,"pss":65,"reb":20}],
 "pos":"PG","hgt":72,"weight":190,
@@ -7058,13 +7058,13 @@
 "college":"Argentina",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":29,
+{"tid":4,
 "name":"Tomas Satoransky",
 "ratings":[{"hgt":48,"stre":25,"spd":50,"jmp":44,"endu":42,"ins":23,"dnk":61,"ft":35,"fg":68,"tp":58,"diq":40,"oiq":53,"drb":67,"pss":66,"reb":28}],
 "pos":"G","hgt":79,"weight":210,
 "born":{"year":1992,"loc":"Prague, Czech Republic"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203107.png",
-"contract":{"amount":3130,"exp":2019},
+"contract":{"amount":10000,"exp":2022},
 "draft":{"round":2,"pick":2,"tid":29,"originalTid":29,"year":2012},
 "college":"Czech Republic",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -7146,7 +7146,7 @@
 "college":"Purdue",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":12,
+{"tid":-1,
 "name":"Rodney McGruder",
 "ratings":[{"hgt":36,"stre":52,"spd":59,"jmp":64,"endu":48,"ins":44,"dnk":62,"ft":55,"fg":66,"tp":64,"diq":40,"oiq":50,"drb":57,"pss":30,"reb":57}],
 "pos":"SG","hgt":76,"weight":205,
@@ -7168,15 +7168,15 @@
 "college":"Duke",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
-"name":"Nikola Mirotic",
-"ratings":[{"hgt":59,"stre":60,"spd":40,"jmp":44,"endu":53,"ins":69,"dnk":70,"ft":53,"fg":66,"tp":73,"diq":49,"oiq":66,"drb":60,"pss":40,"reb":76}],
-"pos":"PF","hgt":82,"weight":260,
-"born":{"year":1991, "loc":"Titograd, Montenegro"},
-"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202703.png",
-"contract":{"amount":12500,"exp":2024},
-"draft":{"round":1,"pick":23,"tid":10,"originalTid":21,"year":2011},
-"college":"Spain",
+{"tid":18,
+"name":"Nicolò Melli",
+"ratings":[{"hgt":55,"stre":48,"spd":40,"jmp":44,"endu":53,"ins":59,"dnk":60,"ft":53,"fg":56,"tp":63,"diq":49,"oiq":60,"drb":60,"pss":40,"reb":66}],
+"pos":"PF","hgt":81,"weight":235,
+"born":{"year":1991, "loc":"Reggio Emilia, Italy"},
+"imgURL":"https://i.imgur.com/h2BKXsa.png",
+"contract":{"amount":4000,"exp":2021},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2013},
+"college":"Italy",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
@@ -7267,7 +7267,7 @@
 "college":"Dayton",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":4,
+{"tid":-1,
 "name":"Ryan Arcidiacono",
 "ratings":[{"hgt":30,"stre":25,"spd":47,"jmp":37,"endu":42,"ins":22,"dnk":47,"ft":60,"fg":48,"tp":58,"diq":44,"oiq":52,"drb":66,"pss":61,"reb":19}],
 "pos":"G","hgt":75,"weight":200,
@@ -7289,7 +7289,7 @@
 "college":"Georgetown",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":1,
+{"tid":-1,
 "name":"P.J. Dozier",
 "ratings":[{"hgt":44,"stre":19,"spd":67,"jmp":47,"endu":29,"ins":28,"dnk":36,"ft":50,"fg":45,"tp":50,"diq":17,"oiq":28,"drb":68,"pss":62,"reb":22}],
 "pos":"PG","hgt":78,"weight":205,
@@ -7398,7 +7398,7 @@
 "college":"Oregon State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":21,
+{"tid":-1,
 "name":"Khem Birch",
 "ratings":[{"hgt":57,"stre":68,"spd":38,"jmp":46,"endu":38,"ins":61,"dnk":65,"ft":41,"fg":42,"tp":0,"diq":55,"oiq":53,"drb":20,"pss":23,"reb":66}],
 "pos":"FC","hgt":81,"weight":220,
@@ -7431,7 +7431,7 @@
 "college":"Gonzaga",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":15,
+{"tid":24,
 "name":"Hassan Whiteside",
 "ratings":[{"hgt":76,"stre":80,"spd":52,"jmp":75,"endu":37,"ins":90,"dnk":94,"ft":0,"fg":43,"tp":0,"diq":48,"oiq":48,"drb":44,"pss":19,"reb":98}],
 "pos":"C","hgt":84,"weight":265,
@@ -7443,7 +7443,7 @@
 "awards":[{"season":2016,"type":"League Blocks Leader"},{"season":2017,"type":"League Rebounding Leader"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":12,
+{"tid":-1,
 "name":"Johnathan Motley",
 "ratings":[{"hgt":60,"stre":65,"spd":44,"jmp":54,"endu":36,"ins":61,"dnk":57,"ft":61,"fg":29,"tp":0,"diq":47,"oiq":42,"drb":35,"pss":29,"reb":61}],
 "pos":"PF","hgt":82,"weight":230,
@@ -7465,7 +7465,7 @@
 "college":"Marquette",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":10,
+{"tid":-1,
 "name":"Vincent Edwards",
 "ratings":[{"hgt":52,"stre":44,"spd":53,"jmp":65,"endu":30,"ins":48,"dnk":36,"ft":43,"fg":56,"tp":37,"diq":49,"oiq":32,"drb":31,"pss":27,"reb":50}],
 "pos":"SF","hgt":80,"weight":225,
@@ -7632,13 +7632,13 @@
 "relatives":[{"type":"brother","pid":577,"name":"Lonzo Ball"},{"type":"brother","pid":497,"name":"LaMelo Ball"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":13,
 "name":"Troy Daniels",
 "ratings":[{"hgt":44,"stre":30,"spd":59,"jmp":40,"endu":42,"ins":18,"dnk":54,"ft":70,"fg":66,"tp":72,"diq":46,"oiq":55,"drb":49,"pss":28,"reb":12}],
 "pos":"SG","hgt":78,"weight":205,
 "born":{"year":1992,"loc":"Roanoke, VA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203584.png",
-"contract":{"amount":3259,"exp":2019},
+"contract":{"amount":2100,"exp":2020},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2013},
 "college":"Virginia Commonwealth",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -7654,7 +7654,7 @@
 "college":"Houston",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":14,
+{"tid":-1,
 "name":"Tyler Dorsey",
 "ratings":[{"hgt":36,"stre":26,"spd":53,"jmp":46,"endu":27,"ins":18,"dnk":58,"ft":40,"fg":36,"tp":61,"diq":36,"oiq":45,"drb":69,"pss":55,"reb":10}],
 "pos":"G","hgt":77,"weight":183,
@@ -7665,7 +7665,7 @@
 "college":"Oregon",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":17,
+{"tid":-1,
 "name":"C.J. Williams",
 "ratings":[{"hgt":40,"stre":42,"spd":53,"jmp":44,"endu":38,"ins":31,"dnk":51,"ft":60,"fg":46,"tp":60,"diq":43,"oiq":52,"drb":42,"pss":43,"reb":16}],
 "pos":"SG","hgt":77,"weight":230,
@@ -7688,7 +7688,7 @@
 "awards":[{"season":2019,"type":"Most Improved Player"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":27,
+{"tid":-1,
 "name":"Patrick McCaw",
 "ratings":[{"hgt":50,"stre":20,"spd":68,"jmp":51,"endu":40,"ins":23,"dnk":55,"ft":55,"fg":57,"tp":51,"diq":39,"oiq":52,"drb":55,"pss":53,"reb":19}],
 "pos":"SG","hgt":79,"weight":185,
@@ -7888,7 +7888,7 @@
 "college":"Creighton",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":5,
+{"tid":-1,
 "name":"Deng Adel",
 "ratings":[{"hgt":48,"stre":25,"spd":53,"jmp":46,"endu":40,"ins":61,"dnk":55,"ft":55,"fg":27,"tp":41,"diq":53,"oiq":32,"drb":33,"pss":27,"reb":29}],
 "pos":"SF","hgt":79,"weight":200,
@@ -7921,7 +7921,7 @@
 "college":"Auburn",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":9,
+{"tid":-1,
 "name":"Jordan Bell",
 "ratings":[{"hgt":57,"stre":46,"spd":50,"jmp":82,"endu":47,"ins":63,"dnk":69,"ft":30,"fg":35,"tp":13,"diq":59,"oiq":55,"drb":38,"pss":44,"reb":69}],
 "pos":"PF","hgt":81,"weight":235,
@@ -7954,7 +7954,7 @@
 "college":"Texas A&M",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":18,
+{"tid":-1,
 "name":"Trevon Bluiett",
 "pos":"GF","hgt":77,"weight":215,
 "born":{"year":1995,"loc":"Indianapolis, IN"},
@@ -7998,7 +7998,7 @@
 "college":"Villanova",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":4,
+{"tid":-1,
 "name":"Brandon Sampson",
 "ratings":[{"hgt":47,"stre":30,"spd":62,"jmp":62,"endu":24,"ins":18,"dnk":61,"ft":55,"fg":56,"tp":55,"diq":37,"oiq":42,"drb":50,"pss":50,"reb":21}],
 "pos":"SG","hgt":78,"weight":184,
@@ -8031,7 +8031,7 @@
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2020},
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":4,
+{"tid":-1,
 "name":"Rawle Alkins",
 "ratings":[{"hgt":36,"stre":57,"spd":56,"jmp":52,"endu":39,"ins":33,"dnk":63,"ft":36,"fg":54,"tp":40,"diq":35,"oiq":49,"drb":33,"pss":34,"reb":38}],
 "pos":"SG","hgt":76,"weight":225,
@@ -8163,7 +8163,7 @@
 "college":"Kansas",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":13,
+{"tid":-1,
 "name":"Johnathan Williams",
 "ratings":[{"hgt":56,"stre":58,"spd":48,"jmp":58,"endu":33,"ins":46,"dnk":53,"ft":44,"fg":39,"tp":30,"diq":44,"oiq":38,"drb":39,"pss":44,"reb":58}],
 "pos":"PF","hgt":81,"weight":228,
@@ -8185,7 +8185,7 @@
 "college":"USC Upstate",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":14,
+{"tid":-1,
 "name":"Delon Wright",
 "ratings":[{"hgt":42,"stre":32,"spd":61,"jmp":71,"endu":40,"ins":35,"dnk":73,"ft":62,"fg":61,"tp":48,"diq":55,"oiq":51,"drb":49,"pss":52,"reb":48}],
 "pos":"G","hgt":77,"weight":190,
@@ -8207,7 +8207,7 @@
 "college":"Kansas State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":2,
+{"tid":-1,
 "name":"Alan Williams",
 "ratings":[{"hgt":53,"stre":76,"spd":29,"jmp":52,"endu":42,"ins":56,"dnk":53,"ft":47,"fg":30,"tp":0,"diq":54,"oiq":38,"drb":22,"pss":30,"reb":69}],
 "pos":"FC","hgt":80,"weight":260,
@@ -8394,7 +8394,7 @@
 "college":"Maryland",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":21,
+{"tid":-1,
 "name":"Jerian Grant",
 "ratings":[{"hgt":41,"stre":30,"spd":64,"jmp":49,"endu":36,"ins":30,"dnk":68,"ft":34,"fg":52,"tp":58,"diq":36,"oiq":30,"drb":58,"pss":50,"reb":34}],
 "pos":"PG","hgt":77,"weight":198,
@@ -8494,7 +8494,7 @@
 "college":"South Carolina",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":12,
+{"tid":-1,
 "name":"Ivica Zubac",
 "ratings":[{"hgt":70,"stre":63,"spd":38,"jmp":50,"endu":38,"ins":72,"dnk":70,"ft":61,"fg":42,"tp":0,"diq":52,"oiq":58,"drb":38,"pss":39,"reb":76}],
 "pos":"C","hgt":84,"weight":240,
@@ -8616,7 +8616,7 @@
 "college":"Houston",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":29,
+{"tid":-1,
 "name":"Chasson Randle",
 "ratings":[{"hgt":27,"stre":28,"spd":62,"jmp":47,"endu":35,"ins":24,"dnk":53,"ft":65,"fg":46,"tp":62,"diq":29,"oiq":35,"drb":65,"pss":60,"reb":24}],
 "pos":"G","hgt":74,"weight":185,
@@ -8662,7 +8662,7 @@
 "college":"Georgia",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":3,
+{"tid":-1,
 "name":"Frank Kaminsky",
 "ratings":[{"hgt":68,"stre":54,"spd":45,"jmp":35,"endu":39,"ins":60,"dnk":56,"ft":57,"fg":40,"tp":56,"diq":35,"oiq":46,"drb":50,"pss":43,"reb":23}],
 "pos":"C","hgt":84,"weight":242,
@@ -8750,7 +8750,7 @@
 "college":"New Mexico State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":17,
+{"tid":-1,
 "name":"Tyus Jones",
 "ratings":[{"hgt":22,"stre":25,"spd":55,"jmp":52,"endu":46,"ins":30,"dnk":50,"ft":66,"fg":70,"tp":63,"diq":36,"oiq":45,"drb":75,"pss":75,"reb":38}],
 "pos":"PG","hgt":73,"weight":195,
@@ -8784,7 +8784,7 @@
 "college":"Arizona",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":8,
+{"tid":-1,
 "firstName":"Glenn","lastName":"Robinson III",
 "ratings":[{"hgt":45,"stre":28,"spd":54,"jmp":77,"endu":31,"ins":38,"dnk":52,"ft":67,"fg":57,"tp":60,"diq":38,"oiq":42,"drb":45,"pss":32,"reb":32}],
 "pos":"SF","hgt":78,"weight":222,
@@ -8862,7 +8862,7 @@
 "college":"Kansas",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":11,
+{"tid":-1,
 "name":"Davon Reed",
 "ratings":[{"hgt":44,"stre":26,"spd":54,"jmp":57,"endu":33,"ins":26,"dnk":58,"ft":55,"fg":38,"tp":41,"diq":45,"oiq":47,"drb":45,"pss":25,"reb":30}],
 "pos":"SG","hgt":78,"weight":220,
@@ -8972,7 +8972,7 @@
 "college":"Purdue",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":25,
+{"tid":-1,
 "name":"Troy Williams",
 "ratings":[{"hgt":48,"stre":32,"spd":61,"jmp":79,"endu":38,"ins":28,"dnk":62,"ft":25,"fg":57,"tp":60,"diq":32,"oiq":47,"drb":38,"pss":33,"reb":25}],
 "pos":"SF","hgt":79,"weight":210,
@@ -9108,7 +9108,7 @@
 "college":"Notre Dame",
 "ratings":[{"hgt":22,"stre":46,"spd":60,"jmp":63,"endu":39,"ins":23,"dnk":52,"ft":54,"fg":33,"tp":36,"diq":43,"oiq":32,"drb":62,"pss":76,"reb":39}]},
 
-{"tid":18,
+{"tid":-1,
 "name":"Cheick Diallo",
 "pos":"FC","hgt":81,"weight":220,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627767.png",
@@ -9224,7 +9224,7 @@
 "college":"UNLV",
 "ratings":[{"hgt":68,"stre":86,"spd":20,"jmp":21,"endu":30,"ins":56,"dnk":45,"ft":54,"fg":33,"tp":0,"diq":43,"oiq":27,"drb":22,"pss":24,"reb":67}]},
 
-{"tid":19,
+{"tid":-1,
 "name":"Henry Ellenson",
 "pos":"PF","hgt":83,"weight":245,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627740.png",
@@ -9342,12 +9342,12 @@
 "college":"North Carolina",
 "ratings":[{"hgt":56,"stre":33,"spd":56,"jmp":66,"endu":34,"ins":34,"dnk":55,"ft":41,"fg":52,"tp":50,"diq":27,"oiq":42,"drb":52,"pss":59,"reb":17}]},
 
-{"tid":8,
+{"tid":24,
 "name":"Isaiah Whitehead",
 "pos":"PG","hgt":77,"weight":213,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627785.png",
 "born":{"year":1995,"loc":"Brooklyn, NY"},
-"contract":{"amount":"850","exp":"2019"},
+"contract":{"amount":"900","exp":"2020"},
 "draft":{"round":2,"pick":12,"tid":28,"originalTid":28,"year":2016},
 "college":"Seton Hall",
 "ratings":[{"hgt":41,"stre":45,"spd":54,"jmp":55,"endu":36,"ins":23,"dnk":45,"ft":38,"fg":38,"tp":46,"diq":53,"oiq":44,"drb":60,"pss":54,"reb":32}]},
@@ -9509,7 +9509,7 @@
 "college":"Pittsburgh",
 "ratings":[{"hgt":28,"stre":37,"spd":56,"jmp":57,"endu":42,"ins":23,"dnk":41,"ft":66,"fg":57,"tp":57,"diq":23,"oiq":54,"drb":60,"pss":60,"reb":23}]},
 
-{"tid":9,
+{"tid":-1,
 "name":"Damion Lee",
 "pos":"SF","hgt":78,"weight":200,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627814.png",
@@ -9546,7 +9546,7 @@
 "college":"France",
 "ratings":[{"hgt":43,"stre":29,"spd":53,"jmp":49,"endu":29,"ins":21,"dnk":56,"ft":71,"fg":52,"tp":40,"diq":39,"oiq":35,"drb":42,"pss":55,"reb":33}]},
 
-{"tid":6,
+{"tid":-1,
 "name":"Dorian Finney-Smith",
 "ratings":[{"hgt":53,"stre":52,"spd":56,"jmp":61,"endu":39,"ins":56,"dnk":50,"ft":47,"fg":60,"tp":34,"diq":55,"oiq":50,"drb":30,"pss":38,"reb":60}],
 "pos":"F","hgt":80,"weight":220,
@@ -9568,7 +9568,7 @@
 "college":"Spain",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":24,
+{"tid":-1,
 "name":"Jake Layman",
 "ratings":[{"hgt":56,"stre":34,"spd":55,"jmp":55,"endu":38,"ins":48,"dnk":57,"ft":48,"fg":51,"tp":59,"diq":29,"oiq":44,"drb":58,"pss":40,"reb":55}],
 "pos":"SF","hgt":80,"weight":210,
@@ -9601,7 +9601,7 @@
 "college":"Louisiana State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":4,
+{"tid":-1,
 "name":"Wayne Selden",
 "ratings":[{"hgt":40,"stre":39,"spd":64,"jmp":78,"endu":42,"ins":28,"dnk":58,"ft":50,"fg":60,"tp":64,"diq":38,"oiq":35,"drb":34,"pss":42,"reb":26}],
 "pos":"SG","hgt":77,"weight":230,
@@ -9612,7 +9612,7 @@
 "college":"Kansas",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":0,
+{"tid":-1,
 "name":"Alex Poythress",
 "pos":"PF","hgt":80,"weight":235,
 "born":{"year":1994,"loc":"Savannah, GA"},
