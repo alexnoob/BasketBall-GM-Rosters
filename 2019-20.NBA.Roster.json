@@ -1525,7 +1525,7 @@
 "college":"DR Congo",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":2,
+{"tid":1,
 "name":"Kemba Walker",
 "ratings":[{"hgt":28,"stre":59,"spd":73,"jmp":85,"endu":74,"ins":67,"dnk":90,"ft":64,"fg":86,"tp":75,"diq":45,"oiq":73,"drb":64,"pss":49,"reb":52}],
 "pos":"PG","hgt":73,"weight":184,
