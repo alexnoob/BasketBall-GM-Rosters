@@ -5372,7 +5372,7 @@
 "pos":"C","hgt":83,"weight":270,
 "born":{"year":1991,"loc":"Mobile, AL"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202326.png",
-"contract":{"amount":15000,"exp":2020},
+"contract":{"amount":3500,"exp":2020},
 "draft":{"round":1,"pick":5,"tid":25,"originalTid":25,"year":2010},
 "college":"Kentucky",
 "injury":{"type":"Healthy","gamesRemaining":0}},
