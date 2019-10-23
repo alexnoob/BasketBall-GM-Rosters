@@ -3902,6 +3902,7 @@
 {"season":2017,"type":"Second Team All-Defensive"},
 {"season":2017,"type":"All-Star"},{"season":2018,"type":"All-Star"},{"season":2019,"type":"All-Star"}],
 "stats":[
+{"playoffs":false,"season":2017,"tid":16,"yearsWithTeam":3,"per":26.1,"ewa":22.1,"astp":26.6,"blkp":4.7,"drbp":22.6,"orbp":5.9,"stlp":2.3,"trbp":14.3,"usgp":28.3,"drtg":107.5,"ortg":108.6,"dws":4.5,"ows":7.9,"gp":80,"gs":80,"min":2845,"fg":656,"fga":1259,"fgAtRim":0,"fgaAtRim":0,"fgLowPost":0,"fgaLowPost":0,"fgMidRange":0,"fgaMidRange":0,"tp":49,"tpa":180,"ft":471,"fta":612,"pm":46,"orb":142,"drb":558,"ast":434,"tov":234,"stl":131,"blk":151,"ba":70,"pf":246,"pts":1832},
 {"playoffs":false,"season":2018,"tid":16,"yearsWithTeam":4,"per":27.3,"ewa":21.8,"astp":23.7,"blkp":3.3,"drbp":25.3,"orbp":6.7,"stlp":2.0,"trbp":25.3,"usgp":31.2,"drtg":106.5,"ortg":109.4,"dws":3.6,"ows":8.3,"gp":75,"gs":75,"min":2756,"fg":742,"fga":1402,"fgAtRim":0,"fgaAtRim":0,"fgLowPost":0,"fgaLowPost":0,"fgMidRange":0,"fgaMidRange":0,"tp":43,"tpa":140,"ft":487,"fta":641,"pm":148,"orb":156,"drb":597,"ast":361,"tov":223,"stl":109,"blk":106,"ba":85,"pf":231,"pts":2014},
 {"playoffs":false,"season":2019,"tid":16,"yearsWithTeam":5,"per":30.9,"ewa":22.8,"astp":30.3,"blkp":3.9,"drbp":30.0,"orbp":7.3,"stlp":1.8,"trbp":19.3,"usgp":32.3,"drtg":101.8,"ortg":114.3,"dws":5.5,"ows":8.9,"gp":72,"gs":72,"min":2358,"fg":721,"fga":1247,"fgAtRim":0,"fgaAtRim":0,"fgLowPost":0,"fgaLowPost":0,"fgMidRange":0,"fgaMidRange":0,"tp":52,"tpa":203,"ft":500,"fta":686,"pm":652,"orb":159,"drb":739,"ast":424,"tov":268,"stl":92,"blk":110,"ba":100,"pf":232,"pts":1994},
 {"playoffs":false,"season":2020,"tid":16,"yearsWithTeam":6,"per":0,"ewa":0,"astp":0,"blkp":0,"drbp":0,"orbp":0,"stlp":0,"trbp":0,"usgp":0,"drtg":0,"ortg":0,"dws":0,"ows":0,"gp":0,"gs":0,"min":0,"fg":0,"fga":0,"fgAtRim":0,"fgaAtRim":0,"fgLowPost":0,"fgaLowPost":0,"fgMidRange":0,"fgaMidRange":0,"tp":0,"tpa":0,"ft":0,"fta":0,"pm":0,"orb":0,"drb":0,"ast":0,"tov":0,"stl":0,"blk":0,"ba":0,"pf":0,"pts":0}],
@@ -7581,6 +7582,9 @@
 "contract":{"amount":2775,"exp":2022},
 "draft":{"round":1,"pick":18,"tid":26,"originalTid":26,"year":2018},
 "college":"Miami (Florida)",
+"stats":[
+{"playoffs":false,"season":2019,"tid":26,"yearsWithTeam":1,"per":10.8,"ewa":0.0,"astp":10.3,"blkp":2.2,"drbp":15.6,"orbp":0.0,"stlp":2.9,"trbp":7.9,"usgp":20.3,"drtg":111.7,"ortg":87.4,"dws":0.2,"ows":-0.1,"gp":17,"gs":0,"min":118,"fg":16,"fga":46,"fgAtRim":0,"fgaAtRim":0,"fgLowPost":0,"fgaLowPost":0,"fgMidRange":0,"fgaMidRange":0,"tp":5,"tpa":13,"ft":8,"fta":10,"pm":-55,"orb":0,"drb":17,"ast":9,"tov":4,"stl":7,"blk":3,"ba":3,"pf":7,"pts":45},
+{"playoffs":false,"season":2020,"tid":26,"yearsWithTeam":2,"per":0,"ewa":0,"astp":0,"blkp":0,"drbp":0,"orbp":0,"stlp":0,"trbp":0,"usgp":0,"drtg":0,"ortg":0,"dws":0,"ows":0,"gp":0,"gs":0,"min":0,"fg":0,"fga":0,"fgAtRim":0,"fgaAtRim":0,"fgLowPost":0,"fgaLowPost":0,"fgMidRange":0,"fgaMidRange":0,"tp":0,"tpa":0,"ft":0,"fta":0,"pm":0,"orb":0,"drb":0,"ast":0,"tov":0,"stl":0,"blk":0,"ba":0,"pf":0,"pts":0}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":15,
@@ -9392,7 +9396,7 @@
 
 {"tid":26,
 "name":"Dejounte Murray",
-"ratings":[{"hgt":43,"stre":23,"spd":74,"jmp":73,"endu":48,"ins":22,"dnk":66,"ft":56,"fg":54,"tp":33,"diq":43,"oiq":48,"drb":71,"pss":48,"reb":72}],
+"ratings":[{"hgt":43,"stre":23,"spd":74,"jmp":73,"endu":48,"ins":22,"dnk":66,"ft":50,"fg":54,"tp":33,"diq":56,"oiq":48,"drb":66,"pss":48,"reb":72}],
 "pos":"G","hgt":77,"weight":170,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627749.png",
 "born":{"year":1997,"loc":"Seattle, WA"},
@@ -9400,6 +9404,10 @@
 "draft":{"round":1,"pick":29,"tid":26,"originalTid":26,"year":2016},
 "college":"Washington",
 "awards":[{"season":2018,"type":"Second Team All-Defensive"}],
+"stats":[
+{"playoffs":false,"season":2017,"tid":26,"yearsWithTeam":1,"per":9.6,"ewa":-0.2,"astp":22.6,"blkp":1.5,"drbp":12.4,"orbp":2.2,"stlp":1.3,"trbp":7.4,"usgp":23.5,"drtg":100.5,"ortg":100.2,"dws":0.5,"ows":-0.4,"gp":38,"gs":8,"min":322,"fg":50,"fga":116,"fgAtRim":0,"fgaAtRim":0,"fgLowPost":0,"fgaLowPost":0,"fgMidRange":0,"fgaMidRange":0,"tp":9,"tpa":23,"ft":21,"fta":30,"pm":1,"orb":6,"drb":36,"ast":48,"tov":38,"stl":8,"blk":6,"ba":9,"pf":29,"pts":130},
+{"playoffs":false,"season":2018,"tid":26,"yearsWithTeam":2,"per":15.1,"ewa":3.6,"astp":20.2,"blkp":1.5,"drbp":22.4,"orbp":7.0,"stlp":2.8,"trbp":14.6,"usgp":20.7,"drtg":98.7,"ortg":103.0,"dws":3.4,"ows":-0.2,"gp":81,"gs":48,"min":1743,"fg":270,"fga":609,"fgAtRim":0,"fgaAtRim":0,"fgLowPost":0,"fgaLowPost":0,"fgMidRange":0,"fgaMidRange":0,"tp":9,"tpa":34,"ft":105,"fta":148,"pm":151,"orb":110,"drb":349,"ast":231,"tov":134,"stl":97,"blk":31,"ba":46,"pf":151,"pts":654},
+{"playoffs":false,"season":2020,"tid":26,"yearsWithTeam":3,"per":0,"ewa":0,"astp":0,"blkp":0,"drbp":0,"orbp":0,"stlp":0,"trbp":0,"usgp":0,"drtg":0,"ortg":0,"dws":0,"ows":0,"gp":0,"gs":0,"min":0,"fg":0,"fga":0,"fgAtRim":0,"fgaAtRim":0,"fgLowPost":0,"fgaLowPost":0,"fgMidRange":0,"fgaMidRange":0,"tp":0,"tpa":0,"ft":0,"fta":0,"pm":0,"orb":0,"drb":0,"ast":0,"tov":0,"stl":0,"blk":0,"ba":0,"pf":0,"pts":0}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":24,
