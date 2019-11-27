@@ -202,6 +202,7 @@
 "contract":{"amount":13450,"exp":2020},
 "draft":{"round":2,"pick":16,"tid":29,"originalTid":29,"year":2014},
 "college":"Missouri",
+"stats":[{"playoffs":false,"yearsWithTeam":1,"season":2015,"tid":13,"gp":59,"gs":38,"min":1476,"fg":267,"fga":596,"tp":38,"tpa":121,"ft":131,"fta":158,"orb":56,"drb":135,"ast":206,"stl":51,"blk":12,"ba":39,"tov":96,"pf":109,"pts":703,"pm":-350,"ewa":4.7,"per":16.9,"orbp":4,"drbp":10.5,"trbp":7.1,"astp":23.8,"stlp":1.8,"blkp":0.7,"usgp":23,"ows":2,"dws":0.4,"ortg":107,"drtg":115},{"playoffs":false,"yearsWithTeam":2,"season":2016,"tid":13,"gp":79,"gs":79,"min":2552,"fg":475,"fga":1098,"tp":111,"tpa":320,"ft":164,"fta":204,"orb":93,"drb":220,"ast":192,"stl":88,"blk":7,"ba":87,"tov":135,"pf":168,"pts":1225,"pm":-241,"ewa":4.8,"per":14.3,"orbp":3.8,"drbp":9.6,"trbp":6.6,"astp":13.8,"stlp":1.7,"blkp":0.2,"usgp":22.8,"ows":1.7,"dws":0.4,"ortg":100.8,"drtg":109.1},{"playoffs":false,"yearsWithTeam":3,"season":2017,"tid":13,"gp":82,"gs":19,"min":2397,"fg":477,"fga":1071,"tp":117,"tpa":356,"ft":134,"fta":168,"orb":49,"drb":197,"ast":213,"stl":88,"blk":8,"ba":58,"tov":164,"pf":150,"pts":1205,"pm":-628,"ewa":3.2,"per":13.2,"orbp":2.2,"drbp":9.3,"trbp":5.6,"astp":14.4,"stlp":1.8,"blkp":0.3,"usgp":23.3,"ows":0.5,"dws":0.7,"ortg":99.8,"drtg":111.9},{"playoffs":false,"yearsWithTeam":4,"season":2018,"tid":13,"gp":53,"gs":2,"min":1256,"fg":299,"fga":667,"tp":68,"tpa":210,"ft":105,"fta":132,"orb":44,"drb":115,"ast":173,"stl":39,"blk":3,"ba":36,"tov":95,"pf":63,"pts":771,"pm":-38,"ewa":4,"per":16.9,"orbp":3.8,"drbp":9.7,"trbp":6.7,"astp":22.9,"stlp":1.5,"blkp":0.2,"usgp":27.7,"ows":1.1,"dws":1,"ortg":104.6,"drtg":106.5},{"playoffs":false,"yearsWithTeam":1,"season":2018,"tid":5,"gp":28,"gs":0,"min":632,"fg":131,"fga":287,"tp":44,"tpa":108,"ft":47,"fta":58,"orb":13,"drb":45,"ast":48,"stl":19,"blk":3,"ba":15,"tov":32,"pf":44,"pts":353,"pm":-21,"ewa":1.5,"per":15.4,"orbp":2.3,"drbp":7.9,"trbp":5.1,"astp":12,"stlp":1.5,"blkp":0.4,"usgp":24.1,"ows":0.8,"dws":0.2,"ortg":103.6,"drtg":105.3},{"playoffs":false,"yearsWithTeam":2,"season":2019,"tid":5,"gp":81,"gs":0,"min":2214,"fg":529,"fga":1180,"tp":144,"tpa":445,"ft":162,"fta":192,"orb":82,"drb":188,"ast":196,"stl":57,"blk":13,"ba":55,"tov":135,"pf":112,"pts":1364,"pm":-17,"ewa":6.9,"per":16.8,"orbp":3.9,"drbp":9.9,"trbp":6.8,"astp":15.6,"stlp":1.3,"blkp":0.5,"usgp":27.6,"ows":1.9,"dws":-0.1,"ortg":106.7,"drtg":109}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-2,"draft":{"year":2020},
@@ -721,7 +722,7 @@
 
 {"tid":25,
 "name":"Dewayne Dedmon",
-"ratings":[{"hgt":67,"stre":84,"spd":39,"jmp":63,"endu":50,"ins":69,"dnk":68,"ft":57,"fg":22,"tp":40,"diq":67,"oiq":51,"drb":18,"pss":22,"reb":80}],
+"ratings":[{"hgt":67,"stre":74,"spd":39,"jmp":46,"endu":40,"ins":60,"dnk":58,"ft":57,"fg":22,"tp":31,"diq":58,"oiq":51,"drb":18,"pss":26,"reb":73}],
 "pos":"C","hgt":84,"weight":245,
 "born":{"year":1990,"loc":"Lancaster, CA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203473.png",
@@ -1474,13 +1475,14 @@
 {"tid":7,
 "name":"Mason Plumlee",
 "ratings":[{"hgt":67,"stre":71,"spd":47,"jmp":69,"endu":50,"ins":83,"dnk":80,"ft":17,"fg":21,"tp":0,"diq":43,"oiq":64,"drb":38,"pss":50,"reb":76}],
-"pos":"FC","hgt":83,"weight":254,
+"pos":"C","hgt":83,"weight":254,
 "born":{"year":1990,"loc":"Fort Wayne, IN"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203486.png",
 "contract":{"amount":14050,"exp":2020},
 "draft":{"round":1,"pick":22,"tid":2,"originalTid":2,"year":2013},
 "college":"Duke",
 "relatives":[{"type":"brother","pid":443,"name":"Miles Plumlee"}],
+"stats":[{"playoffs":false,"yearsWithTeam":1,"season":2014,"tid":2,"gp":70,"gs":22,"min":1275,"fg":199,"fga":302,"tp":0,"tpa":3,"ft":122,"fta":195,"orb":99,"drb":209,"ast":60,"stl":49,"blk":55,"ba":35,"tov":77,"pf":171,"pts":520,"pm":-91,"ewa":5.3,"per":19,"orbp":9.3,"drbp":19.6,"trbp":14.5,"astp":8.1,"stlp":2,"blkp":3.6,"usgp":17.1,"ows":3,"dws":1.7,"ortg":104.8,"drtg":108.1},{"playoffs":false,"yearsWithTeam":2,"season":2015,"tid":2,"gp":82,"gs":45,"min":1743,"fg":280,"fga":489,"tp":0,"tpa":3,"ft":157,"fta":317,"orb":175,"drb":337,"ast":74,"stl":65,"blk":63,"ba":59,"tov":106,"pf":207,"pts":717,"pm":-180,"ewa":6.4,"per":18,"orbp":11.3,"drbp":21.6,"trbp":16.5,"astp":7,"stlp":1.9,"blkp":2.9,"usgp":19.2,"ows":2.5,"dws":2.3,"ortg":102,"drtg":106.6},{"playoffs":false,"yearsWithTeam":1,"season":2016,"tid":24,"gp":82,"gs":82,"min":2084,"fg":267,"fga":517,"tp":0,"tpa":4,"ft":215,"fta":335,"orb":201,"drb":427,"ast":226,"stl":68,"blk":85,"ba":63,"tov":154,"pf":253,"pts":749,"pm":36,"ewa":6.8,"per":17.2,"orbp":10.4,"drbp":22.2,"trbp":16.3,"astp":16.2,"stlp":1.6,"blkp":3.2,"usgp":17.1,"ows":3.4,"dws":2.7,"ortg":109,"drtg":107.4},{"playoffs":false,"yearsWithTeam":2,"season":2017,"tid":24,"gp":54,"gs":54,"min":1516,"fg":235,"fga":442,"tp":0,"tpa":5,"ft":127,"fta":224,"orb":120,"drb":312,"ast":214,"stl":50,"blk":63,"ba":39,"tov":88,"pf":149,"pts":597,"pm":19,"ewa":6.3,"per":18.9,"orbp":8.7,"drbp":22.9,"trbp":15.8,"astp":21.4,"stlp":1.6,"blkp":3.3,"usgp":18.3,"ows":2.8,"dws":1.8,"ortg":113.4,"drtg":112.3},{"playoffs":false,"yearsWithTeam":1,"season":2017,"tid":7,"gp":27,"gs":10,"min":632,"fg":99,"fga":181,"tp":0,"tpa":1,"ft":47,"fta":76,"orb":50,"drb":123,"ast":70,"stl":19,"blk":29,"ba":14,"tov":46,"pf":77,"pts":245,"pm":-20,"ewa":1.8,"per":16.3,"orbp":8.8,"drbp":21.3,"trbp":15.1,"astp":15.9,"stlp":1.5,"blkp":3.6,"usgp":17.5,"ows":0.8,"dws":0.6,"ortg":110.8,"drtg":111.2},{"playoffs":false,"yearsWithTeam":2,"season":2018,"tid":7,"gp":74,"gs":26,"min":1439,"fg":221,"fga":368,"tp":0,"tpa":1,"ft":82,"fta":179,"orb":132,"drb":268,"ast":142,"stl":49,"blk":81,"ba":27,"tov":103,"pf":184,"pts":524,"pm":-51,"ewa":4.5,"per":16.9,"orbp":10.4,"drbp":20.9,"trbp":15.6,"astp":14.4,"stlp":1.7,"blkp":4.7,"usgp":16.6,"ows":1.8,"dws":1.8,"ortg":107.5,"drtg":108.2},{"playoffs":false,"yearsWithTeam":3,"season":2019,"tid":7,"gp":82,"gs":17,"min":1731,"fg":262,"fga":442,"tp":2,"tpa":10,"ft":111,"fta":198,"orb":165,"drb":359,"ast":243,"stl":66,"blk":76,"ba":34,"tov":126,"pf":252,"pts":637,"pm":72,"ewa":6.2,"per":17.8,"orbp":10.3,"drbp":22.5,"trbp":16.4,"astp":19.5,"stlp":1.9,"blkp":3.9,"usgp":16.2,"ows":2.9,"dws":2.9,"ortg":109.3,"drtg":106.1}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
@@ -1591,7 +1593,7 @@
 
 {"tid":3,
 "name":"Cody Zeller",
-"ratings":[{"hgt":67,"stre":45,"spd":55,"jmp":41,"endu":42,"ins":65,"dnk":60,"ft":55,"fg":56,"tp":29,"diq":41,"oiq":53,"drb":53,"pss":49,"reb":77}],
+"ratings":[{"hgt":67,"stre":45,"spd":55,"jmp":41,"endu":42,"ins":58,"dnk":60,"ft":55,"fg":50,"tp":38,"diq":41,"oiq":50,"drb":53,"pss":49,"reb":77}],
 "pos":"FC","hgt":84,"weight":240,
 "born":{"year":1993,"loc":"Washington, IN"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203469.png",
@@ -1610,7 +1612,7 @@
 
 {"tid":3,
 "name":"Michael Kidd-Gilchrist",
-"ratings":[{"hgt":48,"stre":54,"spd":56,"jmp":60,"endu":44,"ins":55,"dnk":57,"ft":54,"fg":43,"tp":25,"diq":54,"oiq":53,"drb":55,"pss":35,"reb":55}],
+"ratings":[{"hgt":48,"stre":50,"spd":50,"jmp":52,"endu":40,"ins":45,"dnk":52,"ft":54,"fg":43,"tp":31,"diq":54,"oiq":53,"drb":55,"pss":35,"reb":55}],
 "pos":"SF","hgt":78,"weight":232,
 "born":{"year":1994,"loc":"Philadelphia, PA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203077.png",
@@ -2794,6 +2796,7 @@
 "contract":{"amount":19275,"exp":2020},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2012},
 "college":"Old Dominion",
+"stats":[{"playoffs":false,"yearsWithTeam":1,"season":2013,"tid":9,"gp":61,"gs":0,"min":267,"fg":43,"fga":116,"tp":10,"tpa":34,"ft":27,"fta":44,"orb":5,"drb":17,"ast":22,"stl":17,"blk":4,"ba":6,"tov":18,"pf":27,"pts":123,"pm":-34,"ewa":0.1,"per":11.3,"orbp":2.1,"drbp":6.8,"trbp":4.5,"astp":13.1,"stlp":3.2,"blkp":1.2,"usgp":25.7,"ows":-0.3,"dws":0.3,"ortg":91.1,"drtg":90.1},{"playoffs":false,"yearsWithTeam":2,"season":2014,"tid":9,"gp":44,"gs":0,"min":268,"fg":36,"fga":97,"tp":10,"tpa":39,"ft":19,"fta":36,"orb":5,"drb":35,"ast":20,"stl":12,"blk":6,"ba":3,"tov":28,"pf":42,"pts":101,"pm":-130,"ewa":-0.6,"per":6.2,"orbp":2.1,"drbp":14,"trbp":8.1,"astp":10.9,"stlp":2.2,"blkp":1.7,"usgp":23.1,"ows":-0.6,"dws":0.4,"ortg":76.3,"drtg":98.6},{"playoffs":false,"yearsWithTeam":1,"season":2014,"tid":13,"gp":23,"gs":15,"min":643,"fg":111,"fga":246,"tp":33,"tpa":89,"ft":47,"fta":73,"orb":5,"drb":72,"ast":71,"stl":31,"blk":7,"ba":10,"tov":51,"pf":60,"pts":302,"pm":-121,"ewa":0.9,"per":13.3,"orbp":0.8,"drbp":12,"trbp":6.4,"astp":17.7,"stlp":2.3,"blkp":0.8,"usgp":22.3,"ows":0,"dws":0.4,"ortg":102.1,"drtg":110.4},{"playoffs":false,"yearsWithTeam":1,"season":2015,"tid":0,"gp":75,"gs":10,"min":1324,"fg":141,"fga":331,"tp":48,"tpa":132,"ft":60,"fta":100,"orb":21,"drb":201,"ast":78,"stl":52,"blk":33,"ba":23,"tov":73,"pf":127,"pts":390,"pm":-99,"ewa":-0.5,"per":9.7,"orbp":1.9,"drbp":16.8,"trbp":9.6,"astp":8.6,"stlp":2,"blkp":2.1,"usgp":15.5,"ows":-0.4,"dws":1.9,"ortg":99.8,"drtg":102.2},{"playoffs":false,"yearsWithTeam":2,"season":2016,"tid":0,"gp":75,"gs":68,"min":2083,"fg":320,"fga":725,"tp":109,"tpa":305,"ft":123,"fta":151,"orb":28,"drb":351,"ast":171,"stl":98,"blk":38,"ba":37,"tov":138,"pf":176,"pts":872,"pm":76,"ewa":3,"per":13.4,"orbp":1.5,"drbp":18,"trbp":9.9,"astp":12.7,"stlp":2.3,"blkp":1.4,"usgp":20,"ows":0.3,"dws":3.8,"ortg":102.8,"drtg":100.6},{"playoffs":false,"yearsWithTeam":3,"season":2017,"tid":0,"gp":73,"gs":64,"min":1963,"fg":295,"fga":721,"tp":92,"tpa":266,"ft":119,"fta":168,"orb":45,"drb":186,"ast":177,"stl":91,"blk":52,"ba":30,"tov":125,"pf":165,"pts":801,"pm":-106,"ewa":1,"per":11.5,"orbp":2.6,"drbp":10.3,"trbp":6.5,"astp":14.2,"stlp":2.3,"blkp":2.3,"usgp":20.5,"ows":-0.6,"dws":2.8,"ortg":104.3,"drtg":106},{"playoffs":false,"yearsWithTeam":4,"season":2018,"tid":0,"gp":65,"gs":65,"min":1789,"fg":284,"fga":676,"tp":108,"tpa":274,"ft":160,"fta":201,"orb":25,"drb":223,"ast":228,"stl":100,"blk":45,"ba":35,"tov":157,"pf":147,"pts":836,"pm":-162,"ewa":3.6,"per":14.5,"orbp":1.6,"drbp":13.9,"trbp":7.7,"astp":20.1,"stlp":2.7,"blkp":2.2,"usgp":22.5,"ows":0.2,"dws":2,"ortg":104.5,"drtg":108.9},{"playoffs":false,"yearsWithTeam":5,"season":2019,"tid":0,"gp":67,"gs":35,"min":1643,"fg":278,"fga":691,"tp":96,"tpa":300,"ft":127,"fta":175,"orb":37,"drb":224,"ast":152,"stl":89,"blk":42,"ba":34,"tov":121,"pf":170,"pts":779,"pm":-297,"ewa":1.1,"per":11.9,"orbp":2.3,"drbp":14.6,"trbp":8.3,"astp":13.5,"stlp":2.5,"blkp":2.2,"usgp":22,"ows":-0.7,"dws":1.4,"ortg":102.5,"drtg":110.2}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":9,
@@ -3263,12 +3266,13 @@
 {"tid":5,
 "firstName":"Larry","lastName":"Nance Jr.",
 "ratings":[{"hgt":56,"stre":73,"spd":59,"jmp":85,"endu":42,"ins":63,"dnk":73,"ft":58,"fg":46,"tp":8,"diq":45,"oiq":50,"drb":35,"pss":35,"reb":76}],
-"pos":"PF","hgt":79,"weight":245,
+"pos":"FC","hgt":79,"weight":245,
 "born":{"year":1993,"loc":"Akron, OH"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626204.png",
 "contract":{"amount":12725,"exp":2022},
 "draft":{"round":1,"pick":27,"tid":13,"originalTid":10,"year":2015},
 "college":"Wyoming",
+"stats":[{"playoffs":false,"yearsWithTeam":1,"season":2016,"tid":13,"gp":63,"gs":22,"min":1266,"fg":158,"fga":300,"tp":1,"tpa":10,"ft":32,"fta":47,"orb":101,"drb":211,"ast":44,"stl":54,"blk":23,"ba":19,"tov":41,"pf":124,"pts":349,"pm":-94,"ewa":1.2,"per":13.4,"orbp":8.3,"drbp":18.6,"trbp":13.3,"astp":5.7,"stlp":2.1,"blkp":1.4,"usgp":12.6,"ows":1.3,"dws":0.9,"ortg":101.4,"drtg":104.8},{"playoffs":false,"yearsWithTeam":2,"season":2017,"tid":13,"gp":63,"gs":7,"min":1442,"fg":190,"fga":361,"tp":10,"tpa":36,"ft":59,"fta":80,"orb":120,"drb":249,"ast":96,"stl":82,"blk":39,"ba":12,"tov":56,"pf":149,"pts":449,"pm":-133,"ewa":3,"per":15.7,"orbp":8.8,"drbp":19.6,"trbp":14,"astp":9.7,"stlp":2.8,"blkp":2.2,"usgp":13.4,"ows":2.1,"dws":1.5,"ortg":104.1,"drtg":108.2},{"playoffs":false,"yearsWithTeam":3,"season":2018,"tid":13,"gp":42,"gs":17,"min":922,"fg":152,"fga":253,"tp":1,"tpa":4,"ft":55,"fta":87,"orb":108,"drb":176,"ast":57,"stl":59,"blk":20,"ba":10,"tov":41,"pf":113,"pts":360,"pm":-42,"ewa":3.6,"per":19.4,"orbp":12.6,"drbp":20.2,"trbp":16.4,"astp":9.2,"stlp":3.1,"blkp":1.8,"usgp":15.3,"ows":2.1,"dws":1.5,"ortg":103,"drtg":104.3},{"playoffs":false,"yearsWithTeam":1,"season":2018,"tid":5,"gp":24,"gs":10,"min":499,"fg":88,"fga":160,"tp":1,"tpa":8,"ft":36,"fta":50,"orb":53,"drb":115,"ast":25,"stl":29,"blk":18,"ba":9,"tov":10,"pf":59,"pts":213,"pm":59,"ewa":2.5,"per":21.5,"orbp":12.1,"drbp":25.5,"trbp":18.9,"astp":7.6,"stlp":2.8,"blkp":3.1,"usgp":17,"ows":1.4,"dws":0.7,"ortg":108.3,"drtg":103},{"playoffs":false,"yearsWithTeam":2,"season":2019,"tid":5,"gp":67,"gs":30,"min":1795,"fg":249,"fga":479,"tp":33,"tpa":98,"ft":96,"fta":134,"orb":168,"drb":384,"ast":214,"stl":100,"blk":40,"ba":24,"tov":97,"pf":192,"pts":627,"pm":-324,"ewa":6.3,"per":18.6,"orbp":10,"drbp":24.9,"trbp":17.1,"astp":17.8,"stlp":2.8,"blkp":1.9,"usgp":15.5,"ows":3.3,"dws":1.6,"ortg":105.8,"drtg":114.6}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":4,
@@ -4413,6 +4417,7 @@
 
 {"tid":29,
 "name":"Davis Bertans",
+"ratings":[{"hgt":56,"stre":35,"spd":47,"jmp":48,"endu":38,"ins":20,"dnk":34,"ft":60,"fg":40,"tp":85,"diq":48,"oiq":64,"drb":57,"pss":41,"reb":52}],
 "pos":"PF","hgt":82,"weight":225,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202722.png",
 "born":{"year":1993,"loc":"Valmiera, Latvia"},
@@ -4420,7 +4425,6 @@
 "draft":{"round":2,"pick":12,"tid":11,"originalTid":11,"year":2011},
 "college":"Latvia",
 "relatives":[{"type":"brother","pid":332,"name":"Dairis Bertans"}],
-"ratings":[{"hgt":56,"stre":35,"spd":47,"jmp":48,"endu":38,"ins":22,"dnk":35,"ft":60,"fg":60,"tp":79,"diq":48,"oiq":60,"drb":57,"pss":41,"reb":42}],
 "stats":[{"playoffs":false,"yearsWithTeam":1,"season":2017,"tid":26,"gp":67,"gs":6,"min":808,"fg":103,"fga":234,"tp":69,"tpa":173,"ft":28,"fta":34,"orb":22,"drb":76,"ast":46,"stl":20,"blk":28,"ba":6,"tov":32,"pf":75,"pts":303,"pm":116,"ewa":1,"per":12.9,"orbp":3.2,"drbp":10.4,"trbp":6.9,"astp":8.3,"stlp":1.3,"blkp":2.8,"usgp":15.7,"ows":1.1,"dws":1.2,"ortg":104.8,"drtg":99.2},{"playoffs":false,"yearsWithTeam":2,"season":2018,"tid":26,"gp":77,"gs":10,"min":1086,"fg":161,"fga":366,"tp":94,"tpa":252,"ft":40,"fta":49,"orb":18,"drb":135,"ast":74,"stl":26,"blk":28,"ba":6,"tov":36,"pf":93,"pts":456,"pm":89,"ewa":1.9,"per":14.1,"orbp":1.8,"drbp":13.9,"trbp":7.8,"astp":10.3,"stlp":1.2,"blkp":2.1,"usgp":17.4,"ows":1.6,"dws":1.4,"ortg":104.1,"drtg":100.6},{"playoffs":false,"yearsWithTeam":3,"season":2019,"tid":26,"gp":76,"gs":12,"min":1632,"fg":204,"fga":453,"tp":145,"tpa":338,"ft":53,"fta":60,"orb":23,"drb":241,"ast":100,"stl":35,"blk":33,"ba":8,"tov":43,"pf":133,"pts":606,"pm":257,"ewa":2,"per":13,"orbp":1.6,"drbp":16,"trbp":8.8,"astp":8.2,"stlp":1,"blkp":1.7,"usgp":14.1,"ows":2.6,"dws":1.5,"ortg":115.7,"drtg":108.1}]},
 
 {"tid":4,
@@ -4541,7 +4545,7 @@
 
 {"tid":3,
 "name":"Devonte' Graham",
-"ratings":[{"hgt":30,"stre":38,"spd":66,"jmp":54,"endu":52,"ins":50,"dnk":76,"ft":55,"fg":68,"tp":67,"diq":43,"oiq":57,"drb":63,"pss":65,"reb":48}],
+"ratings":[{"hgt":30,"stre":42,"spd":68,"jmp":57,"endu":58,"ins":60,"dnk":78,"ft":55,"fg":69,"tp":67,"diq":43,"oiq":57,"drb":63,"pss":65,"reb":57}],
 "pos":"G","hgt":73,"weight":195,
 "born":{"year":1995,"loc":"Raleigh, NC"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628984.png",
@@ -4636,12 +4640,21 @@
 {"tid":21,
 "name":"Al-Farouq Aminu",
 "ratings":[{"hgt":57,"stre":75,"spd":50,"jmp":49,"endu":60,"ins":55,"dnk":69,"ft":66,"fg":50,"tp":63,"diq":52,"oiq":46,"drb":32,"pss":39,"reb":81}],
-"pos":"F","hgt":80,"weight":220,
+"pos":"PF","hgt":80,"weight":220,
 "born":{"year":1991,"loc":"Atlanta, GA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202329.png",
 "contract":{"amount":9250,"exp":2022},
 "draft":{"round":1,"pick":8,"tid":12,"originalTid":12,"year":2010},
 "college":"Wake Forest",
+"stats":[{"playoffs":false,"yearsWithTeam":1,"season":2011,"tid":12,"gp":81,"gs":14,"min":1452,"fg":160,"fga":406,"tp":45,"tpa":143,"ft":92,"fta":119,"orb":75,"drb":192,"ast":60,"stl":59,"blk":25,"ba":37,"tov":103,"pf":121,"pts":457,"pm":-184,"ewa":-0.7,"per":9.6,"orbp":6.1,"drbp":15.4,"trbp":10.8,"astp":6.4,"stlp":2.1,"blkp":1.3,"usgp":17.3,"ows":-0.8,"dws":1.4,"ortg":98.5,"drtg":104.9},
+{"playoffs":false,"yearsWithTeam":1,"season":2012,"tid":18,"gp":66,"gs":21,"min":1477,"fg":150,"fga":365,"tp":13,"tpa":47,"ft":86,"fta":114,"orb":95,"drb":213,"ast":66,"stl":59,"blk":34,"ba":39,"tov":91,"pf":136,"pts":399,"pm":-34,"ewa":0.1,"per":10.6,"orbp":7.8,"drbp":16.9,"trbp":12.4,"astp":7.2,"stlp":2.2,"blkp":1.9,"usgp":16.2,"ows":-0.4,"dws":1.8,"ortg":98.6,"drtg":98.9},
+{"playoffs":false,"yearsWithTeam":2,"season":2013,"tid":18,"gp":76,"gs":71,"min":2066,"fg":225,"fga":474,"tp":4,"tpa":19,"ft":101,"fta":137,"orb":139,"drb":446,"ast":103,"stl":92,"blk":51,"ba":38,"tov":116,"pf":153,"pts":555,"pm":-76,"ewa":3.3,"per":13.7,"orbp":7.9,"drbp":26.2,"trbp":16.9,"astp":7.8,"stlp":2.4,"blkp":2.1,"usgp":14.6,"ows":0.7,"dws":2.4,"ortg":105.3,"drtg":105.9},
+{"playoffs":false,"yearsWithTeam":3,"season":2014,"tid":18,"gp":80,"gs":65,"min":2045,"fg":234,"fga":494,"tp":13,"tpa":48,"ft":91,"fta":137,"orb":129,"drb":367,"ast":114,"stl":82,"blk":38,"ba":47,"tov":88,"pf":147,"pts":572,"pm":-254,"ewa":2.7,"per":13.2,"orbp":7.2,"drbp":21.2,"trbp":14.1,"astp":8.4,"stlp":2.1,"blkp":1.6,"usgp":14.3,"ows":1.3,"dws":1.8,"ortg":103.4,"drtg":108.8},
+{"playoffs":false,"yearsWithTeam":1,"season":2015,"tid":6,"gp":74,"gs":3,"min":1366,"fg":147,"fga":357,"tp":34,"tpa":124,"ft":84,"fta":118,"orb":114,"drb":228,"ast":59,"stl":70,"blk":62,"ba":22,"tov":55,"pf":137,"pts":412,"pm":105,"ewa":2.7,"per":14.4,"orbp":9.1,"drbp":18.4,"trbp":13.7,"astp":6.1,"stlp":2.6,"blkp":3.7,"usgp":15.2,"ows":1.2,"dws":2,"ortg":105.6,"drtg":100.3},
+{"playoffs":false,"yearsWithTeam":1,"season":2016,"tid":24,"gp":82,"gs":82,"min":2341,"fg":299,"fga":719,"tp":126,"tpa":349,"ft":115,"fta":156,"orb":98,"drb":401,"ast":138,"stl":72,"blk":53,"ba":35,"tov":120,"pf":171,"pts":839,"pm":59,"ewa":2.6,"per":12.7,"orbp":4.5,"drbp":18.6,"trbp":11.5,"astp":8.8,"stlp":1.5,"blkp":1.8,"usgp":16.9,"ows":1.7,"dws":2.3,"ortg":108.2,"drtg":106.7},
+{"playoffs":false,"yearsWithTeam":2,"season":2017,"tid":24,"gp":61,"gs":25,"min":1773,"fg":183,"fga":466,"tp":70,"tpa":212,"ft":96,"fta":136,"orb":77,"drb":374,"ast":99,"stl":60,"blk":44,"ba":24,"tov":94,"pf":102,"pts":532,"pm":22,"ewa":0.7,"per":11.3,"orbp":4.8,"drbp":23.5,"trbp":14.1,"astp":7.9,"stlp":1.7,"blkp":2,"usgp":15.4,"ows":-0.1,"dws":2,"ortg":108.1,"drtg":107.1},
+{"playoffs":false,"yearsWithTeam":3,"season":2018,"tid":24,"gp":69,"gs":67,"min":2072,"fg":230,"fga":582,"tp":125,"tpa":339,"ft":59,"fta":80,"orb":97,"drb":428,"ast":84,"stl":79,"blk":40,"ba":16,"tov":79,"pf":136,"pts":644,"pm":220,"ewa":0.5,"per":12,"orbp":5.2,"drbp":22.3,"trbp":13.8,"astp":5.8,"stlp":1.9,"blkp":1.6,"usgp":14.8,"ows":0.9,"dws":3.2,"ortg":109.6,"drtg":104.4},
+{"playoffs":false,"yearsWithTeam":4,"season":2019,"tid":24,"gp":81,"gs":81,"min":2292,"fg":257,"fga":593,"tp":96,"tpa":280,"ft":150,"fta":173,"orb":112,"drb":498,"ast":104,"stl":68,"blk":33,"ba":29,"tov":72,"pf":143,"pts":760,"pm":384,"ewa":1.9,"per":13.2,"orbp":5.3,"drbp":22.6,"trbp":14.2,"astp":6,"stlp":1.4,"blkp":1.2,"usgp":13.7,"ows":3,"dws":2.8,"ortg":116.3,"drtg":108.2}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
@@ -5633,6 +5646,7 @@
 "contract":{"amount":6000,"exp":2021},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2010},
 "college":"Wake Forest",
+"stats":[{"playoffs":false,"yearsWithTeam":1,"season":2011,"tid":10,"gp":28,"gs":3,"min":329,"fg":32,"fga":83,"tp":3,"tpa":8,"ft":7,"fta":10,"orb":6,"drb":36,"ast":64,"stl":13,"blk":2,"ba":2,"tov":26,"pf":26,"pts":74,"pm":-47,"ewa":-0.4,"per":8.8,"orbp":2.1,"drbp":12.4,"trbp":7.2,"astp":27.8,"stlp":2,"blkp":0.4,"usgp":15.2,"ows":-0.2,"dws":0.3,"ortg":102.3,"drtg":108.7},{"playoffs":false,"yearsWithTeam":1,"season":2011,"tid":14,"gp":15,"gs":0,"min":113,"fg":11,"fga":32,"tp":0,"tpa":2,"ft":5,"fta":11,"orb":1,"drb":4,"ast":15,"stl":5,"blk":0,"ba":3,"tov":8,"pf":11,"pts":27,"pm":-2,"ewa":-0.4,"per":4.3,"orbp":1,"drbp":4.3,"trbp":2.6,"astp":18.8,"stlp":2.3,"blkp":0,"usgp":17.9,"ows":-0.3,"dws":0.1,"ortg":98.3,"drtg":102.1},{"playoffs":false,"yearsWithTeam":1,"season":2012,"tid":9,"gp":6,"gs":1,"min":63,"fg":12,"fga":30,"tp":2,"tpa":5,"ft":1,"fta":2,"orb":2,"drb":7,"ast":9,"stl":4,"blk":0,"ba":1,"tov":1,"pf":4,"pts":27,"pm":4,"ewa":0.2,"per":16.7,"orbp":3.6,"drbp":12.6,"trbp":8.1,"astp":24.2,"stlp":3.3,"blkp":0,"usgp":23.3,"ows":0,"dws":0,"ortg":91.7,"drtg":89.3},{"playoffs":false,"yearsWithTeam":1,"season":2012,"tid":21,"gp":20,"gs":0,"min":171,"fg":19,"fga":51,"tp":1,"tpa":4,"ft":6,"fta":8,"orb":5,"drb":21,"ast":32,"stl":11,"blk":2,"ba":3,"tov":12,"pf":11,"pts":45,"pm":-44,"ewa":0.2,"per":13.1,"orbp":3.3,"drbp":14.4,"trbp":8.8,"astp":31.1,"stlp":3.5,"blkp":0.9,"usgp":18.2,"ows":0,"dws":0.3,"ortg":86.1,"drtg":99.4},{"playoffs":false,"yearsWithTeam":2,"season":2013,"tid":21,"gp":36,"gs":3,"min":378,"fg":39,"fga":116,"tp":4,"tpa":17,"ft":3,"fta":7,"orb":11,"drb":35,"ast":57,"stl":13,"blk":6,"ba":9,"tov":27,"pf":14,"pts":85,"pm":-62,"ewa":-0.7,"per":7.2,"orbp":3.3,"drbp":10.5,"trbp":6.9,"astp":22.2,"stlp":1.8,"blkp":1.2,"usgp":17.6,"ows":-0.8,"dws":0.2,"ortg":92.5,"drtg":98.7},{"playoffs":false,"yearsWithTeam":1,"season":2013,"tid":16,"gp":16,"gs":0,"min":138,"fg":17,"fga":43,"tp":4,"tpa":10,"ft":0,"fta":0,"orb":1,"drb":14,"ast":30,"stl":8,"blk":3,"ba":1,"tov":10,"pf":12,"pts":38,"pm":3,"ewa":0.1,"per":12.1,"orbp":0.8,"drbp":11.3,"trbp":5.8,"astp":32.7,"stlp":2.9,"blkp":1.6,"usgp":16.7,"ows":0,"dws":0.2,"ortg":99.3,"drtg":97.2},{"playoffs":false,"yearsWithTeam":1,"season":2014,"tid":23,"gp":70,"gs":1,"min":1006,"fg":119,"fga":281,"tp":1,"tpa":23,"ft":22,"fta":39,"orb":31,"drb":98,"ast":179,"stl":49,"blk":13,"ba":19,"tov":65,"pf":66,"pts":261,"pm":-11,"ewa":0.4,"per":11.7,"orbp":3.5,"drbp":10.9,"trbp":7.2,"astp":26,"stlp":2.4,"blkp":1,"usgp":15.9,"ows":0,"dws":1,"ortg":101.6,"drtg":101.3},{"playoffs":false,"yearsWithTeam":1,"season":2015,"tid":20,"gp":30,"gs":0,"min":155,"fg":15,"fga":45,"tp":1,"tpa":5,"ft":6,"fta":9,"orb":5,"drb":22,"ast":28,"stl":4,"blk":1,"ba":2,"tov":9,"pf":12,"pts":37,"pm":-45,"ewa":-0.2,"per":9,"orbp":3.5,"drbp":15,"trbp":9.3,"astp":25.6,"stlp":1.3,"blkp":0.5,"usgp":16.1,"ows":-0.1,"dws":0.1,"ortg":90.3,"drtg":103.3},{"playoffs":false,"yearsWithTeam":1,"season":2015,"tid":22,"gp":25,"gs":14,"min":677,"fg":128,"fga":322,"tp":17,"tpa":55,"ft":28,"fta":48,"orb":10,"drb":63,"ast":152,"stl":32,"blk":5,"ba":18,"tov":69,"pf":38,"pts":301,"pm":-57,"ewa":0.7,"per":13,"orbp":1.5,"drbp":10.6,"trbp":5.8,"astp":44.1,"stlp":2.4,"blkp":0.6,"usgp":26.5,"ows":-0.8,"dws":0.6,"ortg":95.5,"drtg":100.1},{"playoffs":false,"yearsWithTeam":1,"season":2016,"tid":18,"gp":27,"gs":3,"min":617,"fg":98,"fga":228,"tp":10,"tpa":33,"ft":33,"fta":43,"orb":14,"drb":78,"ast":154,"stl":24,"blk":6,"ba":19,"tov":45,"pf":38,"pts":239,"pm":-31,"ewa":1.6,"per":16.3,"orbp":2.4,"drbp":14.5,"trbp":8.3,"astp":39.1,"stlp":1.9,"blkp":0.8,"usgp":20.9,"ows":0.5,"dws":0.4,"ortg":106.1,"drtg":107.9},{"playoffs":false,"yearsWithTeam":1,"season":2016,"tid":22,"gp":50,"gs":50,"min":1622,"fg":299,"fga":739,"tp":46,"tpa":137,"ft":89,"fta":133,"orb":29,"drb":184,"ast":348,"stl":64,"blk":18,"ba":35,"tov":130,"pf":95,"pts":733,"pm":-314,"ewa":2.7,"per":14.4,"orbp":1.9,"drbp":12.8,"trbp":7.1,"astp":37.9,"stlp":1.9,"blkp":0.8,"usgp":25,"ows":-0.6,"dws":0.9,"ortg":100,"drtg":109.3},{"playoffs":false,"yearsWithTeam":1,"season":2017,"tid":8,"gp":81,"gs":32,"min":1955,"fg":329,"fga":749,"tp":28,"tpa":105,"ft":72,"fta":102,"orb":21,"drb":214,"ast":418,"stl":61,"blk":33,"ba":35,"tov":112,"pf":127,"pts":758,"pm":48,"ewa":3.6,"per":14.7,"orbp":1.1,"drbp":12.4,"trbp":6.6,"astp":32.5,"stlp":1.6,"blkp":1.4,"usgp":20.5,"ows":0.9,"dws":2.2,"ortg":105.4,"drtg":104.6},{"playoffs":false,"yearsWithTeam":2,"season":2018,"tid":8,"gp":82,"gs":35,"min":2043,"fg":389,"fga":801,"tp":35,"tpa":101,"ft":81,"fta":116,"orb":27,"drb":197,"ast":360,"stl":64,"blk":20,"ba":46,"tov":108,"pf":140,"pts":894,"pm":44,"ewa":4.5,"per":15.4,"orbp":1.4,"drbp":10.9,"trbp":6.1,"astp":28.4,"stlp":1.6,"blkp":0.9,"usgp":20.8,"ows":2.4,"dws":2,"ortg":106.8,"drtg":105.9},{"playoffs":false,"yearsWithTeam":3,"season":2019,"tid":8,"gp":56,"gs":0,"min":1251,"fg":205,"fga":489,"tp":44,"tpa":135,"ft":47,"fta":62,"orb":23,"drb":122,"ast":203,"stl":28,"blk":11,"ba":21,"tov":61,"pf":109,"pts":501,"pm":83,"ewa":0.5,"per":11.8,"orbp":1.9,"drbp":11.1,"trbp":6.3,"astp":25.4,"stlp":1.1,"blkp":0.7,"usgp":19.9,"ows":0.5,"dws":1.1,"ortg":110.8,"drtg":108.1}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":24,
@@ -5768,6 +5782,7 @@
 "contract":{"amount":11275,"exp":2020},
 "draft":{"round":1,"pick":11,"tid":24,"originalTid":24,"year":2012},
 "college":"Illinois",
+"stats":[{"playoffs":false,"yearsWithTeam":1,"season":2013,"tid":24,"gp":69,"gs":9,"min":1206,"fg":151,"fga":277,"tp":3,"tpa":7,"ft":72,"fta":89,"orb":80,"drb":175,"ast":33,"stl":11,"blk":38,"ba":19,"tov":49,"pf":168,"pts":377,"pm":-152,"ewa":0.9,"per":12.1,"orbp":7.6,"drbp":17.1,"trbp":12.3,"astp":4.3,"stlp":0.5,"blkp":2.4,"usgp":13.9,"ows":1.8,"dws":0.7,"ortg":99.4,"drtg":106.6},{"playoffs":false,"yearsWithTeam":2,"season":2014,"tid":24,"gp":40,"gs":0,"min":355,"fg":41,"fga":91,"tp":0,"tpa":6,"ft":16,"fta":21,"orb":26,"drb":85,"ast":18,"stl":7,"blk":5,"ba":3,"tov":15,"pf":76,"pts":98,"pm":-87,"ewa":-0.2,"per":9.4,"orbp":8,"drbp":25.5,"trbp":16.8,"astp":7.3,"stlp":1,"blkp":1,"usgp":14.2,"ows":0.2,"dws":0.5,"ortg":96.2,"drtg":108.1},{"playoffs":false,"yearsWithTeam":3,"season":2015,"tid":24,"gp":55,"gs":7,"min":847,"fg":125,"fga":245,"tp":47,"tpa":112,"ft":30,"fta":32,"orb":46,"drb":204,"ast":32,"stl":10,"blk":14,"ba":6,"tov":39,"pf":113,"pts":327,"pm":19,"ewa":1.8,"per":14.8,"orbp":5.9,"drbp":25.3,"trbp":15.8,"astp":5.8,"stlp":0.6,"blkp":1.2,"usgp":15.8,"ows":1.6,"dws":1.2,"ortg":99.9,"drtg":99.3},{"playoffs":false,"yearsWithTeam":4,"season":2016,"tid":24,"gp":61,"gs":10,"min":1333,"fg":195,"fga":435,"tp":86,"tpa":228,"ft":35,"fta":46,"orb":51,"drb":263,"ast":92,"stl":8,"blk":18,"ba":8,"tov":77,"pf":183,"pts":511,"pm":100,"ewa":0.5,"per":11.3,"orbp":4.1,"drbp":21.4,"trbp":12.8,"astp":10.6,"stlp":0.3,"blkp":1.1,"usgp":17.4,"ows":1.2,"dws":1,"ortg":108.5,"drtg":105.3},{"playoffs":false,"yearsWithTeam":5,"season":2017,"tid":24,"gp":74,"gs":12,"min":1222,"fg":146,"fga":378,"tp":74,"tpa":213,"ft":35,"fta":40,"orb":27,"drb":210,"ast":71,"stl":13,"blk":28,"ba":8,"tov":35,"pf":172,"pts":401,"pm":-30,"ewa":-1,"per":8.9,"orbp":2.4,"drbp":19.1,"trbp":10.8,"astp":8.4,"stlp":0.5,"blkp":1.8,"usgp":15.5,"ows":0.5,"dws":0.8,"ortg":105.2,"drtg":107},{"playoffs":false,"yearsWithTeam":6,"season":2018,"tid":24,"gp":33,"gs":2,"min":254,"fg":46,"fga":78,"tp":11,"tpa":26,"ft":9,"fta":11,"orb":12,"drb":58,"ast":17,"stl":7,"blk":0,"ba":0,"tov":10,"pf":36,"pts":112,"pm":-35,"ewa":0.9,"per":17.8,"orbp":5.2,"drbp":24.7,"trbp":15,"astp":10.6,"stlp":1.4,"blkp":0,"usgp":16.1,"ows":0.7,"dws":0.3,"ortg":103.3,"drtg":112.1},{"playoffs":false,"yearsWithTeam":7,"season":2019,"tid":24,"gp":61,"gs":2,"min":878,"fg":132,"fga":242,"tp":50,"tpa":111,"ft":43,"fta":51,"orb":49,"drb":184,"ast":75,"stl":13,"blk":9,"ba":6,"tov":43,"pf":105,"pts":357,"pm":-77,"ewa":1.9,"per":15.8,"orbp":6.1,"drbp":21.8,"trbp":14.2,"astp":11.8,"stlp":0.7,"blkp":0.8,"usgp":14.8,"ows":2.1,"dws":0.9,"ortg":108.5,"drtg":112.2}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
@@ -5845,6 +5860,7 @@
 "draft":{"round":1,"pick":15,"tid":23,"originalTid":0,"year":2008},
 "college":"Stanford",
 "relatives":[{"type":"brother","pid":126,"name":"Brook Lopez"}],
+"stats":[{"playoffs":false,"yearsWithTeam":1,"season":2009,"tid":23,"gp":60,"gs":7,"min":614,"fg":71,"fga":137,"tp":0,"tpa":1,"ft":47,"fta":68,"orb":52,"drb":66,"ast":8,"stl":11,"blk":41,"ba":14,"tov":28,"pf":97,"pts":189,"pm":-57,"ewa":0.3,"per":11.6,"orbp":10.3,"drbp":12.1,"trbp":11.2,"astp":1.8,"stlp":0.9,"blkp":4.9,"usgp":14,"ows":0.6,"dws":0.4,"ortg":103.3,"drtg":107.8},{"playoffs":false,"yearsWithTeam":2,"season":2010,"tid":23,"gp":51,"gs":31,"min":986,"fg":171,"fga":291,"tp":0,"tpa":0,"ft":88,"fta":125,"orb":104,"drb":144,"ast":7,"stl":10,"blk":53,"ba":17,"tov":41,"pf":117,"pts":430,"pm":97,"ewa":3.4,"per":17.6,"orbp":12.6,"drbp":15.6,"trbp":14.2,"astp":1.1,"stlp":0.5,"blkp":3.8,"usgp":17.3,"ows":2.5,"dws":0.8,"ortg":113.2,"drtg":108},{"playoffs":false,"yearsWithTeam":3,"season":2011,"tid":23,"gp":67,"gs":56,"min":991,"fg":179,"fga":357,"tp":0,"tpa":0,"ft":74,"fta":100,"orb":82,"drb":134,"ast":8,"stl":18,"blk":45,"ba":42,"tov":48,"pf":143,"pts":432,"pm":-46,"ewa":1.6,"per":13.9,"orbp":9.5,"drbp":15.6,"trbp":12.6,"astp":1.3,"stlp":0.9,"blkp":3.4,"usgp":20.4,"ows":0.8,"dws":0.8,"ortg":106.9,"drtg":108.7},{"playoffs":false,"yearsWithTeam":4,"season":2012,"tid":23,"gp":64,"gs":0,"min":895,"fg":124,"fga":269,"tp":0,"tpa":0,"ft":100,"fta":140,"orb":90,"drb":119,"ast":20,"stl":18,"blk":60,"ba":18,"tov":43,"pf":128,"pts":348,"pm":-64,"ewa":2,"per":15.2,"orbp":11.5,"drbp":14.8,"trbp":13.2,"astp":3.4,"stlp":1,"blkp":4.9,"usgp":18.9,"ows":1.2,"dws":0.9,"ortg":100.6,"drtg":103.6},{"playoffs":false,"yearsWithTeam":1,"season":2013,"tid":18,"gp":82,"gs":82,"min":2136,"fg":384,"fga":719,"tp":0,"tpa":0,"ft":161,"fta":207,"orb":226,"drb":236,"ast":64,"stl":32,"blk":128,"ba":67,"tov":110,"pf":167,"pts":929,"pm":-142,"ewa":8.8,"per":18.9,"orbp":12.4,"drbp":13.4,"trbp":12.9,"astp":5.3,"stlp":0.8,"blkp":5,"usgp":20,"ows":4.4,"dws":1.2,"ortg":103.8,"drtg":106.8},{"playoffs":false,"yearsWithTeam":1,"season":2014,"tid":24,"gp":82,"gs":82,"min":2603,"fg":355,"fga":644,"tp":0,"tpa":1,"ft":198,"fta":242,"orb":326,"drb":374,"ast":73,"stl":25,"blk":139,"ba":30,"tov":84,"pf":196,"pts":908,"pm":316,"ewa":9.2,"per":17.7,"orbp":13.6,"drbp":15.3,"trbp":14.5,"astp":4.2,"stlp":0.5,"blkp":3.7,"usgp":14,"ows":7,"dws":2.6,"ortg":110.6,"drtg":104.6},{"playoffs":false,"yearsWithTeam":2,"season":2015,"tid":24,"gp":59,"gs":59,"min":1638,"fg":234,"fga":437,"tp":0,"tpa":1,"ft":98,"fta":127,"orb":190,"drb":204,"ast":55,"stl":16,"blk":84,"ba":31,"tov":73,"pf":122,"pts":566,"pm":146,"ewa":4.6,"per":16.2,"orbp":12.7,"drbp":13.1,"trbp":12.9,"astp":5.1,"stlp":0.5,"blkp":3.7,"usgp":15.5,"ows":3.2,"dws":1.9,"ortg":107.6,"drtg":103.2},{"playoffs":false,"yearsWithTeam":1,"season":2016,"tid":19,"gp":82,"gs":82,"min":2219,"fg":357,"fga":662,"tp":0,"tpa":1,"ft":128,"fta":161,"orb":268,"drb":334,"ast":114,"stl":16,"blk":129,"ba":27,"tov":133,"pf":182,"pts":842,"pm":-99,"ewa":7.7,"per":17.6,"orbp":13.4,"drbp":16.2,"trbp":14.8,"astp":8.5,"stlp":0.4,"blkp":4.4,"usgp":17.7,"ows":3.7,"dws":2.1,"ortg":104.3,"drtg":106.5},{"playoffs":false,"yearsWithTeam":1,"season":2017,"tid":4,"gp":81,"gs":81,"min":2271,"fg":382,"fga":775,"tp":0,"tpa":2,"ft":75,"fta":104,"orb":244,"drb":276,"ast":80,"stl":18,"blk":117,"ba":39,"tov":91,"pf":151,"pts":839,"pm":74,"ewa":4.3,"per":14.4,"orbp":11.5,"drbp":13.2,"trbp":12.3,"astp":5.6,"stlp":0.4,"blkp":4.1,"usgp":17.5,"ows":1.8,"dws":2.4,"ortg":107.2,"drtg":105.9},{"playoffs":false,"yearsWithTeam":2,"season":2018,"tid":4,"gp":64,"gs":64,"min":1690,"fg":342,"fga":645,"tp":4,"tpa":14,"ft":68,"fta":90,"orb":134,"drb":156,"ast":124,"stl":14,"blk":53,"ba":25,"tov":107,"pf":109,"pts":756,"pm":-200,"ewa":3.4,"per":14.7,"orbp":8.2,"drbp":10.3,"trbp":9.2,"astp":12.3,"stlp":0.4,"blkp":2.8,"usgp":20.4,"ows":1.2,"dws":0.7,"ortg":101.6,"drtg":107.7},{"playoffs":false,"yearsWithTeam":3,"season":2019,"tid":4,"gp":74,"gs":36,"min":1606,"fg":304,"fga":535,"tp":7,"tpa":31,"ft":89,"fta":123,"orb":140,"drb":146,"ast":89,"stl":11,"blk":78,"ba":19,"tov":96,"pf":124,"pts":704,"pm":-142,"ewa":4.2,"per":15.9,"orbp":9.4,"drbp":10,"trbp":9.7,"astp":8.8,"stlp":0.3,"blkp":4.2,"usgp":18.6,"ows":2,"dws":0.7,"ortg":105.5,"drtg":109.9}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":12,
@@ -5872,7 +5888,7 @@
 
 {"tid":3,
 "name":"Nicolas Batum",
-"ratings":[{"hgt":55,"stre":40,"spd":51,"jmp":52,"endu":49,"ins":41,"dnk":55,"ft":69,"fg":60,"tp":59,"diq":47,"oiq":48,"drb":48,"pss":56,"reb":54}],
+"ratings":[{"hgt":55,"stre":40,"spd":51,"jmp":52,"endu":49,"ins":31,"dnk":55,"ft":69,"fg":40,"tp":59,"diq":47,"oiq":45,"drb":48,"pss":56,"reb":63}],
 "pos":"GF","hgt":81,"weight":230,
 "born":{"year":1989,"loc":"Lisieux, France"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3416.png",
@@ -6117,7 +6133,7 @@
 
 {"tid":23,
 "name":"Aron Baynes",
-"ratings":[{"hgt":64,"stre":81,"spd":44,"jmp":58,"endu":59,"ins":80,"dnk":76,"ft":50,"fg":49,"tp":0,"diq":59,"oiq":63,"drb":13,"pss":28,"reb":79}],
+"ratings":[{"hgt":64,"stre":81,"spd":44,"jmp":58,"endu":59,"ins":79,"dnk":76,"ft":50,"fg":58,"tp":45,"diq":59,"oiq":63,"drb":33,"pss":40,"reb":66}],
 "pos":"FC","hgt":82,"weight":260,
 "born":{"year":1987,"loc":"Gisborne, New Zealand"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203382.png",
@@ -8284,6 +8300,7 @@
 "contract":{"amount":900,"exp":2020},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2017},
 "college":"Baylor",
+"stats":[{"playoffs":false,"yearsWithTeam":1,"season":2018,"tid":6,"gp":11,"gs":4,"min":176,"fg":40,"fga":75,"tp":1,"tpa":6,"ft":15,"fta":28,"orb":14,"drb":35,"ast":7,"stl":3,"blk":2,"ba":7,"tov":9,"pf":18,"pts":96,"pm":-17,"ewa":0.5,"per":17.2,"orbp":8.5,"drbp":22.9,"trbp":15.5,"astp":7.1,"stlp":0.9,"blkp":1,"usgp":24.9,"ows":0.1,"dws":0.2,"ortg":100.9,"drtg":104.3},{"playoffs":false,"yearsWithTeam":1,"season":2019,"tid":12,"gp":22,"gs":0,"min":156,"fg":39,"fga":73,"tp":0,"tpa":3,"ft":24,"fta":40,"orb":18,"drb":33,"ast":11,"stl":5,"blk":3,"ba":4,"tov":16,"pf":27,"pts":102,"pm":-34,"ewa":0.6,"per":18.9,"orbp":12.6,"drbp":21.7,"trbp":17.3,"astp":11.7,"stlp":1.5,"blkp":1.5,"usgp":28.8,"ows":0.1,"dws":0.2,"ortg":98,"drtg":106.9}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
@@ -9125,13 +9142,14 @@
 
 {"tid":12,
 "firstName":"Derrick","lastName":"Walton Jr",
-"ratings":[{"hgt":24,"stre":13,"spd":63,"jmp":46,"endu":40,"ins":23,"dnk":46,"ft":65,"fg":45,"tp":76,"diq":30,"oiq":29,"drb":70,"pss":58,"reb":9}],
+"ratings":[{"hgt":24,"stre":23,"spd":53,"jmp":46,"endu":35,"ins":23,"dnk":46,"ft":65,"fg":45,"tp":67,"diq":30,"oiq":37,"drb":60,"pss":48,"reb":49}],
 "pos":"PG","hgt":72,"weight":185,
 "born":{"year":1995,"loc":"Detroit, MI"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628476.png",
 "contract":{"amount":1450,"exp":2020},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2017},
 "college":"Michigan",
+"stats":[{"playoffs":false,"yearsWithTeam":1,"season":2018,"tid":15,"gp":16,"gs":0,"min":147,"fg":8,"fga":25,"tp":7,"tpa":17,"ft":6,"fta":6,"orb":2,"drb":14,"ast":16,"stl":7,"blk":3,"ba":1,"tov":2,"pf":7,"pts":29,"pm":-30,"ewa":0,"per":11.2,"orbp":1.5,"drbp":10.7,"trbp":6.1,"astp":14.6,"stlp":2.4,"blkp":1.7,"usgp":9.1,"ows":0.2,"dws":0.2,"ortg":97,"drtg":107.5}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
@@ -9190,6 +9208,7 @@
 "contract":{"amount":8600,"exp":2024},
 "draft":{"round":2,"pick":1,"tid":17,"originalTid":17,"year":2015},
 "college":"Turkey",
+"stats":[{"playoffs":false,"yearsWithTeam":1,"season":2018,"tid":5,"gp":61,"gs":12,"min":672,"fg":90,"fga":186,"tp":32,"tpa":87,"ft":26,"fta":46,"orb":19,"drb":101,"ast":41,"stl":22,"blk":3,"ba":4,"tov":32,"pf":78,"pts":238,"pm":35,"ewa":0.2,"per":11,"orbp":3.2,"drbp":16.6,"trbp":10,"astp":8.7,"stlp":1.6,"blkp":0.4,"usgp":15.7,"ows":0.5,"dws":0.4,"ortg":111.8,"drtg":107.9},{"playoffs":false,"yearsWithTeam":2,"season":2019,"tid":5,"gp":76,"gs":75,"min":2444,"fg":360,"fga":844,"tp":130,"tpa":374,"ft":141,"fta":181,"orb":45,"drb":312,"ast":195,"stl":60,"blk":11,"ba":49,"tov":114,"pf":195,"pts":991,"pm":-641,"ewa":1.2,"per":11.5,"orbp":2,"drbp":14.8,"trbp":8.1,"astp":12.1,"stlp":1.2,"blkp":0.4,"usgp":18.6,"ows":1.2,"dws":0.2,"ortg":106,"drtg":118.8}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
@@ -9515,7 +9534,7 @@
 
 {"tid":3,
 "name":"Willy Hernangomez",
-"ratings":[{"hgt":63,"stre":60,"spd":52,"jmp":55,"endu":37,"ins":62,"dnk":66,"ft":38,"fg":32,"tp":35,"diq":30,"oiq":45,"drb":45,"pss":45,"reb":74}],
+"ratings":[{"hgt":63,"stre":57,"spd":52,"jmp":55,"endu":37,"ins":58,"dnk":58,"ft":38,"fg":32,"tp":35,"diq":30,"oiq":45,"drb":45,"pss":45,"reb":67}],
 "pos":"C","hgt":83,"weight":250,
 "born":{"year":1994,"loc":"Madrid, Spain"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626195.png",
@@ -9984,13 +10003,14 @@
 
 {"tid":24,
 "name":"Skal Labissiere",
+"ratings":[{"hgt":68,"stre":50,"spd":53,"jmp":65,"endu":36,"ins":45,"dnk":60,"ft":59,"fg":53,"tp":31,"diq":40,"oiq":47,"drb":31,"pss":55,"reb":53}],
 "pos":"FC","hgt":83,"weight":235,
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627746.png",
 "born":{"year":1996,"loc":"Port-au-Prince, Haiti"},
 "contract":{"amount":2350,"exp":2020},
 "draft":{"round":1,"pick":28,"tid":23,"originalTid":5,"year":2016},
 "college":"Kentucky",
-"ratings":[{"hgt":68,"stre":50,"spd":53,"jmp":65,"endu":36,"ins":45,"dnk":60,"ft":59,"fg":53,"tp":31,"diq":40,"oiq":47,"drb":31,"pss":55,"reb":53}]},
+"stats":[{"playoffs":false,"yearsWithTeam":1,"season":2017,"tid":25,"gp":33,"gs":12,"min":612,"fg":117,"fga":218,"tp":3,"tpa":8,"ft":52,"fta":74,"orb":51,"drb":111,"ast":27,"stl":16,"blk":13,"ba":15,"tov":37,"pf":64,"pts":289,"pm":-41,"ewa":1.6,"per":16.8,"orbp":9.7,"drbp":20.7,"trbp":15.3,"astp":7.5,"stlp":1.3,"blkp":1.9,"usgp":21.3,"ows":0.7,"dws":0.5,"ortg":104.4,"drtg":107.2},{"playoffs":false,"yearsWithTeam":2,"season":2018,"tid":25,"gp":60,"gs":28,"min":1240,"fg":205,"fga":458,"tp":18,"tpa":51,"ft":95,"fta":118,"orb":99,"drb":189,"ast":72,"stl":25,"blk":49,"ba":21,"tov":73,"pf":132,"pts":523,"pm":-118,"ewa":1.7,"per":14.3,"orbp":8.7,"drbp":18.1,"trbp":13.2,"astp":9.1,"stlp":1,"blkp":3.7,"usgp":21.1,"ows":0.4,"dws":1,"ortg":104.5,"drtg":108.8},{"playoffs":false,"yearsWithTeam":3,"season":2019,"tid":25,"gp":13,"gs":0,"min":113,"fg":13,"fga":30,"tp":4,"tpa":11,"ft":6,"fta":11,"orb":4,"drb":20,"ast":6,"stl":2,"blk":3,"ba":2,"tov":7,"pf":21,"pts":36,"pm":-6,"ewa":-0.3,"per":7,"orbp":3.6,"drbp":18.7,"trbp":10.9,"astp":6.8,"stlp":0.8,"blkp":2.3,"usgp":15.3,"ows":-0.1,"dws":0.1,"ortg":111.4,"drtg":112.8},{"playoffs":false,"yearsWithTeam":1,"season":2019,"tid":24,"gp":9,"gs":1,"min":63,"fg":13,"fga":19,"tp":2,"tpa":2,"ft":3,"fta":6,"orb":5,"drb":14,"ast":5,"stl":3,"blk":3,"ba":1,"tov":4,"pf":8,"pts":31,"pm":-24,"ewa":0.3,"per":22.6,"orbp":8.7,"drbp":23.2,"trbp":16.1,"astp":11.9,"stlp":2.3,"blkp":3.8,"usgp":17.2,"ows":0.2,"dws":0.1,"ortg":114.8,"drtg":136.5}]},
 
 {"tid":0,
 "name":"Damian Jones",
