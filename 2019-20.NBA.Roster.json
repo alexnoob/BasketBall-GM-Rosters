@@ -349,7 +349,7 @@
 "college":"Maryland",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":12,
+{"tid":29,
 "name":"Jerome Robinson",
 "ratings":[{"hgt":42,"stre":44,"spd":50,"jmp":46,"endu":40,"ins":31,"dnk":52,"ft":53,"fg":73,"tp":60,"diq":42,"oiq":49,"drb":43,"pss":38,"reb":34}],
 "pos":"SG","hgt":76,"weight":190,
@@ -5330,7 +5330,7 @@
 "college":"Hillcrest Prep Academy (AZ)",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":12,
+{"tid":19,
 "name":"Maurice Harkless",
 "ratings":[{"hgt":52,"stre":50,"spd":61,"jmp":57,"endu":47,"ins":80,"dnk":69,"ft":33,"fg":32,"tp":35,"diq":59,"oiq":52,"drb":39,"pss":32,"reb":61}],
 "pos":"SF","hgt":79,"weight":220,
@@ -5751,7 +5751,7 @@
 {"playoffs":false,"season":2019,"tid":10,"yearsWithTeam":2,"per":9.2,"ewa":-1.8,"astp":4.6,"blkp":1.2,"drbp":14.4,"orbp":4.7,"stlp":2.3,"trbp":9.5,"usgp":9.5,"drtg":109.5,"ortg":114.0,"dws":3.0,"ows":2.0,"gp":82,"gs":82,"min":2802,"fg":207,"fga":523,"tp":146,"tpa":387,"ft":41,"fta":59,"pm":242,"orb":121,"drb":358,"ast":96,"tov":63,"stl":132,"blk":39,"ba":16,"pf":252,"pts":601}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":19,
+{"tid":12,
 "name":"Marcus Morris",
 "ratings":[{"hgt":57,"stre":60,"spd":54,"jmp":55,"endu":59,"ins":79,"dnk":83,"ft":69,"fg":65,"tp":68,"diq":40,"oiq":64,"drb":40,"pss":42,"reb":63}],
 "pos":"PF","hgt":80,"weight":218,
@@ -6177,7 +6177,7 @@
 "college":"Brigham Young",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":29,
+{"tid":-1,
 "name":"Isaiah Thomas",
 "ratings":[{"hgt":11,"stre":40,"spd":57,"jmp":56,"endu":49,"ins":50,"dnk":73,"ft":70,"fg":75,"tp":56,"diq":36,"oiq":56,"drb":68,"pss":59,"reb":47}],
 "pos":"PG","hgt":69,"weight":185,
@@ -11068,7 +11068,7 @@
 {"tid":0,"originalTid":10,"round":2,"pick":0,"season":2020,"dpid":21},
 {"tid":11,"originalTid":11,"round":1,"pick":0,"season":2020,"dpid":22},
 {"tid":11,"originalTid":11,"round":2,"pick":0,"season":2020,"dpid":23},
-{"tid":12,"originalTid":12,"round":1,"pick":0,"season":2020,"dpid":24},
+{"tid":19,"originalTid":12,"round":1,"pick":0,"season":2020,"dpid":24},
 {"tid":12,"originalTid":12,"round":2,"pick":0,"season":2020,"dpid":25},
 {"tid":13,"originalTid":13,"round":1,"pick":0,"season":2020,"dpid":26},
 {"tid":22,"originalTid":13,"round":2,"pick":0,"season":2020,"dpid":27},
@@ -11121,7 +11121,7 @@
 {"tid":7,"originalTid":7,"round":1,"pick":0,"season":2021,"dpid":74},
 {"tid":9,"originalTid":7,"round":2,"pick":0,"season":2021,"dpid":75},
 {"tid":8,"originalTid":8,"round":1,"pick":0,"season":2021,"dpid":76},
-{"tid":12,"originalTid":8,"round":2,"pick":0,"season":2021,"dpid":77},
+{"tid":19,"originalTid":8,"round":2,"pick":0,"season":2021,"dpid":77},
 {"tid":9,"originalTid":9,"round":1,"pick":0,"season":2021,"dpid":78},
 {"tid":18,"originalTid":9,"round":2,"pick":0,"season":2021,"dpid":79},
 {"tid":10,"originalTid":10,"round":1,"pick":0,"season":2021,"dpid":80},
