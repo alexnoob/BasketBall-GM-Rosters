@@ -6720,7 +6720,7 @@
 "college":"Florida State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":22,
+{"tid":-1,
 "name":"Trey Burke",
 "ratings":[{"hgt":25,"stre":31,"spd":63,"jmp":58,"endu":46,"ins":33,"dnk":72,"ft":50,"fg":68,"tp":50,"diq":29,"oiq":58,"drb":63,"pss":64,"reb":23}],
 "pos":"PG","hgt":72,"weight":191,
@@ -8620,7 +8620,7 @@
 {"playoffs":false,"season":2019,"tid":6,"yearsWithTeam":1,"per":12.8,"ewa":1.4,"orbp":1.7,"drbp":9.6,"trbp":5.7,"astp":22.6,"stlp":1.1,"blkp":0.2,"usgp":19.1,"ortg":107.7,"drtg":110.4,"ows":1.5,"dws":1.0,"gp":79,"gs":38,"min":1591,"fg":264,"fga":565,"tp":63,"tpa":181,"ft":87,"fta":120,"pm":-83,"orb":25,"drb":144,"ast":230,"stl":37,"blk":4,"ba":43,"tov":88,"pf":127,"pts":678}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":8,
+{"tid":-1,
 "name":"Tim Frazier",
 "ratings":[{"hgt":23,"stre":18,"spd":56,"jmp":46,"endu":38,"ins":18,"dnk":53,"ft":53,"fg":56,"tp":57,"diq":50,"oiq":43,"drb":70,"pss":71,"reb":40}],
 "pos":"PG","hgt":73,"weight":170,
