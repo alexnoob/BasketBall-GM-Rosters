@@ -573,7 +573,7 @@
 "stats":[{"playoffs":false,"yearsWithTeam":1,"season":2016,"tid":2,"gp":29,"gs":17,"min":615,"fg":63,"fga":138,"tp":4,"tpa":14,"ft":37,"fta":52,"orb":39,"drb":115,"ast":43,"stl":39,"blk":16,"ba":8,"tov":26,"pf":61,"pts":167,"pm":-61,"ewa":1.1,"per":14.2,"orbp":7,"drbp":21.4,"trbp":14.1,"astp":10.1,"stlp":3.2,"blkp":2.1,"usgp":13.5,"ows":0.5,"dws":0.7,"ortg":98.9,"drtg":102.1},{"playoffs":false,"yearsWithTeam":2,"season":2017,"tid":2,"gp":78,"gs":50,"min":1761,"fg":235,"fga":542,"tp":15,"tpa":67,"ft":190,"fta":253,"orb":96,"drb":356,"ast":154,"stl":82,"blk":44,"ba":45,"tov":116,"pf":177,"pts":675,"pm":-265,"ewa":2.8,"per":13.7,"orbp":5.8,"drbp":21.1,"trbp":13.6,"astp":13.4,"stlp":2.2,"blkp":1.9,"usgp":18.7,"ows":0.4,"dws":2.2,"ortg":102.2,"drtg":107.7},{"playoffs":false,"yearsWithTeam":3,"season":2018,"tid":2,"gp":68,"gs":59,"min":1920,"fg":342,"fga":724,"tp":13,"tpa":54,"ft":249,"fta":316,"orb":101,"drb":358,"ast":167,"stl":65,"blk":48,"ba":59,"tov":121,"pf":145,"pts":946,"pm":-185,"ewa":6.1,"per":16.9,"orbp":5.5,"drbp":20,"trbp":12.7,"astp":14.2,"stlp":1.6,"blkp":1.9,"usgp":22.2,"ows":2.1,"dws":2,"ortg":105.9,"drtg":109.6},{"playoffs":false,"yearsWithTeam":4,"season":2019,"tid":2,"gp":59,"gs":21,"min":1234,"fg":200,"fga":487,"tp":9,"tpa":49,"ft":118,"fta":183,"orb":83,"drb":227,"ast":96,"stl":44,"blk":27,"ba":46,"tov":68,"pf":107,"pts":527,"pm":-10,"ewa":1.2,"per":12.5,"orbp":7.1,"drbp":19.2,"trbp":13.2,"astp":11.7,"stlp":1.7,"blkp":1.7,"usgp":21.6,"ows":-0.5,"dws":1.7,"ortg":106.3,"drtg":105.6}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":14,
+{"tid":10,
 "name":"Bruno Caboclo",
 "ratings":[{"hgt":57,"stre":43,"spd":62,"jmp":61,"endu":33,"ins":54,"dnk":55,"ft":58,"fg":42,"tp":37,"diq":56,"oiq":42,"drb":39,"pss":39,"reb":46}],
 "pos":"F","hgt":81,"weight":218,
@@ -9021,7 +9021,7 @@
 "college":"Auburn",
 "injury":{"type":"Torn ACL","gamesRemaining":150}},
 
-{"tid":10,
+{"tid":14,
 "name":"Jordan Bell",
 "ratings":[{"hgt":57,"stre":46,"spd":50,"jmp":80,"endu":41,"ins":63,"dnk":69,"ft":30,"fg":35,"tp":13,"diq":59,"oiq":50,"drb":38,"pss":44,"reb":69}],
 "pos":"PF","hgt":80,"weight":216,
