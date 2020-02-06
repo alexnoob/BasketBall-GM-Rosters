@@ -660,7 +660,7 @@
 "stats":[{"playoffs":false,"yearsWithTeam":1,"season":2016,"tid":25,"gp":66,"gs":39,"min":1412,"fg":191,"fga":339,"tp":0,"tpa":2,"ft":81,"fta":125,"orb":134,"drb":218,"ast":37,"stl":48,"blk":66,"ba":22,"tov":46,"pf":146,"pts":463,"pm":-78,"ewa":3.3,"per":15.3,"orbp":10.3,"drbp":16.6,"trbp":13.5,"astp":3.8,"stlp":1.6,"blkp":3.8,"usgp":13.2,"ows":2.4,"dws":1.4,"ortg":105.6,"drtg":106.8},{"playoffs":false,"yearsWithTeam":2,"season":2017,"tid":25,"gp":75,"gs":21,"min":1421,"fg":255,"fga":481,"tp":0,"tpa":2,"ft":101,"fta":151,"orb":85,"drb":254,"ast":80,"stl":53,"blk":44,"ba":33,"tov":69,"pf":147,"pts":611,"pm":-206,"ewa":4,"per":16.3,"orbp":7,"drbp":20.4,"trbp":13.8,"astp":9.4,"stlp":1.9,"blkp":2.8,"usgp":19.7,"ows":1.4,"dws":1.5,"ortg":102.6,"drtg":109.5},{"playoffs":false,"yearsWithTeam":3,"season":2018,"tid":25,"gp":73,"gs":58,"min":2044,"fg":388,"fga":773,"tp":3,"tpa":12,"ft":153,"fta":247,"orb":131,"drb":379,"ast":172,"stl":77,"blk":67,"ba":68,"tov":109,"pf":185,"pts":932,"pm":-323,"ewa":7.1,"per":17.6,"orbp":7,"drbp":22,"trbp":14.2,"astp":13.7,"stlp":1.9,"blkp":3.1,"usgp":21.8,"ows":1.7,"dws":2.2,"ortg":101.8,"drtg":109.6},{"playoffs":false,"yearsWithTeam":4,"season":2019,"tid":25,"gp":81,"gs":81,"min":2213,"fg":412,"fga":741,"tp":1,"tpa":2,"ft":140,"fta":254,"orb":181,"drb":497,"ast":194,"stl":96,"blk":51,"ba":74,"tov":84,"pf":227,"pts":965,"pm":54,"ewa":8.1,"per":18,"orbp":8.2,"drbp":23.7,"trbp":15.8,"astp":12.3,"stlp":2,"blkp":2,"usgp":17.5,"ows":3.8,"dws":2.9,"ortg":110,"drtg":108.7}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":15,
+{"tid":14,
 "name":"Justise Winslow",
 "ratings":[{"hgt":48,"stre":58,"spd":59,"jmp":63,"endu":56,"ins":58,"dnk":74,"ft":32,"fg":64,"tp":39,"diq":59,"oiq":55,"drb":58,"pss":57,"reb":69}],
 "pos":"GF","hgt":78,"weight":222,
@@ -2070,7 +2070,7 @@
 "relatives":[{"type":"brother","pid":133,"name":"Cody Zeller"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":15,
+{"tid":14,
 "name":"Dion Waiters",
 "ratings":[{"hgt":37,"stre":42,"spd":50,"jmp":57,"endu":46,"ins":40,"dnk":65,"ft":23,"fg":68,"tp":66,"diq":41,"oiq":42,"drb":59,"pss":44,"reb":35}],
 "pos":"SG","hgt":75,"weight":210,
@@ -2264,7 +2264,7 @@
 {"playoffs":false,"season":2019,"tid":2,"yearsWithTeam":1,"per":8.1,"ewa":-0.3,"astp":14.1,"blkp":0.0,"drbp":15.9,"orbp":2.0,"stlp":1.4,"trbp":9.0,"usgp":20.0,"drtg":94.3,"ortg":93.6,"dws":0.2,"ows":-0.2,"gp":18,"gs":0,"min":211,"fg":25,"fga":73,"tp":12,"tpa":46,"ft":19,"fta":22,"pm":-1,"orb":4,"drb":32,"ast":21,"tov":18,"stl":6,"blk":0,"ba":4,"pf":15,"pts":81}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":14,
+{"tid":15,
 "name":"Jae Crowder",
 "ratings":[{"hgt":46,"stre":80,"spd":50,"jmp":61,"endu":58,"ins":59,"dnk":63,"ft":39,"fg":65,"tp":66,"diq":53,"oiq":42,"drb":43,"pss":49,"reb":59}],
 "pos":"SF","hgt":78,"weight":235,
@@ -2975,7 +2975,7 @@
 "ratings":[{"hgt":48,"stre":60,"spd":48,"jmp":49,"endu":31,"ins":56,"dnk":57,"ft":69,"fg":30,"tp":40,"diq":43,"oiq":44,"drb":24,"pss":30,"reb":60}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":14,
+{"tid":15,
 "name":"Andre Iguodala",
 "ratings":[{"hgt":46,"stre":62,"spd":54,"jmp":52,"endu":25,"ins":24,"dnk":52,"ft":60,"fg":50,"tp":54,"diq":55,"oiq":58,"drb":64,"pss":62,"reb":48}],
 "pos":"GF","hgt":78,"weight":215,
@@ -3264,7 +3264,7 @@
 "college":"Murray State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":14,
+{"tid":15,
 "name":"Solomon Hill",
 "ratings":[{"hgt":45,"stre":46,"spd":53,"jmp":52,"endu":42,"ins":33,"dnk":58,"ft":57,"fg":53,"tp":47,"diq":25,"oiq":55,"drb":41,"pss":39,"reb":61}],
 "pos":"SF","hgt":78,"weight":226,
@@ -4082,7 +4082,7 @@
 {"playoffs":true,"yearsWithTeam":1,"season":2009,"tid":21,"gp":21,"gs":16,"min":550,"fg":67,"fga":154,"tp":12,"tpa":44,"ft":23,"fta":26,"orb":6,"drb":33,"ast":27,"stl":19,"blk":3,"ba":10,"tov":20,"pf":42,"pts":169,"pm":24,"ewa":-0.3,"per":9.3,"orbp":1.4,"drbp":7.5,"trbp":4.5,"astp":8.4,"stlp":1.9,"blkp":0.4,"usgp":16.3,"ows":0,"dws":0.6,"ortg":107.2,"drtg":104.1},{"playoffs":true,"yearsWithTeam":1,"season":2013,"tid":1,"gp":4,"gs":0,"min":39,"fg":1,"fga":5,"tp":0,"tpa":2,"ft":4,"fta":4,"orb":0,"drb":2,"ast":1,"stl":2,"blk":0,"ba":0,"tov":0,"pf":3,"pts":6,"pm":-15,"ewa":-0.1,"per":6.6,"orbp":0,"drbp":5.6,"trbp":3.1,"astp":4.6,"stlp":2.8,"blkp":0,"usgp":8.8,"ows":0,"dws":0.1,"ortg":74.7,"drtg":94.7},{"playoffs":true,"yearsWithTeam":1,"season":2014,"tid":14,"gp":7,"gs":7,"min":224,"fg":25,"fga":60,"tp":6,"tpa":19,"ft":14,"fta":18,"orb":3,"drb":11,"ast":11,"stl":5,"blk":2,"ba":5,"tov":6,"pf":20,"pts":70,"pm":-31,"ewa":-0.2,"per":8.8,"orbp":1.4,"drbp":5.8,"trbp":3.5,"astp":8,"stlp":1.2,"blkp":0.8,"usgp":15.2,"ows":0.1,"dws":0.1,"ortg":102.8,"drtg":109.6},{"playoffs":true,"yearsWithTeam":2,"season":2015,"tid":14,"gp":11,"gs":11,"min":367,"fg":55,"fga":100,"tp":14,"tpa":30,"ft":22,"fta":23,"orb":3,"drb":25,"ast":24,"stl":12,"blk":0,"ba":5,"tov":13,"pf":24,"pts":146,"pm":1,"ewa":0.9,"per":15.5,"orbp":0.9,"drbp":7.7,"trbp":4.2,"astp":11,"stlp":1.7,"blkp":0,"usgp":15.3,"ows":0.9,"dws":0.2,"ortg":101.5,"drtg":101.9},{"playoffs":true,"yearsWithTeam":1,"season":2016,"tid":3,"gp":7,"gs":7,"min":257,"fg":21,"fga":51,"tp":4,"tpa":9,"ft":14,"fta":15,"orb":5,"drb":15,"ast":9,"stl":6,"blk":3,"ba":3,"tov":5,"pf":19,"pts":60,"pm":-17,"ewa":-0.3,"per":8.5,"orbp":2.1,"drbp":7.2,"trbp":4.4,"astp":6,"stlp":1.2,"blkp":0.9,"usgp":11.6,"ows":0.1,"dws":0.1,"ortg":100.4,"drtg":105.1}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":15,
+{"tid":17,
 "name":"James Johnson",
 "ratings":[{"hgt":50,"stre":58,"spd":53,"jmp":60,"endu":35,"ins":56,"dnk":63,"ft":37,"fg":41,"tp":42,"diq":56,"oiq":48,"drb":45,"pss":43,"reb":42}],
 "pos":"PF","hgt":79,"weight":240,
@@ -4487,7 +4487,7 @@
 "college":"UCLA",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":17,
+{"tid":14,
 "name":"Gorgui Dieng",
 "ratings":[{"hgt":66,"stre":76,"spd":40,"jmp":63,"endu":38,"ins":65,"dnk":67,"ft":55,"fg":50,"tp":29,"diq":63,"oiq":45,"drb":19,"pss":24,"reb":79}],
 "pos":"C","hgt":82,"weight":252,
