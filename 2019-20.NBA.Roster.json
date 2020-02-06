@@ -2679,7 +2679,7 @@
 {"playoffs":false,"season":2019,"tid":7,"yearsWithTeam":1,"per":8.3,"ewa":-0.1,"orbp":1.9,"drbp":3.8,"trbp":2.8,"astp":32.1,"stlp":0.0,"blkp":0.0,"usgp":23.1,"ortg":107.2,"drtg":99.2,"ows":0.0,"dws":0.0,"gp":16,"gs":0,"min":57,"fg":6,"fga":23,"tp":2,"tpa":6,"ft":9,"fta":11,"pm":12,"orb":1,"drb":2,"ast":14,"stl":0,"blk":0,"ba":0,"tov":3,"pf":7,"pts":23}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":8,
+{"tid":5,
 "name":"Andre Drummond",
 "ratings":[{"hgt":76,"stre":95,"spd":61,"jmp":48,"endu":83,"ins":78,"dnk":92,"ft":16,"fg":40,"tp":0,"diq":43,"oiq":54,"drb":60,"pss":42,"reb":99}],
 "pos":"C","hgt":83,"weight":279,
@@ -4311,7 +4311,7 @@
 "college":"Washington",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":5,
+{"tid":8,
 "name":"John Henson",
 "ratings":[{"hgt":58,"stre":64,"spd":51,"jmp":68,"endu":55,"ins":68,"dnk":67,"ft":10,"fg":59,"tp":0,"diq":60,"oiq":59,"drb":27,"pss":29,"reb":79}],
 "pos":"FC","hgt":81,"weight":219,
@@ -4337,7 +4337,7 @@
 {"playoffs":false,"yearsWithTeam":6,"season":2019,"tid":16,"gp":77,"gs":77,"min":2393,"fg":506,"fga":1148,"tp":179,"tpa":474,"ft":216,"fta":258,"orb":50,"drb":411,"ast":331,"stl":80,"blk":7,"ba":61,"tov":174,"pf":172,"pts":1407,"pm":552,"ewa":7.1,"per":16.5,"orbp":2.3,"drbp":16.5,"trbp":9.8,"astp":20.1,"stlp":1.6,"blkp":0.2,"usgp":25.1,"ows":2.5,"dws":3.6,"ortg":110.3,"drtg":106.3}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":5,
+{"tid":8,
 "name":"Brandon Knight",
 "ratings":[{"hgt":33,"stre":27,"spd":62,"jmp":48,"endu":52,"ins":32,"dnk":74,"ft":66,"fg":73,"tp":71,"diq":36,"oiq":50,"drb":68,"pss":45,"reb":29}],
 "pos":"G","hgt":74,"weight":192,
