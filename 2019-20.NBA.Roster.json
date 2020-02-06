@@ -491,7 +491,7 @@
 "college":"Memphis",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":9,
+{"tid":17,
 "name":"D'Angelo Russell",
 "ratings":[{"hgt":41,"stre":41,"spd":62,"jmp":66,"endu":58,"ins":67,"dnk":85,"ft":58,"fg":83,"tp":71,"diq":42,"oiq":63,"drb":68,"pss":65,"reb":52}],
 "pos":"G","hgt":76,"weight":193,
@@ -1135,7 +1135,7 @@
 "stats":[{"playoffs":false,"yearsWithTeam":1,"season":2015,"tid":16,"gp":25,"gs":25,"min":738,"fg":129,"fga":263,"tp":4,"tpa":16,"ft":46,"fta":66,"orb":50,"drb":88,"ast":42,"stl":31,"blk":5,"ba":21,"tov":47,"pf":42,"pts":308,"pm":-114,"ewa":1.1,"per":14.5,"orbp":7.8,"drbp":13.5,"trbp":10.7,"astp":9.5,"stlp":2.1,"blkp":0.6,"usgp":20.7,"ows":0.4,"dws":1,"ortg":99.6,"drtg":106.4},{"playoffs":false,"yearsWithTeam":2,"season":2016,"tid":16,"gp":76,"gs":72,"min":2408,"fg":443,"fga":899,"tp":9,"tpa":35,"ft":175,"fta":228,"orb":123,"drb":272,"ast":130,"stl":69,"blk":29,"ba":77,"tov":116,"pf":154,"pts":1070,"pm":-193,"ewa":4,"per":14.8,"orbp":5.9,"drbp":12.8,"trbp":9.4,"astp":8.9,"stlp":1.5,"blkp":1,"usgp":20.9,"ows":2.4,"dws":1.2,"ortg":103.9,"drtg":107.7},{"playoffs":false,"yearsWithTeam":3,"season":2017,"tid":16,"gp":51,"gs":50,"min":1728,"fg":399,"fga":814,"tp":65,"tpa":178,"ft":162,"fta":218,"orb":79,"drb":235,"ast":142,"stl":50,"blk":22,"ba":65,"tov":93,"pf":111,"pts":1025,"pm":-87,"ewa":6.5,"per":19.1,"orbp":5.4,"drbp":15.7,"trbp":10.6,"astp":14.3,"stlp":1.5,"blkp":1.1,"usgp":26.5,"ows":2.6,"dws":1.5,"ortg":108.1,"drtg":110.6},{"playoffs":false,"yearsWithTeam":4,"season":2018,"tid":16,"gp":31,"gs":3,"min":743,"fg":160,"fga":332,"tp":31,"tpa":81,"ft":40,"fta":54,"orb":42,"drb":109,"ast":59,"stl":25,"blk":10,"ba":17,"tov":45,"pf":50,"pts":391,"pm":-65,"ewa":2.1,"per":17.1,"orbp":6.6,"drbp":17.1,"trbp":11.9,"astp":13.1,"stlp":1.7,"blkp":1.2,"usgp":24.4,"ows":0.6,"dws":0.6,"ortg":105.9,"drtg":109.7},{"playoffs":false,"yearsWithTeam":1,"season":2019,"tid":4,"gp":39,"gs":17,"min":1042,"fg":220,"fga":464,"tp":37,"tpa":114,"ft":79,"fta":108,"orb":41,"drb":200,"ast":84,"stl":23,"blk":14,"ba":37,"tov":84,"pf":87,"pts":556,"pm":-224,"ewa":1.6,"per":14.6,"orbp":4.2,"drbp":21.1,"trbp":12.6,"astp":13.2,"stlp":1.1,"blkp":1.2,"usgp":25,"ows":-0.2,"dws":0.7,"ortg":100.5,"drtg":111.2},{"playoffs":false,"yearsWithTeam":1,"season":2019,"tid":29,"gp":25,"gs":0,"min":682,"fg":149,"fga":285,"tp":24,"tpa":81,"ft":52,"fta":76,"orb":38,"drb":142,"ast":68,"stl":23,"blk":16,"ba":17,"tov":67,"pf":58,"pts":374,"pm":20,"ewa":1.9,"per":17,"orbp":5.9,"drbp":23,"trbp":14.3,"astp":15.4,"stlp":1.6,"blkp":2,"usgp":24,"ows":0.3,"dws":0.6,"ortg":110.8,"drtg":110.2}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":17,
+{"tid":9,
 "name":"Andrew Wiggins",
 "ratings":[{"hgt":53,"stre":62,"spd":75,"jmp":83,"endu":72,"ins":93,"dnk":89,"ft":40,"fg":87,"tp":62,"diq":42,"oiq":59,"drb":50,"pss":49,"reb":69}],
 "pos":"GF","hgt":79,"weight":197,
@@ -1988,7 +1988,7 @@
 "stats":[{"playoffs":false,"yearsWithTeam":1,"season":2018,"tid":28,"gp":1,"gs":0,"min":1,"fg":1,"fga":1,"tp":1,"tpa":1,"ft":0,"fta":0,"orb":0,"drb":0,"ast":0,"stl":0,"blk":0,"ba":0,"tov":0,"pf":0,"pts":3,"pm":5,"ewa":0.1,"per":133.8,"orbp":0,"drbp":0,"trbp":0,"astp":0,"stlp":0,"blkp":0,"usgp":45,"ows":0.1,"dws":0,"ortg":250,"drtg":0},{"playoffs":false,"yearsWithTeam":2,"season":2019,"tid":28,"gp":14,"gs":0,"min":84,"fg":6,"fga":20,"tp":2,"tpa":11,"ft":2,"fta":2,"orb":1,"drb":5,"ast":15,"stl":1,"blk":1,"ba":1,"tov":8,"pf":10,"pts":16,"pm":-39,"ewa":-0.3,"per":2.2,"orbp":1.3,"drbp":6.3,"trbp":3.9,"astp":23.3,"stlp":0.6,"blkp":0.9,"usgp":14.7,"ows":-0.2,"dws":0.1,"ortg":103.3,"drtg":124.5}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":9,
+{"tid":17,
 "name":"Omari Spellman",
 "ratings":[{"hgt":56,"stre":64,"spd":40,"jmp":48,"endu":30,"ins":62,"dnk":58,"ft":62,"fg":49,"tp":50,"diq":44,"oiq":45,"drb":35,"pss":33,"reb":62}],
 "pos":"FC","hgt":80,"weight":245,
@@ -7495,7 +7495,7 @@
 "college":"Minnesota",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":9,
+{"tid":17,
 "name":"Jacob Evans",
 "ratings":[{"hgt":37,"stre":31,"spd":50,"jmp":44,"endu":35,"ins":29,"dnk":61,"ft":50,"fg":62,"tp":58,"diq":45,"oiq":44,"drb":37,"pss":32,"reb":36}],
 "pos":"SF","hgt":76,"weight":210,
@@ -9355,7 +9355,7 @@
 {"playoffs":false,"season":2019,"tid":18,"yearsWithTeam":1,"per":9.4,"ewa":-0.9,"astp":8.0,"blkp":0.1,"drbp":9.5,"orbp":2.2,"stlp":1.0,"trbp":5.9,"usgp":18.5,"drtg":111.3,"ortg":106.3,"dws":0.4,"ows":0.1,"gp":61,"gs":16,"min":1169,"fg":194,"fga":447,"tp":53,"tpa":169,"ft":54,"fta":73,"pm":-135,"orb":25,"drb":109,"ast":69,"tov":48,"stl":25,"blk":2,"ba":23,"pf":92,"pts":495}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":12,
+{"tid":0,
 "firstName":"Derrick","lastName":"Walton Jr",
 "ratings":[{"hgt":24,"stre":23,"spd":53,"jmp":46,"endu":35,"ins":23,"dnk":46,"ft":65,"fg":45,"tp":67,"diq":30,"oiq":37,"drb":60,"pss":48,"reb":49}],
 "pos":"PG","hgt":72,"weight":185,
@@ -11138,8 +11138,8 @@
 {"tid":0,"originalTid":15,"round":2,"pick":0,"season":2021,"dpid":91},
 {"tid":16,"originalTid":16,"round":1,"pick":0,"season":2021,"dpid":92},
 {"tid":11,"originalTid":16,"round":2,"pick":0,"season":2021,"dpid":93},
-{"tid":17,"originalTid":17,"round":1,"pick":0,"season":2021,"dpid":94},
-{"tid":17,"originalTid":17,"round":2,"pick":0,"season":2021,"dpid":95},
+{"tid":9,"originalTid":17,"round":1,"pick":0,"season":2021,"dpid":94},
+{"tid":9,"originalTid":17,"round":2,"pick":0,"season":2021,"dpid":95},
 {"tid":18,"originalTid":18,"round":1,"pick":0,"season":2021,"dpid":96},
 {"tid":4,"originalTid":18,"round":2,"pick":0,"season":2021,"dpid":97},
 {"tid":19,"originalTid":19,"round":1,"pick":0,"season":2021,"dpid":98},
