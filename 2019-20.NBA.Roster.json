@@ -408,7 +408,7 @@
 {"playoffs":false,"season":2019,"tid":11,"yearsWithTeam":1,"per":6.3,"ewa":-0.2,"orbp":7.1,"drbp":25.5,"trbp":16.5,"astp":2.0,"stlp":0.8,"blkp":4.2,"usgp":13.3,"ortg":110.7,"drtg":112.2,"ows":-0.1,"dws":0.1,"gp":14,"gs":0,"min":64,"fg":4,"fga":16,"tp":1,"tpa":2,"ft":4,"fta":8,"pm":1,"orb":4,"drb":15,"ast":1,"stl":1,"blk":3,"ba":1,"tov":0,"pf":7,"pts":13}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":29,
+{"tid":7,
 "name":"Jordan McRae",
 "ratings":[{"hgt":44,"stre":42,"spd":56,"jmp":55,"endu":43,"ins":54,"dnk":62,"ft":60,"fg":70,"tp":61,"diq":36,"oiq":46,"drb":55,"pss":42,"reb":41}],
 "pos":"SG","hgt":77,"weight":179,
@@ -767,7 +767,7 @@
 "stats":[{"playoffs":false,"yearsWithTeam":1,"season":2016,"tid":29,"gp":63,"gs":9,"min":671,"fg":90,"fga":211,"tp":25,"tpa":79,"ft":31,"fta":49,"orb":25,"drb":108,"ast":13,"stl":22,"blk":7,"ba":20,"tov":34,"pf":100,"pts":236,"pm":-47,"ewa":-0.8,"per":8.2,"orbp":4.1,"drbp":18.4,"trbp":11.1,"astp":2.8,"stlp":1.6,"blkp":0.8,"usgp":17.4,"ows":-0.3,"dws":0.7,"ortg":100.4,"drtg":103},{"playoffs":false,"yearsWithTeam":2,"season":2017,"tid":29,"gp":79,"gs":5,"min":1605,"fg":186,"fga":442,"tp":54,"tpa":188,"ft":75,"fta":99,"orb":61,"drb":200,"ast":47,"stl":58,"blk":17,"ba":35,"tov":50,"pf":195,"pts":501,"pm":-42,"ewa":-1.1,"per":9.1,"orbp":4.3,"drbp":14,"trbp":9.2,"astp":4,"stlp":1.8,"blkp":0.9,"usgp":14.6,"ows":0.6,"dws":1.5,"ortg":105.3,"drtg":106},{"playoffs":false,"yearsWithTeam":3,"season":2018,"tid":29,"gp":81,"gs":11,"min":2231,"fg":318,"fga":790,"tp":126,"tpa":369,"ft":191,"fta":233,"orb":59,"drb":304,"ast":98,"stl":80,"blk":35,"ba":56,"tov":90,"pf":234,"pts":953,"pm":-113,"ewa":1.6,"per":11.9,"orbp":3,"drbp":15.4,"trbp":9.2,"astp":6.4,"stlp":1.8,"blkp":1.4,"usgp":19.4,"ows":1.4,"dws":2.3,"ortg":105.9,"drtg":108.2},{"playoffs":false,"yearsWithTeam":4,"season":2019,"tid":29,"gp":29,"gs":7,"min":755,"fg":132,"fga":305,"tp":41,"tpa":132,"ft":68,"fta":85,"orb":24,"drb":105,"ast":20,"stl":27,"blk":20,"ba":27,"tov":30,"pf":71,"pts":373,"pm":-130,"ewa":1.1,"per":13.3,"orbp":3.4,"drbp":15.3,"trbp":9.3,"astp":3.8,"stlp":1.7,"blkp":2.2,"usgp":20.9,"ows":0.3,"dws":0.5,"ortg":105.2,"drtg":112.9},{"playoffs":false,"yearsWithTeam":1,"season":2019,"tid":23,"gp":40,"gs":12,"min":1180,"fg":243,"fga":537,"tp":67,"tpa":206,"ft":121,"fta":159,"orb":47,"drb":149,"ast":64,"stl":57,"blk":39,"ba":45,"tov":73,"pf":110,"pts":674,"pm":-144,"ewa":2.8,"per":16.4,"orbp":4.3,"drbp":14.2,"trbp":9.2,"astp":8.7,"stlp":2.3,"blkp":2.8,"usgp":24.7,"ows":0.5,"dws":0.8,"ortg":108.6,"drtg":113.5}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":7,
+{"tid":29,
 "name":"Shabazz Napier",
 "ratings":[{"hgt":26,"stre":26,"spd":61,"jmp":56,"endu":40,"ins":35,"dnk":74,"ft":65,"fg":62,"tp":66,"diq":38,"oiq":38,"drb":61,"pss":55,"reb":42}],
 "pos":"PG","hgt":72,"weight":175,
