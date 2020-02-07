@@ -2981,7 +2981,7 @@
 "pos":"GF","hgt":78,"weight":215,
 "born":{"year":1984,"loc":"Springfield, IL"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2738.png",
-"contract":{"amount":17175,"exp":2020},
+"contract":{"amount":17175,"exp":2021},
 "draft":{"round":1,"pick":9,"tid":22,"originalTid":22,"year":2004},
 "college":"Arizona",
 "awards":[
@@ -3710,7 +3710,7 @@
 "college":"Oklahoma State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":22,
+{"tid":-1,
 "name":"Jonah Bolden",
 "ratings":[{"hgt":52,"stre":35,"spd":48,"jmp":49,"endu":35,"ins":63,"dnk":60,"ft":37,"fg":20,"tp":50,"diq":50,"oiq":53,"drb":43,"pss":31,"reb":68}],
 "pos":"PF","hgt":80,"weight":215,
@@ -10148,7 +10148,7 @@
 {"playoffs":false,"yearsWithTeam":2,"season":2019,"tid":12,"gp":62,"gs":0,"min":628,"fg":92,"fga":217,"tp":4,"tpa":19,"ft":30,"fta":57,"orb":20,"drb":81,"ast":42,"stl":21,"blk":7,"ba":32,"tov":36,"pf":83,"pts":218,"pm":56,"ewa":-1.1,"per":7,"orbp":3.5,"drbp":13.2,"trbp":8.5,"astp":9.5,"stlp":1.6,"blkp":0.9,"usgp":18.7,"ows":-0.8,"dws":0.5,"ortg":108,"drtg":104.2}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":2,
 "name":"Timothé Luwawu-Cabarrot",
 "ratings":[{"hgt":48,"stre":44,"spd":55,"jmp":63,"endu":34,"ins":36,"dnk":58,"ft":56,"fg":50,"tp":48,"diq":39,"oiq":41,"drb":46,"pss":35,"reb":30}],
 "pos":"GF","hgt":79,"weight":220,
@@ -10610,7 +10610,7 @@
 "college":"Stanford",
 "ratings":[{"hgt":56,"stre":50,"spd":44,"jmp":63,"endu":35,"ins":55,"dnk":47,"ft":40,"fg":42,"tp":28,"diq":45,"oiq":53,"drb":22,"pss":22,"reb":62}]},
 
-{"tid":25,
+{"tid":-1,
 "name":"Eric Mika",
 "pos":"FC","hgt":82,"weight":233,
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628450.png",
