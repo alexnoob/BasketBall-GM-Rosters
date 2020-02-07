@@ -9857,7 +9857,7 @@
 {"tid":-2,"draft":{"year":2021},
 "name":"Cade Cunningham",
 "ratings":[{"hgt":49,"stre":57,"spd":61,"jmp":63,"endu":38,"ins":43,"dnk":59,"ft":40,"fg":60,"tp":38,"diq":35,"oiq":48,"drb":48,"pss":49,"reb":44}],
-"pos":"F","hgt":79,"weight":215,
+"pos":"PG","hgt":79,"weight":215,
 "born":{"year":2002,"loc":"Arlington, TX"},
 "imgURL":"https://s3media.247sports.com/Uploads/Assets/62/255/9255062.jpg",
 "contract":{"amount":900,"exp":2022},
