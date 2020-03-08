@@ -1243,7 +1243,7 @@
 "college":"Butler",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":0,
+{"tid":10,
 "name":"DeMarre Carroll",
 "ratings":[{"hgt":44,"stre":62,"spd":46,"jmp":49,"endu":40,"ins":52,"dnk":58,"ft":53,"fg":56,"tp":52,"diq":38,"oiq":55,"drb":38,"pss":41,"reb":56}],
 "pos":"F","hgt":78,"weight":215,
