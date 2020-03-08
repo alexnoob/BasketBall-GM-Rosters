@@ -8749,7 +8749,7 @@
 "college":"Texas Tech",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":7,
 "name":"Troy Daniels",
 "ratings":[{"hgt":44,"stre":30,"spd":59,"jmp":40,"endu":42,"ins":18,"dnk":54,"ft":70,"fg":66,"tp":72,"diq":46,"oiq":55,"drb":49,"pss":28,"reb":12}],
 "pos":"SG","hgt":76,"weight":205,
