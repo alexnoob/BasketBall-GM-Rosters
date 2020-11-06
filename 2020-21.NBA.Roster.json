@@ -3342,7 +3342,8 @@
 {"playoffs":false,"season":2017,"tid":14,"yearsWithTeam":3,"per":11.7,"ewa":1.1,"orbp":2.2,"drbp":12.5,"trbp":7.2,"astp":11.5,"stlp":1.7,"blkp":1.9,"usgp":14.9,"ortg":108.5,"drtg":104.5,"ows":1.9,"dws":2.1,"gp":73,"gs":15,"min":1799,"fg":193,"fga":490,"tp":112,"tpa":296,"ft":88,"fta":115,"pm":157,"orb":36,"drb":191,"ast":133,"stl":60,"blk":36,"ba":16,"tov":50,"pf":163,"pts":586,"jerseyNumber":"15"},
 {"playoffs":true,"yearsWithTeam":3,"season":2017,"tid":14,"gp":6,"gs":6,"min":195,"fg":20,"fga":42,"tp":8,"tpa":20,"ft":7,"fta":7,"orb":4,"drb":16,"ast":9,"stl":2,"blk":0,"ba":2,"tov":10,"pf":15,"pts":55,"pm":-55,"ewa":-0.2,"per":8.1,"orbp":2.6,"drbp":10.6,"trbp":6.6,"astp":7.6,"stlp":0.6,"blkp":0,"usgp":14.2,"ows":0.1,"dws":-0.1,"ortg":108,"drtg":123.4},
 {"playoffs":false,"season":2018,"tid":25,"yearsWithTeam":1,"per":10.8,"ewa":0.2,"orbp":1.9,"drbp":15.1,"trbp":8.2,"astp":9.7,"stlp":2.1,"blkp":2.4,"usgp":14.7,"ortg":103.4,"drtg":106.7,"ows":0.3,"dws":0.9,"gp":58,"gs":5,"min":1026,"fg":114,"fga":283,"tp":57,"tpa":165,"ft":28,"fta":37,"pm":-67,"orb":18,"drb":130,"ast":69,"stl":42,"blk":26,"ba":4,"tov":36,"pf":96,"pts":313,"jerseyNumber":"15"},
-{"playoffs":false,"season":2019,"tid":0,"yearsWithTeam":1,"per":11.8,"ewa":0.9,"orbp":2.4,"drbp":13.2,"trbp":7.7,"astp":9.3,"stlp":1.5,"blkp":1.8,"usgp":16.7,"ortg":101.8,"drtg":108.0,"ows":1.2,"dws":0.7,"gp":76,"gs":9,"min":1330,"fg":196,"fga":468,"tp":123,"tpa":316,"ft":47,"fta":66,"pm":-179,"orb":31,"drb":163,"ast":87,"stl":44,"blk":27,"ba":9,"tov":48,"pf":141,"pts":562,"jerseyNumber":"15"}],
+{"playoffs":false,"season":2019,"tid":0,"yearsWithTeam":1,"per":11.8,"ewa":0.9,"orbp":2.4,"drbp":13.2,"trbp":7.7,"astp":9.3,"stlp":1.5,"blkp":1.8,"usgp":16.7,"ortg":101.8,"drtg":108.0,"ows":1.2,"dws":0.7,"gp":76,"gs":9,"min":1330,"fg":196,"fga":468,"tp":123,"tpa":316,"ft":47,"fta":66,"pm":-179,"orb":31,"drb":163,"ast":87,"stl":44,"blk":27,"ba":9,"tov":48,"pf":141,"pts":562,"jerseyNumber":"15"},
+{"playoffs":false,"season":2020,"tid":0,"yearsWithTeam":2,"per":7.5,"ewa":-1.3,"orbp":2.2,"drbp":13.2,"trbp":7.6,"astp":7.7,"stlp":1.2,"blkp":2.4,"usgp":16.6,"ortg":102.0,"drtg":110.1,"ows":-0.6,"dws":0.4,"gp":60,"gs":0,"min":876,"fg":107,"fga":304,"tp":61,"tpa":202,"ft":23,"fta":29,"pm":-127,"orb":18,"drb":106,"ast":48,"stl":23,"blk":25,"ba":6,"tov":33,"pf":90,"pts":298,"jerseyNumber":"15"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":21,
@@ -14354,7 +14355,7 @@
 {"number":"25","seasonRetired":1976,"seasonTeamInfo":2020,"text":"Bill Melchionni"},
 {"number":"32","seasonRetired":1987,"seasonTeamInfo":2020,"text":"Julius Erving"},
 {"number":"52","seasonRetired":1999,"seasonTeamInfo":2020,"text":"Buck Williams"}],
-"imgURL":"https://i.imgur.com/FFpCgxk.png"},
+"imgURL":"https://i.imgur.com/lDrufi8.png"},
 {"tid":3,"cid":0,"did":2,
 "region":"Charlotte","name":"Hornets","abbrev":"CHA","pop":2.5,"strategy":"Jordancrying",
 "stadiumCapacity":19077,
