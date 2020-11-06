@@ -13587,7 +13587,7 @@
 {"playoffs":false,"yearsWithTeam":3,"season":2019,"tid":7,"gp":75,"gs":74,"min":2447,"fg":513,"fga":1173,"tp":152,"tpa":414,"ft":189,"fta":223,"orb":65,"drb":252,"ast":363,"stl":67,"blk":27,"ba":51,"tov":158,"pf":153,"pts":1367,"pm":245,"ewa":6.2,"per":16,"orbp":2.9,"drbp":11.2,"trbp":7,"astp":22.4,"stlp":1.3,"blkp":1,"usgp":24.9,"ows":2.8,"dws":2.3,"ortg":112.8,"drtg":108,"jerseyNumber":"27"},
 {"playoffs":true,"yearsWithTeam":1,"season":2019,"tid":7,"gp":14,"gs":14,"min":508,"fg":107,"fga":252,"tp":28,"tpa":83,"ft":56,"fta":62,"orb":19,"drb":42,"ast":66,"stl":14,"blk":2,"ba":10,"tov":22,"pf":24,"pts":298,"pm":67,"ewa":2.1,"per":19.4,"orbp":3.9,"drbp":8.8,"trbp":6.3,"astp":21.8,"stlp":1.4,"blkp":0.3,"usgp":26.4,"ows":1.1,"dws":0.2,"ortg":116.4,"drtg":110,"jerseyNumber":"27"}]},
 
-{"tid":9,
+{"tid":-1,
 "name":"Dragan Bender",
 "ratings":[{"hgt":67,"stre":32,"spd":48,"jmp":55,"endu":32,"ins":36,"dnk":50,"ft":64,"fg":40,"tp":54,"diq":39,"oiq":45,"drb":30,"pss":42,"reb":56}],
 "pos":"FC","hgt":84,"weight":249,
