@@ -11169,7 +11169,7 @@
 {"playoffs":false,"yearsWithTeam":4,"season":2019,"tid":4,"gp":60,"gs":0,"min":746,"fg":95,"fga":179,"tp":0,"tpa":4,"ft":50,"fta":73,"orb":79,"drb":139,"ast":37,"stl":11,"blk":7,"ba":24,"tov":33,"pf":69,"pts":240,"pm":-130,"ewa":1,"per":13.4,"orbp":11.4,"drbp":20.5,"trbp":15.9,"astp":7.2,"stlp":0.7,"blkp":0.8,"usgp":14.3,"ows":0.9,"dws":0.4,"ortg":103.7,"drtg":111.7,"jerseyNumber":"6"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2020},
+{"tid":-1,
 "name":"Jarron Cumberland",
 "ratings":[{"hgt":41,"stre":28,"spd":59,"jmp":48,"endu":33,"ins":23,"dnk":60,"ft":59,"fg":65,"tp":43,"diq":48,"oiq":52,"drb":42,"pss":56,"reb":48}],
 "pos":"SG","hgt":77,"weight":205,
@@ -11575,7 +11575,7 @@
 "college":"Serbia",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2021},
+{"tid":-1,
 "name":"Lamine Diane",
 "ratings":[{"hgt":48,"stre":45,"spd":57,"jmp":57,"endu":35,"ins":55,"dnk":48,"ft":10,"fg":53,"tp":30,"diq":45,"oiq":29,"drb":30,"pss":12,"reb":50}],
 "pos":"SF","hgt":79,"weight":200,
@@ -14200,13 +14200,13 @@
 "college":"Connecticut",
 "ratings":[{"hgt":68,"stre":77,"spd":31,"jmp":39,"endu":38,"ins":63,"dnk":71,"ft":56,"fg":21,"tp":0,"diq":60,"oiq":32,"drb":12,"pss":21,"reb":62}]},
 
-{"tid":-2,"draft":{"year":2022},
+{"tid":-2,"draft":{"year":2021},
 "name":"Kai Jones",
 "pos":"F","hgt":82,"weight":205,
 "imgURL":"https://s3media.247sports.com/Uploads/Assets/879/447/8447879.jpg?fit=crop&width=100",
 "born":{"year":2001,"loc":"Nassau, Bahamas"},
 "contract":{"amount":900,"exp":2022},
-"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2022},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2021},
 "college":"Texas",
 "ratings":[{"hgt":61,"stre":28,"spd":57,"jmp":64,"endu":27,"ins":43,"dnk":49,"ft":34,"fg":54,"tp":34,"diq":37,"oiq":39,"drb":43,"pss":34,"reb":34}]},
 
