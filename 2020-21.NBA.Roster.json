@@ -804,7 +804,7 @@
 
 {"tid":10,
 "name":"Bruno Caboclo",
-"ratings":[{"hgt":57,"stre":43,"spd":62,"jmp":61,"endu":33,"ins":54,"dnk":55,"ft":58,"fg":42,"tp":37,"diq":56,"oiq":42,"drb":39,"pss":39,"reb":46}],
+"ratings":[{"hgt":57,"stre":43,"spd":47,"jmp":57,"endu":33,"ins":47,"dnk":50,"ft":58,"fg":42,"tp":37,"diq":52,"oiq":39,"drb":39,"pss":39,"reb":46}],
 "pos":"F","hgt":81,"weight":218,
 "born":{"year":1996,"loc":"Osasco, Brazil"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203998.png",
@@ -1646,7 +1646,7 @@
 
 {"tid":25,
 "name":"Jabari Parker",
-"ratings":[{"hgt":54,"stre":59,"spd":63,"jmp":58,"endu":64,"ins":69,"dnk":78,"ft":55,"fg":80,"tp":52,"diq":30,"oiq":49,"drb":48,"pss":48,"reb":60}],
+"ratings":[{"hgt":54,"stre":59,"spd":59,"jmp":58,"endu":54,"ins":60,"dnk":68,"ft":55,"fg":65,"tp":52,"diq":30,"oiq":47,"drb":48,"pss":48,"reb":60}],
 "pos":"F","hgt":80,"weight":245,
 "born":{"year":1995,"loc":"Chicago, IL"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203953.png",
@@ -4192,7 +4192,7 @@
 
 {"tid":25,
 "name":"Harrison Barnes",
-"ratings":[{"hgt":53,"stre":56,"spd":61,"jmp":62,"endu":72,"ins":56,"dnk":68,"ft":63,"fg":77,"tp":65,"diq":30,"oiq":59,"drb":54,"pss":46,"reb":59}],
+"ratings":[{"hgt":53,"stre":52,"spd":61,"jmp":62,"endu":64,"ins":53,"dnk":66,"ft":63,"fg":72,"tp":61,"diq":30,"oiq":59,"drb":54,"pss":46,"reb":59}],
 "pos":"F","hgt":80,"weight":225,
 "born":{"year":1992,"loc":"Ames, IA"},
 "moodTraits":["$"],
@@ -7623,7 +7623,7 @@
 
 {"tid":-1,
 "name":"Kyle O'Quinn",
-"ratings":[{"hgt":62,"stre":81,"spd":31,"jmp":48,"endu":27,"ins":60,"dnk":50,"ft":55,"fg":29,"tp":33,"diq":60,"oiq":53,"drb":37,"pss":49,"reb":76}],
+"ratings":[{"hgt":62,"stre":77,"spd":31,"jmp":42,"endu":27,"ins":58,"dnk":50,"ft":55,"fg":29,"tp":33,"diq":57,"oiq":47,"drb":37,"pss":47,"reb":69}],
 "pos":"C","hgt":81,"weight":240,
 "born":{"year":1990,"loc":"Flushing, NY"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203124.png",
@@ -7979,7 +7979,7 @@
 
 {"tid":20,
 "name":"Darius Bazley",
-"ratings":[{"hgt":55,"stre":34,"spd":59,"jmp":57,"endu":28,"ins":40,"dnk":48,"ft":31,"fg":28,"tp":35,"diq":34,"oiq":36,"drb":32,"pss":20,"reb":60}],
+"ratings":[{"hgt":55,"stre":45,"spd":59,"jmp":57,"endu":38,"ins":43,"dnk":52,"ft":31,"fg":33,"tp":40,"diq":34,"oiq":42,"drb":34,"pss":25,"reb":62}],
 "pos":"PF","hgt":80,"weight":208,
 "born":{"year":2000,"loc":"Boston, MA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629647.png",
@@ -12331,7 +12331,7 @@
 
 {"tid":0,
 "name":"Trae Young",
-"ratings":[{"hgt":29,"stre":26,"spd":82,"jmp":45,"endu":70,"ins":73,"dnk":88,"ft":68,"fg":92,"tp":73,"diq":26,"oiq":72,"drb":65,"pss":73,"reb":77}],
+"ratings":[{"hgt":30,"stre":28,"spd":82,"jmp":45,"endu":70,"ins":73,"dnk":93,"ft":68,"fg":92,"tp":73,"diq":26,"oiq":73,"drb":66,"pss":73,"reb":77}],
 "pos":"PG","hgt":73,"weight":180,
 "born":{"year":1999,"loc":"Lubbock, TX"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
@@ -13068,7 +13068,8 @@
 "college":"Kansas",
 "stats":[
 {"playoffs":false,"season":2018,"tid":23,"yearsWithTeam":1,"per":11.8,"ewa":1.4,"orbp":5.1,"drbp":14.2,"trbp":9.2,"astp":10.1,"stlp":2.0,"blkp":1.4,"usgp":26.0,"ortg":98.6,"drtg":110.3,"ows":-2.0,"dws":1.2,"gp":77,"gs":35,"min":1959,"fg":389,"fga":932,"tp":57,"tpa":217,"ft":177,"fta":279,"pm":-530,"orb":95,"drb":256,"ast":119,"stl":80,"blk":35,"ba":82,"tov":146,"pf":218,"pts":1012,"jerseyNumber":"20"},
-{"playoffs":false,"season":2019,"tid":23,"yearsWithTeam":2,"per":10.6,"ewa":0.2,"orbp":3.6,"drbp":15.9,"trbp":9.7,"astp":14.1,"stlp":1.8,"blkp":2.3,"usgp":23.9,"ortg":102.8,"drtg":112.4,"ows":-2.8,"dws":1.1,"gp":79,"gs":29,"min":1988,"fg":347,"fga":841,"tp":73,"tpa":225,"ft":143,"fta":213,"pm":-430,"orb":66,"drb":281,"ast":183,"stl":74,"blk":56,"ba":71,"tov":173,"pf":209,"pts":910,"jerseyNumber":"20"}],
+{"playoffs":false,"season":2019,"tid":23,"yearsWithTeam":2,"per":10.6,"ewa":0.2,"orbp":3.6,"drbp":15.9,"trbp":9.7,"astp":14.1,"stlp":1.8,"blkp":2.3,"usgp":23.9,"ortg":102.8,"drtg":112.4,"ows":-2.8,"dws":1.1,"gp":79,"gs":29,"min":1988,"fg":347,"fga":841,"tp":73,"tpa":225,"ft":143,"fta":213,"pm":-430,"orb":66,"drb":281,"ast":183,"stl":74,"blk":56,"ba":71,"tov":173,"pf":209,"pts":910,"jerseyNumber":"20"},
+{"playoffs":false,"yearsWithTeam":1,"season":2020,"jerseyNumber":"20","tid":14,"gp":22,"gs":0,"min":381,"fg":70,"fga":159,"tp":23,"tpa":72,"ft":35,"fta":50,"orb":11,"drb":55,"ba":11,"ast":35,"stl":18,"blk":9,"tov":28,"pf":40,"pts":198,"pm":21,"per":14.1,"ortg":103,"drtg":109,"orbp":3.1,"drbp":14.9,"trbp":9.1,"astp":13.1,"stlp":2.2,"blkp":2.1,"usgp":22.8,"ows":0.1,"dws":0.5,"obpm":-1.1,"dbpm":1.1,"bpm":0,"vorp":0.2,"ewa":0.7,"minMax":[28.8],"fgMax":[9],"fgaMax":[15],"tpMax":[4],"tpaMax":[9],"2pMax":[7],"2paMax":[9],"ftMax":[4],"ftaMax":[8],"orbMax":[3],"drbMax":[6],"trbMax":[6],"astMax":[4],"stlMax":[3],"blkMax":[3],"tovMax":[4],"pfMax":[5],"ptsMax":[20],"gmscMax":[16.5],"pmMax":[24]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
@@ -14010,7 +14011,7 @@
 
 {"tid":2,
 "name":"Spencer Dinwiddie",
-"ratings":[{"hgt":44,"stre":43,"spd":59,"jmp":53,"endu":53,"ins":66,"dnk":87,"ft":58,"fg":82,"tp":64,"diq":34,"oiq":61,"drb":68,"pss":60,"reb":47}],
+"ratings":[{"hgt":44,"stre":43,"spd":59,"jmp":53,"endu":53,"ins":59,"dnk":82,"ft":58,"fg":77,"tp":64,"diq":34,"oiq":57,"drb":68,"pss":60,"reb":47}],
 "pos":"G","hgt":77,"weight":215,
 "born":{"year":1993,"loc":"Los Angeles, CA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203915.png",
