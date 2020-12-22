@@ -2461,7 +2461,9 @@
 "stats":[
 {"playoffs":false,"season":2018,"tid":9,"yearsWithTeam":1,"per":-28.5,"ewa":0.0,"astp":0.0,"blkp":0.0,"drbp":100.0,"orbp":0.0,"stlp":0.0,"trbp":55.9,"usgp":43.9,"drtg":100.0,"ortg":0.0,"dws":0.0,"ows":0.0,"gp":1,"gs":0,"min":1,"fg":0,"fga":1,"tp":0,"tpa":1,"ft":0,"fta":0,"pm":-2,"orb":0,"drb":1,"ast":0,"stl":0,"blk":0,"ba":0,"tov":0,"pf":0,"pts":0,"jerseyNumber":"25"},
 {"playoffs":false,"season":2019,"tid":27,"yearsWithTeam":1,"per":22.2,"ewa":0.9,"astp":1.9,"blkp":12.2,"drbp":25.8,"orbp":10.9,"stlp":1.8,"trbp":18.5,"usgp":23.6,"drtg":109.7,"ortg":105.5,"dws":0.4,"ows":0.2,"gp":28,"gs":0,"min":163,"fg":34,"fga":76,"tp":12,"tpa":37,"ft":13,"fta":15,"pm":-13,"orb":16,"drb":40,"ast":2,"tov":7,"stl":6,"blk":24,"ba":7,"pf":31,"pts":93,"jerseyNumber":"25"},
-{"playoffs":true,"yearsWithTeam":1,"season":2019,"tid":27,"gp":2,"gs":0,"min":4,"fg":2,"fga":5,"tp":1,"tpa":3,"ft":0,"fta":1,"orb":0,"drb":1,"ast":0,"stl":0,"blk":1,"ba":1,"tov":0,"pf":0,"pts":5,"pm":-5,"ewa":0,"per":31.6,"orbp":0,"drbp":27.6,"trbp":13.8,"astp":0,"stlp":0,"blkp":24.5,"usgp":61.5,"ows":0,"dws":0,"ortg":58.3,"drtg":100,"jerseyNumber":"25"}],
+{"playoffs":true,"yearsWithTeam":1,"season":2019,"tid":27,"gp":2,"gs":0,"min":4,"fg":2,"fga":5,"tp":1,"tpa":3,"ft":0,"fta":1,"orb":0,"drb":1,"ast":0,"stl":0,"blk":1,"ba":1,"tov":0,"pf":0,"pts":5,"pm":-5,"ewa":0,"per":31.6,"orbp":0,"drbp":27.6,"trbp":13.8,"astp":0,"stlp":0,"blkp":24.5,"usgp":61.5,"ows":0,"dws":0,"ortg":58.3,"drtg":100,"jerseyNumber":"25"},
+{"playoffs":false,"yearsWithTeam":2,"season":2020,"jerseyNumber":"25","tid":27,"gp":62,"gs":0,"min":819,"fg":141,"fga":299,"tp":38,"tpa":118,"ft":91,"fta":116,"orb":107,"drb":170,"ba":19,"ast":26,"stl":22,"blk":61,"tov":28,"pf":114,"pts":411,"pm":98,"per":20.7,"ortg":124,"drtg":101,"orbp":14.1,"drbp":21.4,"trbp":17.9,"astp":4.8,"stlp":1.3,"blkp":7.3,"usgp":19.7,"ows":2.1,"dws":1.8,"obpm":1,"dbpm":1,"bpm":2,"vorp":0.8,"ewa":4.1,"minMax":[29.1],"fgMax":[9],"fgaMax":[15],"tpMax":[4],"tpaMax":[7],"2pMax":[6],"2paMax":[11],"ftMax":[9],"ftaMax":[12],"orbMax":[7],"drbMax":[10],"trbMax":[15],"astMax":[4],"stlMax":[2],"blkMax":[4],"tovMax":[2],"pfMax":[5],"ptsMax":[25],"gmscMax":[26.6],"pmMax":[26]},
+{"playoffs":true,"yearsWithTeam":2,"season":2020,"jerseyNumber":"25","tid":27,"gp":7,"gs":0,"min":43,"fg":3,"fga":11,"tp":2,"tpa":5,"ft":0,"fta":1,"orb":3,"drb":9,"ba":0,"ast":1,"stl":0,"blk":2,"tov":1,"pf":5,"pts":8,"pm":-6,"per":4.3,"ortg":82,"drtg":104,"orbp":7.4,"drbp":23.1,"trbp":15,"astp":3.2,"stlp":0,"blkp":5,"usgp":12.8,"ows":-0.1,"dws":0.1,"obpm":-5,"dbpm":-2.2,"bpm":-7.2,"vorp":-0.1,"ewa":-0.1,"minMax":[11.5],"fgMax":[1],"fgaMax":[5],"tpMax":[1],"tpaMax":[2],"2pMax":[1],"2paMax":[4],"ftMax":[0],"ftaMax":[1],"orbMax":[3],"drbMax":[3],"trbMax":[4],"astMax":[1],"stlMax":[0],"blkMax":[2],"baMax":[0],"tovMax":[1],"pfMax":[2],"ptsMax":[3],"gmscMax":[2.5],"pmMax":[5]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":3,
@@ -7938,7 +7940,6 @@
 
 {"tid":29,
 "name":"Garrison Mathews",
-"jerseyNumber":"24",
 "ratings":[{"hgt":41,"stre":41,"spd":56,"jmp":35,"endu":36,"ins":38,"dnk":57,"ft":64,"fg":60,"tp":57,"diq":20,"oiq":33,"drb":32,"pss":28,"reb":35}],
 "pos":"SG","hgt":77,"weight":215,
 "born":{"year":1997,"loc":"Franklin, TN"},
@@ -7947,6 +7948,7 @@
 "transactions":[{"season":2019,"tid":29,"type":"freeAgent"}],
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2019},
 "college":"Lipscomb",
+"stats":[{"playoffs":false,"yearsWithTeam":1,"season":2020,"jerseyNumber":"24","tid":29,"gp":18,"gs":0,"min":227,"fg":24,"fga":56,"tp":19,"tpa":46,"ft":31,"fta":34,"orb":6,"drb":18,"ba":4,"ast":10,"stl":8,"blk":1,"tov":8,"pf":32,"pts":98,"pm":35,"per":13.1,"ortg":133,"drtg":118,"orbp":2.8,"drbp":9,"trbp":5.8,"astp":5.8,"stlp":1.6,"blkp":0.4,"usgp":14.5,"ows":0.6,"dws":0.1,"obpm":-0.6,"dbpm":-0.5,"bpm":-1.1,"vorp":0.1,"ewa":0.3,"minMax":[29.1],"fgMax":[6],"fgaMax":[9],"tpMax":[5],"tpaMax":[7],"2pMax":[2],"2paMax":[2],"ftMax":[12],"ftaMax":[13],"orbMax":[2],"drbMax":[3],"trbMax":[4],"astMax":[2],"stlMax":[5],"blkMax":[1],"tovMax":[2],"pfMax":[5],"ptsMax":[28],"gmscMax":[22.3],"pmMax":[26]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":10,
@@ -9990,7 +9992,9 @@
 {"playoffs":false,"yearsWithTeam":3,"season":2017,"tid":28,"gp":82,"gs":26,"min":1972,"fg":204,"fga":451,"tp":123,"tpa":279,"ft":50,"fta":68,"orb":23,"drb":238,"ast":225,"stl":96,"blk":8,"ba":16,"tov":107,"pf":163,"pts":581,"pm":158,"ewa":1.9,"per":12.4,"orbp":1.4,"drbp":13.6,"trbp":7.6,"astp":17.2,"stlp":2.6,"blkp":0.3,"usgp":13.9,"ows":2,"dws":3,"ortg":108.5,"drtg":104.4},
 {"playoffs":false,"yearsWithTeam":4,"season":2018,"tid":28,"gp":82,"gs":81,"min":2578,"fg":335,"fga":718,"tp":204,"tpa":464,"ft":66,"fta":83,"orb":24,"drb":320,"ast":392,"stl":90,"blk":20,"ba":23,"tov":159,"pf":178,"pts":940,"pm":265,"ewa":5,"per":14.4,"orbp":1.1,"drbp":13.9,"trbp":7.6,"astp":22.9,"stlp":1.8,"blkp":0.7,"usgp":15.9,"ows":4,"dws":3.6,"ortg":107.7,"drtg":102.4},
 {"playoffs":false,"yearsWithTeam":5,"season":2019,"tid":28,"gp":82,"gs":82,"min":2568,"fg":359,"fga":802,"tp":189,"tpa":483,"ft":87,"fta":123,"orb":35,"drb":295,"ast":469,"stl":98,"blk":20,"ba":31,"tov":193,"pf":180,"pts":994,"pm":428,"ewa":3.7,"per":13.4,"orbp":1.5,"drbp":12.2,"trbp":7,"astp":26.1,"stlp":1.8,"blkp":0.6,"usgp":17.5,"ows":2.5,"dws":3.6,"ortg":109.2,"drtg":101.6,"jerseyNumber":"2"},
-{"playoffs":true,"yearsWithTeam":1,"season":2017,"tid":28,"gp":11,"gs":11,"min":334,"fg":25,"fga":62,"tp":15,"tpa":41,"ft":6,"fta":9,"orb":2,"drb":39,"ast":36,"stl":22,"blk":5,"ba":3,"tov":16,"pf":28,"pts":71,"pm":-4,"ewa":0,"per":10.2,"orbp":0.7,"drbp":14.1,"trbp":7.4,"astp":16.1,"stlp":3.4,"blkp":1.3,"usgp":11.7,"ows":0,"dws":0.5,"ortg":104.7,"drtg":104.3},{"playoffs":true,"yearsWithTeam":2,"season":2018,"tid":28,"gp":11,"gs":11,"min":382,"fg":57,"fga":121,"tp":35,"tpa":77,"ft":11,"fta":17,"orb":5,"drb":43,"ast":37,"stl":6,"blk":2,"ba":2,"tov":26,"pf":29,"pts":160,"pm":23,"ewa":0.3,"per":12.3,"orbp":1.4,"drbp":12.3,"trbp":6.8,"astp":15.2,"stlp":0.8,"blkp":0.5,"usgp":17.8,"ows":0.4,"dws":0.3,"ortg":105.8,"drtg":102.2},{"playoffs":true,"yearsWithTeam":3,"season":2019,"tid":28,"gp":5,"gs":5,"min":151,"fg":12,"fga":37,"tp":8,"tpa":29,"ft":0,"fta":0,"orb":3,"drb":21,"ast":25,"stl":11,"blk":0,"ba":0,"tov":8,"pf":14,"pts":32,"pm":-33,"ewa":-0.1,"per":9.6,"orbp":2,"drbp":15.2,"trbp":8.3,"astp":25.8,"stlp":3.5,"blkp":0,"usgp":12.7,"ows":-0.1,"dws":0.2,"ortg":98.7,"drtg":109.3,"jerseyNumber":"2"}],
+{"playoffs":true,"yearsWithTeam":1,"season":2017,"tid":28,"gp":11,"gs":11,"min":334,"fg":25,"fga":62,"tp":15,"tpa":41,"ft":6,"fta":9,"orb":2,"drb":39,"ast":36,"stl":22,"blk":5,"ba":3,"tov":16,"pf":28,"pts":71,"pm":-4,"ewa":0,"per":10.2,"orbp":0.7,"drbp":14.1,"trbp":7.4,"astp":16.1,"stlp":3.4,"blkp":1.3,"usgp":11.7,"ows":0,"dws":0.5,"ortg":104.7,"drtg":104.3},{"playoffs":true,"yearsWithTeam":2,"season":2018,"tid":28,"gp":11,"gs":11,"min":382,"fg":57,"fga":121,"tp":35,"tpa":77,"ft":11,"fta":17,"orb":5,"drb":43,"ast":37,"stl":6,"blk":2,"ba":2,"tov":26,"pf":29,"pts":160,"pm":23,"ewa":0.3,"per":12.3,"orbp":1.4,"drbp":12.3,"trbp":6.8,"astp":15.2,"stlp":0.8,"blkp":0.5,"usgp":17.8,"ows":0.4,"dws":0.3,"ortg":105.8,"drtg":102.2},{"playoffs":true,"yearsWithTeam":3,"season":2019,"tid":28,"gp":5,"gs":5,"min":151,"fg":12,"fga":37,"tp":8,"tpa":29,"ft":0,"fta":0,"orb":3,"drb":21,"ast":25,"stl":11,"blk":0,"ba":0,"tov":8,"pf":14,"pts":32,"pm":-33,"ewa":-0.1,"per":9.6,"orbp":2,"drbp":15.2,"trbp":8.3,"astp":25.8,"stlp":3.5,"blkp":0,"usgp":12.7,"ows":-0.1,"dws":0.2,"ortg":98.7,"drtg":109.3,"jerseyNumber":"2"},
+{"playoffs":false,"yearsWithTeam":6,"season":2020,"jerseyNumber":"2","tid":28,"gp":72,"gs":45,"min":2137,"fg":246,"fga":553,"tp":141,"tpa":353,"ft":74,"fta":94,"orb":27,"drb":251,"ba":21,"ast":373,"stl":65,"blk":11,"tov":142,"pf":154,"pts":707,"pm":237,"per":12.6,"ortg":115,"drtg":111,"orbp":1.4,"drbp":12.5,"trbp":7.2,"astp":24.4,"stlp":1.5,"blkp":0.4,"usgp":15.1,"ows":2.7,"dws":2.1,"obpm":0,"dbpm":0.7,"bpm":0.7,"vorp":1.5,"ewa":2.1,"minMax":[45.9],"fgMax":[10],"fgaMax":[16],"tpMax":[7],"tpaMax":[12],"2pMax":[6],"2paMax":[8],"ftMax":[5],"ftaMax":[5],"orbMax":[4],"drbMax":[10],"trbMax":[12],"astMax":[13],"stlMax":[4],"blkMax":[2],"tovMax":[8],"pfMax":[6],"ptsMax":[27],"gmscMax":[25.6],"pmMax":[27]},
+{"playoffs":true,"season":2020,"jerseyNumber":"2","tid":28,"gp":7,"gs":7,"min":234,"fg":22,"fga":54,"tp":14,"tpa":40,"ft":6,"fta":6,"orb":1,"drb":23,"ba":0,"ast":33,"stl":4,"blk":1,"tov":4,"pf":15,"pts":64,"pm":40,"per":12,"ortg":130,"drtg":121,"orbp":0.5,"drbp":11.3,"trbp":6,"astp":19.5,"stlp":0.9,"blkp":0.4,"usgp":12.1,"ows":0.5,"dws":0,"obpm":-0.1,"dbpm":-0.2,"bpm":-0.3,"vorp":0.1,"ewa":0.1,"minMax":[43],"fgMax":[7],"fgaMax":[14],"tpMax":[5],"tpaMax":[12],"2pMax":[3],"2paMax":[5],"ftMax":[2],"ftaMax":[2],"orbMax":[1],"drbMax":[7],"trbMax":[8],"astMax":[8],"stlMax":[2],"blkMax":[1],"baMax":[0],"tovMax":[3],"pfMax":[4],"ptsMax":[19],"gmscMax":[15.8],"pmMax":[31]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":4,
@@ -14802,6 +14806,7 @@
 
 {"tid":-2,"draft":{"year":2021},
 "firstName":"Oscar","lastName":"da Silva",
+"jerseyNumber":"13",
 "pos":"PF","hgt":81,"weight":225,
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4278524.png",
 "born":{"year":1999,"loc":"Munich, Germany"},
@@ -15548,7 +15553,6 @@
 "imgURL":"https://i.imgur.com/KAX48d0.png"}],
 
 "scheduledEvents":[
-{"type":"gameAttributes","season":2021,"phase":0,"info":{"numGames":72},"id":0},
 {"type":"gameAttributes","season":2022,"phase":0,"info":{"numGames":82,"salaryCap":112000,"luxuryPayroll":136600},"id":1}],
 
 "draftPicks":[
@@ -15982,6 +15986,7 @@
 {"key":"salaryCap","value":109000},
 {"key":"maxRosterSize","value":17},
 {"key":"numSeasonsFutureDraftPicks","value":7},
-{"key":"phase","value":0}
+{"key":"phase","value":0},
+{"key":"numGames","value":72}
 ]
 }
