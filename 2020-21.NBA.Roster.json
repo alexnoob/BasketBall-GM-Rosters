@@ -1516,7 +1516,7 @@
 
 {"tid":21,
 "name":"Aaron Gordon",
-"ratings":[{"hgt":58,"stre":66,"spd":61,"jmp":90,"endu":54,"ins":75,"dnk":79,"ft":37,"fg":49,"tp":44,"diq":39,"oiq":52,"drb":55,"pss":54,"reb":82}],
+"ratings":[{"hgt":58,"stre":66,"spd":61,"jmp":90,"endu":54,"ins":75,"dnk":79,"ft":37,"fg":49,"tp":44,"diq":31,"oiq":52,"drb":55,"pss":54,"reb":82}],
 "pos":"PF","hgt":80,"weight":220,
 "born":{"year":1996,"loc":"San Jose, CA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203932.png",
