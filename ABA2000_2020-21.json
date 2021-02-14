@@ -182,7 +182,7 @@
 {"tid":89,"region":"X Freedom","name":"","abbrev":"XFRE",
 "imgURL":"","colors":["#FFFFFF","#000000","#FF0000"],"pop":0.1,"cid":1,"did":2},
 {"tid":90,"region":"North Alabama","name":"War Dawgs","abbrev":"NAWD",
-"imgURL":"","colors":["#FFFFFF","#000000","#FF0000"],"pop":0.1,"cid":1,"did":2},
+"imgURL":"https://i.imgur.com/hgy1vpZ.png","colors":["#f23e00","#000000","#ffffff"],"pop":0.1,"cid":1,"did":2},
 {"tid":91,"region":"Jackson","name":"Showboats","abbrev":"JACS",
 "imgURL":"","colors":["#FFFFFF","#000000","#FF0000"],"pop":0.1,"cid":1,"did":2},
 {"tid":92,"region":"Sarasota","name":"Manatee","abbrev":"Sara",
@@ -310,7 +310,7 @@
 {"tid":153,"region":"Columbus","name":"Buckeyes","abbrev":"COLB",
 "imgURL":"","colors":["#FFFFFF","#000000","#FF0000"],"pop":0.1,"cid":1,"did":4},
 {"tid":154,"region":"Indiana","name":"Lyons","abbrev":"INDL",
-"imgURL":"","colors":["#FFFFFF","#000000","#FF0000"],"pop":0.1,"cid":1,"did":4},
+"imgURL":"https://i.imgur.com/soDTlJK.png","colors":["#FFFFFF","#703f98","#5eadd6"],"pop":0.1,"cid":1,"did":4},
 {"tid":155,"region":"Illinois","name":"Panthers","abbrev":"ILLP",
 "imgURL":"","colors":["#FFFFFF","#000000","#FF0000"],"pop":0.1,"cid":1,"did":4},
 {"tid":156,"region":"Dayton","name":"Eagles","abbrev":"Dayt",
@@ -386,8 +386,7 @@
 {"did":2,"cid":1,"name":"Southeast Region"},
 {"did":3,"cid":1,"name":"Northeast Region"},
 {"did":4,"cid":1,"name":"North Central Region"},
-{"did":5,"cid":1,"name":"Mid-Atlantic Region"}
-],
+{"did":5,"cid":1,"name":"Mid-Atlantic Region"}],
 "numPlayoffRounds":3,
 "numGamesPlayoffSeries":[1,1,1,1],
 "salaryCap":1200,
@@ -399,8 +398,7 @@
 "numDraftRounds":1,
 "twoPointAccuracyFactor":0.8,
 "threePointAccuracyFactor":0.8,
-"aiTradesFactor":0.5,
+"aiTradesFactor":0.2,
 "defaultStadiumCapacity":2500
 }
-
 }
