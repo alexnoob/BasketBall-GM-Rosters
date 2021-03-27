@@ -553,7 +553,7 @@
 {"tid":183,"region":"Westchester","name":"Wildcats","abbrev":"WEWI",
 "imgURL":"https://upload.wikimedia.org/wikipedia/en/2/2d/ABA2000Logo.PNG","colors":["#FFFFFF","#000000","#FF0000"],
 "pop":0.1,"cid":1,"did":3},
-{"tid":183,"region":"Binghamton","name":"Bulldogs","abbrev":"BIBU",
+{"tid":184,"region":"Binghamton","name":"Bulldogs","abbrev":"BIBU",
 "imgURL":"https://upload.wikimedia.org/wikipedia/en/2/2d/ABA2000Logo.PNG","colors":["#FFFFFF","#000000","#FF0000"],
 "pop":0.1,"cid":1,"did":3}
 ],
