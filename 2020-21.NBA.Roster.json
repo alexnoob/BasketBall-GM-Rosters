@@ -3,7 +3,7 @@
 "players":[
 {"tid":5,
 "name":"Kevin Love",
-"ratings":[{"hgt":65,"stre":75,"spd":47,"jmp":55,"endu":62,"ins":69,"dnk":72,"ft":67,"fg":72,"tp":65,"diq":32,"oiq":41,"drb":46,"pss":56,"reb":96}],
+"ratings":[{"hgt":65,"stre":75,"spd":47,"jmp":55,"endu":51,"ins":69,"dnk":72,"ft":67,"fg":62,"tp":59,"diq":32,"oiq":41,"drb":46,"pss":56,"reb":67}],
 "pos":"PF","hgt":80,"weight":251,
 "born":{"year":1989,"loc":"Santa Monica, CA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201567.png",
@@ -35,7 +35,7 @@
 
 {"tid":19,
 "name":"Derrick Rose",
-"ratings":[{"hgt":33,"stre":45,"spd":70,"jmp":69,"endu":50,"ins":75,"dnk":90,"ft":69,"fg":72,"tp":39,"diq":30,"oiq":60,"drb":68,"pss":50,"reb":50}],
+"ratings":[{"hgt":33,"stre":45,"spd":70,"jmp":69,"endu":40,"ins":65,"dnk":88,"ft":69,"fg":72,"tp":39,"diq":30,"oiq":63,"drb":68,"pss":50,"reb":50}],
 "pos":"PG","hgt":74,"weight":200,
 "born":{"year":1989,"loc":"Chicago, IL"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201565.png",
@@ -98,7 +98,7 @@
 
 {"tid":11,
 "name":"Myles Turner",
-"ratings":[{"hgt":68,"stre":63,"spd":40,"jmp":79,"endu":63,"ins":62,"dnk":77,"ft":50,"fg":66,"tp":52,"diq":60,"oiq":57,"drb":33,"pss":40,"reb":53}],
+"ratings":[{"hgt":68,"stre":63,"spd":40,"jmp":79,"endu":63,"ins":62,"dnk":70,"ft":50,"fg":61,"tp":52,"diq":60,"oiq":57,"drb":33,"pss":40,"reb":53}],
 "pos":"C","hgt":83,"weight":250,
 "born":{"year":1996,"loc":"Bedford, TX"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626167.png",
@@ -691,7 +691,7 @@
 
 {"tid":18,
 "name":"Zion Williamson",
-"ratings":[{"hgt":48,"stre":88,"spd":72,"jmp":86,"endu":60,"ins":90,"dnk":95,"ft":39,"fg":59,"tp":32,"diq":32,"oiq":67,"drb":48,"pss":57,"reb":69}],
+"ratings":[{"hgt":48,"stre":88,"spd":72,"jmp":86,"endu":69,"ins":90,"dnk":95,"ft":39,"fg":59,"tp":32,"diq":32,"oiq":73,"drb":48,"pss":57,"reb":69}],
 "pos":"PF","hgt":78,"weight":284,
 "born":{"year":2001,"loc":"Salisbury, NC"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629627.png",
@@ -983,7 +983,7 @@
 
 {"tid":18,
 "name":"Brandon Ingram",
-"ratings":[{"hgt":62,"stre":48,"spd":59,"jmp":71,"endu":63,"ins":85,"dnk":94,"ft":67,"fg":85,"tp":63,"diq":39,"oiq":68,"drb":58,"pss":59,"reb":64}],
+"ratings":[{"hgt":62,"stre":48,"spd":59,"jmp":71,"endu":63,"ins":75,"dnk":94,"ft":67,"fg":81,"tp":61,"diq":39,"oiq":64,"drb":58,"pss":59,"reb":64}],
 "pos":"SF","hgt":79,"weight":190,
 "born":{"year":1998,"loc":"Kinston, NC"},
 "moodTraits":["$"],
@@ -1183,7 +1183,7 @@
 
 {"tid":14,
 "name":"Justise Winslow",
-"ratings":[{"hgt":48,"stre":58,"spd":59,"jmp":63,"endu":56,"ins":58,"dnk":74,"ft":32,"fg":64,"tp":39,"diq":59,"oiq":55,"drb":58,"pss":57,"reb":69}],
+"ratings":[{"hgt":48,"stre":58,"spd":57,"jmp":59,"endu":42,"ins":58,"dnk":64,"ft":32,"fg":50,"tp":39,"diq":57,"oiq":54,"drb":58,"pss":57,"reb":65}],
 "pos":"GF","hgt":78,"weight":222,
 "born":{"year":1996,"loc":"Houston, TX"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626159.png",
@@ -1355,7 +1355,7 @@
 
 {"tid":4,
 "name":"Zach LaVine",
-"ratings":[{"hgt":43,"stre":43,"spd":85,"jmp":86,"endu":71,"ins":84,"dnk":92,"ft":70,"fg":86,"tp":67,"diq":30,"oiq":66,"drb":37,"pss":66,"reb":57}],
+"ratings":[{"hgt":44,"stre":43,"spd":85,"jmp":86,"endu":71,"ins":84,"dnk":92,"ft":70,"fg":86,"tp":67,"diq":30,"oiq":73,"drb":37,"pss":66,"reb":57}],
 "pos":"GF","hgt":78,"weight":200,
 "born":{"year":1995,"loc":"Renton, WA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203897.png",
@@ -1413,7 +1413,7 @@
 
 {"tid":15,
 "name":"Kendrick Nunn",
-"ratings":[{"hgt":33,"stre":50,"spd":62,"jmp":66,"endu":41,"ins":45,"dnk":73,"ft":50,"fg":65,"tp":63,"diq":41,"oiq":54,"drb":59,"pss":52,"reb":38}],
+"ratings":[{"hgt":33,"stre":50,"spd":62,"jmp":66,"endu":57,"ins":55,"dnk":83,"ft":50,"fg":65,"tp":63,"diq":41,"oiq":58,"drb":59,"pss":52,"reb":38}],
 "pos":"G","hgt":74,"weight":190,
 "born":{"year":1996,"loc":"Chicago, IL"},
 "moodTraits":["$"],
@@ -1465,7 +1465,7 @@
 
 {"tid":19,
 "name":"Elfrid Payton",
-"ratings":[{"hgt":33,"stre":35,"spd":65,"jmp":53,"endu":49,"ins":43,"dnk":67,"ft":57,"fg":62,"tp":39,"diq":45,"oiq":55,"drb":56,"pss":49,"reb":70}],
+"ratings":[{"hgt":33,"stre":37,"spd":65,"jmp":53,"endu":55,"ins":63,"dnk":72,"ft":57,"fg":64,"tp":39,"diq":40,"oiq":60,"drb":56,"pss":49,"reb":70}],
 "pos":"PG","hgt":75,"weight":195,
 "born":{"year":1994,"loc":"Gretna, LA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203901.png",
@@ -2461,7 +2461,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":20,
-"name":"Theo Maledon",
+"name":"Théo Maledon",
 "jerseyNumber":"11",
 "ratings":[{"hgt":40,"stre":31,"spd":62,"jmp":58,"endu":42,"ins":37,"dnk":55,"ft":54,"fg":49,"tp":52,"diq":39,"oiq":59,"drb":58,"pss":59,"reb":44}],
 "pos":"PG","hgt":77,"weight":175,
@@ -3778,7 +3778,7 @@
 
 {"tid":7,
 "name":"Nikola Jokic",
-"ratings":[{"hgt":68,"stre":80,"spd":40,"jmp":24,"endu":71,"ins":82,"dnk":80,"ft":67,"fg":73,"tp":40,"diq":60,"oiq":77,"drb":65,"pss":66,"reb":85}],
+"ratings":[{"hgt":68,"stre":80,"spd":40,"jmp":24,"endu":73,"ins":92,"dnk":90,"ft":67,"fg":85,"tp":40,"diq":60,"oiq":84,"drb":65,"pss":66,"reb":85}],
 "pos":"C","hgt":84,"weight":284,
 "born":{"year":1995,"loc":"Sombor, Serbia"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203999.png",
@@ -4319,7 +4319,7 @@
 {"tid":19,
 "name":"Immanuel Quickley",
 "jerseyNumber":"5",
-"ratings":[{"hgt":38,"stre":45,"spd":67,"jmp":62,"endu":52,"ins":52,"dnk":72,"ft":74,"fg":67,"tp":69,"diq":36,"oiq":62,"drb":47,"pss":40,"reb":45}],
+"ratings":[{"hgt":38,"stre":45,"spd":67,"jmp":62,"endu":47,"ins":52,"dnk":72,"ft":74,"fg":67,"tp":69,"diq":36,"oiq":55,"drb":47,"pss":40,"reb":45}],
 "pos":"G","hgt":75,"weight":190,
 "born":{"year":1999,"loc":"Havre de Grace, MD"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630193.png",
@@ -4748,7 +4748,7 @@
 
 {"tid":9,
 "name":"Jordan Poole",
-"ratings":[{"hgt":39,"stre":38,"spd":57,"jmp":58,"endu":50,"ins":38,"dnk":55,"ft":63,"fg":55,"tp":55,"diq":38,"oiq":52,"drb":52,"pss":55,"reb":39}],
+"ratings":[{"hgt":39,"stre":38,"spd":57,"jmp":58,"endu":50,"ins":48,"dnk":55,"ft":63,"fg":55,"tp":55,"diq":38,"oiq":57,"drb":52,"pss":55,"reb":39}],
 "pos":"SG","hgt":76,"weight":194,
 "born":{"year":1999,"loc":"Milwaukee, WI"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629673.png",
@@ -4973,7 +4973,7 @@
 
 {"tid":20,
 "name":"Moses Brown",
-"ratings":[{"hgt":74,"stre":50,"spd":47,"jmp":50,"endu":40,"ins":65,"dnk":55,"ft":0,"fg":28,"tp":0,"diq":49,"oiq":44,"drb":32,"pss":25,"reb":73}],
+"ratings":[{"hgt":74,"stre":60,"spd":47,"jmp":50,"endu":47,"ins":75,"dnk":70,"ft":0,"fg":28,"tp":0,"diq":49,"oiq":47,"drb":32,"pss":25,"reb":73}],
 "pos":"C","hgt":86,"weight":245,
 "born":{"year":2000,"loc":"Queens, NY"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629650.png",
@@ -8090,7 +8090,7 @@
 
 {"tid":11,
 "name":"Jeremy Lamb",
-"ratings":[{"hgt":41,"stre":48,"spd":66,"jmp":64,"endu":57,"ins":36,"dnk":84,"ft":67,"fg":83,"tp":66,"diq":42,"oiq":58,"drb":48,"pss":40,"reb":57}],
+"ratings":[{"hgt":41,"stre":48,"spd":66,"jmp":64,"endu":57,"ins":36,"dnk":74,"ft":67,"fg":73,"tp":66,"diq":42,"oiq":52,"drb":48,"pss":40,"reb":57}],
 "pos":"GF","hgt":77,"weight":180,
 "born":{"year":1992,"loc":"Norcross, GA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203087.png",
@@ -8403,7 +8403,7 @@
 
 {"tid":21,
 "firstName":"Otto","lastName":"Porter Jr.",
-"ratings":[{"hgt":58,"stre":46,"spd":61,"jmp":51,"endu":60,"ins":60,"dnk":65,"ft":63,"fg":65,"tp":73,"diq":40,"oiq":52,"drb":45,"pss":49,"reb":44}],
+"ratings":[{"hgt":58,"stre":46,"spd":61,"jmp":51,"endu":55,"ins":60,"dnk":65,"ft":63,"fg":65,"tp":73,"diq":40,"oiq":48,"drb":45,"pss":49,"reb":44}],
 "pos":"SF","hgt":80,"weight":198,
 "born":{"year":1993,"loc":"St. Louis, MO"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203490.png",
@@ -8752,7 +8752,7 @@
 
 {"tid":4,
 "name":"Thaddeus Young",
-"ratings":[{"hgt":53,"stre":67,"spd":52,"jmp":54,"endu":52,"ins":68,"dnk":67,"ft":23,"fg":63,"tp":45,"diq":58,"oiq":57,"drb":41,"pss":48,"reb":58}],
+"ratings":[{"hgt":53,"stre":67,"spd":52,"jmp":54,"endu":52,"ins":68,"dnk":67,"ft":23,"fg":63,"tp":45,"diq":58,"oiq":66,"drb":51,"pss":58,"reb":58}],
 "pos":"PF","hgt":80,"weight":235,
 "born":{"year":1989,"loc":"New Orleans, LA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201152.png",
@@ -10866,7 +10866,7 @@
 
 {"tid":10,
 "firstName":"Kevin","lastName":"Porter Jr.",
-"ratings":[{"hgt":41,"stre":45,"spd":66,"jmp":65,"endu":44,"ins":57,"dnk":70,"ft":33,"fg":56,"tp":58,"diq":38,"oiq":55,"drb":55,"pss":63,"reb":43}],
+"ratings":[{"hgt":41,"stre":45,"spd":66,"jmp":65,"endu":54,"ins":57,"dnk":77,"ft":33,"fg":56,"tp":58,"diq":38,"oiq":56,"drb":60,"pss":69,"reb":43}],
 "pos":"SG","hgt":76,"weight":203,
 "born":{"year":2000,"loc":"South Seattle, WA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629645.png",
@@ -12371,7 +12371,7 @@
 
 {"tid":10,
 "name":"Sterling Brown",
-"ratings":[{"hgt":44,"stre":48,"spd":56,"jmp":56,"endu":46,"ins":43,"dnk":62,"ft":57,"fg":65,"tp":61,"diq":36,"oiq":48,"drb":52,"pss":40,"reb":55}],
+"ratings":[{"hgt":44,"stre":48,"spd":56,"jmp":56,"endu":50,"ins":53,"dnk":69,"ft":57,"fg":65,"tp":61,"diq":36,"oiq":48,"drb":52,"pss":40,"reb":55}],
 "pos":"SG","hgt":77,"weight":219,
 "born":{"year":1995,"loc":"Chicago, IL"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628425.png",
