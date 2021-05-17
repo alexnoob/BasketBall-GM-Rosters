@@ -2636,7 +2636,7 @@
 "ratings":[{"hgt":55,"stre":42,"spd":47,"jmp":48,"endu":27,"ins":42,"dnk":57,"ft":55,"fg":34,"tp":30,"diq":44,"oiq":40,"drb":30,"pss":33,"reb":50}],
 "pos":"SF","hgt":81,"weight":190,
 "born":{"year":2000,"loc":"Tallinn, Estonia"},
-"imgURL":"https://i.imgur.com/rcvqrE7.png",
+"imgURL":"https://i.imgur.com/mF5pYTt.png",
 "contract":{"amount":900,"exp":2021},
 "college":"Estonia",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -3085,9 +3085,8 @@
 "ratings":[{"hgt":33,"stre":28,"spd":61,"jmp":62,"endu":32,"ins":31,"dnk":52,"ft":53,"fg":57,"tp":55,"diq":40,"oiq":50,"drb":56,"pss":57,"reb":29}],
 "pos":"G","hgt":74,"weight":190,
 "born":{"year":2005,"loc":"Cleveland, OH"},
-"imgURL":"https://i.imgur.com/NaHGfK8.png",
+"imgURL":"https://i.imgur.com/am2MH6u.png",
 "contract":{"amount":900,"exp":2024},
-"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2023},
 "college":"Sierra Canyon HS (CA)",
 "relatives":[{"type":"father","pid":49,"name":"LeBron James"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -15747,7 +15746,8 @@
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2019},
 "college":"Tulsa",
 "stats":[
-{"playoffs":false,"yearsWithTeam":1,"season":2020,"jerseyNumber":"19","tid":25,"gp":13,"gs":0,"min":141,"fg":20,"fga":40,"tp":5,"tpa":18,"ft":5,"fta":6,"orb":3,"drb":15,"ba":1,"ast":7,"stl":4,"blk":1,"tov":2,"pf":19,"pts":50,"pm":2,"per":11.2,"ortg":121,"drtg":114,"orbp":2.3,"drbp":12.3,"trbp":7.2,"astp":7.1,"stlp":1.4,"blkp":0.7,"usgp":13.7,"ows":0.2,"dws":0.1,"obpm":-2.7,"dbpm":-1.1,"vorp":-0.1,"ewa":0.1,"dd":0,"td":0,"minMax":[29.8],"fgMax":[5],"fgaMax":[8],"tpMax":[2],"tpaMax":[4],"2pMax":[4],"2paMax":[5],"ftMax":[2],"ftaMax":[2],"orbMax":[1],"drbMax":[4],"trbMax":[5],"astMax":[2],"stlMax":[1],"blkMax":[1],"baMax":[1],"tovMax":[1],"pfMax":[4],"ptsMax":[13],"gmscMax":[12.8],"pmMax":[19]}]},
+{"playoffs":false,"yearsWithTeam":1,"season":2020,"jerseyNumber":"19","tid":25,"gp":13,"gs":0,"min":141,"fg":20,"fga":40,"tp":5,"tpa":18,"ft":5,"fta":6,"orb":3,"drb":15,"ba":1,"ast":7,"stl":4,"blk":1,"tov":2,"pf":19,"pts":50,"pm":2,"per":11.2,"ortg":121,"drtg":114,"orbp":2.3,"drbp":12.3,"trbp":7.2,"astp":7.1,"stlp":1.4,"blkp":0.7,"usgp":13.7,"ows":0.2,"dws":0.1,"obpm":-2.7,"dbpm":-1.1,"vorp":-0.1,"ewa":0.1,"dd":0,"td":0,"minMax":[29.8],"fgMax":[5],"fgaMax":[8],"tpMax":[2],"tpaMax":[4],"2pMax":[4],"2paMax":[5],"ftMax":[2],"ftaMax":[2],"orbMax":[1],"drbMax":[4],"trbMax":[5],"astMax":[2],"stlMax":[1],"blkMax":[1],"baMax":[1],"tovMax":[1],"pfMax":[4],"ptsMax":[13],"gmscMax":[12.8],"pmMax":[19]},
+{"playoffs":false,"season":2021,"tid":26,"yearsWithTeam":1,"gp":0,"gs":0,"min":0,"fg":0,"fga":0,"tp":0,"tpa":0,"ft":0,"fta":0,"orb":0,"drb":0,"ast":0,"stl":0,"blk":0,"ba":0,"tov":0,"pf":0,"pts":0,"pm":0,"per":0,"ewa":0,"orbp":0,"drbp":0,"trbp":0,"astp":0,"stlp":0,"blkp":0,"usgp":0,"ows":0,"dws":0,"obpm":0,"dbpm":0,"vorp":0,"ortg":0,"drtg":0,"dd":0,"td":0,"minMax":[0],"fgMax":[0],"fgaMax":[0],"tpMax":[0],"tpaMax":[0],"2pMax":[0],"2paMax":[0],"ftMax":[0],"ftaMax":[0],"orbMax":[0],"drbMax":[0],"trbMax":[0],"astMax":[0],"stlMax":[0],"blkMax":[0],"baMax":[0],"tovMax":[0],"pfMax":[0],"ptsMax":[0],"gmscMax":[0],"pmMax":[0],"jerseyNumber":"55"}]},
 
 {"tid":-1,
 "name":"Devin Robinson",
@@ -17107,12 +17107,12 @@
 
 "scheduledEvents":[
 {"type":"gameAttributes","season":2022,"phase":0,"info":{"numGames":82,"salaryCap":112000,"luxuryPayroll":136600},"id":1},
-{"type":"teamInfo","season":2022,"phase":0,"info":{"cid":1,"did":5,"tid":12,"region":"Los Angeles","name":"Clippers","colors":["#c8102E","#1d428a","#BEC0C2"],"imgURL":"https://i.imgur.com/Yzfe4Z9.png"},"id":2},
+{"type":"teamInfo","season":2022,"phase":0,"info":{"cid":1,"did":5,"tid":12,"region":"Los Angeles","name":"Clippers","colors":["#a81501","#ffffff","#3579cc"],"imgURL":"https://i.imgur.com/Yzfe4Z9.png","imgURLSmall":"https://i.imgur.com/bTJTcKX.png"},"id":2},
 {"type":"expansionDraft","season":2023,"phase":4,"info":{
-"teams":[{"region":"Seattle","name":"SuperSonics","pop":3.9,"colors":["#00653A","#FFC200","#FFFFFF"],"abbrev":"SEA","imgURL":"https://i.imgur.com/V5IiDjK.png","tid":30,"cid":1,"did":4,"stadiumCapacity":17072},
-{"region":"Las Vegas","name":"Aces","pop":2.2,"colors":["#BA0C2F","#000000","#85714D"],"abbrev":"LVA","imgURL":"https://i.imgur.com/NI1bCHp.png","tid":31,"cid":1,"did":5,"stadiumCapacity":18000}]},"id":3},
-{"type":"teamInfo","season":2024,"phase":0,"info":{"cid":0,"did":1,"tid":17,"region":"Minnesota","name":"Timberwolves","colors":["#24429C","#1CA64C","#848A8C"],"imgURL":"https://i.imgur.com/1or9Dli.png"},"id":4},
-{"type":"teamInfo","season":2025,"phase":0,"info":{"cid":2,"did":0,"tid":2,"region":"Brooklyn","name":"Nets","colors":["#ef3f37","#fffff","#2c4775"],"imgURL":"https://i.imgur.com/vI13Er1.png"},"id":5}
+"teams":[{"region":"Seattle","name":"SuperSonics","pop":3.9,"colors":["#00653A","#FFC200","#FFFFFF"],"abbrev":"SEA","imgURL":"https://i.imgur.com/V5IiDjK.png","imgURLSmall":"https://i.imgur.com/ze6GeTC.png","tid":30,"cid":1,"did":4,"stadiumCapacity":17072},
+{"region":"Las Vegas","name":"Aces","pop":2.2,"colors":["#BA0C2F","#000000","#85714D"],"abbrev":"LVA","imgURL":"https://i.imgur.com/NI1bCHp.png","imgURLSmall":"https://i.imgur.com/5QVSVtK.png","tid":31,"cid":1,"did":5,"stadiumCapacity":18000}]},"id":3},
+{"type":"teamInfo","season":2024,"phase":0,"info":{"cid":0,"did":1,"tid":17,"region":"Minnesota","name":"Timberwolves","colors":["#24429C","#1CA64C","#848A8C"],"imgURL":"https://i.imgur.com/1or9Dli.png","imgURLSmall":"https://i.imgur.com/9Ojg3I5.png"},"id":4},
+{"type":"teamInfo","season":2025,"phase":0,"info":{"cid":0,"did":0,"tid":2,"region":"Brooklyn","name":"Nets","colors":["#ef3f37","#fffff","#2c4775"],"imgURL":"https://i.imgur.com/vI13Er1.png","imgURLSmall":"https://i.imgur.com/Uqs5dIf.png"},"id":5}
 ],
 
 "gameAttributes":{
