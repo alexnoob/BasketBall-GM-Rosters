@@ -9490,7 +9490,7 @@
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/1630237.png",
 "contract":{"amount":900,"exp":2021},
 "transactions":[{"season":2021,"tid":10,"type":"freeAgent"}],
-"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2021},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2020},
 "college":"Vermont",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
@@ -17208,7 +17208,7 @@
 "scheduledEvents":[
 {"type":"gameAttributes","season":2022,"phase":0,"info":{"numGames":82,"salaryCap":112000,"luxuryPayroll":136600},"id":1},
 {"type":"teamInfo","season":2022,"phase":0,"info":{"cid":1,"did":5,"tid":12,"region":"Los Angeles","name":"Clippers","colors":["#a81501","#ffffff","#3579cc"],"imgURL":"https://i.imgur.com/Yzfe4Z9.png","imgURLSmall":"https://i.imgur.com/bTJTcKX.png"},"id":2},
-{"type":"teamInfo","season":2023,"phase":0,"info":{"cid":1,"did":3,"tid":6,"region":"Dallas","name":"Mavericks","colors":["#002755","#c9caca","#0068b7"],"imgURL":"https://i.imgur.com/vI13Er1.png","imgURLSmall":"https://i.imgur.com/Tr4Ufub.png"},"id":3},
+{"type":"teamInfo","season":2023,"phase":0,"info":{"cid":1,"did":3,"tid":6,"region":"Dallas","name":"Mavericks","colors":["#002755","#c9caca","#0068b7"],"imgURL":"https://i.imgur.com/7BkYm9h.png","imgURLSmall":"https://i.imgur.com/Tr4Ufub.png"},"id":3},
 {"type":"expansionDraft","season":2023,"phase":4,"info":{
 "teams":[{"region":"Seattle","name":"SuperSonics","pop":3.9,"colors":["#00653A","#FFC200","#FFFFFF"],"abbrev":"SEA","imgURL":"https://i.imgur.com/V5IiDjK.png","imgURLSmall":"https://i.imgur.com/ze6GeTC.png","tid":30,"cid":1,"did":4,"stadiumCapacity":17072},
 {"region":"Las Vegas","name":"Aces","pop":2.2,"colors":["#BA0C2F","#000000","#85714D"],"abbrev":"LVA","imgURL":"https://i.imgur.com/NI1bCHp.png","imgURLSmall":"https://i.imgur.com/5QVSVtK.png","tid":31,"cid":1,"did":5,"stadiumCapacity":18000}]},"id":4},
