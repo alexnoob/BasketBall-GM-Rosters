@@ -6696,7 +6696,7 @@
 "born":{"year":2004,"loc":"Lakewood, CA"},
 "imgURL":"https://i.imgur.com/GiIPdNc.png",
 "contract":{"amount":900,"exp":2024},
-"college":"Centennial HS (CA)",
+"college":"Oregon",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":6,
@@ -16798,7 +16798,7 @@
 {"tid":-2,"draft":{"year":2021},
 "name":"Jalen Green",
 "jerseyNumber":"4",
-"ratings":[{"hgt":45,"stre":35,"spd":66,"jmp":62,"endu":34,"ins":39,"dnk":52,"ft":35,"fg":42,"tp":45,"diq":38,"oiq":42,"drb":51,"pss":48,"reb":47}],
+"ratings":[{"hgt":45,"stre":53,"spd":68,"jmp":64,"endu":52,"ins":49,"dnk":62,"ft":55,"fg":42,"tp":45,"diq":38,"oiq":50,"drb":57,"pss":48,"reb":53}],
 "pos":"SG","hgt":78,"weight":178,
 "born":{"year":2002,"loc":"Fresno, CA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/1630224.png",
