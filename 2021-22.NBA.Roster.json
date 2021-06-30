@@ -1669,7 +1669,7 @@
 "born":{"year":2001,"loc":"Dublin, Ireland"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4431697.png&w=350&h=254",
 "contract":{"amount":900,"exp":2022},
-"college":"Louisville",
+"college":"Grand Canyon",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-3,
@@ -5022,7 +5022,7 @@
 "pos":"C","hgt":81,"weight":222,
 "born":{"year":1996,"loc":"Milwaukee, WI"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626172.png",
-"contract":{"amount":4825,"exp":2022},
+"contract":{"amount":5100,"exp":2022},
 "transactions":[{"season":2015,"tid":9,"type":"draft","pickNum":30}],
 "draft":{"round":1,"pick":30,"tid":9,"originalTid":9,"year":2015},
 "college":"UCLA",
