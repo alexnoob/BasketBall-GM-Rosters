@@ -433,7 +433,8 @@
 "transactions":[{"season":2020,"tid":16,"type":"trade","fromTid":18}],
 "draft":{"round":1,"pick":17,"tid":22,"originalTid":22,"year":2009},
 "college":"UCLA",
-"awards":[{"season":2018,"type":"First Team All-Defensive"},{"season":2021,"type":"First Team All-Defensive"},
+"awards":[{"season":2021,"type":"Won Championship"},
+{"season":2018,"type":"First Team All-Defensive"},{"season":2021,"type":"First Team All-Defensive"},
 {"season":2019,"type":"Second Team All-Defensive"},
 {"season":2013,"type":"All-Star"}],
 "relatives":[{"type":"brother","pid":392,"name":"Justin Holiday"},
@@ -911,6 +912,7 @@
 "transactions":[{"season":2018,"tid":17,"type":"draft","pickNum":16}],
 "draft":{"round":1,"pick":17,"tid":16,"originalTid":16,"year":2018},
 "college":"Villanova",
+"awards":[{"season":2021,"type":"Won Championship"}],
 "stats":[
 {"playoffs":false,"season":2019,"tid":16,"yearsWithTeam":1,"per":9.1,"ewa":-0.3,"astp":9.7,"blkp":1.2,"drbp":11.4,"orbp":4.2,"stlp":1.5,"trbp":8.0,"usgp":15.1,"dws":0.6,"ows":0.0,"gp":27,"gs":0,"min":411,"fg":50,"fga":124,"tp":22,"tpa":83,"ft":9,"fta":12,"pm":107,"orb":16,"drb":49,"ast":31,"tov":19,"stl":13,"blk":6,"ba":3,"pf":38,"pts":131,"dd":0,"td":0,"jerseyNumber":"9","obpm":-2.8,"dbpm":0.6,"vorp":0,"ortg":102,"drtg":107,"minMax":[24.4],"fgMax":[6],"fgaMax":[9],"tpMax":[3],"tpaMax":[6],"2pMax":[5],"2paMax":[5],"ftMax":[3],"ftaMax":[4],"orbMax":[2],"drbMax":[8],"trbMax":[8],"astMax":[5],"stlMax":[3],"blkMax":[2],"tovMax":[4],"pfMax":[4],"ptsMax":[15],"gmscMax":[10.6],"pmMax":[20]},
 {"playoffs":false,"yearsWithTeam":2,"season":2020,"jerseyNumber":"0","tid":16,"gp":66,"gs":24,"min":1520,"fg":232,"fga":510,"tp":83,"tpa":247,"ft":63,"fta":86,"orb":66,"drb":252,"ba":27,"ast":154,"stl":85,"blk":20,"tov":90,"pf":113,"pts":610,"pm":409,"per":14.1,"ortg":108,"drtg":101,"orbp":4.6,"drbp":15.5,"trbp":10.3,"astp":13.6,"stlp":2.6,"blkp":1.2,"usgp":17.3,"ows":1,"dws":3.2,"obpm":-1.1,"dbpm":2.4,"vorp":1.3,"ewa":2.7,"dd":1,"td":0,"minMax":[33.4],"fgMax":[8],"fgaMax":[15],"tpMax":[4],"tpaMax":[7],"2pMax":[5],"2paMax":[9],"ftMax":[6],"ftaMax":[6],"orbMax":[4],"drbMax":[8],"trbMax":[10],"astMax":[9],"stlMax":[4],"blkMax":[2],"tovMax":[5],"pfMax":[5],"ptsMax":[19],"gmscMax":[20.3],"pmMax":[34]},
@@ -2919,6 +2921,8 @@
 "college":"Greece",
 "relatives":[{"type":"brother","pid":830,"name":"Alex Antetokounmpo"},{"type":"brother","pid":466,"name":"Kostas Antetokounmpo"},{"type":"brother","pid":744,"name":"Thanasis Antetokounmpo"}],
 "awards":[{"season":2019,"type":"Most Valuable Player"},{"season":2020,"type":"Most Valuable Player"},
+{"season":2021,"type":"Finals MVP"},
+{"season":2021,"type":"Won Championship"},
 {"season":2020,"type":"Defensive Player of the Year"},
 {"season":2017,"type":"Most Improved Player"},
 {"season":2019,"type":"First Team All-League"},{"season":2020,"type":"First Team All-League"},{"season":2021,"type":"First Team All-League"},
@@ -2964,7 +2968,8 @@
 "transactions":[{"season":2018,"tid":16,"type":"freeAgent"}],
 "draft":{"round":1,"pick":10,"tid":2,"originalTid":2,"year":2008},
 "college":"Stanford",
-"awards":[{"season":2020,"type":"Second Team All-Defensive"},
+"awards":[{"season":2021,"type":"Won Championship"},
+{"season":2020,"type":"Second Team All-Defensive"},
 {"season":2013,"type":"All-Star"}],
 "relatives":[{"type":"brother","pid":465,"name":"Robin Lopez"}],
 "stats":[
@@ -3921,7 +3926,8 @@
 "transactions":[{"season":2013,"tid":16,"type":"trade","fromTid":8}],
 "draft":{"round":2,"pick":9,"tid":8,"originalTid":8,"year":2012},
 "college":"Texas A&M",
-"awards":[{"season":2019,"type":"All-Star"},{"season":2020,"type":"All-Star"}],
+"awards":[{"season":2021,"type":"Won Championship"},
+{"season":2019,"type":"All-Star"},{"season":2020,"type":"All-Star"}],
 "stats":[
 {"playoffs":false,"yearsWithTeam":1,"season":2013,"tid":8,"gp":27,"gs":0,"min":475,"fg":62,"fga":141,"tp":14,"tpa":45,"ft":27,"fta":32,"orb":4,"drb":46,"ast":28,"stl":15,"blk":4,"ba":8,"tov":11,"pf":53,"pts":165,"pm":26,"ewa":0.2,"per":11.4,"orbp":1,"drbp":11.4,"trbp":6.1,"astp":9.5,"stlp":1.7,"blkp":0.7,"usgp":15.9,"ows":0.6,"dws":0.3,"ortg":102.2,"drtg":109.7,"jerseyNumber":"32"},
 {"playoffs":false,"yearsWithTeam":1,"season":2014,"tid":16,"gp":82,"gs":64,"min":2460,"fg":376,"fga":854,"tp":120,"tpa":290,"ft":118,"fta":137,"orb":60,"drb":250,"ast":169,"stl":83,"blk":20,"ba":35,"tov":123,"pf":243,"pts":990,"pm":-382,"ewa":2.4,"per":12.5,"orbp":2.7,"drbp":12,"trbp":7.2,"astp":11.7,"stlp":1.8,"blkp":0.7,"usgp":19.1,"ows":1.9,"dws":0.8,"ortg":103.9,"drtg":96.7,"jerseyNumber":"22"},
@@ -4838,6 +4844,7 @@
 "transactions":[{"season":2021,"tid":16,"type":"trade","fromTid":10}],
 "draft":{"round":2,"pick":5,"tid":27,"originalTid":27,"year":2006},
 "college":"Texas",
+"awards":[{"season":2021,"type":"Won Championship"}],
 "stats":[
 {"playoffs":false,"season":2007,"tid":27,"yearsWithTeam":1,"per":12.8,"ewa":-0.4,"astp":5.7,"blkp":0.0,"drbp":17.2,"orbp":15.4,"stlp":1.2,"trbp":16.3,"usgp":19.1,"drtg":105.9,"ortg":89.7,"dws":0.1,"ows":0.1,"gp":17,"gs":0,"min":83,"fg":11,"fga":22,"tp":0,"tpa":0,"ft":8,"fta":14,"pm":-32,"orb":11,"drb":12,"ast":3,"tov":6,"stl":2,"blk":0,"ba":2,"pf":12,"pts":30,"dd":0,"td":0,"jerseyNumber":"1"},
 {"playoffs":false,"season":2013,"tid":23,"yearsWithTeam":1,"per":11.6,"ewa":1.0,"astp":8.6,"blkp":0.7,"drbp":13.3,"orbp":7.7,"stlp":1.7,"trbp":10.4,"usgp":12.8,"drtg":104.4,"ortg":100.5,"dws":1.2,"ows":1.8,"gp":79,"gs":45,"min":1910,"fg":210,"fga":444,"tp":22,"tpa":70,"ft":64,"fta":86,"pm":-171,"orb":132,"drb":218,"ast":109,"tov":67,"stl":62,"blk":19,"ba":36,"pf":145,"pts":506,"dd":3,"td":0,"jerseyNumber":"17"},
@@ -6481,6 +6488,7 @@
 "transactions":[{"season":2020,"tid":16,"type":"freeAgent"}],
 "draft":{"round":1,"pick":22,"tid":4,"originalTid":4,"year":2015},
 "college":"Arkansas",
+"awards":[{"season":2021,"type":"Won Championship"}],
 "stats":[
 {"playoffs":false,"yearsWithTeam":1,"season":2016,"tid":4,"gp":62,"gs":4,"min":1102,"fg":186,"fga":436,"tp":16,"tpa":52,"ft":48,"fta":66,"orb":123,"drb":214,"ast":52,"stl":25,"blk":22,"ba":22,"tov":54,"pf":100,"pts":436,"pm":-178,"ewa":1.3,"per":13.8,"orbp":12,"drbp":20,"trbp":16.1,"astp":7.5,"stlp":1.1,"blkp":1.5,"usgp":20.7,"ows":0.3,"dws":1.3,"ortg":100,"drtg":106,"obpm":-1.5,"dbpm":-1.8,"vorp":-0.4,"dd":6,"td":0,"minMax":[29.8],"fgMax":[8],"fgaMax":[18],"tpMax":[3],"tpaMax":[3],"2pMax":[7],"2paMax":[15],"ftMax":[4],"ftaMax":[4],"orbMax":[8],"drbMax":[12],"trbMax":[16],"astMax":[5],"stlMax":[4],"blkMax":[2],"tovMax":[5],"pfMax":[5],"ptsMax":[20],"gmscMax":[15.7],"pmMax":[30],"jerseyNumber":"5"},
 {"playoffs":false,"yearsWithTeam":2,"season":2017,"tid":4,"gp":64,"gs":13,"min":1000,"fg":183,"fga":375,"tp":32,"tpa":96,"ft":39,"fta":59,"orb":75,"drb":221,"ast":35,"stl":16,"blk":11,"ba":23,"tov":37,"pf":94,"pts":437,"pm":-80,"ewa":1.7,"per":14.9,"orbp":8,"drbp":24,"trbp":16,"astp":5.7,"stlp":0.8,"blkp":0.9,"usgp":19.1,"ows":1.1,"dws":1.2,"ortg":110,"drtg":107,"obpm":-0.6,"dbpm":-0.9,"vorp":0.1,"dd":5,"td":0,"minMax":[31.3],"fgMax":[10],"fgaMax":[15],"tpMax":[3],"tpaMax":[5],"2pMax":[9],"2paMax":[12],"ftMax":[3],"ftaMax":[5],"orbMax":[4],"drbMax":[11],"trbMax":[13],"astMax":[3],"stlMax":[3],"blkMax":[2],"tovMax":[3],"pfMax":[5],"ptsMax":[22],"gmscMax":[17.6],"pmMax":[21],"jerseyNumber":"5"},
@@ -7338,6 +7346,7 @@
 "transactions":[{"season":2020,"tid":16,"type":"freeAgent"}],
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2020},
 "college":"Virginia",
+"awards":[{"season":2021,"type":"Won Championship"}],
 "stats":[
 {"playoffs":false,"yearsWithTeam":1,"season":2021,"jerseyNumber":"25","tid":16,"gp":14,"gs":1,"min":141,"fg":16,"fga":40,"tp":1,"tpa":8,"ft":11,"fta":14,"orb":8,"drb":26,"ba":4,"ast":8,"stl":7,"blk":6,"tov":3,"pf":16,"pts":44,"pm":8,"per":12.3,"ortg":110,"drtg":108,"orbp":6.2,"drbp":18.7,"trbp":12.7,"astp":7,"stlp":2.3,"blkp":3.8,"usgp":14.6,"ows":0.1,"dws":0.2,"obpm":-3.2,"dbpm":0.4,"vorp":0,"ewa":0.1,"dd":0,"td":0,"minMax":[38.2],"fgMax":[4],"fgaMax":[11],"tpMax":[1],"tpaMax":[2],"2pMax":[4],"2paMax":[10],"ftMax":[6],"ftaMax":[8],"orbMax":[3],"drbMax":[5],"trbMax":[7],"astMax":[2],"stlMax":[3],"blkMax":[2],"tovMax":[1],"pfMax":[4],"ptsMax":[13],"gmscMax":[11.4],"pmMax":[14]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -8064,6 +8073,7 @@
 "transactions":[{"season":2018,"tid":16,"type":"freeAgent"}],
 "draft":{"round":2,"pick":11,"tid":2,"originalTid":2,"year":2015},
 "college":"Notre Dame",
+"awards":[{"season":2021,"type":"Won Championship"}],
 "stats":[
 {"playoffs":false,"yearsWithTeam":1,"season":2016,"tid":24,"gp":34,"gs":0,"min":143,"fg":13,"fga":49,"tp":5,"tpa":21,"ft":5,"fta":5,"orb":11,"drb":21,"ast":10,"stl":2,"blk":0,"ba":5,"tov":10,"pf":6,"pts":36,"pm":-13,"ewa":-0.4,"per":4.6,"orbp":8.3,"drbp":15.9,"trbp":12.1,"astp":9.9,"stlp":0.7,"blkp":0,"usgp":18.7,"ows":-0.3,"dws":0.1,"ortg":80,"drtg":111,"obpm":-4.8,"dbpm":-3.2,"vorp":-0.2,"dd":0,"td":0,"minMax":[28.7],"fgMax":[3],"fgaMax":[6],"tpMax":[1],"tpaMax":[4],"2pMax":[2],"2paMax":[4],"ftMax":[2],"ftaMax":[2],"orbMax":[3],"drbMax":[5],"trbMax":[8],"astMax":[3],"stlMax":[2],"blkMax":[0],"tovMax":[2],"pfMax":[2],"ptsMax":[7],"gmscMax":[6.8],"pmMax":[9],"jerseyNumber":"5"},
 {"playoffs":true,"season":2016,"jerseyNumber":"5","tid":24,"gp":6,"gs":0,"min":8,"fg":3,"fga":5,"tp":2,"tpa":3,"ft":0,"fta":0,"orb":0,"drb":1,"ast":0,"stl":0,"blk":0,"ba":0,"tov":0,"pf":0,"pts":8,"pm":-3,"ewa":0.1,"per":35.9,"orbp":0,"drbp":13.2,"trbp":6.4,"astp":0,"stlp":0,"blkp":0,"usgp":26.7,"ows":0,"dws":0,"ortg":144,"drtg":116,"obpm":18.7,"dbpm":1.2,"vorp":0,"dd":0,"td":0,"minMax":[2.9],"fgMax":[2],"fgaMax":[2],"tpMax":[1],"tpaMax":[2],"2pMax":[1],"2paMax":[1],"ftMax":[0],"ftaMax":[0],"orbMax":[0],"drbMax":[1],"trbMax":[1],"astMax":[0],"stlMax":[0],"blkMax":[0],"baMax":[0],"tovMax":[0],"pfMax":[0],"ptsMax":[5],"gmscMax":[4.4],"pmMax":[3]},
@@ -8178,6 +8188,7 @@
 "transactions":[{"season":2020,"tid":16,"type":"draft","pickNum":45}],
 "draft":{"round":2,"pick":15,"tid":16,"originalTid":21,"year":2020},
 "college":"Louisville",
+"awards":[{"season":2021,"type":"Won Championship"}],
 "stats":[
 {"playoffs":false,"yearsWithTeam":1,"season":2021,"jerseyNumber":"13","tid":16,"gp":30,"gs":2,"min":274,"fg":62,"fga":135,"tp":28,"tpa":62,"ft":19,"fta":25,"orb":9,"drb":51,"ba":14,"ast":7,"stl":16,"blk":7,"tov":24,"pf":22,"pts":171,"pm":-3,"per":16.1,"ortg":102,"drtg":108,"orbp":3.6,"drbp":18.9,"trbp":11.5,"astp":3.6,"stlp":2.7,"blkp":2.3,"usgp":26,"ows":0,"dws":0.4,"obpm":-0.7,"dbpm":-0.6,"vorp":0,"ewa":0.8,"dd":2,"td":0,"minMax":[36.2],"fgMax":[14],"fgaMax":[23],"tpMax":[4],"tpaMax":[10],"2pMax":[10],"2paMax":[15],"ftMax":[3],"ftaMax":[6],"orbMax":[4],"drbMax":[10],"trbMax":[14],"astMax":[2],"stlMax":[3],"blkMax":[2],"tovMax":[3],"pfMax":[3],"ptsMax":[34],"gmscMax":[26.7],"pmMax":[23]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -8238,7 +8249,7 @@
 "pos":"GF","hgt":75,"weight":215,
 "born":{"year":1994,"loc":"San Diego, CA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626181.png",
-"contract":{"amount":11625,"exp":2022},
+"contract":{"amount":11625,"exp":2021},
 "transactions":[{"season":2021,"tid":24,"type":"trade","fromTid":27}],
 "draft":{"round":2,"pick":16,"tid":16,"originalTid":16,"year":2015},
 "college":"UCLA",
@@ -9421,6 +9432,7 @@
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2014},
 "transactions":[{"season":2021,"tid":16,"type":"freeAgent"}],
 "college":"France",
+"awards":[{"season":2021,"type":"Won Championship"}],
 "stats":[
 {"playoffs":false,"season":2016,"jerseyNumber":6,"tid":7,"gp":21,"gs":0,"min":305,"fg":25,"fga":70,"tp":13,"tpa":40,"ft":13,"fta":17,"orb":8,"drb":23,"ast":15,"stl":7,"blk":6,"ba":1,"tov":6,"pf":40,"pts":76,"pm":-17,"ortg":106,"drtg":111,"per":7.1,"ewa":-0.5,"orbp":2.9,"drbp":8.5,"trbp":5.6,"astp":7,"stlp":1.2,"blkp":1.6,"usgp":12,"ows":0.2,"dws":0.1,"obpm":-3.6,"dbpm":-1,"vorp":-0.2,"dd":0,"td":0,"minMax":[25.4],"fgMax":[4],"fgaMax":[8],"tpMax":[2],"tpaMax":[4],"2pMax":[3],"2paMax":[5],"ftMax":[5],"ftaMax":[6],"orbMax":[2],"drbMax":[3],"trbMax":[3],"astMax":[2],"stlMax":[3],"blkMax":[2],"baMax":[1],"tovMax":[1],"pfMax":[4],"ptsMax":[14],"gmscMax":[10.1],"pmMax":[26]},
 {"playoffs":false,"season":2017,"jerseyNumber":6,"tid":16,"gp":2,"gs":0,"min":6,"fg":0,"fga":1,"tp":0,"tpa":1,"ft":0,"fta":0,"orb":0,"drb":0,"ast":0,"stl":0,"blk":0,"ba":0,"tov":0,"pf":1,"pts":0,"pm":-9,"ortg":0,"drtg":118,"per":-9.9,"ewa":-0.1,"orbp":0,"drbp":0,"trbp":0,"astp":0,"stlp":0,"blkp":0,"usgp":7.6,"ows":0,"dws":0,"obpm":-13.2,"dbpm":-5.7,"vorp":0,"dd":0,"td":0,"minMax":[4.5],"fgMax":[0],"fgaMax":[1],"tpMax":[0],"tpaMax":[1],"2pMax":[0],"2paMax":[0],"ftMax":[0],"ftaMax":[0],"orbMax":[0],"drbMax":[0],"trbMax":[0],"astMax":[0],"stlMax":[0],"blkMax":[0],"baMax":[0],"tovMax":[0],"pfMax":[1],"ptsMax":[0],"gmscMax":[0],"pmMax":[-4]},
@@ -9590,6 +9602,7 @@
 "transactions":[{"season":2020,"tid":16,"type":"trade","fromTid":18}],
 "draft":{"round":2,"pick":30,"tid":18,"originalTid":16,"year":2020},
 "college":"Utah State",
+"awards":[{"season":2021,"type":"Won Championship"}],
 "stats":[
 {"playoffs":false,"yearsWithTeam":1,"season":2021,"jerseyNumber":"15","tid":16,"gp":30,"gs":2,"min":233,"fg":32,"fga":72,"tp":21,"tpa":47,"ft":4,"fta":4,"orb":6,"drb":24,"ba":6,"ast":21,"stl":8,"blk":1,"tov":10,"pf":17,"pts":89,"pm":-38,"per":11.9,"ortg":118,"drtg":114,"orbp":2.8,"drbp":10.4,"trbp":6.8,"astp":11.4,"stlp":1.6,"blkp":0.4,"usgp":15,"ows":0.3,"dws":0.2,"obpm":-0.6,"dbpm":-0.8,"vorp":0,"ewa":0.2,"dd":0,"td":0,"minMax":[28.2],"fgMax":[6],"fgaMax":[13],"tpMax":[3],"tpaMax":[8],"2pMax":[3],"2paMax":[5],"ftMax":[2],"ftaMax":[2],"orbMax":[2],"drbMax":[6],"trbMax":[6],"astMax":[5],"stlMax":[3],"blkMax":[1],"tovMax":[3],"pfMax":[3],"ptsMax":[15],"gmscMax":[13.4],"pmMax":[11]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -12839,7 +12852,8 @@
 "transactions":[{"season":2021,"tid":16,"type":"freeAgent"}],
 "draft":{"round":1,"pick":19,"tid":0,"originalTid":0,"year":2009},
 "college":"Wake Forest",
-"awards":[{"season":2015,"type":"All-Star"}],
+"awards":[{"season":2021,"type":"Won Championship"},
+{"season":2015,"type":"All-Star"}],
 "stats":[
 {"playoffs":false,"yearsWithTeam":1,"season":2010,"tid":0,"gp":71,"gs":3,"min":719,"fg":90,"fga":227,"tp":7,"tpa":32,"ft":41,"fta":49,"orb":5,"drb":62,"ast":122,"stl":34,"blk":11,"ba":22,"tov":50,"pf":82,"pts":228,"pm":-42,"ewa":0,"per":11,"orbp":0.8,"drbp":10.2,"trbp":5.4,"astp":25.1,"stlp":2.5,"blkp":1.2,"usgp":19.1,"ows":-0.2,"dws":0.8,"ortg":100.8,"drtg":103.3,"jerseyNumber":"0"},
 {"playoffs":true,"season":2010,"jerseyNumber":"0","tid":0,"gp":9,"gs":0,"min":59,"fg":7,"fga":21,"tp":2,"tpa":5,"ft":0,"fta":0,"orb":0,"drb":2,"ast":4,"stl":3,"blk":1,"ba":3,"tov":4,"pf":3,"pts":16,"pm":-32,"ewa":-0.2,"per":4.7,"orbp":0,"drbp":4.4,"trbp":2,"astp":11.6,"stlp":2.8,"blkp":1.5,"usgp":20.1,"ows":-0.2,"dws":0,"ortg":94.7,"drtg":121.7},
@@ -15108,6 +15122,7 @@
 "college":"Greece",
 "relatives":[{"type":"brother","pid":830,"name":"Alex Antetokounmpo"},{"type":"brother","pid":124,"name":"Giannis Antetokounmpo"},
 {"type":"brother","pid":466,"name":"Kostas Antetokounmpo"}],
+"awards":[{"season":2021,"type":"Won Championship"}],
 "stats":[
 {"playoffs":false,"yearsWithTeam":1,"season":2016,"tid":19,"gp":2,"gs":0,"min":6,"fg":3,"fga":4,"tp":0,"tpa":1,"ft":0,"fta":0,"orb":0,"drb":1,"ast":0,"stl":0,"blk":0,"ba":0,"tov":0,"pf":2,"pts":6,"pm":-6,"ewa":0.1,"per":32.9,"orbp":0,"drbp":17.9,"trbp":9.1,"astp":0,"stlp":0,"blkp":0,"usgp":30.2,"ows":0,"dws":0,"ortg":107.7,"drtg":142.9,"jerseyNumber":"43"},
 {"playoffs":false,"yearsWithTeam":1,"season":2020,"jerseyNumber":"43","tid":16,"gp":20,"gs":2,"min":129,"fg":24,"fga":48,"tp":0,"tpa":10,"ft":7,"fta":17,"orb":12,"drb":12,"ba":3,"ast":15,"stl":7,"blk":2,"tov":12,"pf":18,"pts":55,"pm":-16,"per":12.2,"ortg":98,"drtg":103,"orbp":9.8,"drbp":8.7,"trbp":9.2,"astp":16.3,"stlp":2.5,"blkp":1.4,"usgp":21.6,"ows":-0.1,"dws":0.2,"obpm":-4.6,"dbpm":1.4,"vorp":0,"ewa":0.1,"minMax":[19.4],"fgMax":[4],"fgaMax":[8],"tpMax":[0],"tpaMax":[2],"2pMax":[4],"2paMax":[7],"ftMax":[3],"ftaMax":[6],"orbMax":[3],"drbMax":[4],"trbMax":[6],"astMax":[4],"stlMax":[2],"blkMax":[1],"tovMax":[3],"pfMax":[4],"ptsMax":[10],"gmscMax":[8.8],"pmMax":[12]},
@@ -15223,6 +15238,7 @@
 "transactions":[{"season":2020,"tid":16,"type":"freeAgent"}],
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2016},
 "college":"Michigan State",
+"awards":[{"season":2021,"type":"Won Championship"}],
 "stats":[
 {"playoffs":false,"yearsWithTeam":1,"season":2017,"tid":26,"gp":36,"gs":0,"min":285,"fg":36,"fga":99,"tp":17,"tpa":53,"ft":5,"fta":6,"FT%":0.833,"orb":2,"ast":23,"stl":1,"blk":0,"ba":3,"tov":11,"pf":20,"pts":94,"pm":-51,"ewa":-0.6,"per":5.9,"orbp":0.8,"drbp":8.2,"trbp":4.6,"astp":11.7,"stlp":0.2,"blkp":0,"usgp":17.9,"ows":-0.2,"dws":0.2,"ortg":95,"drtg":110,"obpm":-3.9,"dbpm":-1.5,"vorp":-0.2,"dd":0,"td":0,"minMax":[28.7],"fgMax":[10],"fgaMax":[19],"tpMax":[4],"tpaMax":[9],"2pMax":[6],"2paMax":[10],"ftMax":[3],"ftaMax":[3],"orbMax":[1],"drbMax":[3],"trbMax":[3],"astMax":[6],"stlMax":[1],"blkMax":[0],"tovMax":[3],"pfMax":[3],"ptsMax":[27],"gmscMax":[20.6],"pmMax":[13],"jerseyNumber":"11"},
 {"playoffs":false,"yearsWithTeam":2,"season":2018,"tid":26,"gp":80,"gs":12,"min":1517,"fg":209,"fga":497,"tp":89,"tpa":228,"ft":48,"fta":72,"FT%":0.667,"orb":12,"ast":80,"stl":28,"blk":2,"ba":19,"tov":37,"pf":108,"pts":555,"pm":122,"ewa":-1,"per":9.1,"orbp":0.9,"drbp":7.2,"trbp":4,"astp":7.8,"stlp":0.9,"blkp":0.1,"usgp":16.7,"ows":0.8,"dws":1.3,"ortg":106,"drtg":110,"obpm":-2.5,"dbpm":-0.6,"vorp":-0.4,"dd":0,"td":0,"minMax":[40.8],"fgMax":[9],"fgaMax":[16],"tpMax":[5],"tpaMax":[8],"2pMax":[5],"2paMax":[10],"ftMax":[6],"ftaMax":[7],"orbMax":[1],"drbMax":[5],"trbMax":[5],"astMax":[6],"stlMax":[3],"blkMax":[1],"tovMax":[3],"pfMax":[5],"ptsMax":[23],"gmscMax":[19.6],"pmMax":[25],"jerseyNumber":"11"},
@@ -16487,6 +16503,7 @@
 "contract":{"amount":900,"exp":2021},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2018},
 "college":"BYU",
+"awards":[{"season":2021,"type":"Won Championship"}],
 "stats":[
 {"playoffs":false,"yearsWithTeam":1,"season":2021,"jerseyNumber":"3","tid":16,"gp":1,"gs":0,"min":32,"fg":6,"fga":13,"tp":1,"tpa":5,"ft":3,"fta":3,"orb":2,"drb":4,"ba":0,"ast":3,"stl":0,"blk":1,"tov":4,"pf":4,"pts":16,"pm":11,"per":10.6,"ortg":100,"drtg":115,"orbp":6.8,"drbp":12.7,"trbp":9.9,"astp":12.6,"stlp":0,"blkp":2.8,"usgp":24,"ows":0,"dws":0,"obpm":-4.1,"dbpm":-3.6,"vorp":0,"ewa":0,"dd":0,"td":0,"minMax":[31.5],"fgMax":[6],"fgaMax":[13],"tpMax":[1],"tpaMax":[5],"2pMax":[5],"2paMax":[8],"ftMax":[3],"ftaMax":[3],"orbMax":[2],"drbMax":[4],"trbMax":[6],"astMax":[3],"stlMax":[0],"blkMax":[1],"baMax":[0],"tovMax":[4],"pfMax":[4],"ptsMax":[16],"gmscMax":[9.1],"pmMax":[11]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -16762,6 +16779,7 @@
 "transactions":[{"season":2021,"tid":16,"type":"freeAgent"}],
 "draft":{"round":1,"pick":15,"tid":24,"originalTid":24,"year":2017},
 "college":"North Carolina",
+"awards":[{"season":2021,"type":"Won Championship"}],
 "stats":[
 {"playoffs":false,"yearsWithTeam":1,"season":2018,"tid":25,"gp":68,"gs":41,"min":1506,"fg":185,"fga":419,"tp":57,"tpa":185,"ft":26,"fta":36,"orb":27,"drb":160,"ast":74,"stl":28,"blk":13,"ba":12,"tov":40,"pf":81,"pts":453,"pm":-238,"ewa":-1,"per":9.2,"orbp":2,"drbp":12.6,"trbp":7.1,"astp":7.2,"stlp":0.9,"blkp":0.8,"usgp":14.2,"ows":0.4,"dws":0.5,"jerseyNumber":"25","obpm":-2.4,"dbpm":-1.1,"vorp":-0.6,"ortg":103,"drtg":114,"dd":0,"td":0,"minMax":[41.5],"fgMax":[7],"fgaMax":[15],"tpMax":[4],"tpaMax":[7],"2pMax":[6],"2paMax":[9],"ftMax":[3],"ftaMax":[4],"orbMax":[2],"drbMax":[8],"trbMax":[8],"astMax":[4],"stlMax":[4],"blkMax":[2],"tovMax":[3],"pfMax":[5],"ptsMax":[20],"gmscMax":[1.6],"pmMax":[14]},
 {"playoffs":false,"yearsWithTeam":2,"season":2019,"tid":25,"gp":52,"gs":3,"min":1083,"fg":125,"fga":295,"tp":55,"tpa":159,"ft":41,"fta":50,"orb":25,"drb":121,"ast":68,"stl":23,"blk":13,"ba":1,"tov":22,"pf":67,"pts":346,"pm":-64,"ewa":-0.2,"per":10.1,"orbp":2.3,"drbp":11.8,"trbp":6.9,"astp":8,"stlp":1,"blkp":1,"usgp":12.9,"ows":1,"dws":0.6,"jerseyNumber":"25","obpm":-1.3,"dbpm":-0.5,"vorp":0,"ortg":114,"drtg":114,"dd":0,"td":0,"minMax":[37.4],"fgMax":[10],"fgaMax":[14],"tpMax":[5],"tpaMax":[7],"2pMax":[5],"2paMax":[7],"ftMax":[5],"ftaMax":[5],"orbMax":[2],"drbMax":[9],"trbMax":[11],"astMax":[4],"stlMax":[2],"blkMax":[2],"baMax":[1],"tovMax":[2],"pfMax":[4],"ptsMax":[28],"gmscMax":[24],"pmMax":[28]},
