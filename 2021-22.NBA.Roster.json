@@ -4726,7 +4726,7 @@
 {"playoffs":true,"season":2021,"jerseyNumber":"5","tid":19,"gp":5,"gs":0,"min":77,"fg":10,"fga":33,"tp":4,"tpa":11,"ft":5,"fta":7,"orb":0,"drb":7,"ba":7,"ast":5,"stl":3,"blk":0,"tov":6,"pf":8,"pts":29,"pm":0,"per":2.3,"ortg":77,"drtg":112,"orbp":0,"drbp":10.2,"trbp":4.8,"astp":11.1,"stlp":2,"blkp":0,"usgp":24.2,"ows":-0.3,"dws":0.1,"obpm":-6.5,"dbpm":-0.1,"vorp":-0.1,"ewa":-0.3,"dd":0,"td":0,"minMax":[21.1],"fgMax":[4],"fgaMax":[9],"tpMax":[2],"tpaMax":[4],"2pMax":[2],"2paMax":[7],"ftMax":[5],"ftaMax":[6],"orbMax":[0],"drbMax":[3],"trbMax":[3],"astMax":[3],"stlMax":[2],"blkMax":[0],"tovMax":[3],"pfMax":[4],"ptsMax":[11],"gmscMax":[6.2],"pmMax":[8]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2021},
+{"tid":12,
 "firstName":"Brandon","lastName":"Boston Jr.",
 "jerseyNumber":"3",
 "ratings":[{"hgt":48,"stre":24,"spd":53,"jmp":65,"endu":32,"ins":20,"dnk":56,"ft":55,"fg":38,"tp":34,"diq":43,"oiq":40,"drb":40,"pss":34,"reb":40}],
@@ -4734,6 +4734,8 @@
 "born":{"year":2002,"loc":"Norcross, GA"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4432162.png&w=350&h=254",
 "contract":{"amount":900,"exp":2022},
+"transactions":[{"season":2021,"tid":12,"type":"trade","fromTid":18}],
+"draft":{"round":2,"pick":21,"tid":14,"originalTid":24,"year":2021},
 "college":"Kentucky",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
@@ -12236,7 +12238,7 @@
 {"playoffs":false,"yearsWithTeam":2,"season":2021,"jerseyNumber":"41","tid":26,"gp":23,"gs":9,"min":358,"fg":43,"fga":90,"tp":14,"tpa":40,"ft":15,"fta":23,"orb":9,"drb":77,"ba":0,"ast":14,"stl":6,"blk":1,"tov":6,"pf":13,"pts":115,"pm":-108,"per":11.4,"ortg":116,"drtg":114,"orbp":2.6,"drbp":23.3,"trbp":12.8,"astp":5.3,"stlp":0.8,"blkp":0.2,"usgp":12.9,"ows":0.3,"dws":0.3,"obpm":-1.2,"dbpm":-0.7,"vorp":0,"ewa":0,"dd":1,"td":0,"minMax":[35.8],"fgMax":[7],"fgaMax":[13],"tpMax":[4],"tpaMax":[6],"2pMax":[6],"2paMax":[7],"ftMax":[4],"ftaMax":[4],"orbMax":[3],"drbMax":[10],"trbMax":[10],"astMax":[2],"stlMax":[2],"blkMax":[1],"baMax":[0],"tovMax":[2],"pfMax":[2],"ptsMax":[18],"gmscMax":[16.6],"pmMax":[9]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2021},
+{"tid":2,
 "name":"Kessler Edwards",
 "jerseyNumber":"15",
 "ratings":[{"hgt":52,"stre":36,"spd":62,"jmp":52,"endu":40,"ins":39,"dnk":57,"ft":25,"fg":55,"tp":50,"diq":41,"oiq":45,"drb":37,"pss":35,"reb":58}],
@@ -12244,6 +12246,8 @@
 "born":{"year":2001,"loc":"Glendale, CA"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4397693.png&w=350&h=254",
 "contract":{"amount":900,"exp":2022},
+"transactions":[{"season":2021,"tid":2,"type":"draft","pickNum":44}],
+"draft":{"round":2,"pick":24,"tid":2,"originalTid":11,"year":2021},
 "college":"Pepperdine",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
@@ -16336,7 +16340,7 @@
 {"playoffs":false,"yearsWithTeam":1,"season":2021,"jerseyNumber":14,"tid":19,"gp":9,"gs":0,"min":52,"fg":5,"fga":7,"tp":0,"tpa":0,"ft":1,"fta":2,"orb":2,"drb":9,"ast":1,"stl":1,"blk":6,"ba":1,"tov":0,"pf":4,"pts":11,"pm":29,"ortg":150,"drtg":103,"per":15.3,"ewa":0.1,"orbp":4.2,"drbp":18.6,"trbp":11.5,"astp":2.7,"stlp":1,"blkp":11,"usgp":6.8,"ows":0.1,"dws":0.1,"obpm":-0.6,"dbpm":4.1,"vorp":0.1,"dd":0,"td":0,"minMax":[14.5],"fgMax":[2],"fgaMax":[3],"tpMax":[0],"tpaMax":[0],"2pMax":[2],"2paMax":[3],"ftMax":[1],"ftaMax":[2],"orbMax":[1],"drbMax":[3],"trbMax":[3],"astMax":[1],"stlMax":[1],"blkMax":[3],"baMax":[1],"tovMax":[0],"pfMax":[2],"ptsMax":[4],"gmscMax":[5.7],"pmMax":[19]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2021},
+{"tid":22,
 "name":"Filip Petrusev",
 "jerseyNumber":"44",
 "ratings":[{"hgt":63,"stre":44,"spd":42,"jmp":42,"endu":39,"ins":70,"dnk":72,"ft":65,"fg":55,"tp":32,"diq":50,"oiq":35,"drb":26,"pss":28,"reb":59}],
@@ -16344,6 +16348,8 @@
 "born":{"year":2000,"loc":"Belgrade, Serbia"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4397667.png&w=350&h=254",
 "contract":{"amount":900,"exp":2022},
+"transactions":[{"season":2021,"tid":22,"type":"draft","pickNum":50}],
+"draft":{"round":2,"pick":20,"tid":22,"originalTid":19,"year":2021},
 "college":"Gonzaga",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
