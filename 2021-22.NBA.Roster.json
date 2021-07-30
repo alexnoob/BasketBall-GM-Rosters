@@ -4822,7 +4822,7 @@
 {"playoffs":true,"season":2021,"jerseyNumber":"2","tid":13,"gp":5,"gs":5,"min":105,"fg":19,"fga":32,"tp":0,"tpa":0,"ft":7,"fta":10,"orb":19,"drb":36,"ba":3,"ast":0,"stl":4,"blk":3,"tov":11,"pf":12,"pts":45,"pm":-4,"per":19.2,"ortg":106,"drtg":104,"orbp":19.6,"drbp":40.5,"trbp":29.6,"astp":0,"stlp":1.9,"blkp":2.8,"usgp":20.1,"ows":0,"dws":0.2,"obpm":-0.5,"dbpm":0.7,"vorp":0.1,"ewa":0.4,"dd":1,"td":0,"minMax":[24.3],"fgMax":[7],"fgaMax":[11],"tpMax":[0],"tpaMax":[0],"2pMax":[7],"2paMax":[11],"ftMax":[3],"ftaMax":[4],"orbMax":[7],"drbMax":[10],"trbMax":[13],"astMax":[0],"stlMax":[2],"blkMax":[1],"tovMax":[4],"pfMax":[4],"ptsMax":[15],"gmscMax":[14.8],"pmMax":[12]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2021},
+{"tid":8,
 "name":"Luka Garza",
 "jerseyNumber":"55",
 "ratings":[{"hgt":63,"stre":58,"spd":29,"jmp":39,"endu":36,"ins":56,"dnk":48,"ft":42,"fg":40,"tp":46,"diq":37,"oiq":44,"drb":37,"pss":37,"reb":59}],
@@ -4830,6 +4830,8 @@
 "born":{"year":1999,"loc":"Washington, DC"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4277951.png&w=350&h=254",
 "contract":{"amount":900,"exp":2022},
+"transactions":[{"season":2021,"tid":8,"type":"draft","pickNum":52}],
+"draft":{"round":2,"pick":22,"tid":8,"originalTid":13,"year":2021},
 "college":"Iowa",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
