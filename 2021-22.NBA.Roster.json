@@ -14503,14 +14503,16 @@
 {"playoffs":false,"yearsWithTeam":1,"season":2021,"jerseyNumber":"8","tid":20,"gp":19,"gs":0,"min":320,"fg":44,"fga":88,"tp":0,"tpa":11,"ft":28,"fta":41,"orb":21,"drb":44,"ba":14,"ast":24,"stl":13,"blk":5,"tov":17,"pf":19,"pts":116,"pm":-62,"per":13.4,"ortg":109,"drtg":113,"orbp":6.7,"drbp":14.5,"trbp":10.6,"astp":11.2,"stlp":1.9,"blkp":1.4,"usgp":16.3,"ows":0.2,"dws":0.3,"obpm":-2.4,"dbpm":-0.2,"vorp":-0.1,"ewa":0.5,"dd":0,"td":0,"minMax":[29.3],"fgMax":[6],"fgaMax":[11],"tpMax":[0],"tpaMax":[3],"2pMax":[6],"2paMax":[9],"ftMax":[5],"ftaMax":[6],"orbMax":[4],"drbMax":[6],"trbMax":[7],"astMax":[4],"stlMax":[2],"blkMax":[2],"tovMax":[3],"pfMax":[3],"ptsMax":[16],"gmscMax":[17],"pmMax":[10]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2021},
+{"tid":11,
 "name":"Chris Duarte",
 "jerseyNumber":"5",
 "ratings":[{"hgt":44,"stre":47,"spd":55,"jmp":56,"endu":44,"ins":47,"dnk":55,"ft":52,"fg":47,"tp":59,"diq":43,"oiq":50,"drb":48,"pss":33,"reb":55}],
 "pos":"SG","hgt":78,"weight":190,
 "born":{"year":1997,"loc":"Puerto Plata, Dominican Republic"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4592402.png&w=350&h=254",
-"contract":{"amount":900,"exp":2022},
+"contract":{"amount":3125,"exp":2025},
+"transactions":[{"season":2021,"tid":11,"type":"draft","pickNum":13}],
+"draft":{"round":1,"pick":13,"tid":11,"originalTid":11,"year":2021},
 "college":"Oregon",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
