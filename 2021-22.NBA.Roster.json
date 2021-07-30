@@ -4567,7 +4567,7 @@
 "college":"St. John's",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2021},
+{"tid":20,
 "name":"Jeremiah Robinson-Earl",
 "jerseyNumber":"24",
 "ratings":[{"hgt":56,"stre":57,"spd":53,"jmp":42,"endu":33,"ins":57,"dnk":57,"ft":47,"fg":44,"tp":24,"diq":29,"oiq":42,"drb":47,"pss":44,"reb":51}],
@@ -4575,6 +4575,8 @@
 "born":{"year":2001,"loc":"Kansas City, KS"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4432813.png&w=350&h=254",
 "contract":{"amount":900,"exp":2022},
+"transactions":[{"season":2021,"tid":20,"type":"trade","fromTid":19}],
+"draft":{"round":2,"pick":2,"tid":19,"originalTid":8,"year":2021},
 "college":"Villanova",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
@@ -6578,7 +6580,7 @@
 "imgURL":"https://i.imgur.com/RbilG5P.png",
 "contract":{"amount":900,"exp":2022},
 "transactions":[{"season":2021,"tid":2,"type":"draft","pickNum":45}],
-"draft":{"round":1,"pick":45,"tid":1,"originalTid":1,"year":2021},
+"draft":{"round":2,"pick":15,"tid":1,"originalTid":1,"year":2021},
 "college":"France",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
@@ -10642,7 +10644,7 @@
 "college":"Kentucky",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2021},
+{"tid":12,
 "name":"Jason Preston",
 "jerseyNumber":"0",
 "ratings":[{"hgt":37,"stre":30,"spd":55,"jmp":41,"endu":36,"ins":35,"dnk":57,"ft":22,"fg":41,"tp":49,"diq":33,"oiq":55,"drb":55,"pss":59,"reb":55}],
@@ -10650,6 +10652,8 @@
 "born":{"year":2000,"loc":"Orlando, FL"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4397916.png&w=350&h=254",
 "contract":{"amount":900,"exp":2022},
+"transactions":[{"season":2021,"tid":12,"type":"trade","fromTid":21}],
+"draft":{"round":2,"pick":3,"tid":21,"originalTid":21,"year":2021},
 "college":"Ohio",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
@@ -11601,7 +11605,7 @@
 "college":"Duke",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2021},
+{"tid":29,
 "name":"Isaiah Todd",
 "jerseyNumber":"14",
 "ratings":[{"hgt":61,"stre":48,"spd":50,"jmp":61,"endu":23,"ins":51,"dnk":56,"ft":23,"fg":40,"tp":35,"diq":38,"oiq":36,"drb":21,"pss":30,"reb":63}],
@@ -11609,6 +11613,8 @@
 "born":{"year":2002,"loc":"Baltimore, MD"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/1630225.png",
 "contract":{"amount":900,"exp":2022},
+"transactions":[{"season":2021,"tid":29,"type":"trade","fromTid":11}],
+"draft":{"round":2,"pick":1,"tid":16,"originalTid":10,"year":2021},
 "college":"G League Ignite",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
@@ -15745,7 +15751,7 @@
 "born":{"year":2000,"loc":"Houston, TX"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4397014.png",
 "contract":{"amount":1800,"exp":2025},
-"transactions":[{"season":2021,"tid":12,"type":"trade","fromTid":19}],
+"transactions":[{"season":2021,"tid":19,"type":"trade","fromTid":12}],
 "draft":{"round":1,"pick":25,"tid":12,"originalTid":12,"year":2021},
 "college":"Houston",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -17305,7 +17311,7 @@
 {"playoffs":false,"yearsWithTeam":1,"season":2021,"jerseyNumber":"22","tid":17,"gp":2,"gs":0,"min":4,"fg":0,"fga":0,"tp":0,"tpa":0,"ft":0,"fta":0,"orb":0,"drb":0,"ba":0,"ast":0,"stl":0,"blk":0,"tov":1,"pf":0,"pts":0,"pm":-3,"per":-12.4,"ortg":0,"drtg":124,"orbp":0,"drbp":0,"trbp":0,"astp":0,"stlp":0,"blkp":0,"usgp":10.5,"ows":0,"dws":0,"obpm":-13.8,"dbpm":-7.9,"vorp":0,"ewa":0,"dd":0,"td":0,"minMax":[2.4],"fgMax":[0],"fgaMax":[0],"tpMax":[0],"tpaMax":[0],"2pMax":[0],"2paMax":[0],"ftMax":[0],"ftaMax":[0],"orbMax":[0],"drbMax":[0],"trbMax":[0],"astMax":[0],"stlMax":[0],"blkMax":[0],"baMax":[0],"tovMax":[1],"pfMax":[0],"ptsMax":[0],"gmscMax":[0],"pmMax":[0]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2021},
+{"tid":19,
 "firstName":"Rokas","lastName":"Jokubaitis",
 "jerseyNumber":"31",
 "ratings":[{"hgt":37,"stre":22,"spd":54,"jmp":38,"endu":32,"ins":28,"dnk":48,"ft":40,"fg":45,"tp":44,"diq":38,"oiq":47,"drb":54,"pss":52,"reb":36}],
@@ -17313,6 +17319,8 @@
 "born":{"year":2001,"loc":"Mazeikiai, Lithuania"},
 "imgURL":"https://i.imgur.com/qf6ffzp.png",
 "contract":{"amount":900,"exp":2022},
+"transactions":[{"season":2021,"tid":19,"type":"trade","fromTid":20}],
+"draft":{"round":2,"pick":4,"tid":20,"originalTid":20,"year":2021},
 "college":"Lithuania",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
