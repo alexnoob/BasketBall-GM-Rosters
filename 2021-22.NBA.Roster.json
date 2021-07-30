@@ -10380,14 +10380,16 @@
 {"playoffs":false,"yearsWithTeam":4,"season":2021,"jerseyNumber":"22","tid":26,"gp":63,"gs":1,"min":1358,"fg":264,"fga":628,"tp":106,"tpa":278,"ft":82,"fta":102,"orb":42,"drb":261,"ba":21,"ast":88,"stl":45,"blk":40,"tov":65,"pf":115,"pts":716,"pm":130,"per":14.7,"ortg":103,"drtg":111,"orbp":3.2,"drbp":20.9,"trbp":11.9,"astp":9.7,"stlp":1.6,"blkp":2.5,"usgp":23.6,"ows":0,"dws":1.7,"obpm":-0.1,"dbpm":-0.2,"vorp":0.6,"ewa":2.2,"dd":1,"td":0,"minMax":[36.2],"fgMax":[9],"fgaMax":[20],"tpMax":[5],"tpaMax":[8],"2pMax":[7],"2paMax":[12],"ftMax":[6],"ftaMax":[6],"orbMax":[3],"drbMax":[8],"trbMax":[10],"astMax":[5],"stlMax":[3],"blkMax":[3],"tovMax":[4],"pfMax":[5],"ptsMax":[22],"gmscMax":[16.9],"pmMax":[24]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2021},
+{"tid":9,
 "name":"Moses Moody",
 "jerseyNumber":"5",
 "ratings":[{"hgt":44,"stre":40,"spd":62,"jmp":66,"endu":35,"ins":23,"dnk":50,"ft":52,"fg":38,"tp":46,"diq":44,"oiq":43,"drb":40,"pss":33,"reb":55}],
 "pos":"G","hgt":78,"weight":205,
 "born":{"year":2002,"loc":"Little Rock, AR"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4432171.png&w=350&h=254",
-"contract":{"amount":900,"exp":2022},
+"contract":{"amount":2975,"exp":2025},
+"transactions":[{"season":2021,"tid":9,"type":"draft","pickNum":14}],
+"draft":{"round":1,"pick":14,"tid":9,"originalTid":9,"year":2021},
 "college":"Arkansas",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
