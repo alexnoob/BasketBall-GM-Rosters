@@ -6213,14 +6213,16 @@
 {"playoffs":true,"season":2021,"jerseyNumber":"2","tid":2,"gp":12,"gs":12,"min":318,"fg":42,"fga":79,"tp":14,"tpa":36,"ft":10,"fta":14,"orb":15,"drb":56,"ba":3,"ast":21,"stl":10,"blk":6,"tov":5,"pf":40,"pts":108,"pm":33,"per":14.6,"ortg":133,"drtg":108,"orbp":5.4,"drbp":18.6,"trbp":12.3,"astp":9.3,"stlp":1.6,"blkp":1.7,"usgp":12.9,"ows":0.7,"dws":0.5,"obpm":0.8,"dbpm":1.5,"vorp":0.3,"ewa":0.5,"dd":2,"td":0,"minMax":[40.1],"fgMax":[7],"fgaMax":[13],"tpMax":[4],"tpaMax":[9],"2pMax":[4],"2paMax":[6],"ftMax":[3],"ftaMax":[4],"orbMax":[2],"drbMax":[12],"trbMax":[14],"astMax":[4],"stlMax":[2],"blkMax":[3],"tovMax":[3],"pfMax":[6],"ptsMax":[18],"gmscMax":[15.4],"pmMax":[18]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2021},
+{"tid":12,
 "name":"Keon Johnson",
 "jerseyNumber":"45",
 "ratings":[{"hgt":41,"stre":52,"spd":64,"jmp":83,"endu":47,"ins":40,"dnk":45,"ft":25,"fg":41,"tp":37,"diq":42,"oiq":33,"drb":39,"pss":52,"reb":36}],
 "pos":"SG","hgt":77,"weight":186,
 "born":{"year":2002,"loc":"Shelbyville, TN"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4432192.png&w=350&h=254",
-"contract":{"amount":900,"exp":2022},
+"contract":{"amount":2125,"exp":2025},
+"transactions":[{"season":2021,"tid":12,"type":"trade","fromTid":19}],
+"draft":{"round":1,"pick":21,"tid":19,"originalTid":6,"year":2021},
 "college":"Tennessee",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
