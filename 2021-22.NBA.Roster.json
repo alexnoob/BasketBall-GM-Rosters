@@ -16809,14 +16809,16 @@
 {"playoffs":false,"yearsWithTeam":1,"season":2021,"jerseyNumber":"33","tid":10,"gp":24,"gs":3,"min":415,"fg":46,"fga":118,"tp":23,"tpa":71,"ft":18,"fta":21,"orb":27,"drb":43,"ba":7,"ast":23,"stl":6,"blk":5,"tov":19,"pf":34,"pts":133,"pm":-88,"per":8.7,"ortg":105,"drtg":118,"orbp":6.7,"drbp":11.5,"trbp":9,"astp":7.9,"stlp":0.7,"blkp":1.1,"usgp":15,"ows":0.1,"dws":0.1,"obpm":-3.5,"dbpm":-2.3,"vorp":-0.4,"ewa":-0.4,"dd":0,"td":0,"minMax":[42.3],"fgMax":[8],"fgaMax":[15],"tpMax":[4],"tpaMax":[10],"2pMax":[4],"2paMax":[6],"ftMax":[4],"ftaMax":[4],"orbMax":[6],"drbMax":[7],"trbMax":[9],"astMax":[4],"stlMax":[2],"blkMax":[2],"tovMax":[3],"pfMax":[5],"ptsMax":[22],"gmscMax":[15.8],"pmMax":[19]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2021},
+{"tid":29,
 "name":"Corey Kispert",
 "jerseyNumber":"24",
 "ratings":[{"hgt":44,"stre":58,"spd":51,"jmp":50,"endu":54,"ins":45,"dnk":58,"ft":70,"fg":72,"tp":70,"diq":40,"oiq":64,"drb":50,"pss":42,"reb":38}],
 "pos":"SF","hgt":78,"weight":220,
 "born":{"year":1999,"loc":"Edmonds, WA"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4280151.png&w=350&h=254",
-"contract":{"amount":900,"exp":2022},
+"contract":{"amount":2825,"exp":2025},
+"transactions":[{"season":2021,"tid":29,"type":"draft","pickNum":15}],
+"draft":{"round":1,"pick":15,"tid":29,"originalTid":29,"year":2021},
 "college":"Gonzaga",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
