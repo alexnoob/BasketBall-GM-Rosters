@@ -6463,7 +6463,7 @@
 {"playoffs":false,"yearsWithTeam":1,"season":2020,"jerseyNumber":"1","tid":2,"gp":1,"gs":0,"min":6,"fg":2,"fga":4,"tp":1,"tpa":2,"ft":0,"fta":0,"orb":0,"drb":0,"ba":0,"ast":3,"stl":0,"blk":0,"tov":0,"pf":1,"pts":5,"pm":4,"per":33.2,"ortg":155,"drtg":118,"orbp":0,"drbp":0,"trbp":0,"astp":100,"stlp":0,"blkp":0,"usgp":27.9,"ows":0.1,"dws":0,"obpm":12.4,"dbpm":2.6,"vorp":0,"ewa":0.1,"dd":0,"td":0,"minMax":[5.9],"fgMax":[2],"fgaMax":[4],"tpMax":[1],"tpaMax":[2],"2pMax":[1],"2paMax":[2],"ftMax":[0],"ftaMax":[0],"orbMax":[0],"drbMax":[0],"trbMax":[0],"astMax":[3],"stlMax":[0],"blkMax":[0],"baMax":[0],"tovMax":[0],"pfMax":[1],"ptsMax":[5],"gmscMax":[4.7],"pmMax":[4]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":8,
+{"tid":9,
 "name":"Jonathan Kuminga",
 "jerseyNumber":"0",
 "ratings":[{"hgt":48,"stre":45,"spd":67,"jmp":67,"endu":42,"ins":53,"dnk":62,"ft":25,"fg":41,"tp":30,"diq":43,"oiq":44,"drb":38,"pss":23,"reb":66}],
@@ -6471,8 +6471,8 @@
 "born":{"year":2003,"loc":"Kinshasa, Democratic Republic of the Congo"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/1630228.png",
 "contract":{"amount":4550,"exp":2025},
-"transactions":[{"season":2021,"tid":8,"type":"draft","pickNum":7}],
-"draft":{"round":1,"pick":7,"tid":8,"originalTid":17,"year":2021},
+"transactions":[{"season":2021,"tid":9,"type":"draft","pickNum":7}],
+"draft":{"round":1,"pick":7,"tid":9,"originalTid":17,"year":2021},
 "college":"G League Ignite",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
