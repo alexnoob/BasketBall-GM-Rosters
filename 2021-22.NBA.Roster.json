@@ -11984,14 +11984,16 @@
 "college":"Utah State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2021},
+{"tid":14,
 "name":"Ziaire Williams",
 "jerseyNumber":"3",
 "ratings":[{"hgt":50,"stre":32,"spd":59,"jmp":60,"endu":42,"ins":31,"dnk":49,"ft":57,"fg":37,"tp":43,"diq":40,"oiq":39,"drb":37,"pss":40,"reb":50}],
 "pos":"SF","hgt":79,"weight":190,
 "born":{"year":2002,"loc":"Lancaster, CA"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4433137.png&w=350&h=254",
-"contract":{"amount":900,"exp":2022},
+"contract":{"amount":3650,"exp":2025},
+"transactions":[{"season":2021,"tid":14,"type":"trade","fromTid":18}],
+"draft":{"round":1,"pick":10,"tid":18,"originalTid":18,"year":2021},
 "college":"Stanford",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
