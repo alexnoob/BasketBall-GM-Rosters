@@ -16492,14 +16492,16 @@
 {"playoffs":true,"season":2021,"jerseyNumber":"32","tid":0,"gp":5,"gs":0,"min":33,"fg":1,"fga":5,"tp":0,"tpa":1,"ft":4,"fta":4,"orb":0,"drb":5,"ba":1,"ast":5,"stl":2,"blk":2,"tov":4,"pf":5,"pts":6,"pm":9,"per":6.2,"ortg":78,"drtg":105,"orbp":0,"drbp":16.4,"trbp":8.3,"astp":19.4,"stlp":3,"blkp":5.2,"usgp":14.4,"ows":-0.1,"dws":0.1,"obpm":-6.7,"dbpm":4.9,"vorp":0,"ewa":-0.1,"dd":0,"td":0,"minMax":[10.9],"fgMax":[1],"fgaMax":[2],"tpMax":[0],"tpaMax":[1],"2pMax":[1],"2paMax":[1],"ftMax":[4],"ftaMax":[4],"orbMax":[0],"drbMax":[2],"trbMax":[2],"astMax":[2],"stlMax":[1],"blkMax":[1],"tovMax":[2],"pfMax":[3],"ptsMax":[6],"gmscMax":[8],"pmMax":[7]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2021},
+{"tid":25,
 "name":"Davion Mitchell",
 "jerseyNumber":"45",
 "ratings":[{"hgt":29,"stre":56,"spd":70,"jmp":63,"endu":48,"ins":32,"dnk":52,"ft":32,"fg":33,"tp":47,"diq":62,"oiq":40,"drb":53,"pss":62,"reb":39}],
 "pos":"PG","hgt":74,"weight":205,
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4278053.png&w=350&h=254",
 "born":{"year":1999,"loc":"Hinesville, GA"},
-"contract":{"amount":900,"exp":2022},
+"contract":{"amount":3850,"exp":2025},
+"transactions":[{"season":2021,"tid":25,"type":"draft","pickNum":9}],
+"draft":{"round":1,"pick":9,"tid":25,"originalTid":25,"year":2021},
 "college":"Baylor",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
