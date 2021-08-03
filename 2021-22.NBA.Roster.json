@@ -11241,14 +11241,14 @@
 {"playoffs":false,"yearsWithTeam":1,"season":2021,"jerseyNumber":"30","tid":3,"gp":7,"gs":0,"min":26,"fg":2,"fga":7,"tp":2,"tpa":7,"ft":3,"fta":3,"orb":1,"drb":0,"ba":0,"ast":1,"stl":0,"blk":1,"tov":1,"pf":1,"pts":9,"pm":-30,"per":8.2,"ortg":110,"drtg":120,"orbp":4.1,"drbp":0,"trbp":2.1,"astp":5.1,"stlp":0,"blkp":3.8,"usgp":15.4,"ows":0,"dws":0,"obpm":-1.5,"dbpm":-2.7,"vorp":0,"ewa":0,"dd":0,"td":0,"minMax":[6.3],"fgMax":[1],"fgaMax":[3],"tpMax":[1],"tpaMax":[3],"2pMax":[0],"2paMax":[0],"ftMax":[3],"ftaMax":[3],"orbMax":[1],"drbMax":[0],"trbMax":[1],"astMax":[1],"stlMax":[0],"blkMax":[1],"baMax":[0],"tovMax":[1],"pfMax":[1],"ptsMax":[3],"gmscMax":[2.7],"pmMax":[2]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":4,
+{"tid":26,
 "name":"Al-Farouq Aminu",
 "ratings":[{"hgt":57,"stre":67,"spd":46,"jmp":42,"endu":40,"ins":55,"dnk":59,"ft":60,"fg":50,"tp":60,"diq":52,"oiq":46,"drb":32,"pss":39,"reb":69}],
 "pos":"F","hgt":80,"weight":220,
 "born":{"year":1991,"loc":"Atlanta, GA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202329.png",
 "contract":{"amount":10175,"exp":2022},
-"transactions":[{"season":2021,"tid":4,"type":"trade","fromTid":21}],
+"transactions":[{"season":2021,"tid":26,"type":"trade","fromTid":4}],
 "draft":{"round":1,"pick":8,"tid":12,"originalTid":12,"year":2010},
 "college":"Wake Forest",
 "stats":[
