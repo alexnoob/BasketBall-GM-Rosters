@@ -4840,7 +4840,8 @@
 {"playoffs":false,"yearsWithTeam":1,"season":2020,"jerseyNumber":"3","tid":5,"gp":8,"gs":8,"min":225,"fg":58,"fga":105,"tp":4,"tpa":14,"ft":20,"fta":39,"orb":24,"drb":65,"ba":11,"ast":14,"stl":12,"blk":11,"tov":29,"pf":25,"pts":140,"pm":-70,"per":21.1,"ortg":100,"drtg":107,"orbp":11.7,"drbp":32.4,"trbp":22,"astp":10.8,"stlp":2.6,"blkp":4.2,"usgp":28.7,"ows":-0.1,"dws":0.3,"obpm":-0.9,"dbpm":0.4,"vorp":0.1,"ewa":1.2,"dd":5,"td":0,"minMax":[35.6],"fgMax":[12],"fgaMax":[21],"tpMax":[2],"tpaMax":[4],"2pMax":[12],"2paMax":[18],"ftMax":[6],"ftaMax":[11],"orbMax":[7],"drbMax":[13],"trbMax":[17],"astMax":[4],"stlMax":[4],"blkMax":[3],"tovMax":[7],"pfMax":[5],"ptsMax":[28],"gmscMax":[26.7],"pmMax":[18]},
 {"playoffs":false,"yearsWithTeam":2,"season":2021,"jerseyNumber":"3","tid":5,"gp":25,"gs":25,"min":722,"fg":180,"fga":380,"tp":0,"tpa":8,"ft":77,"fta":129,"orb":101,"drb":236,"ba":50,"ast":64,"stl":40,"blk":29,"tov":81,"pf":69,"pts":437,"pm":-108,"per":20.5,"ortg":97,"drtg":105,"orbp":15.3,"drbp":37.5,"trbp":26.1,"astp":16.2,"stlp":2.7,"blkp":3.6,"usgp":31.3,"ows":-0.8,"dws":1.3,"obpm":-0.5,"dbpm":0.2,"vorp":0.3,"ewa":3.6,"dd":18,"td":0,"minMax":[43.6],"fgMax":[12],"fgaMax":[24],"tpMax":[0],"tpaMax":[2],"2pMax":[12],"2paMax":[24],"ftMax":[13],"ftaMax":[19],"orbMax":[7],"drbMax":[19],"trbMax":[24],"astMax":[5],"stlMax":[5],"blkMax":[6],"tovMax":[6],"pfMax":[6],"ptsMax":[33],"gmscMax":[33.2],"pmMax":[27]},
 {"playoffs":false,"yearsWithTeam":1,"season":2021,"jerseyNumber":"2","tid":13,"gp":21,"gs":21,"min":520,"fg":102,"fga":192,"tp":0,"tpa":0,"ft":46,"fta":76,"orb":65,"drb":149,"ba":18,"ast":30,"stl":23,"blk":20,"tov":43,"pf":80,"pts":250,"pm":3,"per":17.9,"ortg":107,"drtg":101,"orbp":14.1,"drbp":32,"trbp":23.1,"astp":9,"stlp":2.2,"blkp":3.4,"usgp":22.4,"ows":0.2,"dws":1.2,"obpm":-2.7,"dbpm":1,"vorp":0,"ewa":1.9,"dd":10,"td":0,"minMax":[35.5],"fgMax":[10],"fgaMax":[15],"tpMax":[0],"tpaMax":[0],"2pMax":[10],"2paMax":[15],"ftMax":[7],"ftaMax":[8],"orbMax":[7],"drbMax":[13],"trbMax":[19],"astMax":[4],"stlMax":[3],"blkMax":[3],"tovMax":[4],"pfMax":[6],"ptsMax":[27],"gmscMax":[24.5],"pmMax":[18]},
-{"playoffs":true,"season":2021,"jerseyNumber":"2","tid":13,"gp":5,"gs":5,"min":105,"fg":19,"fga":32,"tp":0,"tpa":0,"ft":7,"fta":10,"orb":19,"drb":36,"ba":3,"ast":0,"stl":4,"blk":3,"tov":11,"pf":12,"pts":45,"pm":-4,"per":19.2,"ortg":106,"drtg":104,"orbp":19.6,"drbp":40.5,"trbp":29.6,"astp":0,"stlp":1.9,"blkp":2.8,"usgp":20.1,"ows":0,"dws":0.2,"obpm":-0.5,"dbpm":0.7,"vorp":0.1,"ewa":0.4,"dd":1,"td":0,"minMax":[24.3],"fgMax":[7],"fgaMax":[11],"tpMax":[0],"tpaMax":[0],"2pMax":[7],"2paMax":[11],"ftMax":[3],"ftaMax":[4],"orbMax":[7],"drbMax":[10],"trbMax":[13],"astMax":[0],"stlMax":[2],"blkMax":[1],"tovMax":[4],"pfMax":[4],"ptsMax":[15],"gmscMax":[14.8],"pmMax":[12]}],
+{"playoffs":true,"season":2021,"jerseyNumber":"2","tid":13,"gp":5,"gs":5,"min":105,"fg":19,"fga":32,"tp":0,"tpa":0,"ft":7,"fta":10,"orb":19,"drb":36,"ba":3,"ast":0,"stl":4,"blk":3,"tov":11,"pf":12,"pts":45,"pm":-4,"per":19.2,"ortg":106,"drtg":104,"orbp":19.6,"drbp":40.5,"trbp":29.6,"astp":0,"stlp":1.9,"blkp":2.8,"usgp":20.1,"ows":0,"dws":0.2,"obpm":-0.5,"dbpm":0.7,"vorp":0.1,"ewa":0.4,"dd":1,"td":0,"minMax":[24.3],"fgMax":[7],"fgaMax":[11],"tpMax":[0],"tpaMax":[0],"2pMax":[7],"2paMax":[11],"ftMax":[3],"ftaMax":[4],"orbMax":[7],"drbMax":[10],"trbMax":[13],"astMax":[0],"stlMax":[2],"blkMax":[1],"tovMax":[4],"pfMax":[4],"ptsMax":[15],"gmscMax":[14.8],"pmMax":[12]},
+{"playoffs":false,"season":2022,"tid":22,"yearsWithTeam":1,"gp":0,"gs":0,"min":0,"fg":0,"fga":0,"tp":0,"tpa":0,"ft":0,"fta":0,"orb":0,"drb":0,"ast":0,"stl":0,"blk":0,"ba":0,"tov":0,"pf":0,"pts":0,"pm":0,"per":0,"ewa":0,"orbp":0,"drbp":0,"trbp":0,"astp":0,"stlp":0,"blkp":0,"usgp":0,"ows":0,"dws":0,"obpm":0,"dbpm":0,"vorp":0,"ortg":0,"drtg":0,"dd":0,"td":0,"minMax":[0],"fgMax":[0],"fgaMax":[0],"tpMax":[0],"tpaMax":[0],"2pMax":[0],"2paMax":[0],"ftMax":[0],"ftaMax":[0],"orbMax":[0],"drbMax":[0],"trbMax":[0],"astMax":[0],"stlMax":[0],"blkMax":[0],"baMax":[0],"tovMax":[0],"pfMax":[0],"ptsMax":[0],"gmscMax":[0],"pmMax":[0],"jerseyNumber":"1"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":8,
@@ -5206,14 +5207,14 @@
 {"playoffs":false,"yearsWithTeam":2,"season":2021,"jerseyNumber":"3","tid":9,"gp":51,"gs":7,"min":988,"fg":205,"fga":474,"tp":97,"tpa":276,"ft":105,"fta":119,"orb":15,"drb":77,"ba":17,"ast":99,"stl":26,"blk":9,"tov":51,"pf":86,"pts":612,"pm":28,"per":15.1,"ortg":111,"drtg":114,"orbp":1.6,"drbp":8.2,"trbp":5,"astp":15.4,"stlp":1.2,"blkp":0.8,"usgp":25,"ows":1.1,"dws":0.9,"obpm":0.8,"dbpm":-1.4,"vorp":0.4,"ewa":2.3,"dd":0,"td":0,"minMax":[38.9],"fgMax":[12],"fgaMax":[22],"tpMax":[6],"tpaMax":[11],"2pMax":[8],"2paMax":[13],"ftMax":[10],"ftaMax":[11],"orbMax":[2],"drbMax":[4],"trbMax":[5],"astMax":[6],"stlMax":[3],"blkMax":[2],"tovMax":[5],"pfMax":[4],"ptsMax":[38],"gmscMax":[30.3],"pmMax":[21]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":9,
+{"tid":28,
 "name":"Eric Paschall",
 "ratings":[{"hgt":48,"stre":66,"spd":60,"jmp":60,"endu":55,"ins":67,"dnk":68,"ft":52,"fg":65,"tp":50,"diq":40,"oiq":56,"drb":48,"pss":38,"reb":59}],
 "pos":"PF","hgt":78,"weight":255,
 "born":{"year":1997,"loc":"Dobbs Ferry, NY"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629672.png",
 "contract":{"amount":1775,"exp":2022},
-"transactions":[{"season":2019,"tid":9,"type":"draft","pickNum":41}],
+"transactions":[{"season":2021,"tid":28,"type":"trade","fromTid":9}],
 "draft":{"round":2,"pick":11,"tid":9,"originalTid":13,"year":2019},
 "college":"Villanova",
 "stats":[{"playoffs":false,"yearsWithTeam":1,"season":2020,"jerseyNumber":"7","tid":9,"gp":60,"gs":26,"min":1654,"fg":318,"fga":640,"tp":37,"tpa":129,"ft":164,"fta":212,"orb":82,"drb":193,"ba":54,"ast":127,"stl":32,"blk":13,"tov":94,"pf":125,"pts":837,"pm":-374,"per":14.5,"ortg":110,"drtg":117,"orbp":5.2,"drbp":13.1,"trbp":9,"astp":12.7,"stlp":0.9,"blkp":0.7,"usgp":21.4,"ows":1.6,"dws":0.5,"obpm":-0.7,"dbpm":-2,"vorp":-0.3,"ewa":2.5,"dd":4,"td":0,"minMax":[42.2],"fgMax":[11],"fgaMax":[21],"tpMax":[4],"tpaMax":[6],"2pMax":[11],"2paMax":[18],"ftMax":[8],"ftaMax":[10],"orbMax":[5],"drbMax":[10],"trbMax":[13],"astMax":[8],"stlMax":[5],"blkMax":[2],"tovMax":[5],"pfMax":[6],"ptsMax":[34],"gmscMax":[29.1],"pmMax":[19]},
@@ -6198,7 +6199,7 @@
 "born":{"year":1986,"loc":"Brooklyn, NY"},
 "moodTraits":["L"],
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201959.png",
-"contract":{"amount":2600,"exp":2022},
+"contract":{"amount":2700,"exp":2022},
 "transactions":[{"season":2021,"tid":19,"type":"freeAgent"}],
 "draft":{"round":1,"pick":26,"tid":4,"originalTid":7,"year":2009},
 "college":"Southern California",
@@ -10567,16 +10568,15 @@
 {"playoffs":true,"season":2021,"jerseyNumber":"15","tid":12,"gp":7,"gs":0,"min":58,"fg":19,"fga":42,"tp":4,"tpa":10,"ft":11,"fta":14,"orb":6,"drb":8,"ba":3,"ast":5,"stl":2,"blk":3,"tov":5,"pf":13,"pts":53,"pm":-18,"per":25.6,"ortg":110,"drtg":113,"orbp":12.2,"drbp":15.7,"trbp":14,"astp":17.7,"stlp":1.8,"blkp":5,"usgp":42.7,"ows":0.1,"dws":0.1,"obpm":0.6,"dbpm":-0.3,"vorp":0,"ewa":0.4,"dd":0,"td":0,"minMax":[14.9],"fgMax":[7],"fgaMax":[12],"tpMax":[2],"tpaMax":[3],"2pMax":[7],"2paMax":[10],"ftMax":[4],"ftaMax":[5],"orbMax":[3],"drbMax":[4],"trbMax":[4],"astMax":[3],"stlMax":[1],"blkMax":[1],"tovMax":[2],"pfMax":[5],"ptsMax":[15],"gmscMax":[13.5],"pmMax":[6]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
-"name":"Ahmed Hill",
-"jerseyNumber":"20",
-"ratings":[{"hgt":40,"stre":35,"spd":53,"jmp":46,"endu":39,"ins":31,"dnk":49,"ft":60,"fg":52,"tp":52,"diq":34,"oiq":46,"drb":55,"pss":42,"reb":31}],
-"pos":"SG","hgt":77,"weight":210,
-"born":{"year":1996,"loc":"Fort Valley, GA"},
-"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629759.png",
-"contract":{"amount":900,"exp":2020},
-"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2019},
-"college":"Virginia Tech",
+{"tid":-2,"draft":{"year":2023},
+"name":"Adem Bona",
+"jerseyNumber":"34",
+"ratings":[{"hgt":59,"stre":50,"spd":53,"jmp":46,"endu":39,"ins":48,"dnk":49,"ft":40,"fg":42,"tp":37,"diq":34,"oiq":46,"drb":35,"pss":42,"reb":51}],
+"pos":"C","hgt":82,"weight":210,
+"born":{"year":2003,"loc":"Lagos, Nigeria - Country: Turkey"},
+"imgURL":"https://i.imgur.com/b4ebCKj.png",
+"contract":{"amount":900,"exp":2024},
+"college":"Prolific Prep (CA)",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
@@ -13357,7 +13357,7 @@
 "pos":"GF","hgt":76,"weight":201,
 "born":{"year":1997,"loc":"Southaven, MS"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629056.png",
-"contract":{"amount":1525,"exp":2023},
+"contract":{"amount":4000,"exp":2023},
 "transactions":[{"season":2021,"tid":25,"type":"trade","fromTid":27}],
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2019},
 "college":"Ole Miss",
@@ -18314,7 +18314,7 @@
 "scheduledEvents":[
 {"type":"teamInfo","season":2023,"phase":0,"info":{"cid":1,"did":5,"tid":12,"region":"Los Angeles","name":"Clippers","colors":["#a81501","#ffffff","#3579cc"],"imgURL":"https://i.imgur.com/Yzfe4Z9.png","imgURLSmall":"https://i.imgur.com/bTJTcKX.png"},"id":1},
 {"type":"teamInfo","season":2023,"phase":0,"info":{"cid":1,"did":4,"tid":20,"region":"Oklahoma City","name":"Thunder","colors":["#063450","#ffffff","#f05a2a"],"imgURL":"https://i.imgur.com/CYUvYcB.png","imgURLSmall":"https://i.imgur.com/QrlTTWs.png"},"id":2},
-{"type":"teamInfo","season":2024,"phase":0,"info":{"cid":1,"did":3,"tid":6,"region":"Dallas","name":"Mavericks","colors":["#002755","#c9caca","#0068b7"],"imgURL":"https://i.imgur.com/7BkYm9h.png","imgURLSmall":"https://i.imgur.com/Tr4Ufub.png"},"id":3},
+{"type":"teamInfo","season":2024,"phase":0,"info":{"cid":1,"did":3,"tid":14,"region":"Memphis","name":"Grizzlies","colors":["#5D76A9","#12173F","#F5B112"],"imgURL":"https://i.imgur.com/ROIiF0Z.png","imgURLSmall":"https://i.imgur.com/kkgF0N1.png"},"id":3},
 {"type":"teamInfo","season":2024,"phase":0,"info":{"cid":0,"did":0,"tid":2,"region":"Brooklyn","name":"Nets","colors":["#ef3f37","#fffff","#2c4775"],"imgURL":"https://i.imgur.com/vI13Er1.png","imgURLSmall":"https://i.imgur.com/Uqs5dIf.png"},"id":4},
 {"type":"expansionDraft","season":2024,"phase":4,"info":{
 "teams":[{"region":"Seattle","name":"SuperSonics","pop":3.9,"colors":["#00653A","#FFC200","#FFFFFF"],"abbrev":"SEA","imgURL":"https://i.imgur.com/V5IiDjK.png","imgURLSmall":"https://i.imgur.com/ze6GeTC.png","tid":30,"cid":1,"did":4,"stadiumCapacity":17072},
@@ -18322,7 +18322,10 @@
 {"type":"teamInfo","season":2025,"phase":0,"info":{"cid":0,"did":1,"tid":17,"region":"Minnesota","name":"Timberwolves","colors":["#24429C","#1CA64C","#848A8C"],"imgURL":"https://i.imgur.com/1or9Dli.png","imgURLSmall":"https://i.imgur.com/9Ojg3I5.png"},"id":6},
 {"type":"teamInfo","season":2026,"phase":0,"info":{"cid":1,"did":3,"tid":10,"region":"Houston","name":"Rockets","colors":["#f2c03a","#da1f2e","#da1f2e"],"imgURL":"https://i.imgur.com/FRbXRha.png","imgURLSmall":"https://i.imgur.com/WoAPdEa.png"},"id":7},
 {"type":"teamInfo","season":2026,"phase":0,"info":{"cid":1,"did":5,"tid":23,"region":"Phoenix","name":"Suns","colors":["#251536","#fdeba6","#e8512e"],"imgURL":"https://i.imgur.com/H45iQoh.png","imgURLSmall":"https://i.imgur.com/eWIzXm7.png"},"id":8},
-{"type":"teamInfo","season":2027,"phase":0,"info":{"cid":0,"did":0,"tid":1,"region":"Boston","name":"Celtics","colors":["#007A33","#ffffff","#ffffff"],"imgURL":"https://i.imgur.com/dXFfRqJ.png","imgURLSmall":"https://i.imgur.com/VbUVwXX.png"},"id":9}
+{"type":"teamInfo","season":2027,"phase":0,"info":{"cid":0,"did":0,"tid":1,"region":"Boston","name":"Celtics","colors":["#007A33","#ffffff","#ffffff"],"imgURL":"https://i.imgur.com/dXFfRqJ.png","imgURLSmall":"https://i.imgur.com/VbUVwXX.png"},"id":9},
+{"type":"teamInfo","season":2027,"phase":0,"info":{"cid":1,"did":3,"tid":6,"region":"Dallas","name":"Mavericks","colors":["#002755","#c9caca","#0068b7"],"imgURL":"https://i.imgur.com/7BkYm9h.png","imgURLSmall":"https://i.imgur.com/Tr4Ufub.png"},"id":10},
+{"type":"teamInfo","season":2028,"phase":0,"info":{"cid":1,"did":3,"tid":14,"region":"Memphis","name":"Pharaohs","colors":["#002a5c","#d0ad55","#f22426"],"imgURL":"https://i.imgur.com/mi0VfVz.png","imgURLSmall":"https://i.imgur.com/RFVlS9V.png"},"id":11}
+
 ],
 
 "gameAttributes":{
