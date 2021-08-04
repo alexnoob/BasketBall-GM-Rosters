@@ -17457,16 +17457,17 @@
 "college":"Lithuania",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
-"name":"Alex Poythress",
-"jerseyNumber":"22",
-"ratings":[{"hgt":54,"stre":62,"spd":47,"jmp":55,"endu":30,"ins":57,"dnk":55,"ft":50,"fg":46,"tp":30,"diq":44,"oiq":40,"drb":36,"pss":38,"reb":59}],
-"pos":"PF","hgt":80,"weight":235,
-"born":{"year":1994,"loc":"Savannah, GA"},
-"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627816.png",
-"contract":{"amount":850,"exp":2019},
-"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2016},
-"college":"Kentucky"}
+{"tid":26,
+"name":"Jock Landale",
+"jerseyNumber":"34",
+"ratings":[{"hgt":59,"stre":64,"spd":42,"jmp":39,"endu":40,"ins":57,"dnk":55,"ft":44,"fg":46,"tp":48,"diq":44,"oiq":49,"drb":36,"pss":38,"reb":67}],
+"pos":"PF","hgt":82,"weight":256,
+"born":{"year":1996,"loc":"Melbourne, Australia"},
+"imgURL":"https://i.imgur.com/VuBTFst.png",
+"contract":{"amount":900,"exp":2022},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2018},
+"college":"Saint-Mary's",
+"injury":{"type":"Healthy","gamesRemaining":0}}
 ],
 
 "teams":[
