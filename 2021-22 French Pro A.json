@@ -94,12 +94,14 @@
 "defaultStadiumCapacity":3000,
 "quarterLength":10,
 "foulsNeededToFoulOut":5,
+"pace":89,
 "orbFactor":0.9,
 "blockFactor":0.6,
-"stealFactor":1.25,
-"twoPointAccuracyFactor":1.1,
-"threePointTendencyFactor":0.85,
-"foulRateFactor":1.25,
-"playerBioInfo":{"frequencies":{"France":100,"USA":15,"Canada":1,"Serbia":3,"Slovenia":1,"Australia":1,"Belgium":1,"Senegal":2}}
+"stealFactor":1.33,
+"twoPointAccuracyFactor":1,
+"threePointTendencyFactor":0.9,
+"turnoverFactor": 1.1,
+"foulRateFactor":1.26,
+"playerBioInfo":{"frequencies":{"France":100,"USA":15,"Canada":1,"Serbia":3,"Slovenia":1,"Australia":1,"Belgium":1,"England":1,"Latvia":1,"Poland":1,"Algeria":1,"Nigeria":1,"Cameroon":1,"Ivory Coast":1,"Senegal":2}}
 }
 }
