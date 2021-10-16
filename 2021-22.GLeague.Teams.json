@@ -56,7 +56,7 @@
 "imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Fort_Wayne_Mad_Ants_logo.svg/1920px-Fort_Wayne_Mad_Ants_logo.svg.png",
 "imgURLSmall":"https://a.espncdn.com/i/teamlogos/nba-development/500/scoreboard/fwn.png"},
 {"tid":9,"cid":1,"did":3,
-"region":"G League","name":"Ignite","abbrev":"GLI","pop":0.1,"strategy":"contending",
+"region":"G League","name":"Ignite","abbrev":"GLI","pop":0.1,"strategy":"rebuilding",
 "stadiumCapacity":1000,
 "colors":["#000000","#ffffff","#bcbcbc"],"jersey":"jersey2",
 "imgURL":"https://ak-static.cms.nba.com/wp-content/themes/nbadleague/assets/images/ignite.svg",
@@ -201,7 +201,8 @@
 "maxContractLength":1,
 "minPayroll":100,"salaryCap":120,
 "minRosterSize":10,"maxRosterSize":13,
-"aiTradesFactor":0.2,
+"aiTradesFactor":0.5,
+"draftAges":[18,22],
 "playerBioInfo":{"frequencies":{"USA":100,"Canada":5,"Mexico":1,"France":1}}
 }
 
