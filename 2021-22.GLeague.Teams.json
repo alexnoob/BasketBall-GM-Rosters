@@ -137,8 +137,8 @@
 "region":"Santa Cruz","name":"Warriors","abbrev":"SCW","pop":0.3,"strategy":"contending",
 "stadiumCapacity":2505,
 "colors":["#1d428a","#fdb927","#fdb927"],"jersey":"jersey2",
-"imgURL":"https://content.sportslogos.net/logos/17/5042/full/1716_santa_cruz__warriors-primary-2013.png",
-"imgURLSmall":"https://content.sportslogos.net/logos/17/5042/full/1663_santa_cruz__warriors-secondary-2013.png"},
+"imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Santa_Cruz_Warriors_logo.svg/311px-Santa_Cruz_Warriors_logo.svg.png",
+"imgURLSmall":"https://i.imgur.com/m2ti9Iz.png"},
 {"tid":23,"cid":1,"did":3,
 "region":"Sioux Falls","name":"Skyforce","abbrev":"SFL","pop":0.3,"strategy":"contending",
 "stadiumCapacity":3250,
@@ -203,7 +203,7 @@
 "minRosterSize":10,"maxRosterSize":13,
 "aiTradesFactor":0.5,
 "draftAges":[18,22],
-"playerBioInfo":{"frequencies":{"USA":100,"Canada":5,"Mexico":1,"France":1}}
+"playerBioInfo":{"frequencies":{"USA":100,"Canada":5,"Mexico":2,"France":2,"Croatia":1,"Serbia":1,"Nigeria":1}}
 }
 
 }
