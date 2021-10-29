@@ -488,6 +488,7 @@
 
 {"tid":4,
 "name":"Tacko Fall",
+"jerseyNumber":"99",
 "ratings":[{"hgt":87,"stre":57,"spd":27,"jmp":29,"endu":29,"ins":60,"dnk":52,"ft":0,"fg":24,"tp":0,"diq":42,"oiq":32,"drb":19,"pss":27,"reb":67}],
 "pos":"C","hgt":89,"weight":311,
 "born":{"year":1996,"loc":"Dakar, Senegal"},
@@ -500,6 +501,7 @@
 
 {"tid":4,
 "name":"Kyle Guy",
+"jerseyNumber":"7",
 "ratings":[{"hgt":29,"stre":30,"spd":43,"jmp":44,"endu":40,"ins":33,"dnk":49,"ft":64,"fg":55,"tp":55,"diq":44,"oiq":54,"drb":39,"pss":53,"reb":44}],
 "pos":"SG","hgt":73,"weight":167,
 "born":{"year":1998,"loc":"Indianapolis, IN"},
@@ -511,6 +513,7 @@
 
 {"tid":4,
 "name":"Josh Huestis",
+"jerseyNumber":"34",
 "ratings":[{"hgt":49,"stre":32,"spd":47,"jmp":51,"endu":39,"ins":28,"dnk":32,"ft":0,"fg":62,"tp":52,"diq":45,"oiq":48,"drb":33,"pss":34,"reb":34}],
 "pos":"F","hgt":79,"weight":230,
 "born":{"year":1992,"loc":"Webster, TX"},
@@ -522,6 +525,7 @@
 
 {"tid":4,
 "name":"Charles Matthews",
+"jerseyNumber":"1",
 "ratings":[{"hgt":45,"stre":28,"spd":61,"jmp":58,"endu":30,"ins":32,"dnk":51,"ft":30,"fg":39,"tp":42,"diq":35,"oiq":36,"drb":45,"pss":45,"reb":57}],
 "pos":"GF","hgt":78,"weight":180,
 "born":{"year":1997,"loc":"Chicago, IL"},
@@ -533,7 +537,7 @@
 
 {"tid":4,
 "name":"R.J. Nembhard",
-"jerseyNumber":"5",
+"jerseyNumber":"22",
 "ratings":[{"hgt":41,"stre":36,"spd":46,"jmp":43,"endu":46,"ins":40,"dnk":47,"ft":52,"fg":30,"tp":40,"diq":39,"oiq":40,"drb":46,"pss":45,"reb":42}],
 "pos":"G","hgt":77,"weight":200,
 "born":{"year":1999,"loc":"Keller, TX"},
@@ -546,6 +550,7 @@
 
 {"tid":4,
 "name":"Malik Newman",
+"jerseyNumber":"14",
 "ratings":[{"hgt":38,"stre":34,"spd":63,"jmp":63,"endu":34,"ins":34,"dnk":32,"ft":45,"fg":52,"tp":56,"diq":32,"oiq":45,"drb":48,"pss":39,"reb":33}],
 "pos":"SG","hgt":76,"weight":185,
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629005.png",
@@ -556,15 +561,15 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":4,
-"name":"Alex Noob",
-"jerseyNumber":"99",
-"ratings":[{"hgt":0,"stre":0,"spd":0,"jmp":0,"endu":0,"ins":0,"dnk":0,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":0,"pss":0,"reb":0}],
-"pos":"G","hgt":1,"weight":200,
-"born":{"year":1952,"loc":"France"},
-"imgURL":"",
-"contract":{"amount":35,"exp":2022},
-"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2021},
-"college":"France",
+"name":"Justin James",
+"jerseyNumber":"12",
+"ratings":[{"hgt":48,"stre":33,"spd":56,"jmp":48,"endu":34,"ins":29,"dnk":53,"ft":50,"fg":55,"tp":48,"diq":35,"oiq":44,"drb":50,"pss":44,"reb":34}],
+"pos":"SG","hgt":79,"weight":190,
+"born":{"year":1997,"loc":"Port Saint Lucie, FL"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629713.png",
+"contract":{"amount":50,"exp":2022},
+"draft":{"round":2,"pick":10,"tid":25,"originalTid":17,"year":2019},
+"college":"Wyoming",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":4,
@@ -3656,6 +3661,17 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":1,"pick":28,"tid":23,"originalTid":5,"year":2016},
 "college":"Kentucky",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
+"name":"Carsen Edwards",
+"ratings":[{"hgt":20,"stre":35,"spd":59,"jmp":58,"endu":46,"ins":36,"dnk":58,"ft":67,"fg":56,"tp":48,"diq":25,"oiq":57,"drb":53,"pss":42,"reb":25}],
+"pos":"SG","hgt":71,"weight":200,
+"born":{"year":1998,"loc":"Houston, TX"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629035.png",
+"contract":{"amount":50,"exp":2022},
+"draft":{"round":2,"pick":3,"tid":22,"originalTid":5,"year":2019},
+"college":"Purdue",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 ],
