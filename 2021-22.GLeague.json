@@ -130,6 +130,8 @@
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2019},
 "college":"UNC Wilmington",
 "gamesUntilTradable":100,
+"awards":[{"season":2020,"type":"First Team All-League"},
+{"season":2020,"type":"All-Star"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":1,
@@ -181,6 +183,7 @@
 "draft":{"round":0,"pick":0,"tid":26,"originalTid":26,"year":2020},
 "college":"Duke",
 "gamesUntilTradable":100,
+"awards":[{"season":2021,"type":"Third Team All-League"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":1,
@@ -276,6 +279,7 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2019},
 "college":"Auburn",
+"awards":[{"season":2021,"type":"First Team All-League"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":2,
@@ -497,6 +501,7 @@
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2019},
 "college":"Central Florida",
 "gamesUntilTradable":100,
+"awards":[{"season":2020,"type":"First Team All-Defensive"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":4,
@@ -976,6 +981,7 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2015},
 "college":"Virginia",
+"awards":[{"season":2020,"type":"Third Team All-League"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":8,
@@ -1256,6 +1262,7 @@
 "contract":{"amount":30,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2018},
 "college":"Duke",
+"awards":[{"season":2019,"type":"Won Championship"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":10,
@@ -1529,6 +1536,7 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":28,"originalTid":28,"year":2018},
 "college":"Purdue",
+"awards":[{"season":2019,"type":"Won Championship"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":12,
@@ -1589,6 +1597,7 @@
 "contract":{"amount":50,"exp":2021},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2019},
 "college":"Princeton",
+"awards":[{"season":2021,"type":"Finals MVP"},{"season":2021,"type":"Won Championship"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":13,
@@ -1601,6 +1610,8 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2018},
 "college":"La Salle",
+"awards":[{"season":2020,"type":"Second Team All-League"},
+{"season":2020,"type":"All-Star"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":13,
@@ -1649,6 +1660,7 @@
 "contract":{"amount":30,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2021},
 "college":"Michigan",
+"awards":[{"season":2021,"type":"Won Championship"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":13,
@@ -1734,6 +1746,7 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2016},
 "college":"Louisiana State",
+"awards":[{"season":2020,"type":"All-Star"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":14,
@@ -1865,6 +1878,7 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2017},
 "college":"Vanderbilt",
+"awards":[{"season":2018,"type":"Third Team All-League"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":15,
@@ -1887,6 +1901,8 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2018},
 "college":"North Carolina",
+"awards":[{"season":2019,"type":"Second Team All-League"},
+{"season":2019,"type":"All-Star"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":15,
@@ -1899,6 +1915,7 @@
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2020},
 "college":"Truman",
 "gamesUntilTradable":100,
+"awards":[{"season":2021,"type":"Second Team All-League"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":15,
@@ -1911,6 +1928,7 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2019},
 "college":"Oregon",
+"awards":[{"season":2020,"type":"First Team All-Defensive"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":15,
@@ -1981,6 +1999,7 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2020},
 "college":"Canada",
+"awards":[{"season":2021,"type":"Won Championship"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":16,
@@ -2079,6 +2098,7 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2015},
 "college":"Green Bay",
+"awards":[{"season":2017,"type":"All-Star"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":17,
@@ -2201,6 +2221,7 @@
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2017},
 "college":"Fresno State",
 "gamesUntilTradable":100,
+"awards":[{"season":2020,"type":"All-Star"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":18,
@@ -2249,6 +2270,7 @@
 "contract":{"amount":30,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2011},
 "college":"Tennessee",
+"awards":[{"season":2019,"type":"All-Star"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":18,
@@ -2494,6 +2516,7 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2020},
 "college":"Vermont",
+"awards":[{"season":2021,"type":"Most Improved Player"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":20,
@@ -2706,6 +2729,7 @@
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2020},
 "college":"Rhode Island",
 "gamesUntilTradable":100,
+"awards":[{"season":2016,"type":"Won Championship"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":22,
@@ -2718,6 +2742,10 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2014},
 "college":"France",
+"awards":[{"season":2016,"type":"Most Improved Player"},
+{"season":2017,"type":"Won Championship"},
+{"season":2017,"type":"Third Team All-League"},
+{"season":2017,"type":"All-Star"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":22,
@@ -2950,6 +2978,9 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":25,"originalTid":22,"year":2017},
 "college":"Kansas",
+"awards":[{"season":2020,"type":"Most Valuable Player"},
+{"season":2020,"type":"First Team All-League"},
+{"season":2020,"type":"All-Star"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":24,
@@ -2962,6 +2993,7 @@
 "contract":{"amount":30,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2007},
 "college":"American",
+"awards":[{"season":2010,"type":"Three-Point Contest Winner"},{"season":2016,"type":"Three-Point Contest Winner"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":24,
@@ -3108,6 +3140,7 @@
 "draft":{"round":0,"pick":0,"tid":14,"originalTid":23,"year":2020},
 "college":"Mississippi State",
 "gamesUntilTradable":100,
+"awards":[{"season":2021,"type":"Third Team All-League"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":25,
@@ -3292,6 +3325,7 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2018},
 "college":"Florida Gulf Coast",
+"awards":[{"season":2020,"type":"All-Star"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":27,
@@ -3417,6 +3451,7 @@
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2019},
 "college":"Iowa",
 "gamesUntilTradable":100,
+"awards":[{"season":2021,"type":"Third Team All-League"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":28,
@@ -3551,6 +3586,7 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2018},
 "college":"New Mexico State",
+"awards":[{"season":2020,"type":"Third Team All-League"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":29,
@@ -3612,6 +3648,7 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2019},
 "college":"Little Rock",
+"awards":[{"season":2020,"type":"All-Star"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":29,
@@ -3624,6 +3661,9 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2019},
 "college":"LSU",
+"awards":[{"season":2020,"type":"Rookie of the Year"},
+{"season":2020,"type":"Second Team All-League"},
+{"season":2020,"type":"All-Star"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":29,
@@ -3797,17 +3837,20 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2015},
 "college":"St. John's",
+"awards":[{"season":2020,"type":"First Team All-Defensive"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
 "name":"Kadeem Allen",
-"ratings":[{"hgt":26,"stre":28,"spd":56,"jmp":49,"endu":40,"ins":22,"dnk":76,"ft":50,"fg":50,"tp":72,"diq":14,"oiq":53,"drb":43,"pss":38,"reb":24}],
+"ratings":[{"hgt":26,"stre":28,"spd":56,"jmp":49,"endu":40,"ins":22,"dnk":66,"ft":50,"fg":50,"tp":72,"diq":54,"oiq":43,"drb":43,"pss":38,"reb":24}],
 "pos":"SG","hgt":73,"weight":200,
 "born":{"year":1993,"loc":"Wilmington, NC"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628443.png",
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2017},
 "college":"Arizona",
+"awards":[{"season":2018,"type":"First Team All-Defensive"},{"season":2019,"type":"First Team All-Defensive"},
+{"season":2018,"type":"All-Star"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
@@ -4038,8 +4081,8 @@
 {"did":3,"cid":1,"name":"Midwest Region"},
 {"did":4,"cid":1,"name":"Pacific Region"},
 {"did":5,"cid":1,"name":"Southwest Region"}],
-"numGamesPlayoffSeries":[1,1,1],
-"numPlayoffByes":2,
+"numGamesPlayoffSeries":[1,1,1,3],
+"numPlayoffByes":4,
 "playIn":false,
 "minContract":30,"maxContract":100,
 "maxContractLength":1,
