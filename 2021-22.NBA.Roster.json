@@ -2157,7 +2157,7 @@
 
 {"tid":15,
 "name":"Victor Oladipo",
-"ratings":[{"hgt":39,"stre":57,"spd":66,"jmp":77,"endu":68,"ins":62,"dnk":86,"ft":60,"fg":81,"tp":60,"diq":60,"oiq":64,"drb":52,"pss":55,"reb":52}],
+"ratings":[{"hgt":39,"stre":54,"spd":66,"jmp":77,"endu":58,"ins":56,"dnk":78,"ft":60,"fg":76,"tp":60,"diq":57,"oiq":62,"drb":52,"pss":55,"reb":52}],
 "pos":"SG","hgt":76,"weight":213,
 "born":{"year":1992,"loc":"Silver Spring, MD"},
 "moodTraits":["$"],
@@ -2744,7 +2744,7 @@
 
 {"tid":13,
 "name":"Carmelo Anthony",
-"ratings":[{"hgt":54,"stre":64,"spd":48,"jmp":54,"endu":48,"ins":66,"dnk":73,"ft":53,"fg":75,"tp":62,"diq":45,"oiq":55,"drb":50,"pss":42,"reb":64}],
+"ratings":[{"hgt":54,"stre":64,"spd":48,"jmp":54,"endu":53,"ins":66,"dnk":73,"ft":53,"fg":75,"tp":67,"diq":45,"oiq":66,"drb":50,"pss":42,"reb":64}],
 "pos":"PF","hgt":79,"weight":238,
 "born":{"year":1984,"loc":"Brooklyn, NY"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2546.png",
@@ -3997,7 +3997,7 @@
 
 {"tid":3,
 "name":"LaMelo Ball",
-"ratings":[{"hgt":50,"stre":37,"spd":59,"jmp":42,"endu":47,"ins":52,"dnk":72,"ft":40,"fg":54,"tp":66,"diq":42,"oiq":65,"drb":60,"pss":56,"reb":76}],
+"ratings":[{"hgt":50,"stre":37,"spd":59,"jmp":42,"endu":47,"ins":52,"dnk":72,"ft":40,"fg":54,"tp":66,"diq":42,"oiq":65,"drb":60,"pss":64,"reb":76}],
 "pos":"PG","hgt":78,"weight":180,
 "born":{"year":2002,"loc":"Los Angeles, CA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630163.png",
@@ -4512,7 +4512,7 @@
 
 {"tid":20,
 "name":"Darius Bazley",
-"ratings":[{"hgt":55,"stre":55,"spd":59,"jmp":71,"endu":50,"ins":63,"dnk":70,"ft":51,"fg":33,"tp":45,"diq":42,"oiq":54,"drb":42,"pss":38,"reb":77}],
+"ratings":[{"hgt":55,"stre":55,"spd":59,"jmp":71,"endu":50,"ins":63,"dnk":70,"ft":51,"fg":33,"tp":45,"diq":42,"oiq":54,"drb":42,"pss":38,"reb":71}],
 "pos":"PF","hgt":80,"weight":208,
 "born":{"year":2000,"loc":"Boston, MA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629647.png",
@@ -4562,7 +4562,7 @@
 
 {"tid":20,
 "name":"Derrick Favors",
-"ratings":[{"hgt":64,"stre":73,"spd":39,"jmp":59,"endu":44,"ins":64,"dnk":57,"ft":34,"fg":31,"tp":31,"diq":52,"oiq":48,"drb":57,"pss":48,"reb":84}],
+"ratings":[{"hgt":64,"stre":73,"spd":39,"jmp":52,"endu":38,"ins":59,"dnk":53,"ft":34,"fg":31,"tp":26,"diq":52,"oiq":42,"drb":37,"pss":48,"reb":75}],
 "pos":"C","hgt":81,"weight":265,
 "born":{"year":1992,"loc":"Atlanta, GA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202324.png",
@@ -12354,7 +12354,7 @@
 
 {"tid":20,
 "name":"Mike Muscala",
-"ratings":[{"hgt":61,"stre":63,"spd":37,"jmp":35,"endu":37,"ins":62,"dnk":65,"ft":70,"fg":45,"tp":53,"diq":52,"oiq":52,"drb":38,"pss":35,"reb":48}],
+"ratings":[{"hgt":61,"stre":63,"spd":37,"jmp":35,"endu":37,"ins":62,"dnk":65,"ft":60,"fg":45,"tp":53,"diq":52,"oiq":52,"drb":38,"pss":35,"reb":48}],
 "pos":"C","hgt":82,"weight":240,
 "born":{"year":1992,"loc":"St. Louis Park, MN"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203488.png",
