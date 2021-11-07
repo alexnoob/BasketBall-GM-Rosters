@@ -430,6 +430,7 @@
 "playoffsNumTeamsDiv":2,
 "numGamesPlayoffSeries":[1,1,1,1],
 "playIn":false,
+"budget":false,
 "quarterLength":10,
 "salaryCap":1100,
 "maxContractLength":3,
