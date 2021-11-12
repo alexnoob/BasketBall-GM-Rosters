@@ -232,7 +232,9 @@
 {"id":75,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":18,"region":"Iowa","did":1,"cid":0}},
 {"id":76,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":11,"region":"Bakersfield","did":3,"cid":1}},
 {"id":77,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":13,"region":"Santa Cruz","did":3,"cid":1}},
-{"id":78,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":14,"region":"Idaho","did":3,"cid":1}},
+{"id":78,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":14,"region":"Idaho","did":3,"cid":1,
+"imgURL":"https://i.imgur.com/IbU611f.png",
+"imgURLSmall":"https://i.imgur.com/owYJcf0.png"}},
 {"id":79,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":15,"region":"Los Angeles","did":3,"cid":1}},
 {"id":80,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":22,"region":"Reno","did":3,"cid":1}},
 {"id":81,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":12,"region":"Texas","did":2,"cid":1}},
@@ -258,7 +260,7 @@
 "colors":["#003da5","#ffffff","#d50032"],"jersey":"jersey2",
 "imgURL":"https://content.sportslogos.net/logos/17/6014/full/long_island_nets_logo__7346.png",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/6014/full/long_island_nets_logo__7346.png"},
-{"tid":28,"region":"Windy City","name":"Bulls","abbrev":"WCB","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
+{"tid":28,"region":"Windy City","name":"Bulls","abbrev":"WCB","cid":0,"did":1,"pop":0.1,"stadiumCapacity":1000,
 "colors":["#ce1141","#000000","#000000"],"jersey":"jersey2",
 "imgURL":"https://stats.gleague.nba.com/media/img/teams/logos/WCB.svg",
 "imgURLSmall":"https://i.imgur.com/ngb9OiC.png"}
@@ -273,7 +275,7 @@
 "imgURL":"https://i.imgur.com/hO04lRn.png",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/6017/full/salt_lake_city_stars_logo_alternate_2017_sportslogosnet-4271.png"}},
 
-{"id":89,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":20,"region":"Raptors","did":1,"cid":0}},
+{"id":89,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":25,"region":"Raptors","did":1,"cid":0}},
 {"id":90,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":18,"region":"Iowa","did":2,"cid":1}},
 {"id":91,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":16,"region":"Sioux Falls","did":2,"cid":1}}
 
