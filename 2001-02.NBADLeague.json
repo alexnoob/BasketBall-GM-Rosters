@@ -105,7 +105,7 @@
 {"type":"contraction","season":2007,"phase":4,"info":{"tid":9},"id":30},
 
 {"id":31,"type":"expansionDraft","season":2007,"phase":4,"info":{"teams":[
-{"region":"Fort Wayne","name":"Mad Ants","abbrev":"FOR","pop":0.1,"stadiumCapacity":1000,"colors":["#98012e","#fdba31","#000000"],"jersey":"jersey2","imgURL":"https://i.imgur.com/2Ezl0SD.png","imgURLSmall":"https://i.imgur.com/tON9uM9.png","tid":17,"cid":0,"did":0},
+{"tid":17,"region":"Fort Wayne","name":"Mad Ants","abbrev":"FOR","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,"colors":["#98012e","#fdba31","#000000"],"jersey":"jersey2","imgURL":"https://i.imgur.com/2Ezl0SD.png","imgURLSmall":"https://i.imgur.com/tON9uM9.png"},
 {"tid":18,"region":"Iowa","name":"Energy","abbrev":"IWA","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,"colors":["#442284","#e45e14","#c4122c"],"jersey":"jersey2","imgURL":"https://i.imgur.com/iV7Ex6T.png","imgURLSmall":"https://i.imgur.com/peESHyy.png"},
 {"tid":19,"region":"Utah","name":"Flash","cid":1,"did":1,"abbrev":"UTA","pop":0.1,"stadiumCapacity":1000,"colors":["#000000","#ffffff","#e50016"],"jersey":"jersey2","imgURL":"https://i.imgur.com/2wmVFBp.png","imgURLSmall":"https://i.imgur.com/qBz326g.png"},
 {"tid":20,"region":"Rio Grande Valley","name":"Vipers","abbrev":"RGV","cid":1,"did":1,"pop":0.1,"stadiumCapacity":1000,"colors":["#000000","#bc122c","#ffffff"],"jersey":"jersey2","imgURL":"https://i.imgur.com/6mjcDI0.png","imgURLSmall":"https://i.imgur.com/CogrMZo.png"}
@@ -122,10 +122,10 @@
 {"type":"teamInfo","season":2008,"phase":0,"info":{"tid":20,"cid":2,"did":2,"region":"Rio Grande Valley"},"id":37},
 {"type":"teamInfo","season":2008,"phase":0,"info":{"tid":11,"cid":1,"did":1,"region":"Bakersfield","colors":["#042a5c","#ffffff","#ec164c"],"imgURL":"https://upload.wikimedia.org/wikipedia/de/thumb/1/17/Bakersfield_Jam_Logo.svg/539px-Bakersfield_Jam_Logo.svg.png","imgURLSmall":"https://upload.wikimedia.org/wikipedia/de/thumb/1/17/Bakersfield_Jam_Logo.svg/539px-Bakersfield_Jam_Logo.svg.png"},"id":38},
 
-{"type":"expansionDraft","season":2008,"phase":4,"info":{"teams":[
-{"region":"Erie","name":"Bayhawks","abbrev":"ERI","pop":0.1,"stadiumCapacity":1000,"colors":["#000000","#ffffff","#bc9b6a"],"jersey":"jersey2","imgURL":"https://content.sportslogos.net/logos/17/2686/full/a02180cueuiso0ivsmhx07mey.gif","imgURLSmall":"https://content.sportslogos.net/logos/17/2686/full/y3u1bzg0bb0z3wrt14wyfkhlx.gif","tid":21,"cid":0,"did":0},
+{"id":39,"type":"expansionDraft","season":2008,"phase":4,"info":{"teams":[
+{"tid":21,"region":"Erie","name":"Bayhawks","abbrev":"ERI","pop":0.1,"stadiumCapacity":1000,"colors":["#000000","#ffffff","#bc9b6a"],"jersey":"jersey2","imgURL":"https://content.sportslogos.net/logos/17/2686/full/a02180cueuiso0ivsmhx07mey.gif","imgURLSmall":"https://content.sportslogos.net/logos/17/2686/full/y3u1bzg0bb0z3wrt14wyfkhlx.gif","cid":0,"did":0},
 {"tid":22,"region":"Reno","name":"Bighorns","abbrev":"REN","pop":0.1,"stadiumCapacity":1000,"colors":["#044a14","#046ab4","#ccb674"],"jersey":"jersey2","imgURL":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Reno_Bighorns_Logo.svg/539px-Reno_Bighorns_Logo.svg.png","imgURLSmall":"https://i.imgur.com/wUARKNu.png","cid":1,"did":1}
-]},"id":39},
+]}},
 
 {"id":40,"type":"contraction","season":2009,"phase":4,"info":{"tid":12}},
 
@@ -277,7 +277,57 @@
 
 {"id":89,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":25,"region":"Raptors","did":1,"cid":0}},
 {"id":90,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":18,"region":"Iowa","did":2,"cid":1}},
-{"id":91,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":16,"region":"Sioux Falls","did":2,"cid":1}}
+{"id":91,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":16,"region":"Sioux Falls","did":2,"cid":1}},
+
+{"id":92,"type":"expansionDraft","season":2017,"phase":4,"info":{"teams":[
+{"tid":29,"region":"Agua Caliente","name":"Clippers","abbrev":"ACC","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
+"colors":["#d50032","#000000","#003da5"],"jersey":"jersey2",
+"imgURL":"https://content.sportslogos.net/logos/17/6514/full/agua_caliente_clippers_logo__1765.png",
+"imgURLSmall":"https://content.sportslogos.net/logos/17/6514/full/agua_caliente_clippers_logo__9735.png"},
+{"tid":30,"region":"Erie","name":"BayHawks","abbrev":"ERE","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
+"colors":["#000000","#ffffff","#c41230"],"jersey":"jersey2",
+"imgURL":"https://content.sportslogos.net/logos/17/2686/full/a02180cueuiso0ivsmhx07mey.gif",
+"imgURLSmall":"https://content.sportslogos.net/logos/17/2686/full/y3u1bzg0bb0z3wrt14wyfkhlx.gif"},
+{"tid":31,"region":"Memphis","name":"Hustle","abbrev":"MEM","cid":1,"did":3,"pop":0.1,"stadiumCapacity":1000,
+"colors":["#dc261c","#ffffff","#ffffff"],"jersey":"jersey2",
+"imgURL":"https://content.sportslogos.net/logos/17/6517/full/memphis_hustle_logo__1812.png",
+"imgURLSmall":"https://content.sportslogos.net/logos/17/6517/full/memphis_hustle_logo__8156.png"},
+{"tid":32,"region":"Wisconsin","name":"Herd","abbrev":"WIS","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
+"colors":["#00471b","#ffffff","#eee1c6"],"jersey":"jersey2",
+"imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Wisconsin_Herd_logo.svg/1024px-Wisconsin_Herd_logo.svg.png",
+"imgURLSmall":"https://i.imgur.com/K1fYY4C.png"}
+]}},
+
+{"id":93,"type":"gameAttributes","season":2018,"phase":0,"info":{"confs":[{"cid":0,"name":"Eastern Conference"},{"cid":1,"name":"Western Conference"}],"divs":[{"did":0,"cid":0,"name":"Atlantic Division"},{"did":1,"cid":0,"name":"Central Division"},{"did":2,"cid":0,"name":"Southeast Division"},{"did":3,"cid":1,"name":"Midwest Division"},{"did":4,"cid":1,"name":"Pacific Division"},{"did":5,"cid":1,"name":"Southwest Division"}],"numGamesPlayoffSeries":[1,1,1,3],"numPlayoffByes":4}},
+
+{"id":94,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":21,"region":"Lakeland","name":"Magic","abbrev":"LAK",
+"did":2,"cid":0,"colors":["#000000","#ffffff","#0057b7"],
+"imgURL":"https://content.sportslogos.net/logos/17/6513/full/lakeland_magic_logo__4014.png",
+"imgURLSmall":"https://content.sportslogos.net/logos/17/6513/full/lakeland_magic_logo_alternate_2018_sportslogosnet-4135.png"}},
+{"id":95,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":18,"region":"Iowa","name":"Wolves","abbrev":"IOW",
+"did":3,"cid":1,"colors":["#0c2340","#ffffff","#9ea2a2"],
+"imgURL":"https://content.sportslogos.net/logos/17/6516/full/iowa_wolves_logo__8735.png",
+"imgURLSmall":"https://content.sportslogos.net/logos/17/6516/full/iowa_wolves_logo__4044.png"}},
+{"id":96,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":15,"region":"South Bay","name":"Lakers","abbrev":"SBL",
+"did":4,"cid":1,"colors":["#552583","#fdb927","#fdb927"],
+"imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/9/90/South_Bay_Lakers_logo.svg/1920px-South_Bay_Lakers_logo.svg.png",
+"imgURLSmall":"https://i.imgur.com/r7HAr3b.png"}},
+{"id":97,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":17,"region":"Fort Wayne","name":"Mad Ants",
+"did":1,"cid":0,"colors":["#002d62","#fdbb30","#fdbb30"],
+"imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Fort_Wayne_Mad_Ants_logo.svg/1920px-Fort_Wayne_Mad_Ants_logo.svg.png",
+"imgURLSmall":"https://a.espncdn.com/i/teamlogos/nba-development/500/scoreboard/fwn.png"}},
+{"id":98,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":1,"region":"Austin","did":5,"cid":1}},
+{"id":99,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":12,"region":"Texas","did":5,"cid":1}},
+{"id":100,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":14,"region":"Salt Lake City","did":5,"cid":1}},
+{"id":101,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":20,"region":"Rio Grande Valley","did":5,"cid":1}},
+{"id":102,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":11,"region":"Northern Arizona","did":4,"cid":1}},
+{"id":103,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":13,"region":"Santa Cruz","did":4,"cid":1}},
+{"id":104,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":22,"region":"Reno","did":4,"cid":1,
+"colors":["#000000","#ffffff","#3c1e57"],
+"imgURL":"https://i.imgur.com/6L0DleA.png","imgURLSmall":"https://i.imgur.com/nxfbm2g.png"}},
+{"id":105,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":29,"region":"Agua Caliente","did":4,"cid":1}},
+{"id":106,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":0,"region":"Oklahoma City","did":3,"cid":1}},
+{"id":107,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":16,"region":"Sioux Falls","did":3,"cid":1}}
 
 ],
 
