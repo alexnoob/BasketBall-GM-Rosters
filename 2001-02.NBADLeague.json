@@ -62,23 +62,34 @@
 
 {"id":5,"type":"teamInfo","season":2004,"phase":0,"info":{"tid":0,"region":"Asheville","colors":["#01a6e1","#ffffff","#074f81"],"imgURL":"https://content.sportslogos.net/logos/17/301/full/1600.gif","imgURLSmall":"https://i.imgur.com/eNdz7Vm.png"}},
 {"id":6,"type":"teamInfo","season":2004,"phase":0,"info":{"tid":1,"region":"Columbus","colors":["#c02b17","#ffffff","#000000"],"imgURL":"https://content.sportslogos.net/logos/17/298/full/1602.gif","imgURLSmall":"https://i.imgur.com/CtoRSj2.png"}},
-{"id":7,"type":"teamInfo","season":2004,"phase":0,"info":{"tid":2,"region":"Fayetteville","name":"Patriots","colors":["#a90615","#ffffff","#000000"],"imgURL":"https://content.sportslogos.net/logos/17/302/full/1604.gif","imgURLSmall":"https://i.imgur.com/2H5YEHB.png"}},
-{"type":"teamInfo","season":2004,"phase":0,"info":{"tid":4,"region":"Huntsville","name":"Flight","colors":["#f3bb22","#ffffff","#b92333"],"imgURL":"https://content.sportslogos.net/logos/17/300/full/1606.gif","imgURLSmall":"https://i.imgur.com/wHrnz8n.png"},"id":8},
+{"id":7,"type":"teamInfo","season":2004,"phase":0,"info":{"tid":2,"region":"Fayetteville","colors":["#a90615","#ffffff","#000000"],"imgURL":"https://content.sportslogos.net/logos/17/302/full/1604.gif","imgURLSmall":"https://i.imgur.com/2H5YEHB.png"}},
+{"id":8,"type":"teamInfo","season":2004,"phase":0,"info":{"tid":4,"region":"Huntsville","name":"Flight",
+"colors":["#f3bb22","#ffffff","#b92333"],
+"imgURL":"https://content.sportslogos.net/logos/17/300/full/1606.gif",
+"imgURLSmall":"https://i.imgur.com/wHrnz8n.png"}},
 {"type":"teamInfo","season":2004,"phase":0,"info":{"tid":6,"region":"Charleston","name":"Lowgators","abbrev":"CHA","colors":["#00784b","#ffffff","#e86d11"],"imgURL":"https://content.sportslogos.net/logos/17/296/full/1609.gif","imgURLSmall":"https://i.imgur.com/Pyoo35c.png"},"id":9},
 {"type":"teamInfo","season":2004,"phase":0,"info":{"tid":7,"region":"Roanoke","name":"Dazzle","imgURL":"https://content.sportslogos.net/logos/17/303/full/1611.gif","imgURLSmall":"https://i.imgur.com/2Yq2Db0.png"},"id":10},
 {"type":"gameAttributes","season":2005,"phase":0,"info":{"numGames":48},"id":11},
 {"type":"teamInfo","season":2005,"phase":0,"info":{"tid":6,"cid":0,"did":0,"region":"Florida","name":"Flame","abbrev":"FLO","colors":["#60bb46","#ffffff","#f26430"],"imgURL":"https://content.sportslogos.net/logos/17/304/full/2138.gif","imgURLSmall":"https://i.imgur.com/hEKpJeJ.png"},"id":12},
-{"type":"expansionDraft","season":2005,"phase":4,"info":{"teams":[{"region":"Arkansas","name":"RimRockers","abbrev":"ARK","pop":0.1,"stadiumCapacity":1000,"colors":["#d21845","#ffffff","#006bb6"],"jersey":"jersey2","imgURL":"https://content.sportslogos.net/logos/17/2130/full/wfbm8r7vuaiad7hdaw3s.gif","imgURLSmall":"https://content.sportslogos.net/logos/17/2130/full/lyek34xdendhyskunqvl.gif","tid":8,"cid":0,"did":0}]},"id":13},
-{"type":"expansionDraft","season":2005,"phase":4,"info":{"teams":[{"region":"Fort Worth","name":"Flyers","abbrev":"FWF","pop":0.1,"stadiumCapacity":1000,"colors":["#4c90cd","#ffffff","#b97845"],"jersey":"jersey2","imgURL":"https://content.sportslogos.net/logos/17/2127/full/hqxxdx6k8erwdac9rmye.gif","imgURLSmall":"https://content.sportslogos.net/logos/17/2127/full/l0vryzphd58pa6uex5a5.gif","tid":9,"cid":0,"did":0}]},"id":14},
-{"type":"teamInfo","season":2006,"phase":0,"info":{"tid":4,"cid":0,"did":0,"region":"Albuquerque","name":"Thunderbirds","abbrev":"ALB","colors":["#c75b12","#ffffff","#1c1e1c"],"imgURL":"https://content.sportslogos.net/logos/17/2122/full/legu604fgo658ktghphb.gif","imgURLSmall":"https://i.imgur.com/MLOz2kz.png"},"id":15},
-{"type":"teamInfo","season":2006,"phase":0,"info":{"tid":1,"cid":0,"did":0,"region":"Austin","name":"Toros","abbrev":"AUS","colors":["#005595","#b4975a","#98002d"],"imgURL":"https://content.sportslogos.net/logos/17/2121/full/fi4gvxmcdew8evwekq2b.gif","imgURLSmall":"https://content.sportslogos.net/logos/17/2121/full/77uiiwds9ea5gqxr58h0.gif"},"id":16},
-{"id":17,"type":"teamInfo","season":2006,"phase":0,"info":{"tid":0,"cid":0,"did":0,"region":"Tulsa","name":"66ers","abbrev":"TUL","colors":["#bf2f37","#f9a01a","#000000"],"imgURL":"https://content.sportslogos.net/logos/17/2120/full/axj8epu71uifq2k10hjt.gif","imgURLSmall":"https://content.sportslogos.net/logos/17/2120/full/gy39hdqqqxj471dnu9vj.gif"}},
+{"id":13,"type":"expansionDraft","season":2005,"phase":4,"info":{"teams":[
+	{"tid":8,"cid":0,"did":0,"region":"Arkansas","name":"RimRockers","abbrev":"ARK","pop":0.1,"stadiumCapacity":1000,
+	"colors":["#d21845","#ffffff","#006bb6"],"jersey":"jersey2",
+	"imgURL":"https://content.sportslogos.net/logos/17/2130/full/wfbm8r7vuaiad7hdaw3s.gif",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/2130/full/lyek34xdendhyskunqvl.gif"},
+	{"tid":9,"cid":0,"did":0,"region":"Fort Worth","name":"Flyers","abbrev":"FWF",
+	"pop":0.1,"stadiumCapacity":1000,"colors":["#4c90cd","#ffffff","#b97845"],"jersey":"jersey2",
+	"imgURL":"https://content.sportslogos.net/logos/17/2127/full/hqxxdx6k8erwdac9rmye.gif",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/2127/full/l0vryzphd58pa6uex5a5.gif"}]}},
 
-{"type":"contraction","season":2006,"phase":4,"info":{"tid":2},"id":18},
-{"type":"contraction","season":2006,"phase":4,"info":{"tid":6},"id":19},
-{"type":"contraction","season":2006,"phase":4,"info":{"tid":7},"id":20},
+{"id":14,"type":"teamInfo","season":2006,"phase":0,"info":{"tid":4,"cid":0,"did":0,"region":"Albuquerque","name":"Thunderbirds","abbrev":"ALB","colors":["#c75b12","#ffffff","#1c1e1c"],"imgURL":"https://content.sportslogos.net/logos/17/2122/full/legu604fgo658ktghphb.gif","imgURLSmall":"https://i.imgur.com/MLOz2kz.png"}},
+{"type":"teamInfo","season":2006,"phase":0,"info":{"tid":1,"cid":0,"did":0,"region":"Austin","name":"Toros","abbrev":"AUS","colors":["#005595","#b4975a","#98002d"],"imgURL":"https://content.sportslogos.net/logos/17/2121/full/fi4gvxmcdew8evwekq2b.gif","imgURLSmall":"https://content.sportslogos.net/logos/17/2121/full/77uiiwds9ea5gqxr58h0.gif"},"id":15},
+{"id":16,"type":"teamInfo","season":2006,"phase":0,"info":{"tid":0,"cid":0,"did":0,"region":"Tulsa","name":"66ers","abbrev":"TUL","colors":["#bf2f37","#f9a01a","#000000"],"imgURL":"https://content.sportslogos.net/logos/17/2120/full/axj8epu71uifq2k10hjt.gif","imgURLSmall":"https://content.sportslogos.net/logos/17/2120/full/gy39hdqqqxj471dnu9vj.gif"}},
 
-{"type":"expansionDraft","season":2006,"phase":4,"info":{"teams":[
+{"id":17,"type":"contraction","season":2006,"phase":4,"info":{"tid":2}},
+{"id":18,"type":"contraction","season":2006,"phase":4,"info":{"tid":6}},
+{"id":19,"type":"contraction","season":2006,"phase":4,"info":{"tid":7}},
+
+{"id":20,"type":"expansionDraft","season":2006,"phase":4,"info":{"teams":[
 {"region":"Anaheim","name":"Arsenal","abbrev":"ANA","pop":0.1,"stadiumCapacity":1000,"colors":["#002a5c","#ffffff","#e31736"],"jersey":"jersey2","imgURL":"https://content.sportslogos.net/logos/17/2123/full/yhy1gplr3qitph7ebhf2.gif","imgURLSmall":"https://content.sportslogos.net/logos/17/2123/full/bs0oy1e7t07meevfy5qu.gif","tid":10,"cid":0,"did":0},
 {"tid":11,"region":"Bakersfield","name":"Jam","abbrev":"BAK","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,"colors":["#5a97d1","#febd23","#febd23"],"jersey":"jersey2","imgURL":"https://content.sportslogos.net/logos/17/2131/full/etep0zetkeuh7epftscv.gif","imgURLSmall":"https://content.sportslogos.net/logos/17/2131/full/ds0hle7yvhf4qyjw4wvd.gif"},
 {"region":"Colorado","name":"14ers","abbrev":"COL","pop":0.1,"stadiumCapacity":1000,"colors":["#002a5c","#fdbb30","#d31144"],"jersey":"jersey2","imgURL":"https://content.sportslogos.net/logos/17/2125/full/69924crluejsulwjdyeb.gif","imgURLSmall":"https://content.sportslogos.net/logos/17/2125/full/yce8j8hm15otndhnv1bb.gif","tid":12,"cid":0,"did":0},
@@ -89,174 +100,177 @@
 "imgURL":"https://content.sportslogos.net/logos/17/2124/full/7frsqah8wf3whkikgo4n.gif",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/2124/full/qba0hi9gn4d8p2h32t9e.gif"},
 {"tid":16,"region":"Sioux Falls","name":"Skyforce","abbrev":"SXF","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,"colors":["#008ca8","#c4ced4","#000000"],"jersey":"jersey2","imgURL":"https://content.sportslogos.net/logos/17/2129/full/ceudqnf30bgjf0u41gzu.gif","imgURLSmall":"https://content.sportslogos.net/logos/17/2129/full/qng8ettc8a43nxq6gkxl.gif"}
-]},"id":21},
+]}},
 
-{"id":22,"type":"gameAttributes","season":2007,"phase":0,"info":{"numGames":50,"numGamesPlayoffSeries":[1,1,1],
+{"id":21,"type":"gameAttributes","season":2007,"phase":0,"info":{"numGames":50,"numGamesPlayoffSeries":[1,1,1],
 "numPlayoffByes":2,"confs":[{"cid":0,"name":"Eastern Division"},{"cid":1,"name":"Western Division"}],"divs":[{"did":0,"cid":0,"name":"Eastern Division"},{"did":1,"cid":1,"name":"Western Division"}]}},
 
-{"type":"teamInfo","season":2007,"phase":0,"info":{"tid":4,"cid":1,"did":1,"region":"Albuquerque"},"id":23},
-{"type":"teamInfo","season":2007,"phase":0,"info":{"tid":10,"cid":1,"did":1,"region":"Anaheim","name":"Arsenal"},"id":24},
-{"type":"teamInfo","season":2007,"phase":0,"info":{"tid":11,"cid":1,"did":1,"region":"Bakersfield","name":"Jam"},"id":25},
-{"type":"teamInfo","season":2007,"phase":0,"info":{"tid":12,"cid":1,"did":1,"region":"Colorado","name":"14ers"},"id":26},
-{"type":"teamInfo","season":2007,"phase":0,"info":{"tid":14,"cid":1,"did":1,"region":"Idaho","name":"Stampede"},"id":27},
-{"type":"teamInfo","season":2007,"phase":0,"info":{"tid":15,"cid":1,"did":1},"id":28},
+{"type":"teamInfo","season":2007,"phase":0,"info":{"tid":4,"cid":1,"did":1,"region":"Albuquerque"},"id":22},
+{"type":"teamInfo","season":2007,"phase":0,"info":{"tid":10,"cid":1,"did":1,"region":"Anaheim"},"id":23},
+{"type":"teamInfo","season":2007,"phase":0,"info":{"tid":11,"cid":1,"did":1,"region":"Bakersfield"},"id":24},
+{"type":"teamInfo","season":2007,"phase":0,"info":{"tid":12,"cid":1,"did":1,"region":"Colorado"},"id":25},
+{"type":"teamInfo","season":2007,"phase":0,"info":{"tid":14,"cid":1,"did":1,"region":"Idaho"},"id":26},
+{"id":27,"type":"teamInfo","season":2007,"phase":0,"info":{"tid":15,"cid":1,"did":1}},
 
-{"type":"contraction","season":2007,"phase":4,"info":{"tid":8},"id":29},
-{"type":"contraction","season":2007,"phase":4,"info":{"tid":9},"id":30},
+{"id":28,"type":"contraction","season":2007,"phase":4,"info":{"tid":8}},
+{"id":29,"type":"contraction","season":2007,"phase":4,"info":{"tid":9}},
 
-{"id":31,"type":"expansionDraft","season":2007,"phase":4,"info":{"teams":[
+{"id":30,"type":"expansionDraft","season":2007,"phase":4,"info":{"teams":[
 {"tid":17,"region":"Fort Wayne","name":"Mad Ants","abbrev":"FOR","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,"colors":["#98012e","#fdba31","#000000"],"jersey":"jersey2","imgURL":"https://i.imgur.com/2Ezl0SD.png","imgURLSmall":"https://i.imgur.com/tON9uM9.png"},
 {"tid":18,"region":"Iowa","name":"Energy","abbrev":"IWA","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,"colors":["#442284","#e45e14","#c4122c"],"jersey":"jersey2","imgURL":"https://i.imgur.com/iV7Ex6T.png","imgURLSmall":"https://i.imgur.com/peESHyy.png"},
 {"tid":19,"region":"Utah","name":"Flash","cid":1,"did":1,"abbrev":"UTA","pop":0.1,"stadiumCapacity":1000,"colors":["#000000","#ffffff","#e50016"],"jersey":"jersey2","imgURL":"https://i.imgur.com/2wmVFBp.png","imgURLSmall":"https://i.imgur.com/qBz326g.png"},
 {"tid":20,"region":"Rio Grande Valley","name":"Vipers","abbrev":"RGV","cid":1,"did":1,"pop":0.1,"stadiumCapacity":1000,"colors":["#000000","#bc122c","#ffffff"],"jersey":"jersey2","imgURL":"https://i.imgur.com/6mjcDI0.png","imgURLSmall":"https://i.imgur.com/CogrMZo.png"}
 ]}},
 
-{"type":"gameAttributes","season":2008,"phase":0,"info":{"confs":[{"cid":0,"name":"Central Division"},{"cid":1,"name":"Western Division"},{"cid":2,"name":"Southwest Division"}],"divs":[{"did":0,"cid":0,"name":"Central Division"},{"did":1,"cid":1,"name":"Western Division"},{"did":2,"cid":2,"name":"Southwest Division"}]},"id":32},
+{"type":"gameAttributes","season":2008,"phase":0,"info":{"confs":[{"cid":0,"name":"Central Division"},{"cid":1,"name":"Western Division"},{"cid":2,"name":"Southwest Division"}],"divs":[{"did":0,"cid":0,"name":"Central Division"},{"did":1,"cid":1,"name":"Western Division"},{"did":2,"cid":2,"name":"Southwest Division"}]},"id":31},
 
-{"type":"teamInfo","season":2008,"phase":0,"info":{"tid":4,"cid":2,"did":2,"region":"Albuquerque"},"id":33},
-{"type":"teamInfo","season":2008,"phase":0,"info":{"tid":1,"cid":2,"did":2,"region":"Austin","imgURL":"https://i.imgur.com/APoIMGx.png","imgURLSmall":"https://i.imgur.com/GdSoJdn.png","colors":["#000000","#ffffff","#000000"]},"id":34},
-{"type":"teamInfo","season":2008,"phase":0,"info":{"tid":12,"cid":2,"did":2,"region":"Colorado"},"id":35},
+{"type":"teamInfo","season":2008,"phase":0,"info":{"tid":4,"cid":2,"did":2,"region":"Albuquerque"},"id":32},
+{"type":"teamInfo","season":2008,"phase":0,"info":{"tid":1,"cid":2,"did":2,"region":"Austin","imgURL":"https://i.imgur.com/APoIMGx.png","imgURLSmall":"https://i.imgur.com/GdSoJdn.png","colors":["#000000","#ffffff","#000000"]},"id":33},
+{"type":"teamInfo","season":2008,"phase":0,"info":{"tid":12,"cid":2,"did":2,"region":"Colorado"},"id":34},
 {"type":"teamInfo","season":2008,"phase":0,"info":{"tid":0,"cid":2,"did":2,"region":"Tulsa",
 "imgURL":"https://i.imgur.com/ML4bj6z.png",
-"imgURLSmall":"https://content.sportslogos.net/logos/17/2120/full/gy39hdqqqxj471dnu9vj.gif"},"id":36},
-{"type":"teamInfo","season":2008,"phase":0,"info":{"tid":20,"cid":2,"did":2,"region":"Rio Grande Valley"},"id":37},
-{"type":"teamInfo","season":2008,"phase":0,"info":{"tid":11,"cid":1,"did":1,"region":"Bakersfield","colors":["#042a5c","#ffffff","#ec164c"],"imgURL":"https://upload.wikimedia.org/wikipedia/de/thumb/1/17/Bakersfield_Jam_Logo.svg/539px-Bakersfield_Jam_Logo.svg.png","imgURLSmall":"https://upload.wikimedia.org/wikipedia/de/thumb/1/17/Bakersfield_Jam_Logo.svg/539px-Bakersfield_Jam_Logo.svg.png"},"id":38},
+"imgURLSmall":"https://content.sportslogos.net/logos/17/2120/full/gy39hdqqqxj471dnu9vj.gif"},"id":35},
+{"type":"teamInfo","season":2008,"phase":0,"info":{"tid":20,"cid":2,"did":2,"region":"Rio Grande Valley"},"id":36},
+{"type":"teamInfo","season":2008,"phase":0,"info":{"tid":11,"cid":1,"did":1,"region":"Bakersfield","colors":["#042a5c","#ffffff","#ec164c"],"imgURL":"https://upload.wikimedia.org/wikipedia/de/thumb/1/17/Bakersfield_Jam_Logo.svg/539px-Bakersfield_Jam_Logo.svg.png","imgURLSmall":"https://upload.wikimedia.org/wikipedia/de/thumb/1/17/Bakersfield_Jam_Logo.svg/539px-Bakersfield_Jam_Logo.svg.png"},"id":37},
 
-{"id":39,"type":"expansionDraft","season":2008,"phase":4,"info":{"teams":[
-{"tid":21,"region":"Erie","name":"Bayhawks","abbrev":"ERI","pop":0.1,"stadiumCapacity":1000,"colors":["#000000","#ffffff","#bc9b6a"],"jersey":"jersey2","imgURL":"https://content.sportslogos.net/logos/17/2686/full/a02180cueuiso0ivsmhx07mey.gif","imgURLSmall":"https://content.sportslogos.net/logos/17/2686/full/y3u1bzg0bb0z3wrt14wyfkhlx.gif","cid":0,"did":0},
+{"id":38,"type":"expansionDraft","season":2008,"phase":4,"info":{"teams":[
+{"tid":21,"region":"Erie","name":"BayHawks","abbrev":"ERI","pop":0.1,"stadiumCapacity":1000,"colors":["#000000","#ffffff","#bc9b6a"],"jersey":"jersey2","imgURL":"https://content.sportslogos.net/logos/17/2686/full/a02180cueuiso0ivsmhx07mey.gif","imgURLSmall":"https://content.sportslogos.net/logos/17/2686/full/y3u1bzg0bb0z3wrt14wyfkhlx.gif","cid":0,"did":0},
 {"tid":22,"region":"Reno","name":"Bighorns","abbrev":"REN","pop":0.1,"stadiumCapacity":1000,"colors":["#044a14","#046ab4","#ccb674"],"jersey":"jersey2","imgURL":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Reno_Bighorns_Logo.svg/539px-Reno_Bighorns_Logo.svg.png","imgURLSmall":"https://i.imgur.com/wUARKNu.png","cid":1,"did":1}
 ]}},
 
-{"id":40,"type":"contraction","season":2009,"phase":4,"info":{"tid":12}},
+{"id":39,"type":"contraction","season":2009,"phase":4,"info":{"tid":12}},
 
-{"id":41,"type":"expansionDraft","season":2009,"phase":4,"info":{"teams":[
-{"region":"Maine","name":"Red Claws","abbrev":"MAI","pop":0.1,"stadiumCapacity":1000,"colors":["#ec164c","#ffffff","#ffffff"],"jersey":"jersey2","imgURL":"https://i.imgur.com/QdkLnsj.png","imgURLSmall":"https://i.imgur.com/HNcU3lp.png","tid":23,"cid":0,"did":0}
+{"id":40,"type":"expansionDraft","season":2009,"phase":4,"info":{"teams":[
+{"tid":23,"cid":0,"did":0,"region":"Maine","name":"Red Claws","abbrev":"MAI","pop":0.1,"stadiumCapacity":1000,"colors":["#ec164c","#ffffff","#ffffff"],"jersey":"jersey2","imgURL":"https://i.imgur.com/QdkLnsj.png","imgURLSmall":"https://i.imgur.com/HNcU3lp.png"}
 ]}},
 
-{"id":42,"type":"gameAttributes","season":2010,"phase":0,"info":{"confs":[{"cid":0,"name":"Eastern Conference"},{"cid":1,"name":"Western Conference"}],"divs":[{"did":0,"cid":0,"name":"Eastern Conference"},{"did":1,"cid":1,"name":"Western Conference"}],"numGamesPlayoffSeries":[3,3,3],"numPlayoffByes":0,"playoffsByConf":false,"playoffsNumTeamsDiv":1}},
+{"id":41,"type":"gameAttributes","season":2010,"phase":0,"info":{
+	"confs":[{"cid":0,"name":"Eastern Conference"},{"cid":1,"name":"Western Conference"}],
+	"divs":[{"did":0,"cid":0,"name":"Eastern Conference"},{"did":1,"cid":1,"name":"Western Conference"}],
+	"numGamesPlayoffSeries":[3,3,3],"numPlayoffByes":0,"playoffsByConf":false,"playoffsNumTeamsDiv":1}},
 
-{"type":"teamInfo","season":2010,"phase":0,"info":{"tid":10,"cid":0,"did":0,"region":"Springfield","name":"Armor","abbrev":"SPR","colors":["#000000","#b4b2b4","#c40e2c"],"imgURL":"https://i.imgur.com/mc3DIzi.png","imgURLSmall":"https://i.imgur.com/iXMbbjs.png"},"id":43},
-{"type":"teamInfo","season":2010,"phase":0,"info":{"tid":4,"cid":1,"did":1,"region":"Albuquerque"},"id":44},
-{"type":"teamInfo","season":2010,"phase":0,"info":{"tid":1,"cid":1,"did":1,"region":"Austin"},"id":45},
-{"type":"teamInfo","season":2010,"phase":0,"info":{"tid":20,"cid":1,"did":1,"region":"Rio Grande Valley"},"id":46},
+{"type":"teamInfo","season":2010,"phase":0,"info":{"tid":10,"cid":0,"did":0,"region":"Springfield","name":"Armor","abbrev":"SPR","colors":["#000000","#b4b2b4","#c40e2c"],"imgURL":"https://i.imgur.com/mc3DIzi.png","imgURLSmall":"https://i.imgur.com/iXMbbjs.png"},"id":42},
+{"type":"teamInfo","season":2010,"phase":0,"info":{"tid":4,"cid":1,"did":1,"region":"Albuquerque"},"id":43},
+{"type":"teamInfo","season":2010,"phase":0,"info":{"tid":1,"cid":1,"did":1,"region":"Austin"},"id":44},
+{"type":"teamInfo","season":2010,"phase":0,"info":{"tid":20,"cid":1,"did":1,"region":"Rio Grande Valley"},"id":45},
 {"type":"teamInfo","season":2010,"phase":0,"info":{"tid":0,"cid":1,"did":1,"region":"Tulsa",
 "imgURL":"https://i.imgur.com/YfT0zZ5.png",
 "imgURLSmall":"https://i.imgur.com/qCePnDZ.png",
-"colors":["#047ec4","#ffffff","#ec5234"]},"id":47},
+"colors":["#047ec4","#ffffff","#ec5234"]},"id":46},
 {"type":"teamInfo","season":2010,"phase":0,"info":{"tid":13,"region":"Dakota",
 "imgURL":"https://i.imgur.com/RgjF381.png",
 "imgURLSmall":"https://i.imgur.com/RgjF381.png",
-"colors":["#5a419a","#ffffff","#04863c"]},"id":48},
+"colors":["#5a419a","#ffffff","#04863c"]},"id":47},
 
-{"id":49,"type":"contraction","season":2010,"phase":4,"info":{"tid":15}},
+{"id":48,"type":"contraction","season":2010,"phase":4,"info":{"tid":15}},
 
-{"id":50,"type":"expansionDraft","season":2010,"phase":4,"info":{"teams":[
+{"id":49,"type":"expansionDraft","season":2010,"phase":4,"info":{"teams":[
 {"tid":12,"region":"Texas","name":"Legends","abbrev":"TEX","cid":1,"did":1,"pop":0.1,"stadiumCapacity":1000,"colors":["#ec164c","#ffffff","#ffffff"],"jersey":"jersey2",
 "imgURL":"https://upload.wikimedia.org/wikipedia/ru/thumb/3/3b/Texas_Legends_Logo.svg/254px-Texas_Legends_Logo.svg.png",
 "imgURLSmall":"https://i.imgur.com/uMex6LU.png"}]}},
 
 {"type":"teamInfo","season":2011,"phase":0,"info":{"tid":4,"region":"New Mexico","abbrev":"NMX","colors":["#c75b12","#000000","#fdb812"],
 "imgURL":"https://i.imgur.com/NjXlTHf.png",
-"imgURLSmall":"https://i.imgur.com/MLOz2kz.png"},"id":51},
+"imgURLSmall":"https://i.imgur.com/MLOz2kz.png"},"id":50},
 {"type":"teamInfo","season":2011,"phase":0,"info":{"tid":13,"region":"Dakota","colors":["#5a419a","#ffffff","#04863c"],
 "imgURL":"https://i.imgur.com/H3vFNk7.png",
-"imgURLSmall":"https://i.imgur.com/H3vFNk7.png"},"id":52},
+"imgURLSmall":"https://i.imgur.com/H3vFNk7.png"},"id":51},
 {"type":"teamInfo","season":2011,"phase":0,"info":{"tid":20,"region":"Rio Grande Valley",
 "imgURL":"https://content.sportslogos.net/logos/17/2612/full/rio_grande_valley_vipers_logo_primary_dark_2018_sportslogosnet-6810.png",
-"imgURLSmall":"https://i.imgur.com/CogrMZo.png"},"id":53},
+"imgURLSmall":"https://i.imgur.com/CogrMZo.png"},"id":52},
 
-{"type":"contraction","season":2011,"phase":4,"info":{"tid":19},"id":54},
+{"type":"contraction","season":2011,"phase":4,"info":{"tid":19},"id":53},
 
-{"id":55,"type":"expansionDraft","season":2011,"phase":4,"info":{"teams":[
+{"id":54,"type":"expansionDraft","season":2011,"phase":4,"info":{"teams":[
 {"tid":15,"region":"Los Angeles","name":"D-Fenders","abbrev":"LAD","cid":1,"did":1,"pop":0.1,"stadiumCapacity":1000,
 "colors":["#652d89","#ffffff","#ffc424"],"jersey":"jersey2",
 "imgURL":"https://content.sportslogos.net/logos/17/2124/full/7frsqah8wf3whkikgo4n.gif",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/2124/full/qba0hi9gn4d8p2h32t9e.gif"}]}},
 
-{"id":56,"type":"teamInfo","season":2012,"phase":0,"info":{"tid":4,"region":"Canton","name":"Charge","abbrev":"CAN","cid":0,"did":0,"colors":["#6f263d","#ffb81c","#ffb81c"],
+{"id":55,"type":"teamInfo","season":2012,"phase":0,"info":{"tid":4,"region":"Canton","name":"Charge","abbrev":"CAN","cid":0,"did":0,"colors":["#6f263d","#ffb81c","#ffb81c"],
 "imgURL":"https://content.sportslogos.net/logos/17/3781/full/canton_charge_logo__4274.png",
 "imgURLSmall":"https://i.imgur.com/8S3cbLi.png"}},
 
-{"id":57,"type":"gameAttributes","season":2013,"phase":0,"info":{"confs":[{"cid":0,"name":"Eastern Conference"},{"cid":1,"name":"Western Conference"},{"cid":2,"name":"Central Conference"}],"divs":[{"did":0,"cid":0,"name":"Eastern Conference"},{"did":1,"cid":1,"name":"Western Conference"},{"did":2,"cid":2,"name":"Central Conference"}]}},
+{"id":56,"type":"gameAttributes","season":2013,"phase":0,"info":{"confs":[{"cid":0,"name":"Eastern Conference"},{"cid":1,"name":"Western Conference"},{"cid":2,"name":"Central Conference"}],"divs":[{"did":0,"cid":0,"name":"Eastern Conference"},{"did":1,"cid":1,"name":"Western Conference"},{"did":2,"cid":2,"name":"Central Conference"}]}},
 
-{"id":58,"type":"teamInfo","season":2013,"phase":0,"info":{"tid":20,"region":"Rio Grande Valley","cid":2,"did":2}},
-{"id":59,"type":"teamInfo","season":2013,"phase":0,"info":{"tid":1,"region":"Austin","cid":2,"did":2}},
-{"id":60,"type":"teamInfo","season":2013,"phase":0,"info":{"tid":0,"region":"Tulsa","cid":2,"did":2}},
-{"id":61,"type":"teamInfo","season":2013,"phase":0,"info":{"tid":12,"region":"Texas","cid":2,"did":2}},
-{"id":62,"type":"teamInfo","season":2013,"phase":0,"info":{"tid":18,"region":"Iowa","cid":2,"did":2}},
-{"id":63,"type":"teamInfo","season":2013,"phase":0,
+{"id":57,"type":"teamInfo","season":2013,"phase":0,"info":{"tid":20,"region":"Rio Grande Valley","cid":2,"did":2}},
+{"id":58,"type":"teamInfo","season":2013,"phase":0,"info":{"tid":1,"region":"Austin","cid":2,"did":2}},
+{"id":59,"type":"teamInfo","season":2013,"phase":0,"info":{"tid":0,"region":"Tulsa","cid":2,"did":2}},
+{"id":60,"type":"teamInfo","season":2013,"phase":0,"info":{"tid":12,"region":"Texas","cid":2,"did":2}},
+{"id":61,"type":"teamInfo","season":2013,"phase":0,"info":{"tid":18,"region":"Iowa","cid":2,"did":2}},
+{"id":62,"type":"teamInfo","season":2013,"phase":0,
 "info":{"tid":16,"region":"Sioux Falls","cid":2,"did":2,"colors":["#000000","#ffffff","#98002e"],
 "imgURL":"https://i.imgur.com/X8T8rOt.png","imgURLSmall":"https://i.imgur.com/cPaR8nD.png"}},
-{"id":64,"type":"teamInfo","season":2013,"phase":0,
+{"id":63,"type":"teamInfo","season":2013,"phase":0,
 "info":{"tid":13,"region":"Santa Cruz","name":"Warriors","abbrev":"SCW","cid":1,"did":1,"colors":["#1d428a","#fdb927","#fdb927"],
 "imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Santa_Cruz_Warriors_logo.svg/311px-Santa_Cruz_Warriors_logo.svg.png",
 "imgURLSmall":"https://i.imgur.com/m2ti9Iz.png"}},
-{"id":65,"type":"teamInfo","season":2013,"phase":0,
+{"id":64,"type":"teamInfo","season":2013,"phase":0,
 "info":{"tid":14,"region":"Idaho","colors":["#000000","#ffffff","#f0072e"],
 "imgURL":"https://i.imgur.com/XHZz1Ng.png",
 "imgURLSmall":"https://i.imgur.com/owYJcf0.png"}},
 
-{"id":66,"type":"expansionDraft","season":2013,"phase":4,"info":{"teams":[
+{"id":65,"type":"expansionDraft","season":2013,"phase":4,"info":{"teams":[
 {"tid":19,"region":"Delaware","name":"87ers","abbrev":"DEL","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
 "colors":["#0d4c92","#ffffff","#df1e36"],"jersey":"jersey2",
 "imgURL":"https://upload.wikimedia.org/wikipedia/fr/0/0b/Delaware_87ers.png",
 "imgURLSmall":"https://upload.wikimedia.org/wikipedia/fr/f/f5/87ers_du_Delaware.png"}
 ]}},
 
-{"id":67,"type":"teamInfo","season":2014,"phase":0,"info":{"tid":18,"region":"Iowa","colors":["#00265e","#ffffff","#fdb826"],
+{"id":66,"type":"teamInfo","season":2014,"phase":0,"info":{"tid":18,"region":"Iowa","colors":["#00265e","#ffffff","#fdb826"],
 "imgURL":"https://upload.wikimedia.org/wikipedia/fr/9/9d/Energy_de_l%27Iowa_2013.png",
 "imgURLSmall":"https://upload.wikimedia.org/wikipedia/fr/9/9d/Energy_de_l%27Iowa_2013.png"}},
 
-{"id":68,"type":"expansionDraft","season":2014,"phase":4,"info":{"teams":[
+{"id":67,"type":"expansionDraft","season":2014,"phase":4,"info":{"teams":[
 {"tid":24,"region":"Westchester","name":"Knicks","abbrev":"WES","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
 "colors":["#0068b3","#f68428","#f68428"],"jersey":"jersey2",
 "imgURL":"https://i.imgur.com/q34Z8HB.png",
 "imgURLSmall":"https://i.imgur.com/uIc9Vir.png"}
 ]}},
 
-{"id":69,"type":"gameAttributes","season":2015,"phase":0,"info":{"confs":[{"cid":0,"name":"Eastern Conference"},{"cid":1,"name":"Western Conference"}],"divs":[{"did":0,"cid":0,"name":"East Division"},{"did":1,"cid":0,"name":"Central Division"},{"did":2,"cid":1,"name":"Southwest Division"},{"did":3,"cid":1,"name":"West Division"}]}},
+{"id":68,"type":"gameAttributes","season":2015,"phase":0,"info":{"confs":[{"cid":0,"name":"Eastern Conference"},{"cid":1,"name":"Western Conference"}],"divs":[{"did":0,"cid":0,"name":"East Division"},{"did":1,"cid":0,"name":"Central Division"},{"did":2,"cid":1,"name":"Southwest Division"},{"did":3,"cid":1,"name":"West Division"}]}},
 
-{"id":70,"type":"teamInfo","season":2015,"phase":0,
+{"id":69,"type":"teamInfo","season":2015,"phase":0,
 "info":{"tid":10,"region":"Grand Rapids","name":"Drive","abbrev":"GRD","did":1,"cid":0,"colors":["#d50032","#ffffff","#003da5"],
 "imgURL":"https://content.sportslogos.net/logos/17/5207/full/grand_rapids_drive_logo__7114.png",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/5207/full/grand_rapids_drive_logo_alternate_2015_sportslogosnet-7338.png"}},
-{"id":71,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":0,"did":2,"cid":1,"region":"Oklahoma City","name":"Blue","abbrev":"OKB","colors":["#0072ce","#ffffff","#f94f1c"],
+{"id":70,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":0,"did":2,"cid":1,"region":"Oklahoma City","name":"Blue","abbrev":"OKB","colors":["#0072ce","#ffffff","#f94f1c"],
 "imgURL":"https://content.sportslogos.net/logos/17/5465/full/oklahoma_city_blue_logo__6909.png",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/5465/full/oklahoma_city_blue_logo__9521.png"}},
-{"id":72,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":1,"did":2,"cid":1,"region":"Austin","name":"Spurs",
+{"id":71,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":1,"did":2,"cid":1,"region":"Austin","name":"Spurs",
 "imgURL":"https://content.sportslogos.net/logos/17/5476/full/austin_spurs_logo__6004.png",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/5476/full/austin_spurs_logo__6004.png",
 "colors":["#000000","#ffffff","#8c9093"]}},
-{"id":73,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":16,"region":"Sioux Falls","did":1,"cid":0}},
-{"id":74,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":17,"region":"Fort Wayne","did":1,"cid":0}},
-{"id":75,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":18,"region":"Iowa","did":1,"cid":0}},
-{"id":76,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":11,"region":"Bakersfield","did":3,"cid":1}},
-{"id":77,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":13,"region":"Santa Cruz","did":3,"cid":1}},
-{"id":78,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":14,"region":"Idaho","did":3,"cid":1,
+{"id":72,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":16,"region":"Sioux Falls","did":1,"cid":0}},
+{"id":73,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":17,"region":"Fort Wayne","did":1,"cid":0}},
+{"id":74,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":18,"region":"Iowa","did":1,"cid":0}},
+{"id":75,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":11,"region":"Bakersfield","did":3,"cid":1}},
+{"id":76,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":13,"region":"Santa Cruz","did":3,"cid":1}},
+{"id":77,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":14,"region":"Idaho","did":3,"cid":1,
 "imgURL":"https://i.imgur.com/IbU611f.png",
 "imgURLSmall":"https://i.imgur.com/owYJcf0.png"}},
-{"id":79,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":15,"region":"Los Angeles","did":3,"cid":1}},
-{"id":80,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":22,"region":"Reno","did":3,"cid":1}},
-{"id":81,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":12,"region":"Texas","did":2,"cid":1}},
-{"id":82,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":20,"region":"Rio Grande Valley","did":2,"cid":1}},
+{"id":78,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":15,"region":"Los Angeles","did":3,"cid":1}},
+{"id":79,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":22,"region":"Reno","did":3,"cid":1}},
+{"id":80,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":12,"region":"Texas","did":2,"cid":1}},
+{"id":81,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":20,"region":"Rio Grande Valley","did":2,"cid":1}},
 
-{"id":83,"type":"expansionDraft","season":2015,"phase":4,"info":{"teams":[
+{"id":82,"type":"expansionDraft","season":2015,"phase":4,"info":{"teams":[
 {"tid":25,"region":"Raptors","name":"905","abbrev":"RAP","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
 "colors":["#ce1141","#ffffff","#000000"],"jersey":"jersey2",
 "imgURL":"https://content.sportslogos.net/logos/17/5797/full/raptors_905_logo__2587.png",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/5797/full/raptors_905_logo__1879.png"}
 ]}},
 
-{"id":84,"type":"gameAttributes","season":2016,"phase":0,"info":{"confs":[{"cid":0,"name":"Eastern Conference"},{"cid":1,"name":"Western Conference"}],"divs":[{"did":0,"cid":0,"name":"Atlantic Division"},{"did":1,"cid":0,"name":"Central Division"},{"did":2,"cid":1,"name":"Southwest Division"},{"did":3,"cid":1,"name":"Pacific Division"}]}},
+{"id":83,"type":"gameAttributes","season":2016,"phase":0,"info":{"confs":[{"cid":0,"name":"Eastern Conference"},{"cid":1,"name":"Western Conference"}],"divs":[{"did":0,"cid":0,"name":"Atlantic Division"},{"did":1,"cid":0,"name":"Central Division"},{"did":2,"cid":1,"name":"Southwest Division"},{"did":3,"cid":1,"name":"Pacific Division"}]}},
 
-{"id":85,"type":"teamInfo","season":2016,"phase":0,"info":{"tid":4,"region":"Canton","did":1,"cid":0}},
+{"id":84,"type":"teamInfo","season":2016,"phase":0,"info":{"tid":4,"region":"Canton","did":1,"cid":0}},
 
-{"id":86,"type":"expansionDraft","season":2016,"phase":4,"info":{"teams":[
+{"id":85,"type":"expansionDraft","season":2016,"phase":4,"info":{"teams":[
 {"tid":26,"region":"Greensboro","name":"Swarm","abbrev":"SWR","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
 "colors":["#000000","#00778b","#211747"],"jersey":"jersey2",
 "imgURL":"https://content.sportslogos.net/logos/17/5934/full/greensboro_swarm_logo__6183.png",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/5934/full/greensboro_swarm_logo__2647.png"},
-{"tid":27,"region":"Long Island","name":"Nets","abbrev":"RAP","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
+{"tid":27,"region":"Long Island","name":"Nets","abbrev":"LIN","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
 "colors":["#003da5","#ffffff","#d50032"],"jersey":"jersey2",
 "imgURL":"https://content.sportslogos.net/logos/17/6014/full/long_island_nets_logo__7346.png",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/6014/full/long_island_nets_logo__7346.png"},
@@ -266,14 +280,18 @@
 "imgURLSmall":"https://i.imgur.com/ngb9OiC.png"}
 ]}},
 
-{"id":87,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":11,"region":"Northern Arizona","name":"Suns","abbrev":"NAZ",
+{"id":86,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":11,"region":"Northern Arizona","name":"Suns","abbrev":"NAZ",
 "colors":["#1d1160","#ffffff","#e56020"],
 "imgURL":"https://upload.wikimedia.org/wikipedia/fr/c/cc/Suns_de_Northern_Arizona.png",
 "imgURLSmall":"https://i.imgur.com/EsfXZGe.png"}},
-{"id":88,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":14,"region":"Salt Lake City","name":"Stars","abbrev":"SLC",
+{"id":87,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":14,"region":"Salt Lake City","name":"Stars","abbrev":"SLC",
 "colors":["#002b5c","#f9a01b","#ffffff"],
 "imgURL":"https://i.imgur.com/hO04lRn.png",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/6017/full/salt_lake_city_stars_logo_alternate_2017_sportslogosnet-4271.png"}},
+{"id":88,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":0,"region":"Oklahoma City",
+"colors":["#0072ce","#ffffff","#f94f1c"],
+"imgURL":"https://content.sportslogos.net/logos/17/5465/full/oklahoma_city_blue_logo_primary_2017_sportslogosnet-9884.png",
+"imgURLSmall":"https://content.sportslogos.net/logos/17/5465/full/oklahoma_city_blue_logo_alternate_2017_sportslogosnet-8378.png"}},
 
 {"id":89,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":25,"region":"Raptors","did":1,"cid":0}},
 {"id":90,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":18,"region":"Iowa","did":2,"cid":1}},
@@ -292,13 +310,24 @@
 "colors":["#dc261c","#ffffff","#ffffff"],"jersey":"jersey2",
 "imgURL":"https://content.sportslogos.net/logos/17/6517/full/memphis_hustle_logo__1812.png",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/6517/full/memphis_hustle_logo__8156.png"},
-{"tid":32,"region":"Wisconsin","name":"Herd","abbrev":"WIS","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
+{"tid":32,"region":"Wisconsin","name":"Herd","abbrev":"WIS","cid":0,"did":1,"pop":0.1,"stadiumCapacity":1000,
 "colors":["#00471b","#ffffff","#eee1c6"],"jersey":"jersey2",
 "imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Wisconsin_Herd_logo.svg/1024px-Wisconsin_Herd_logo.svg.png",
 "imgURLSmall":"https://i.imgur.com/K1fYY4C.png"}
 ]}},
 
-{"id":93,"type":"gameAttributes","season":2018,"phase":0,"info":{"confs":[{"cid":0,"name":"Eastern Conference"},{"cid":1,"name":"Western Conference"}],"divs":[{"did":0,"cid":0,"name":"Atlantic Division"},{"did":1,"cid":0,"name":"Central Division"},{"did":2,"cid":0,"name":"Southeast Division"},{"did":3,"cid":1,"name":"Midwest Division"},{"did":4,"cid":1,"name":"Pacific Division"},{"did":5,"cid":1,"name":"Southwest Division"}],"numGamesPlayoffSeries":[1,1,1,3],"numPlayoffByes":4}},
+{"id":93,"type":"gameAttributes","season":2018,"phase":0,"info":{
+	"confs":[
+	{"cid":0,"name":"Eastern Conference"},
+	{"cid":1,"name":"Western Conference"}],
+	"divs":[
+	{"did":0,"cid":0,"name":"Atlantic Division"},
+	{"did":1,"cid":0,"name":"Central Division"},
+	{"did":2,"cid":0,"name":"Southeast Division"},
+	{"did":3,"cid":1,"name":"Midwest Division"},
+	{"did":4,"cid":1,"name":"Pacific Division"},
+	{"did":5,"cid":1,"name":"Southwest Division"}],
+	"numGamesPlayoffSeries":[1,1,1,3],"numPlayoffByes":4}},
 
 {"id":94,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":21,"region":"Lakeland","name":"Magic","abbrev":"LAK",
 "did":2,"cid":0,"colors":["#000000","#ffffff","#0057b7"],
@@ -327,7 +356,143 @@
 "imgURL":"https://i.imgur.com/6L0DleA.png","imgURLSmall":"https://i.imgur.com/nxfbm2g.png"}},
 {"id":105,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":29,"region":"Agua Caliente","did":4,"cid":1}},
 {"id":106,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":0,"region":"Oklahoma City","did":3,"cid":1}},
-{"id":107,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":16,"region":"Sioux Falls","did":3,"cid":1}}
+{"id":107,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":16,"region":"Sioux Falls","did":3,"cid":1}},
+{"id":108,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":25,"region":"Raptors","did":0,"cid":0}},
+{"id":109,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":26,"region":"Greensboro","did":2,"cid":0}},
+{"id":110,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":30,"region":"Erie","did":2,"cid":0}},
+{"id":111,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":19,"region":"Delaware","did":2,"cid":0}},
+
+{"id":112,"type":"expansionDraft","season":2018,"phase":4,"info":{"teams":[
+	{"tid":33,"region":"Capital City","name":"Go-Go","abbrev":"CGG","cid":0,"did":2,"pop":0.7,"stadiumCapacity":1000,
+	"colors":["#0c2340","#c8102e","#ffffff"],"jersey":"jersey2",
+	"imgURL":"https://content.sportslogos.net/logos/17/6612/full/capital_city_go-go_logo__1631.png",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/6612/full/capital_city_go-go_logo__4644.png"}
+]}},
+
+{"id":113,"type":"teamInfo","season":2019,"phase":0,"info":{"tid":22,"region":"Stockton","name":"Kings","abbrev":"STO",
+"colors":["#000000","#ffffff","#5a2d81"],
+"imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Stockton_Kings_logo.svg/1920px-Stockton_Kings_logo.svg.png",
+"imgURLSmall":"https://i.imgur.com/X0AEqQM.png"}},
+{"id":114,"type":"teamInfo","season":2019,"phase":0,"info":{
+	"tid":19,"region":"Delaware","name":"Blue Coats","cid":0,"did":0,
+	"colors":["#003da5","#000000","#003da5"],
+	"imgURL":"https://content.sportslogos.net/logos/17/6613/full/delaware_blue_coats_logo__8620.png",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/6613/full/delaware_blue_coats_logo__3092.png"}},
+{"id":115,"type":"teamInfo","season":2019,"phase":0,"info":{
+	"tid":1,"region":"Austin",
+	"imgURL":"https://upload.wikimedia.org/wikipedia/fr/4/43/Spurs_d%27Austin.png",
+	"imgURLSmall":"https://upload.wikimedia.org/wikipedia/fr/4/43/Spurs_d%27Austin.png"}},
+
+{"id":116,"type":"expansionDraft","season":2019,"phase":4,"info":{"teams":[
+	{"tid":34,"region":"Erie","name":"BayHawks","abbrev":"ERB","cid":0,"did":2,"pop":0.1,"stadiumCapacity":1000,
+	"colors":["#000000","#ffffff","#bc9b6a"],"jersey":"jersey2",
+	"imgURL":"https://content.sportslogos.net/logos/17/2686/full/a02180cueuiso0ivsmhx07mey.gif",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/2686/full/y3u1bzg0bb0z3wrt14wyfkhlx.gif"}
+]}},
+
+{"id":117,"type":"gameAttributes","season":2020,"phase":0,"info":{"numGames":42,"numGamesPlayoffSeries":[],"numPlayoffByes":0}},
+
+{"id":118,"type":"teamInfo","season":2020,"phase":0,"info":{
+	"tid":30,"region":"College Park","name":"Skyhawks","abbrev":"CPK",
+	"colors":["#061822","#fcb928","#c71232"],"stadiumCapacity":3500,
+	"imgURL":"https://content.sportslogos.net/logos/17/6709/full/5637_college_park_skyhawks-primary-2020.png",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/6709/full/2348_college_park_skyhawks-alternate-2020.png"}},
+
+{"id":119,"type":"contraction","season":2020,"phase":4,"info":{"tid":10}},
+{"id":120,"type":"contraction","season":2020,"phase":4,"info":{"tid":11}},
+{"id":121,"type":"contraction","season":2020,"phase":4,"info":{"tid":12}},
+{"id":122,"type":"contraction","season":2020,"phase":4,"info":{"tid":23}},
+{"id":123,"type":"contraction","season":2020,"phase":4,"info":{"tid":16}},
+{"id":124,"type":"contraction","season":2020,"phase":4,"info":{"tid":15}},
+{"id":125,"type":"contraction","season":2020,"phase":4,"info":{"tid":22}},
+{"id":126,"type":"contraction","season":2020,"phase":4,"info":{"tid":28}},
+{"id":127,"type":"contraction","season":2020,"phase":4,"info":{"tid":32}},
+{"id":128,"type":"contraction","season":2020,"phase":4,"info":{"tid":33}},
+{"id":129,"type":"contraction","season":2020,"phase":4,"info":{"tid":30}},
+
+{"id":130,"type":"expansionDraft","season":2020,"phase":4,"info":{"teams":[
+	{"tid":35,"region":"G League","name":"Ignite","abbrev":"GLI","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
+	"colors":["#000000","#ffffff","#bcbcbc"],"jersey":"jersey2",
+	"imgURL":"https://i.imgur.com/XvUbMRX.png",
+	"imgURLSmall":"https://i.imgur.com/XvUbMRX.png"}
+]}},
+
+{"id":131,"type":"gameAttributes","season":2021,"phase":0,"info":{"numGames":15,"numGamesPlayoffSeries":[1,1,1]}},
+
+{"id":132,"type":"teamInfo","season":2021,"phase":0,"info":{"tid":19,"region":"Delaware",
+	"imgURL":"https://content.sportslogos.net/logos/17/6613/full/delaware_blue_coats_logo__5731.png",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/6613/full/delaware_blue_coats_logo_alternate_2019_sportslogosnet-2165.png"}},
+
+{"id":133,"type":"expansionDraft","season":2021,"phase":4,"info":{"teams":[
+	{"tid":36,"region":"Mexico City","name":"Capitanes","abbrev":"MEX","cid":1,"did":5,"pop":9.2,"stadiumCapacity":5242,
+	"colors":["#1d428a","#ffe11a","#ffe11a"],"jersey":"jersey2",
+	"imgURL":"https://content.sportslogos.net/logos/17/6788/full/mexico_city_capitanes_logo_primary_20228717.png",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/6788/full/mexico_city_capitanes_logo_alternate_2022_sportslogosnet-6214.png"},
+	{"tid":10,"region":"Grand Rapids","name":"Gold","abbrev":"GRG","cid":0,"did":1,"pop":0.1,
+	"colors":["#1d428a","#ffe11a","#ffe11a"],"jersey":"jersey2",
+	"stadiumCapacity":4500,"colors":["#0E2240","#FEC524","#8B2131"],"jersey":"jersey2",
+	"imgURL":"https://content.sportslogos.net/logos/17/6802/full/grand_rapids_gold_logo_primary_20225558.png",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/6802/full/grand_rapids_gold_logo_alternate_2022_sportslogosnet-5200.png"},
+	{"tid":11,"region":"Motor City","name":"Cruise","abbrev":"MCC","cid":0,"did":1,"pop":0.6,
+	"stadiumCapacity":3000,"colors":["#0f4c92","#de1e35","#ffffff"],"jersey":"jersey2",
+	"imgURL":"https://i.imgur.com/DExvtjR.png",
+	"imgURLSmall":"https://i.imgur.com/DExvtjR.png"},
+	{"tid":12,"region":"Texas","name":"Legends","abbrev":"TEX","did":5,"cid":1,"pop":0.2,
+	"stadiumCapacity":4500,
+	"colors":["#0064b1","#bbc4ca","#00285e"],"jersey":"jersey2",
+	"imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Texas_Legends_logo.svg/1024px-Texas_Legends_logo.svg.png",
+	"imgURLSmall":"https://i.imgur.com/uMex6LU.png"},
+	{"tid":15,"region":"South Bay","name":"Lakers","abbrev":"SBL","pop":0.1,"stadiumCapacity":750,
+	"did":4,"cid":1,"colors":["#552583","#fdb927","#fdb927"],
+	"imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/9/90/South_Bay_Lakers_logo.svg/1920px-South_Bay_Lakers_logo.svg.png",
+	"imgURLSmall":"https://i.imgur.com/r7HAr3b.png"},
+	{"tid":16,"region":"Sioux Falls","name":"Skyforce","abbrev":"SFL","did":3,"cid":1,"pop":0.3,"stadiumCapacity":3250,
+	"colors":["#98002e","#ffffff","#000000"],"jersey":"jersey2",
+	"imgURL":"https://i.imgur.com/X8T8rOt.png",
+	"imgURLSmall":"https://i.imgur.com/cPaR8nD.png"},
+	{"tid":22,"region":"Stockton","name":"Kings","abbrev":"STO","did":4,"cid":1,"pop":0.7,"stadiumCapacity":11193,
+	"colors":["#000000","#ffffff","#5a2d81"],
+	"imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Stockton_Kings_logo.svg/1920px-Stockton_Kings_logo.svg.png",
+	"imgURLSmall":"https://i.imgur.com/X0AEqQM.png"},
+	{"tid":23,"cid":0,"did":0,"region":"Maine","name":"Celtics","abbrev":"MAI","pop":0.5,"stadiumCapacity":3100,
+	"colors":["#008643","#ffffff","#000000"],"jersey":"jersey2",
+	"imgURL":"https://content.sportslogos.net/logos/17/6787/full/maine_celtics_logo_primary_2022_sportslogosnet-7785.png",
+	"imgURLSmall":"https://i.imgur.com/5BpjA9A.png"},
+	{"tid":28,"region":"Windy City","name":"Bulls","abbrev":"WCB","cid":0,"did":1,"pop":0.1,"stadiumCapacity":1000,
+	"colors":["#ce1141","#000000","#000000"],"jersey":"jersey2",
+	"imgURL":"https://stats.gleague.nba.com/media/img/teams/logos/WCB.svg",
+	"imgURLSmall":"https://i.imgur.com/ngb9OiC.png"},
+	{"tid":30,"region":"College Park","name":"Skyhawks","abbrev":"CPK","did":2,"cid":0,
+	"colors":["#061822","#fcb928","#c71232"],"stadiumCapacity":3500,
+	"imgURL":"https://content.sportslogos.net/logos/17/6709/full/5637_college_park_skyhawks-primary-2020.png",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/6709/full/2348_college_park_skyhawks-alternate-2020.png"},
+	{"tid":32,"region":"Wisconsin","name":"Herd","abbrev":"WIS","cid":0,"did":1,"pop":0.1,"stadiumCapacity":1000,
+	"colors":["#00471b","#ffffff","#eee1c6"],"jersey":"jersey2",
+	"imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Wisconsin_Herd_logo.svg/1024px-Wisconsin_Herd_logo.svg.png",
+	"imgURLSmall":"https://i.imgur.com/K1fYY4C.png"},
+	{"tid":33,"region":"Capital City","name":"Go-Go","abbrev":"CGG","cid":0,"did":2,"pop":0.7,"stadiumCapacity":1000,
+	"colors":["#0c2340","#c8102e","#ffffff"],"jersey":"jersey2",
+	"imgURL":"https://content.sportslogos.net/logos/17/6612/full/capital_city_go-go_logo__1631.png",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/6612/full/capital_city_go-go_logo__4644.png"}
+]}},
+
+{"id":134,"type":"gameAttributes","season":2022,"phase":0,"info":{"numGames":50,"numGamesPlayoffSeries":[1,1,1,3],"numPlayoffByes":4}},
+
+{"id":135,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":19,"region":"Delaware","name":"Blue Coats",
+	"colors":["#0044a2","#ffffff","#0044a2"],
+	"imgURL":"https://upload.wikimedia.org/wikipedia/fr/6/6b/Blue_Coats_du_Delaware_2021.png",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/6613/full/delaware_blue_coats_logo_alternate_2022_sportslogosnet-7806.png"}},
+
+{"id":136,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":4,"region":"Cleveland","name":"Charge","abbrev":"CLE",
+	"colors":["#70213a","#010c29","#ffb915"],
+	"imgURL":"https://stats.gleague.nba.com/media/img/teams/logos/CTN.svg",
+	"imgURLSmall":"https://i.imgur.com/8S3cbLi.png"}},
+	
+{"id":137,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":34,"region":"Birmingham","name":"Squadron","abbrev":"BIR",
+	"pop":1.1,"stadiumCapacity":17654,
+	"colors":["#ce0e2d","#ffffff","#86724c"],"jersey":"jersey2",
+	"imgURL":"https://i.imgur.com/7yWZUwp.png",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/6810/full/birmingham_squadron_logo_alternate_2022_sportslogosnet-9473.png"}}
 
 ],
 
