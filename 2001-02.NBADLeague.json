@@ -457,22 +457,41 @@
 	{"tid":23,"cid":0,"did":0,"region":"Maine","name":"Celtics","abbrev":"MAI","pop":0.5,"stadiumCapacity":3100,
 	"colors":["#008643","#ffffff","#000000"],"jersey":"jersey2",
 	"imgURL":"https://content.sportslogos.net/logos/17/6787/full/maine_celtics_logo_primary_2022_sportslogosnet-7785.png",
-	"imgURLSmall":"https://i.imgur.com/5BpjA9A.png"}
+	"imgURLSmall":"https://i.imgur.com/5BpjA9A.png"},
+	{"tid":28,"region":"Windy City","name":"Bulls","abbrev":"WCB","cid":0,"did":1,"pop":0.1,"stadiumCapacity":1000,
+	"colors":["#ce1141","#000000","#000000"],"jersey":"jersey2",
+	"imgURL":"https://stats.gleague.nba.com/media/img/teams/logos/WCB.svg",
+	"imgURLSmall":"https://i.imgur.com/ngb9OiC.png"},
+	{"tid":30,"region":"College Park","name":"Skyhawks","abbrev":"CPK","did":2,"cid":0,"pop":0.1,"stadiumCapacity":3500,
+	"colors":["#061822","#fcb928","#c71232"],"jersey":"jersey2",
+	"imgURL":"https://content.sportslogos.net/logos/17/6709/full/5637_college_park_skyhawks-primary-2020.png",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/6709/full/2348_college_park_skyhawks-alternate-2020.png"}
 ]}},
 
-{"id":134,"type":"gameAttributes","season":2022,"phase":0,"info":{"numGames":50,"numGamesPlayoffSeries":[1,1,1,3],"numPlayoffByes":4}},
+{"id":134,"type":"expansionDraft","season":2021,"phase":4,"info":{"teams":[
+	{"tid":32,"region":"Wisconsin","name":"Herd","abbrev":"WIS","cid":0,"did":1,"pop":0.1,"stadiumCapacity":1000,
+	"colors":["#00471b","#ffffff","#eee1c6"],"jersey":"jersey2",
+	"imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Wisconsin_Herd_logo.svg/1024px-Wisconsin_Herd_logo.svg.png",
+	"imgURLSmall":"https://i.imgur.com/K1fYY4C.png"},
+	{"tid":33,"region":"Capital City","name":"Go-Go","abbrev":"CGG","cid":0,"did":2,"pop":0.7,"stadiumCapacity":1000,
+	"colors":["#0c2340","#c8102e","#ffffff"],"jersey":"jersey2",
+	"imgURL":"https://content.sportslogos.net/logos/17/6612/full/capital_city_go-go_logo__1631.png",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/6612/full/capital_city_go-go_logo__4644.png"}
+]}},
 
-{"id":135,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":19,"region":"Delaware","name":"Blue Coats",
+{"id":135,"type":"gameAttributes","season":2022,"phase":0,"info":{"numGames":50,"numGamesPlayoffSeries":[1,1,1,3],"numPlayoffByes":4}},
+
+{"id":136,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":19,"region":"Delaware","name":"Blue Coats",
 	"colors":["#0044a2","#ffffff","#0044a2"],
 	"imgURL":"https://upload.wikimedia.org/wikipedia/fr/6/6b/Blue_Coats_du_Delaware_2021.png",
 	"imgURLSmall":"https://content.sportslogos.net/logos/17/6613/full/delaware_blue_coats_logo_alternate_2022_sportslogosnet-7806.png"}},
 
-{"id":136,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":4,"region":"Cleveland","name":"Charge","abbrev":"CLE",
+{"id":137,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":4,"region":"Cleveland","name":"Charge","abbrev":"CLE",
 	"colors":["#70213a","#010c29","#ffb915"],
 	"imgURL":"https://stats.gleague.nba.com/media/img/teams/logos/CTN.svg",
 	"imgURLSmall":"https://i.imgur.com/8S3cbLi.png"}},
 	
-{"id":137,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":34,"region":"Birmingham","name":"Squadron","abbrev":"BIR",
+{"id":138,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":34,"region":"Birmingham","name":"Squadron","abbrev":"BIR",
 	"pop":1.1,"stadiumCapacity":17654,
 	"colors":["#ce0e2d","#ffffff","#86724c"],"jersey":"jersey2",
 	"imgURL":"https://i.imgur.com/7yWZUwp.png",
