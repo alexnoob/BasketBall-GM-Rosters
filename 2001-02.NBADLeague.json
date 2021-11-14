@@ -411,7 +411,7 @@
 {"id":129,"type":"contraction","season":2020,"phase":4,"info":{"tid":33}},
 
 {"id":130,"type":"expansionDraft","season":2020,"phase":4,"info":{"teams":[
-	{"tid":35,"region":"G League","name":"Ignite","abbrev":"GLI","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
+	{"tid":35,"region":"G League","name":"Ignite","abbrev":"GLI","cid":1,"did":4,"pop":0.1,"stadiumCapacity":1000,
 	"colors":["#000000","#ffffff","#bcbcbc"],"jersey":"jersey2",
 	"imgURL":"https://i.imgur.com/XvUbMRX.png",
 	"imgURLSmall":"https://i.imgur.com/XvUbMRX.png"}
