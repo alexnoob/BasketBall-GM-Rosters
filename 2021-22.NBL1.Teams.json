@@ -126,7 +126,7 @@
 "region":"Cairns","name":"Marlins","abbrev":"CAI","pop":0.1,"strategy":"contending",
 "stadiumCapacity":732,
 "colors":["#00aeef","#f58220","#f58220"],"jersey":"jersey2",
-"imgURL":"https://cdn.nbl1.com.au/spacepod/images/cairns-marlins.svg",
+"imgURL":"https://i.imgur.com/azIxrCv.png",
 "imgURLSmall":"https://i.imgur.com/4Xu16SZ.png"},
 {"tid":21,"cid":1,"did":1,
 "region":"Gold Coast","name":"Rollers","abbrev":"GCR","pop":0.1,"strategy":"contending",
@@ -401,9 +401,9 @@
 {"tid":66,"cid":4,"did":4,
 "region":"Manly Warringah","name":"Sea Eagles","abbrev":"MWS","pop":0.1,"strategy":"contending",
 "stadiumCapacity":500,
-"colors":["#000000","#ffffff","#000000"],"jersey":"jersey2",
+"colors":["#7a0e2f","#ffffff","#ffffff"],"jersey":"jersey2",
 "imgURL":"https://cdn.nbl1.com.au/spacepod/images/manly-warringah-1000px.png",
-"imgURLSmall":""},
+"imgURLSmall":"https://i.imgur.com/p9Eswpv.png"},
 {"tid":67,"cid":4,"did":4,
 "region":"Newcastle","name":"Falcons","abbrev":"NEW","pop":0.1,"strategy":"contending",
 "stadiumCapacity":500,
@@ -421,7 +421,7 @@
 "stadiumCapacity":500,
 "colors":["#000000","#79bde8","#79bde8"],"jersey":"jersey2",
 "imgURL":"https://cdn.nbl1.com.au/spacepod/images/sutherland-sharks-logos.png",
-"imgURLSmall":""}
+"imgURLSmall":"https://i.imgur.com/lGlgcrV.png"}
 
 ],
 
