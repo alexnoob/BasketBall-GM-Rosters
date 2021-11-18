@@ -179,7 +179,7 @@
 {"tid":29,"cid":1,"did":1,
 "region":"Southern Districts","name":"Spartans","abbrev":"SDS","pop":0.1,"strategy":"contending",
 "stadiumCapacity":500,
-"colors":["#000000","#ffffff","#000000"],"jersey":"jersey2",
+"colors":["#000000","#cc182c","#000000"],"jersey":"jersey2",
 "imgURL":"https://cdn.nbl1.com.au/spacepod/images/southern-districts-spartans-1.svg",
 "imgURLSmall":""},
 {"tid":30,"cid":1,"did":1,
