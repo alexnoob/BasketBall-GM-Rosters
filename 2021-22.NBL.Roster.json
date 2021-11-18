@@ -759,7 +759,7 @@
 {"tid":4,
 "name":"Matt Kenyon",
 "jerseyNumber":"1",
-"ratings":[{"hgt":41,"stre":0,"spd":0,"jmp":0,"endu":0,"ins":0,"dnk":0,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":0,"pss":0,"reb":0}],
+"ratings":[{"hgt":41,"stre":33,"spd":38,"jmp":34,"endu":33,"ins":31,"dnk":45,"ft":42,"fg":39,"tp":41,"diq":32,"oiq":33,"drb":32,"pss":29,"reb":39}],
 "pos":"SG","hgt":77,"weight":200,
 "born":{"year":1998,"loc":"Avoca Beach, Australia"},
 "imgURL":"https://img.wh.sportingpulseinternational.com/a879727c0ee2f82397dbf2a99696797cM1.png",
