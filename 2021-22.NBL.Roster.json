@@ -385,8 +385,8 @@
 
 {"tid":2,
 "name":"Brayden Inger",
-"jerseyNumber":"99",
-"ratings":[{"hgt":52,"stre":0,"spd":0,"jmp":0,"endu":0,"ins":0,"dnk":0,"ft":0,"fg":0,"tp":41,"diq":0,"oiq":0,"drb":0,"pss":31,"reb":0}],
+"jerseyNumber":"44",
+"ratings":[{"hgt":52,"stre":41,"spd":37,"jmp":33,"endu":43,"ins":31,"dnk":42,"ft":47,"fg":43,"tp":41,"diq":39,"oiq":41,"drb":33,"pss":31,"reb":47}],
 "pos":"F","hgt":80,"weight":209,
 "born":{"year":1999,"loc":"North Shore, New Zealand"},
 "imgURL":"https://img.wh.sportingpulseinternational.com/4ce68765578549067a6ed2047fc51f36M1.png",
