@@ -32,7 +32,7 @@
 "imgURL":"https://i.imgur.com/EkE9UU0.png",
 "imgURLSmall":"https://rhe76.com/images/miniature_club/3.png"},
 {"tid":5,"cid":0,"did":0,
-"region":"Jokers","name":"de Cergy-Pontoise","abbrev":"CGY","pop":0.1,"strategy":"contending",
+"region":"Jokers","name":"de Cergy-Pontoise","abbrev":"CGY","pop":0.2,"strategy":"contending",
 "stadiumCapacity":3000,
 "colors":["#14483a","#ffffff","#b11816"],"jersey":"hockey2",
 "imgURL":"https://www.lesjokers.net/wp-content/uploads/2021/08/Logo-Jokers.png",
@@ -82,6 +82,9 @@
 "divs":[{"did":0,"cid":0,"name":"Ligue Magnus"}],
 "numGamesPlayoffSeries":[7,7,7],
 "minContract":10,"maxContract":100,
+"minPayroll":750,"salaryCap":1500,
+"draftType":"freeAgents",
+"numSeasonsFutureDraftPicks":0,
 "playerBioInfo":{"frequencies":{"France":100,"Canada":18,"Finland":6,"Latvia":5,"Russia":2,"Slovakia":2,"Slovenia":1,"Denmark":2,"England":1,"USA":2,"Sweden":2,"Czech Republic":2,"Switzerland":2}}
 }
 
