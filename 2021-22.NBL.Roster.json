@@ -594,7 +594,7 @@
 {"tid":3,
 "name":"Harry Froling",
 "jerseyNumber":"31",
-"ratings":[{"hgt":63,"stre":0,"spd":0,"jmp":0,"endu":0,"ins":0,"dnk":0,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":0,"pss":0,"reb":0}],
+"ratings":[{"hgt":63,"stre":57,"spd":40,"jmp":37,"endu":43,"ins":59,"dnk":62,"ft":48,"fg":40,"tp":39,"diq":33,"oiq":49,"drb":37,"pss":39,"reb":62}],
 "pos":"C","hgt":83,"weight":265,
 "born":{"year":1998,"loc":"Townsville, Australia"},
 "imgURL":"https://img.wh.sportingpulseinternational.com/65620f3ed7c3c66f89006be346cd84b7M1.png",
