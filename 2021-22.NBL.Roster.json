@@ -1534,7 +1534,7 @@
 {"tid":9,
 "name":"Matur Maker",
 "jerseyNumber":"8",
-"ratings":[{"hgt":59,"stre":0,"spd":0,"jmp":0,"endu":0,"ins":0,"dnk":0,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":0,"pss":0,"reb":0}],
+"ratings":[{"hgt":60,"stre":55,"spd":44,"jmp":55,"endu":45,"ins":52,"dnk":53,"ft":52,"fg":39,"tp":29,"diq":40,"oiq":44,"drb":30,"pss":25,"reb":59}],
 "pos":"C","hgt":82,"weight":210,
 "born":{"year":1998,"loc":"South Sudan"},
 "imgURL":"https://img.wh.sportingpulseinternational.com/2639ef3e92e74e3eb3e6502a2613b862M1.png",
