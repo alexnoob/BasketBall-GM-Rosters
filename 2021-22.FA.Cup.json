@@ -13,7 +13,7 @@
 "numGamesPlayoffSeries":[1,1,1,1,1,1],
 "playIn":false,
 "draftAges":[16,22],
-"playerBioInfo":{"frequencies":{"England":150,"Canada":1,"Mexico":2,"France":20,"Croatia":10,"Serbia":10,"Nigeria":3,"Cameroon":3,"Senegal":3,"Algeria":3,"Portugal":7,"Russia":4,"Ukraine":3,"Latvia":1,"Belgium":4,"Italy":10,"Spain":20,"Switzerland":3,"Austria":3,"Sweden":3,"Australia":1,"Japan":1,"China":1,"Brazil":12,"Argentina":6,"USA":4}},
+"playerBioInfo":{"frequencies":{"England":150,"Canada":1,"Mexico":2,"France":20,"Germany":10,"Croatia":10,"Serbia":10,"Nigeria":3,"Cameroon":3,"Senegal":3,"Algeria":3,"Portugal":7,"Russia":4,"Ukraine":3,"Latvia":1,"Belgium":4,"Italy":10,"Spain":20,"Switzerland":3,"Austria":3,"Sweden":3,"Australia":1,"Japan":1,"China":1,"Brazil":6,"Argentina":5,"USA":4}},
 "draftType":"freeAgents",
 "numSeasonsFutureDraftPicks":0,
 "allStarGame":null,
