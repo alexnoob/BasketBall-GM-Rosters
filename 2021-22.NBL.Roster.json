@@ -1074,7 +1074,7 @@
 {"tid":6,
 "name":"Rasmus Bach",
 "jerseyNumber":"18",
-"ratings":[{"hgt":37,"stre":0,"spd":0,"jmp":0,"endu":0,"ins":0,"dnk":0,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":0,"pss":0,"reb":0}],
+"ratings":[{"hgt":37,"stre":40,"spd":47,"jmp":32,"endu":45,"ins":37,"dnk":48,"ft":60,"fg":52,"tp":59,"diq":40,"oiq":45,"drb":37,"pss":33,"reb":43}],
 "pos":"G","hgt":76,"weight":185,
 "born":{"year":1995,"loc":"Denmark"},
 "imgURL":"https://img.wh.sportingpulseinternational.com/06f2c393e34ebd24dd103780e02dd312M1.png",
