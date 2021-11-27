@@ -251,6 +251,8 @@
 
 
 "gameAttributes":{
+"numGames":76,
+"numGamesPlayoffSeries":[5,7,7,7],
 "confs":[{"cid":0,"name":"Eastern Conference"},{"cid":1,"name":"Western Conference"}],
 "divs":[
 {"did":0,"cid":0,"name":"Atlantic Region"},
