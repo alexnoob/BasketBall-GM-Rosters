@@ -140,7 +140,10 @@
 {"id":29,"type":"contraction","season":2007,"phase":4,"info":{"tid":9}},
 
 {"id":30,"type":"expansionDraft","season":2007,"phase":4,"info":{"teams":[
-{"tid":17,"region":"Fort Wayne","name":"Mad Ants","abbrev":"FOR","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,"colors":["#98012e","#fdba31","#000000"],"jersey":"jersey2","imgURL":"https://i.imgur.com/2Ezl0SD.png","imgURLSmall":"https://i.imgur.com/tON9uM9.png"},
+	{"tid":17,"region":"Fort Wayne","name":"Mad Ants","abbrev":"FOR","cid":0,"did":0,"pop":0.4,"stadiumCapacity":13000,
+	"colors":["#98012e","#fdba31","#000000"],"jersey":"jersey2",
+	"imgURL":"https://i.imgur.com/2Ezl0SD.png",
+	"imgURLSmall":"https://i.imgur.com/tON9uM9.png"},
 {"tid":18,"region":"Iowa","name":"Energy","abbrev":"IWA","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,"colors":["#442284","#e45e14","#c4122c"],"jersey":"jersey2","imgURL":"https://i.imgur.com/iV7Ex6T.png","imgURLSmall":"https://i.imgur.com/peESHyy.png"},
 {"tid":19,"region":"Utah","name":"Flash","cid":1,"did":1,"abbrev":"UTA","pop":0.1,"stadiumCapacity":1000,"colors":["#000000","#ffffff","#e50016"],"jersey":"jersey2","imgURL":"https://i.imgur.com/2wmVFBp.png","imgURLSmall":"https://i.imgur.com/qBz326g.png"},
 {"tid":20,"region":"Rio Grande Valley","name":"Vipers","abbrev":"RGV","cid":1,"did":1,"pop":0.1,"stadiumCapacity":1000,"colors":["#000000","#bc122c","#ffffff"],"jersey":"jersey2","imgURL":"https://i.imgur.com/6mjcDI0.png","imgURLSmall":"https://i.imgur.com/CogrMZo.png"}
