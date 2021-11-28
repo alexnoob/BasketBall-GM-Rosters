@@ -1024,7 +1024,7 @@
 {"tid":6,
 "name":"Finn Delany",
 "jerseyNumber":"3",
-"ratings":[{"hgt":48,"stre":0,"spd":0,"jmp":0,"endu":53,"ins":0,"dnk":0,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":0,"pss":0,"reb":0}],
+"ratings":[{"hgt":48,"stre":50,"spd":48,"jmp":47,"endu":53,"ins":32,"dnk":59,"ft":63,"fg":58,"tp":59,"diq":39,"oiq":55,"drb":46,"pss":51,"reb":61}],
 "pos":"F","hgt":79,"weight":236,
 "born":{"year":1996,"loc":"Nelson, New Zealand"},
 "imgURL":"https://img.wh.sportingpulseinternational.com/8bda6c0e56544530bffcda96556b4f09M1.png",
