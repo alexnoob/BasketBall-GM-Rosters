@@ -31,9 +31,9 @@
 {"tid":9,"cid":0,"did":1,"region":"Jacksonville","name":"Icemen","abbrev":"JAC","pop":0.1,"strategy":"contending","stadiumCapacity":1000,"colors":["#000000","#ffffff","#000000"],"jersey":"hockey2",
 "imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Jacksonville_Icemen_logo.svg/230px-Jacksonville_Icemen_logo.svg.png",
 "imgURLSmall":""},
-{"tid":10,"cid":0,"did":1,"region":"Norfolk","name":"Admirals","abbrev":"NOR","pop":0.1,"strategy":"contending","stadiumCapacity":1000,"colors":["#000000","#ffffff","#000000"],"jersey":"hockey2",
+{"tid":10,"cid":0,"did":1,"region":"Norfolk","name":"Admirals","abbrev":"NOR","pop":1,"strategy":"contending","stadiumCapacity":8701,"colors":["#041e42","#ffb81d","#ffffff"],"jersey":"hockey2",
 "imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Norfolk_Admirals_logo.svg/230px-Norfolk_Admirals_logo.svg.png",
-"imgURLSmall":""},
+"imgURLSmall":"https://i.imgur.com/bzkM9iR.png"},
 {"tid":11,"cid":0,"did":1,"region":"Orlando","name":"Solar Bears","abbrev":"ORL","pop":0.1,"strategy":"contending","stadiumCapacity":1000,"colors":["#000000","#ffffff","#000000"],"jersey":"hockey2",
 "imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Orlando_Solar_Bears_logo.svg/230px-Orlando_Solar_Bears_logo.svg.png",
 "imgURLSmall":""},
@@ -90,13 +90,13 @@
 
 "imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Savannah_Ghost_Pirates_logo.svg/230px-Savannah_Ghost_Pirates_logo.svg.png",
 
-"imgURLSmall":"","tid":27,"cid":0,"did":1,"stadiumCapacity":9500}
+"imgURLSmall":"https://i.imgur.com/x72JNaK.png","tid":27,"cid":0,"did":1,"stadiumCapacity":9500}
 ]}}
 ],
 
 
 "gameAttributes":{
-"numGames":76,
+"numGames":72,
 "numGamesPlayoffSeries":[5,7,7,7],
 "confs":[{"cid":0,"name":"Eastern Conference"},{"cid":1,"name":"Western Conference"}],
 "divs":[
