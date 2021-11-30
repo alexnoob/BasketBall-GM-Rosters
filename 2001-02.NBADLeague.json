@@ -123,7 +123,7 @@
 "colors":["#652d89","#ffffff","#ffc424"],"jersey":"jersey2",
 "imgURL":"https://content.sportslogos.net/logos/17/2124/full/7frsqah8wf3whkikgo4n.gif",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/2124/full/qba0hi9gn4d8p2h32t9e.gif"},
-{"tid":16,"region":"Sioux Falls","name":"Skyforce","abbrev":"SXF","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,"colors":["#008ca8","#c4ced4","#000000"],"jersey":"jersey2","imgURL":"https://content.sportslogos.net/logos/17/2129/full/ceudqnf30bgjf0u41gzu.gif","imgURLSmall":"https://content.sportslogos.net/logos/17/2129/full/qng8ettc8a43nxq6gkxl.gif"}
+{"tid":16,"region":"Sioux Falls","name":"Skyforce","abbrev":"SXF","cid":0,"did":0,"pop":0.3,"stadiumCapacity":6113,"colors":["#008ca8","#c4ced4","#000000"],"jersey":"jersey2","imgURL":"https://content.sportslogos.net/logos/17/2129/full/ceudqnf30bgjf0u41gzu.gif","imgURLSmall":"https://content.sportslogos.net/logos/17/2129/full/qng8ettc8a43nxq6gkxl.gif"}
 ]}},
 
 {"id":21,"type":"gameAttributes","season":2007,"phase":0,"info":{"numGames":50,"numGamesPlayoffSeries":[1,1,1],
