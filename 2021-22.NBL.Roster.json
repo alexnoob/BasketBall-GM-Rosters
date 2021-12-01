@@ -1086,7 +1086,7 @@
 {"tid":6,
 "name":"Robert Loe",
 "jerseyNumber":"15",
-"ratings":[{"hgt":63,"stre":0,"spd":0,"jmp":0,"endu":0,"ins":0,"dnk":0,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":0,"pss":0,"reb":0}],
+"ratings":[{"hgt":63,"stre":58,"spd":34,"jmp":33,"endu":48,"ins":59,"dnk":51,"ft":40,"fg":35,"tp":41,"diq":38,"oiq":41,"drb":33,"pss":28,"reb":66}],
 "pos":"C","hgt":83,"weight":254,
 "born":{"year":1992,"loc":"Leicester, England - Country: New Zealand"},
 "imgURL":"https://img.wh.sportingpulseinternational.com/d2cadb46f8929d6bb0c177cc8340f080M1.png",
