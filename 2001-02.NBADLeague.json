@@ -148,7 +148,10 @@
 	"colors":["#442284","#e45e14","#c4122c"],"jersey":"jersey2",
 	"imgURL":"https://i.imgur.com/iV7Ex6T.png",
 	"imgURLSmall":"https://i.imgur.com/peESHyy.png"},
-{"tid":19,"region":"Utah","name":"Flash","cid":1,"did":1,"abbrev":"UTA","pop":0.1,"stadiumCapacity":1000,"colors":["#000000","#ffffff","#e50016"],"jersey":"jersey2","imgURL":"https://i.imgur.com/2wmVFBp.png","imgURLSmall":"https://i.imgur.com/qBz326g.png"},
+	{"tid":19,"region":"Utah","name":"Flash","cid":1,"did":1,"abbrev":"UTA","pop":0.1,"stadiumCapacity":8500,
+	"colors":["#000000","#ffffff","#e50016"],"jersey":"jersey2",
+	"imgURL":"https://i.imgur.com/2wmVFBp.png",
+	"imgURLSmall":"https://i.imgur.com/qBz326g.png"},
 {"tid":20,"region":"Rio Grande Valley","name":"Vipers","abbrev":"RGV","cid":1,"did":1,"pop":0.1,"stadiumCapacity":1000,"colors":["#000000","#bc122c","#ffffff"],"jersey":"jersey2","imgURL":"https://i.imgur.com/6mjcDI0.png","imgURLSmall":"https://i.imgur.com/CogrMZo.png"}
 ]}},
 
