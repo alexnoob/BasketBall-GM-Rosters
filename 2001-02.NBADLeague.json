@@ -152,7 +152,10 @@
 	"colors":["#000000","#ffffff","#e50016"],"jersey":"jersey2",
 	"imgURL":"https://i.imgur.com/2wmVFBp.png",
 	"imgURLSmall":"https://i.imgur.com/qBz326g.png"},
-{"tid":20,"region":"Rio Grande Valley","name":"Vipers","abbrev":"RGV","cid":1,"did":1,"pop":0.1,"stadiumCapacity":1000,"colors":["#000000","#bc122c","#ffffff"],"jersey":"jersey2","imgURL":"https://i.imgur.com/6mjcDI0.png","imgURLSmall":"https://i.imgur.com/CogrMZo.png"}
+	{"tid":20,"region":"Rio Grande Valley","name":"Vipers","abbrev":"RGV","cid":1,"did":1,"pop":0.1,"stadiumCapacity":5500,
+	"colors":["#000000","#bc122c","#ffffff"],"jersey":"jersey2",
+	"imgURL":"https://i.imgur.com/6mjcDI0.png",
+	"imgURLSmall":"https://i.imgur.com/CogrMZo.png"}
 ]}},
 
 {"type":"gameAttributes","season":2008,"phase":0,"info":{"confs":[{"cid":0,"name":"Central Division"},{"cid":1,"name":"Western Division"},{"cid":2,"name":"Southwest Division"}],"divs":[{"did":0,"cid":0,"name":"Central Division"},{"did":1,"cid":1,"name":"Western Division"},{"did":2,"cid":2,"name":"Southwest Division"}]},"id":31},
@@ -167,8 +170,13 @@
 {"type":"teamInfo","season":2008,"phase":0,"info":{"tid":11,"cid":1,"did":1,"region":"Bakersfield","colors":["#042a5c","#ffffff","#ec164c"],"imgURL":"https://upload.wikimedia.org/wikipedia/de/thumb/1/17/Bakersfield_Jam_Logo.svg/539px-Bakersfield_Jam_Logo.svg.png","imgURLSmall":"https://upload.wikimedia.org/wikipedia/de/thumb/1/17/Bakersfield_Jam_Logo.svg/539px-Bakersfield_Jam_Logo.svg.png"},"id":37},
 
 {"id":38,"type":"expansionDraft","season":2008,"phase":4,"info":{"teams":[
-{"tid":21,"region":"Erie","name":"BayHawks","abbrev":"ERI","pop":0.1,"stadiumCapacity":1000,"colors":["#000000","#ffffff","#bc9b6a"],"jersey":"jersey2","imgURL":"https://content.sportslogos.net/logos/17/2686/full/a02180cueuiso0ivsmhx07mey.gif","imgURLSmall":"https://content.sportslogos.net/logos/17/2686/full/y3u1bzg0bb0z3wrt14wyfkhlx.gif","cid":0,"did":0},
-{"tid":22,"region":"Reno","name":"Bighorns","abbrev":"REN","pop":0.1,"stadiumCapacity":1000,"colors":["#044a14","#046ab4","#ccb674"],"jersey":"jersey2","imgURL":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Reno_Bighorns_Logo.svg/539px-Reno_Bighorns_Logo.svg.png","imgURLSmall":"https://i.imgur.com/wUARKNu.png","cid":1,"did":1}
+	{"tid":21,"cid":0,"did":0,"region":"Erie","name":"BayHawks","abbrev":"ERI","pop":0.3,"stadiumCapacity":6982,
+	"colors":["#000000","#ffffff","#bc9b6a"],"jersey":"jersey2",
+	"imgURL":"https://content.sportslogos.net/logos/17/2686/full/a02180cueuiso0ivsmhx07mey.gif",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/2686/full/y3u1bzg0bb0z3wrt14wyfkhlx.gif"},
+	{"tid":22,"cid":1,"did":1,"region":"Reno","name":"Bighorns","abbrev":"REN","pop":0.4,"stadiumCapacity":7000,
+	"colors":["#044a14","#046ab4","#ccb674"],"jersey":"jersey2",
+	"imgURL":"https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Reno_Bighorns_Logo.svg/539px-Reno_Bighorns_Logo.svg.png","imgURLSmall":"https://i.imgur.com/wUARKNu.png"}
 ]}},
 
 {"id":39,"type":"contraction","season":2009,"phase":4,"info":{"tid":12}},
