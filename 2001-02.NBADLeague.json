@@ -182,7 +182,10 @@
 {"id":39,"type":"contraction","season":2009,"phase":4,"info":{"tid":12}},
 
 {"id":40,"type":"expansionDraft","season":2009,"phase":4,"info":{"teams":[
-{"tid":23,"cid":0,"did":0,"region":"Maine","name":"Red Claws","abbrev":"MAI","pop":0.1,"stadiumCapacity":1000,"colors":["#ec164c","#ffffff","#ffffff"],"jersey":"jersey2","imgURL":"https://i.imgur.com/QdkLnsj.png","imgURLSmall":"https://i.imgur.com/HNcU3lp.png"}
+	{"tid":23,"cid":0,"did":0,"region":"Maine","name":"Red Claws","abbrev":"MAI","pop":0.5,"stadiumCapacity":3000,
+	"colors":["#ec164c","#ffffff","#ffffff"],"jersey":"jersey2",
+	"imgURL":"https://i.imgur.com/QdkLnsj.png",
+	"imgURLSmall":"https://i.imgur.com/HNcU3lp.png"}
 ]}},
 
 {"id":41,"type":"gameAttributes","season":2010,"phase":0,"info":{
@@ -228,10 +231,10 @@
 {"id":53,"type":"contraction","season":2011,"phase":4,"info":{"tid":19}},
 
 {"id":54,"type":"expansionDraft","season":2011,"phase":4,"info":{"teams":[
-{"tid":15,"region":"Los Angeles","name":"D-Fenders","abbrev":"LAD","cid":1,"did":1,"pop":0.1,"stadiumCapacity":1000,
-"colors":["#652d89","#ffffff","#ffc424"],"jersey":"jersey2",
-"imgURL":"https://content.sportslogos.net/logos/17/2124/full/7frsqah8wf3whkikgo4n.gif",
-"imgURLSmall":"https://content.sportslogos.net/logos/17/2124/full/qba0hi9gn4d8p2h32t9e.gif"}]}},
+	{"tid":15,"region":"Los Angeles","name":"D-Fenders","abbrev":"LAD","cid":1,"did":1,"pop":0.2,"stadiumCapacity":10832,
+	"colors":["#652d89","#ffffff","#ffc424"],"jersey":"jersey2",
+	"imgURL":"https://content.sportslogos.net/logos/17/2124/full/7frsqah8wf3whkikgo4n.gif",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/2124/full/qba0hi9gn4d8p2h32t9e.gif"}]}},
 
 {"id":55,"type":"teamInfo","season":2012,"phase":0,"info":{"tid":4,"region":"Canton","name":"Charge","abbrev":"CAN","cid":0,"did":0,"colors":["#6f263d","#ffb81c","#ffb81c"],
 "imgURL":"https://content.sportslogos.net/logos/17/3781/full/canton_charge_logo__4274.png",
