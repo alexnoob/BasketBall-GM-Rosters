@@ -4693,6 +4693,8 @@
 "region":"Long Island","name":"Nets","abbrev":"LIN","pop":1.3,"strategy":"contending",
 "stadiumCapacity":13500,
 "colors":["#003da5","#ffffff","#d50032"],"jersey":"jersey2",
+"retiredJerseyNumbers":[
+{"number":"32","seasonRetired":2017,"seasonTeamInfo":2022,"text":"Julius Erving"}],
 "imgURL":"https://content.sportslogos.net/logos/17/6014/full/long_island_nets_logo__7346.png",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/6014/full/long_island_nets_logo__7346.png"},
 {"tid":15,"cid":0,"did":0,
