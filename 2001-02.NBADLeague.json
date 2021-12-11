@@ -260,10 +260,10 @@
 "imgURLSmall":"https://i.imgur.com/owYJcf0.png"}},
 
 {"id":65,"type":"expansionDraft","season":2013,"phase":4,"info":{"teams":[
-{"tid":19,"region":"Delaware","name":"87ers","abbrev":"DEL","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
-"colors":["#0d4c92","#ffffff","#df1e36"],"jersey":"jersey2",
-"imgURL":"https://upload.wikimedia.org/wikipedia/fr/0/0b/Delaware_87ers.png",
-"imgURLSmall":"https://upload.wikimedia.org/wikipedia/fr/f/f5/87ers_du_Delaware.png"}
+	{"tid":19,"region":"Delaware","name":"87ers","abbrev":"DEL","cid":0,"did":0,"pop":0.1,"stadiumCapacity":5100,
+	"colors":["#0d4c92","#ffffff","#df1e36"],"jersey":"jersey2",
+	"imgURL":"https://upload.wikimedia.org/wikipedia/fr/0/0b/Delaware_87ers.png",
+	"imgURLSmall":"https://upload.wikimedia.org/wikipedia/fr/f/f5/87ers_du_Delaware.png"}
 ]}},
 
 {"id":66,"type":"teamInfo","season":2014,"phase":0,"info":{"tid":18,"region":"Iowa","colors":["#00265e","#ffffff","#fdb826"],
