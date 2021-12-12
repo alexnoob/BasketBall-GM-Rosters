@@ -9,6 +9,8 @@
 {"tid":1,"region":"ASVEL","name":"Lyon-Villeurbanne","abbrev":"ASVEL",
 "imgURL":"https://i.imgur.com/9gVviRf.png","imgURLSmall":"https://i.imgur.com/0PBeECR.png",
 "colors":["#000000","#ffffff","#000000"],
+"retiredJerseyNumbers":[
+{"number":"4","seasonRetired":2022,"seasonTeamInfo":2022,"text":"Alain Gilles | Delaney Rudd"}],
 "pop":1.6,"stadiumCapacity":5643,"cid":0,"did":0},
 {"tid":2,"region":"SIG","name":"Strasbourg","abbrev":"SIG",
 "imgURL":"https://sigstrasbourg.fr/sites/all/themes/custom/sig2016/logo-sig.png",
@@ -38,14 +40,20 @@
 {"tid":8,"region":"Limoges","name":"CSP","abbrev":"CSP",
 "imgURL":"https://www.limogescsp.com/files/csp/theme/images/Logo_CSP_Limoges_1929.png",
 "colors":["#2e8b57","#ffffff","#ffffff"],
+"retiredJerseyNumbers":[
+{"number":"4","seasonRetired":2020,"seasonTeamInfo":2022,"text":"Frédéric Forte"},
+{"number":"7","seasonRetired":2010,"seasonTeamInfo":2022,"text":"Richard Dacoury"},
+{"number":"8","seasonRetired":2016,"seasonTeamInfo":2022,"text":"Ed Murphy"}],
 "pop":0.2,"stadiumCapacity":5516,"cid":0,"did":0},
 {"tid":9,"region":"Nanterre","name":"92","abbrev":"JSF",
 "imgURL":"https://i.imgur.com/aXjLz9J.png",
 "colors":["#067934","#ffffff","#ffffff"],
 "pop":0.2,"stadiumCapacity":3000,"cid":0,"did":0},
-{"tid":10,"region":"Élan béarnais","name":"Pau-Lacq-Orthez","abbrev":"EB",
+{"tid":10,"region":"Elan béarnais","name":"Pau-Lacq-Orthez","abbrev":"EB",
 "imgURL":"https://upload.wikimedia.org/wikipedia/fr/0/01/%C3%89lan_B%C3%A9arnais_Pau-Lacq-Orthez_%28logo%29.svg",
 "colors":["#029a9b","#ffffff","#029a9b"],
+"retiredJerseyNumbers":[
+{"number":"10","seasonRetired":2022,"seasonTeamInfo":2022,"text":"Didier Gadou"}],
 "pop":0.2,"stadiumCapacity":7800,"cid":0,"did":0},
 {"tid":11,"region":"Champagne Basket","name":"Châlons Reims","abbrev":"CCRB",
 "imgURL":"https://wp.ccrbasket.com/wp-content/uploads/2020/08/ccrb-logo.png",
@@ -58,6 +66,9 @@
 {"tid":13,"region":"Cholet","name":"Basket","abbrev":"CB",
 "imgURL":"https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_Cholet_Basket_2019.svg/500px-Logo_Cholet_Basket_2019.svg.png",
 "colors":["#d7072a","#ffffff","#ffffff"],
+"retiredJerseyNumbers":[
+{"number":"4","seasonRetired":2022,"seasonTeamInfo":2022,"text":"Antoine Rigaudeau"},
+{"number":"10","seasonRetired":2022,"seasonTeamInfo":2022,"text":"Jim Bilba"}],
 "pop":0.1,"stadiumCapacity":5191,"cid":0,"did":0},
 {"tid":14,"region":"BCM","name":"Gravelines Dunkerque","abbrev":"BCM",
 "imgURL":"http://www.bcmbasket.com/wp-content/themes/bcm/images/logo-prehome.png",
@@ -86,11 +97,11 @@
 "minPayroll":220,"salaryCap":1200,
 "minRosterSize":12,"maxRosterSize":12,
 "draftType":"freeAgents",
+"numSeasonsFutureDraftPicks":0,
 "draftAges":[17,26],
 "aiTradesFactor":0.1,
 "allStarGame":0.4,
 "maxContractLength":3,
-"numSeasonsFutureDraftPicks":0,
 "defaultStadiumCapacity":3000,
 "quarterLength":10,
 "foulsNeededToFoulOut":5,
@@ -102,6 +113,6 @@
 "threePointTendencyFactor":0.9,
 "turnoverFactor": 1.1,
 "foulRateFactor":1.26,
-"playerBioInfo":{"frequencies":{"France":100,"USA":15,"Canada":1,"Serbia":3,"Slovenia":1,"Australia":1,"Belgium":1,"England":1,"Latvia":1,"Poland":1,"Algeria":1,"Nigeria":1,"Cameroon":1,"Ivory Coast":1,"Senegal":2}}
+"playerBioInfo":{"frequencies":{"France":100,"USA":15,"Canada":2,"Cuba":1,"Argentina":1,"Australia":1,"Serbia":3,"Croatia":1,"Montenegro":1,"Slovenia":1,"Belgium":2,"Germany":1,"England":1,"Latvia":1,"Estonia":1,"Lithuania":1,"Poland":1,"Greece":1,"Czech Republic":1,"Bosnia and Herzegovina":2,"Armenia":1,"Israel":1,"Algeria":1,"Sudan":1,"Nigeria":1,"Cameroon":1,"Ivory Coast":1,"Senegal":2}}
 }
 }
