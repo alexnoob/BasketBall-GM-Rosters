@@ -831,7 +831,7 @@
 
 {"tid":5,
 "name":"Anthony Barber",
-"jerseyNumber":"12",
+"jerseyNumber":"5",
 "ratings":[{"hgt":27,"stre":26,"spd":67,"jmp":44,"endu":38,"ins":28,"dnk":59,"ft":46,"fg":58,"tp":49,"diq":25,"oiq":41,"drb":72,"pss":68,"reb":22}],
 "pos":"PG","hgt":74,"weight":190,
 "born":{"year":1995,"loc":"Hampton, VA"},
@@ -4640,6 +4640,17 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2018},
 "college":"Boston College",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
+"name":"Kenneth Faried",
+"ratings":[{"hgt":53,"stre":68,"spd":50,"jmp":54,"endu":42,"ins":65,"dnk":66,"ft":58,"fg":52,"tp":37,"diq":28,"oiq":51,"drb":43,"pss":38,"reb":63}],
+"pos":"PF","hgt":80,"weight":228,
+"born":{"year":1990,"loc":"Newark, NJ"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202702.png",
+"contract":{"amount":50,"exp":2022},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2011},
+"college":"Morehead State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
