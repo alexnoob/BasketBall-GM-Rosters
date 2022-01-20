@@ -1633,7 +1633,7 @@
 "gamesUntilTradable":100,
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":10,
 "name":"Petr Cornelie",
 "jerseyNumber":"21",
 "ratings":[{"hgt":67,"stre":52,"spd":44,"jmp":53,"endu":35,"ins":55,"dnk":47,"ft":48,"fg":42,"tp":38,"diq":42,"oiq":53,"drb":22,"pss":22,"reb":73}],
@@ -1645,7 +1645,7 @@
 "college":"France",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":15,
 "name":"Juwan Staten",
 "ratings":[{"hgt":22,"stre":16,"spd":52,"jmp":56,"endu":42,"ins":30,"dnk":53,"ft":48,"fg":55,"tp":46,"oiq":37,"diq":46,"drb":47,"pss":45,"reb":18}],
 "pos":"PG","hgt":73,"weight":190,
@@ -2263,7 +2263,7 @@
 "college":"Creighton",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":14,
+{"tid":-1,
 "name":"Justin Jackson",
 "jerseyNumber":"23",
 "ratings":[{"hgt":59,"stre":47,"spd":51,"jmp":49,"endu":32,"ins":51,"dnk":40,"ft":53,"fg":40,"tp":53,"diq":38,"oiq":41,"drb":32,"pss":31,"reb":38}],
@@ -3499,7 +3499,7 @@
 "college":"Boise State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":23,
+{"tid":12,
 "name":"Pedro Bradshaw",
 "jerseyNumber":"32",
 "ratings":[{"hgt":48,"stre":37,"spd":52,"jmp":49,"endu":33,"ins":37,"dnk":41,"ft":56,"fg":39,"tp":43,"diq":40,"oiq":39,"drb":40,"pss":41,"reb":61}],
@@ -3869,6 +3869,18 @@
 "contract":{"amount":50,"exp":2022},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2021},
 "college":"Virginia",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":28,
+"name":"Henri Drell",
+"jerseyNumber":"3",
+"ratings":[{"hgt":55,"stre":42,"spd":47,"jmp":48,"endu":27,"ins":42,"dnk":57,"ft":55,"fg":34,"tp":30,"diq":44,"oiq":40,"drb":30,"pss":33,"reb":50}],
+"pos":"SF","hgt":81,"weight":185,
+"born":{"year":2000,"loc":"Tallinn, Estonia"},
+"imgURL":"https://i.imgur.com/mF5pYTt.png",
+"contract":{"amount":30,"exp":2022},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2022},
+"college":"Estonia",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":24,
