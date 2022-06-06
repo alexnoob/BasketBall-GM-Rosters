@@ -446,22 +446,28 @@
 		}
 	},
 	"LAL": {
-		"imgURL": "https://i.ibb.co/c3yDsF6/lal1977.png",
+		"imgURL": "https://i.imgur.com/qwqH4Ac.png",
+		"imgURLSmall": "https://i.imgur.com/xHqcFHl.png",
 		"name": "Lakers",
 		"region": "Los Angeles",
-		"colors": ["#E6C300", "#FFFFFF", "#301934"],
+		"colors": ["#004b87", "#ffffff", "#00a9e0"],
 		"seasons": {
-			"1977": { "imgURL": "https://i.ibb.co/c3yDsF6/lal1977.png" },
+			"1967": {
+				"imgURL": "https://i.imgur.com/qwqH4Ac.png",
+				"imgURLSmall": "https://i.imgur.com/xHqcFHl.png",
+				"colors": ["#702f8a", "#ffffff", "#ffc72c"]},
+			"1977": {
+				"imgURL": "https://i.ibb.co/c3yDsF6/lal1977.png",
+				"imgURLSmall": "https://i.ibb.co/c3yDsF6/lal1977.png",
+				"colors": ["#702f8a", "#ffffff", "#ffc72c"]},
 			"2002": {
 				"imgURL": "https://i.ibb.co/TbMMKSd/lal2002.png",
 				"imgURLSmall": "https://i.imgur.com/Xwr5PFQ.png",
-				"colors": ["#ffc72c", "#ffffff", "#702f8a"]
-			},
+				"colors": ["#702f8a", "#ffffff", "#ffc72c"]},
 			"2018": {
 				"imgURL": "https://i.ibb.co/TbMMKSd/lal2002.png",
 				"imgURLSmall": "https://i.imgur.com/Xwr5PFQ.png",
-				"colors": ["#ffc72c", "#582c83", "#582c83"]
-			}
+				"colors": ["#ffc72c", "#582c83", "#582c83"]}
 		}
 	},
 	"MEM": {
