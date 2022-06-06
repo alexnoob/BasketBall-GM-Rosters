@@ -192,7 +192,7 @@
 			"2004": {
 				"imgURL": "https://i.ibb.co/K9bDndh/cle2004.png",
 				"imgURLSmall": "https://i.imgur.com/kTrSD2E.png",
-				"colors": ["#860038", "#041E42", "#FDBB30"]
+				"colors": ["#860038", "#8C714C", "#041E42"]
 			},
 			"2011": {
 				"imgURL": "https://i.ibb.co/5hBpjT7/cle2011.png",
@@ -229,7 +229,7 @@
 			"2002": {
 				"imgURL": "https://i.ibb.co/kmfrYFC/dal2002.png",
 				"imgURLSmall": "https://i.imgur.com/mD5QrJK.png",
-				"colors": ["#00538C", "#002B5e", "#B8C4CA"]
+				"colors": ["#00204d", "#adb2b5", "#0062ae"]
 			},
 			"2018": {
 				"imgURL": "https://i.imgur.com/OGDsVKN.png",
@@ -438,7 +438,11 @@
 				"imgURLSmall": "https://i.imgur.com/Q8q6Ebm.png" },
 			"2016": {
 				"imgURL": "https://i.imgur.com/3WRLhVA.png",
-				"imgURLSmall": "https://i.imgur.com/fm3b2SJ.png" }
+				"imgURLSmall": "https://i.imgur.com/fm3b2SJ.png" },
+			"2018": {
+				"imgURL": "https://i.imgur.com/3WRLhVA.png",
+				"imgURLSmall": "https://i.imgur.com/fm3b2SJ.png",
+				"colors": ["#1D4289", "#FFFFFF", "#C8102E"]}
 		}
 	},
 	"LAL": {
@@ -722,7 +726,7 @@
 			"2001": {
 				"imgURL": "https://i.ibb.co/my7pwcK/pho2001.png",
 				"imgURLSmall": "https://i.imgur.com/cGledDK.png",
-				"colors": ["#1d1160", "#e56020", "#000000"]
+				"colors": ["#582C83", "#ffffff", "#CB6015"]
 			},
 			"2014": {
 				"imgURL": "https://i.imgur.com/hyi60nj.png",
@@ -946,7 +950,7 @@
 			"2021": {
 				"imgURL": "https://i.ibb.co/mvkjqL1/tor2021.png",
 				"imgURLSmall": "https://i.imgur.com/RIJMbvD.png",
-				"colors": ["#ce1141", "#000000", "#A1A1A4"]
+				"colors": ["#ce1141", "#000000", "#ce1141"]
 			}
 		}
 	},
@@ -1004,10 +1008,10 @@
 		"colors": ["#00B2A9", "#E43C40", "#BC7844"]
 	},
 	"WAS": {
-		"imgURL": "https://i.imgur.com/jo3NUCO.png",
+		"imgURL": "https://i.imgur.com/g7DHfj1.png",
 		"name": "Wizards",
 		"region": "Washington",
-		"colors": ["#002B5C", "#e31837", "#C4CED4"],
+		"colors": ["#236192", "#ffffff", "#ba7c5d"],
 		"seasons": {
 			"1998": {
 				"imgURL": "https://i.imgur.com/g7DHfj1.png",
