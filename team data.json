@@ -822,6 +822,10 @@
 			"1986": {
 				"imgURL": "https://i.imgur.com/Hyf98Du.png",
 				"imgURLSmall": "https://i.imgur.com/w7NTIxf.png" },
+			"1991": {
+				"imgURL": "https://i.imgur.com/Hyf98Du.png",
+				"imgURLSmall": "https://i.imgur.com/w7NTIxf.png",
+				"colors": ["#002f6c","#ffffff","#d50032"] },
 			"1995": {
 				"imgURL": "https://i.ibb.co/rpKvJh9/sac1995.png",
 				"imgURLSmall": "https://i.imgur.com/TatJPlx.png",
