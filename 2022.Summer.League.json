@@ -2239,6 +2239,156 @@
 "college":"Kentucky",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
+{"tid":18,
+"name":"Jose Alvarado",
+"jerseyNumber":"15",
+"ratings":[{"hgt":22,"stre":33,"spd":69,"jmp":40,"endu":40,"ins":32,"dnk":69,"ft":60,"fg":65,"tp":55,"diq":52,"oiq":45,"drb":51,"pss":52,"reb":36}],
+"pos":"PG","hgt":72,"weight":179,
+"born":{"year":1998,"loc":"Brooklyn, NY"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630631.png",
+"contract":{"amount":1600,"exp":2025},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2021},
+"transactions":[{"phase":0,"season":2021,"tid":18,"type":"freeAgent"}],
+"college":"Georgia Tech",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":18,
+"name":"Dyson Daniels",
+"jerseyNumber":"11",
+"ratings":[{"hgt":44,"stre":38,"spd":65,"jmp":61,"endu":44,"ins":42,"dnk":59,"ft":42,"fg":33,"tp":38,"diq":53,"oiq":48,"drb":48,"pss":49,"reb":45}],
+"pos":"SG","hgt":78,"weight":175,
+"born":{"year":2003,"loc":"Bendigo, Australia"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1630700.png",
+"contract":{"amount":4525,"exp":2026,"rookie":true},
+"transactions":[{"phase":0,"season":2022,"tid":18,"type":"draft","pickNum":8}],
+"draft":{"round":1,"pick":8,"tid":18,"originalTid":13,"year":2022},
+"college":"G League Ignite",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":18,
+"name":"Jared Harper",
+"jerseyNumber":"2",
+"ratings":[{"hgt":19,"stre":28,"spd":61,"jmp":44,"endu":47,"ins":28,"dnk":58,"ft":66,"fg":52,"tp":51,"diq":40,"oiq":50,"drb":66,"pss":58,"reb":14}],
+"pos":"PG","hgt":70,"weight":175,
+"born":{"year":1998,"loc":"Atlanta, GA"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629607.png",
+"contract":{"amount":500,"exp":2022},
+"transactions":[{"phase":0,"season":2022,"tid":18,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2019},
+"college":"Auburn",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":18,
+"name":"E.J. Liddell",
+"jerseyNumber":"32",
+"ratings":[{"hgt":48,"stre":56,"spd":47,"jmp":65,"endu":40,"ins":55,"dnk":55,"ft":52,"fg":44,"tp":40,"diq":52,"oiq":48,"drb":34,"pss":43,"reb":68}],
+"pos":"PF","hgt":79,"weight":240,
+"born":{"year":2001,"loc":"Bellevile, IL"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4432821.png&w=350&h=254",
+"contract":{"amount":1000,"exp":2024,"rookie":true},
+"transactions":[{"phase":0,"season":2022,"tid":18,"type":"draft","pickNum":41}],
+"draft":{"round":2,"pick":11,"tid":18,"originalTid":18,"year":2022},
+"college":"Ohio State",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":18,
+"name":"Naji Marshall",
+"jerseyNumber":"8",
+"ratings":[{"hgt":49,"stre":46,"spd":60,"jmp":57,"endu":38,"ins":38,"dnk":42,"ft":48,"fg":45,"tp":30,"diq":48,"oiq":32,"drb":38,"pss":35,"reb":60}],
+"pos":"SF","hgt":79,"weight":220,
+"born":{"year":1998,"loc":"Atlantic City, NJ"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630230.png",
+"contract":{"amount":1525,"exp":2023},
+"transactions":[{"phase":0,"season":2020,"tid":18,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2020},
+"college":"Xavier",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":18,
+"name":"Karlo Matkovic",
+"jerseyNumber":"45",
+"ratings":[{"hgt":59,"stre":60,"spd":31,"jmp":38,"endu":32,"ins":62,"dnk":56,"ft":43,"fg":22,"tp":20,"diq":55,"oiq":52,"drb":30,"pss":35,"reb":64}],
+"pos":"C","hgt":82,"weight":231,
+"born":{"year":2001,"loc":"Livno, Bosnia and Herzegovina"},
+"imgURL":"https://i.imgur.com/PZLbSYp.png",
+"contract":{"amount":1000,"exp":2024},
+"transactions":[{"phase":0,"season":2022,"tid":18,"type":"draft","pickNum":52}],
+"draft":{"round":2,"pick":22,"tid":18,"originalTid":28,"year":2022},
+"college":"Serbia",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":18,
+"firstName":"Trey","lastName":"Murphy III",
+"jerseyNumber":"25",
+"ratings":[{"hgt":52,"stre":38,"spd":53,"jmp":52,"endu":48,"ins":53,"dnk":62,"ft":73,"fg":52,"tp":50,"diq":38,"oiq":47,"drb":53,"pss":37,"reb":57}],
+"pos":"F","hgt":80,"weight":206,
+"born":{"year":2000,"loc":"Durham, NC"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630530.png",
+"contract":{"amount":3050,"exp":2025,"rookie":true},
+"transactions":[{"phase":0,"season":2021,"tid":18,"type":"trade","fromTid":14}],
+"draft":{"round":1,"pick":17,"tid":14,"originalTid":14,"year":2021},
+"college":"Virginia",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":18,
+"firstName":"John","lastName":"Petty Jr.",
+"jerseyNumber":"30",
+"ratings":[{"hgt":40,"stre":19,"spd":61,"jmp":41,"endu":42,"ins":23,"dnk":61,"ft":43,"fg":50,"tp":52,"diq":32,"oiq":48,"drb":52,"pss":40,"reb":53}],
+"pos":"PG","hgt":77,"weight":184,
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4277814.png",
+"born":{"year":1999,"loc":"Huntsville, AL"},
+"contract":{"amount":900,"exp":2022},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2021},
+"college":"Alabama",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":18,
+"name":"Dereon Seabron",
+"jerseyNumber":"0",
+"ratings":[{"hgt":48,"stre":42,"spd":49,"jmp":69,"endu":36,"ins":34,"dnk":61,"ft":41,"fg":39,"tp":29,"diq":38,"oiq":45,"drb":40,"pss":45,"reb":61}],
+"pos":"SG","hgt":79,"weight":180,
+"born":{"year":2000,"loc":"Woodstock, VA"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4431811.png&w=350&h=254",
+"contract":{"amount":500,"exp":2023},
+"college":"NC State",
+"transactions":[{"phase":0,"season":2022,"tid":18,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2022},
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":18,
+"name":"Deividas Sirvydis",
+"jerseyNumber":"91",
+"ratings":[{"hgt":50,"stre":28,"spd":56,"jmp":46,"endu":30,"ins":39,"dnk":29,"ft":52,"fg":63,"tp":53,"diq":18,"oiq":39,"drb":51,"pss":59,"reb":29}],
+"pos":"SF","hgt":80,"weight":190,
+"born":{"year":2000,"loc":"Vilnius, Lithuania"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629686.png",
+"contract":{"amount":900,"exp":2022},
+"transactions":[{"phase":0,"season":2019,"tid":8,"type":"trade","fromTid":6}],
+"draft":{"round":2,"pick":7,"tid":6,"originalTid":6,"year":2019},
+"college":"Lithuania",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
