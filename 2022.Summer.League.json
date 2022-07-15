@@ -1856,6 +1856,108 @@
 "college":"VCU",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
+{"tid":15,
+"name":"Marcus Garrett",
+"jerseyNumber":"0",
+"ratings":[{"hgt":41,"stre":44,"spd":59,"jmp":47,"endu":39,"ins":34,"dnk":45,"ft":58,"fg":33,"tp":40,"diq":58,"oiq":37,"drb":53,"pss":47,"reb":62}],
+"pos":"PG","hgt":77,"weight":205,
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630585.png",
+"born":{"year":1999,"loc":"Dallas, TX"},
+"contract":{"amount":500,"exp":2022},
+"transactions":[{"phase":0,"season":2021,"tid":15,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2021},
+"college":"Kansas",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":15,
+"name":"Haywood Highsmith",
+"jerseyNumber":"24",
+"ratings":[{"hgt":48,"stre":45,"spd":42,"jmp":47,"endu":45,"ins":55,"dnk":65,"ft":48,"fg":60,"tp":50,"diq":42,"oiq":43,"drb":35,"pss":34,"reb":63}],
+"pos":"SF","hgt":79,"weight":220,
+"born":{"year":1997,"loc":"Baltimore, MD"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/1629312.png",
+"contract":{"amount":1675,"exp":2023},
+"transactions":[{"phase":0,"season":2022,"tid":15,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2018},
+"college":"Wheeling Jesuit",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":15,
+"firstName":"Nikola","lastName":"Jovic",
+"jerseyNumber":"5",
+"ratings":[{"hgt":58,"stre":39,"spd":50,"jmp":41,"endu":30,"ins":38,"dnk":52,"ft":55,"fg":48,"tp":35,"diq":33,"oiq":44,"drb":39,"pss":41,"reb":47}],
+"pos":"GF","hgt":82,"weight":209,
+"born":{"year":2003,"loc":"Leicester, England - Country: Serbia"},
+"imgURL":"https://i.imgur.com/hfA0zVe.png",
+"contract":{"amount":1850,"exp":2026,"rookie":true},
+"transactions":[{"phase":0,"season":2022,"tid":15,"type":"draft","pickNum":27}],
+"draft":{"round":1,"pick":27,"tid":15,"originalTid":15,"year":2022},
+"college":"Serbia",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":15,
+"name":"Mychal Mulder",
+"jerseyNumber":"12",
+"ratings":[{"hgt":37,"stre":32,"spd":52,"jmp":50,"endu":44,"ins":37,"dnk":60,"ft":47,"fg":61,"tp":69,"diq":42,"oiq":50,"drb":32,"pss":32,"reb":41}],
+"pos":"SG","hgt":76,"weight":185,
+"born":{"year":1994,"loc":"Etobicoke, Canada"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628539.png",
+"contract":{"amount":500,"exp":2022},
+"transactions":[{"phase":0,"season":2022,"tid":15,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2017},
+"college":"Kentucky",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":15,
+"name":"Orlando Robinson",
+"jerseyNumber":"59",
+"ratings":[{"hgt":66,"stre":50,"spd":37,"jmp":33,"endu":30,"ins":55,"dnk":52,"ft":42,"fg":45,"tp":45,"diq":31,"oiq":47,"drb":40,"pss":43,"reb":63}],
+"pos":"FC","hgt":84,"weight":225,
+"born":{"year":2001,"loc":"Las Vegas, NV"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4593049.png&w=350&h=254",
+"contract":{"amount":1000,"exp":2023},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2022},
+"college":"Fresno State",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":15,
+"name":"Javonte Smart",
+"jerseyNumber":"15",
+"ratings":[{"hgt":38,"stre":38,"spd":56,"jmp":41,"endu":37,"ins":32,"dnk":55,"ft":62,"fg":48,"tp":47,"diq":53,"oiq":47,"drb":50,"pss":54,"reb":45}],
+"pos":"PG","hgt":76,"weight":205,
+"born":{"year":1999,"loc":"Baton Rouge, LA"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630606.png",
+"contract":{"amount":500,"exp":2022},
+"transactions":[{"phase":0,"season":2022,"tid":15,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2021},
+"college":"LSU",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":15,
+"name":"Omer Yurtseven",
+"jerseyNumber":"77",
+"ratings":[{"hgt":69,"stre":64,"spd":39,"jmp":46,"endu":42,"ins":76,"dnk":68,"ft":27,"fg":43,"tp":19,"diq":29,"oiq":53,"drb":22,"pss":22,"reb":73}],
+"pos":"C","hgt":84,"weight":275,
+"born":{"year":1999,"loc":"Taskent, Uzbekistan - Country: Turkey"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630209.png",
+"contract":{"amount":1500,"exp":2023},
+"transactions":[{"phase":0,"season":2021,"tid":15,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2020},
+"college":"Georgetown",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ],
