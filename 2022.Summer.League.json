@@ -818,6 +818,19 @@
 "college":"Georgia Tech",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
+{"tid":6,
+"firstName":"Marcus","lastName":"Bingham Jr.",
+"jerseyNumber":"30",
+"ratings":[{"hgt":66,"stre":47,"spd":37,"jmp":52,"endu":31,"ins":58,"dnk":58,"ft":48,"fg":31,"tp":32,"diq":43,"oiq":45,"drb":31,"pss":20,"reb":53}],
+"pos":"F","hgt":84,"weight":230,
+"born":{"year":2001,"loc":"Grand Rapids, MI"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4397212.png&w=350&h=254",
+"contract":{"amount":150,"exp":2022},
+"transactions":[{"phase":0,"season":2022,"tid":6,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2022},
+"college":"Michigan State",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
 {"tid":7,
 "name":"Christian Braun",
 "jerseyNumber":"0",
@@ -4322,7 +4335,7 @@
 "numGamesPlayoffSeries":[1,1,1,1],
 "quarterLength":10,
 "tradeDeadline":0,
-"minRosterSize":6,
+"minRosterSize":7,
 "allStarGame":null}
 
 }
