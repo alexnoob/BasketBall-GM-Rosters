@@ -89,7 +89,7 @@
 {"tid":1,
 "name":"Mario Chalmers",
 "jerseyNumber":"15",
-"ratings":[{"hgt":33,"stre":41,"spd":49,"jmp":39,"endu":47,"ins":37,"dnk":53,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":68,"pss":62,"reb":0}],
+"ratings":[{"hgt":33,"stre":41,"spd":49,"jmp":39,"endu":47,"ins":37,"dnk":53,"ft":56,"fg":41,"tp":39,"diq":37,"oiq":50,"drb":68,"pss":62,"reb":39}],
 "pos":"PG","hgt":75,"weight":190,
 "born":{"year":1986,"loc":"Anchorage, AL"},
 "imgURL":"https://big3.com/wp-content/uploads/2019/05/3Co-Mario-Chalmers.png",
@@ -794,17 +794,40 @@
 
 {"tid":-2,"draft":{"year":2022},
 "name":"Maurice Evans",
-"ratings":[{"hgt":39,"stre":36,"spd":58,"jmp":40,"endu":36,"ins":36,"dnk":61,"ft":74,"fg":53,"tp":70,"diq":16,"oiq":35,"drb":41,"pss":14,"reb":27}],
+"ratings":[{"hgt":39,"stre":36,"spd":58,"jmp":40,"endu":36,"ins":36,"dnk":61,"ft":54,"fg":53,"tp":70,"diq":16,"oiq":35,"drb":41,"pss":14,"reb":27}],
 "pos":"GF","hgt":77,"weight":220,
 "born":{"year":1978,"loc":"Wichita, KS"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1031.png",
 "college":"Texas",
-"injury":{"type":"Healthy","gamesRemaining":0}
-}
+"injury":{"type":"Healthy","gamesRemaining":0}},
 
+{"tid":-2,"draft":{"year":2022},
+"name":"Allen Iverson",
+"jerseyNumber":"3",
+"ratings":[{"hgt":22,"stre":36,"spd":57,"jmp":32,"endu":24,"ins":26,"dnk":78,"ft":54,"fg":53,"tp":30,"diq":36,"oiq":70,"drb":62,"pss":44,"reb":57}],
+"pos":"PG","hgt":72,"weight":165,
+"born":{"year":1975,"loc":"Hampton, VA"},
+"imgURL":"https://i.imgur.com/2OGluAL.png",
+"college":"Georgetown",
+"injury":{"type":"Healthy","gamesRemaining":0}},
 
+{"tid":-2,"draft":{"year":2022},
+"name":"Xavier Silas",
+"ratings":[{"hgt":42,"stre":16,"spd":53,"jmp":46,"endu":46,"ins":53,"dnk":52,"ft":57,"fg":55,"tp":62,"diq":27,"oiq":48,"drb":43,"pss":43,"reb":21}],
+"pos":"G","hgt":77,"weight":198,
+"born":{"year":1988,"loc":"San Antonio, TX"},
+"imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/202918.png",
+"college":"Northern Illinois",
+"injury":{"type":"Healthy","gamesRemaining":0}},
 
-
+{"tid":-2,"draft":{"year":2022},
+"name":"Rasual Butler",
+"ratings":[{"hgt":57,"stre":56,"spd":48,"jmp":51,"endu":21,"ins":34,"dnk":48,"ft":62,"fg":61,"tp":51,"diq":61,"oiq":37,"drb":37,"pss":29,"reb":22}],
+"pos":"GF","hgt":79,"weight":215,
+"born":{"year":1979,"loc":"Philadelphia, PA"},
+"imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2446.png",
+"college":"La Salle",
+"injury":{"type":"Healthy","gamesRemaining":0}},
 
 ],
 
