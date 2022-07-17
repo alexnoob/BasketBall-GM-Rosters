@@ -367,7 +367,7 @@
 {"tid":5,
 "name":"Elijah Stewart",
 "jerseyNumber":"44",
-"ratings":[{"hgt":41,"stre":36,"spd":0,"jmp":0,"endu":0,"ins":0,"dnk":0,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":0,"pss":0,"reb":0}],
+"ratings":[{"hgt":41,"stre":36,"spd":41,"jmp":47,"endu":41,"ins":39,"dnk":47,"ft":50,"fg":42,"tp":47,"diq":37,"oiq":44,"drb":32,"pss":30,"reb":47}],
 "pos":"SF","hgt":77,"weight":190,
 "born":{"year":1996,"loc":"DeRidder, LA"},
 "imgURL":"https://big3.com/wp-content/uploads/2021/06/Enemies-Elijah-Stewart.png",
@@ -511,7 +511,7 @@
 {"tid":7,
 "name":"K.J. McDaniels",
 "jerseyNumber":"1",
-"ratings":[{"hgt":44,"stre":42,"spd":57,"jmp":55,"endu":48,"ins":37,"dnk":57,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":0,"pss":0,"reb":0}],
+"ratings":[{"hgt":44,"stre":42,"spd":57,"jmp":55,"endu":48,"ins":37,"dnk":57,"ft":52,"fg":36,"tp":28,"diq":39,"oiq":40,"drb":37,"pss":32,"reb":61}],
 "pos":"GF","hgt":78,"weight":205,
 "born":{"year":1993,"loc":"Birmingham, AL"},
 "imgURL":"https://big3.com/wp-content/uploads/2022/05/Killer-3s-KJ-McDaniels.png",
@@ -619,7 +619,7 @@
 {"tid":9,
 "name":"Larry Sanders",
 "jerseyNumber":"8",
-"ratings":[{"hgt":63,"stre":56,"spd":0,"jmp":41,"endu":37,"ins":0,"dnk":0,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":0,"pss":0,"reb":0}],
+"ratings":[{"hgt":63,"stre":56,"spd":43,"jmp":41,"endu":37,"ins":55,"dnk":51,"ft":15,"fg":21,"tp":4,"diq":53,"oiq":41,"drb":33,"pss":27,"reb":69}],
 "pos":"PF","hgt":83,"weight":235,
 "born":{"year":1989,"loc":"Fort Pierce, FL"},
 "imgURL":"https://big3.com/wp-content/uploads/2019/05/Tri-State-Larry-Sanders.png",
@@ -773,6 +773,38 @@
 "draft":{"round":1,"pick":6,"tid":11,"originalTid":11,"year":2022},
 "college":"UCLA",
 "injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-2,"draft":{"year":2022},
+"name":"Reggie Evans",
+"ratings":[{"hgt":66,"stre":85,"spd":20,"jmp":55,"endu":40,"ins":39,"dnk":33,"ft":28,"fg":26,"tp":0,"diq":49,"oiq":32,"drb":10,"pss":26,"reb":87}],
+"pos":"FC","hgt":80,"weight":245,
+"born":{"year":1980,"loc":"Pensacola, FL"},
+"imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1828.png",
+"college":"Iowa",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-2,"draft":{"year":2022},
+"name":"Ivan Johnson",
+"ratings":[{"hgt":53,"stre":84,"spd":42,"jmp":36,"endu":57,"ins":81,"dnk":70,"ft":66,"fg":60,"tp":23,"diq":35,"oiq":58,"drb":18,"pss":25,"reb":55}],
+"pos":"PF","hgt":80,"weight":255,
+"born":{"year":1984,"loc":"San Antonio, TX"},
+"imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6534.png",
+"college":"Oregon",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-2,"draft":{"year":2022},
+"name":"Maurice Evans",
+"ratings":[{"hgt":39,"stre":36,"spd":58,"jmp":40,"endu":36,"ins":36,"dnk":61,"ft":74,"fg":53,"tp":70,"diq":16,"oiq":35,"drb":41,"pss":14,"reb":27}],
+"pos":"GF","hgt":77,"weight":220,
+"born":{"year":1978,"loc":"Wichita, KS"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1031.png",
+"college":"Texas",
+"injury":{"type":"Healthy","gamesRemaining":0}
+}
+
+
+
+
 
 ],
 
