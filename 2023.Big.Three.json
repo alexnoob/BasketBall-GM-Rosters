@@ -439,7 +439,7 @@
 {"tid":6,
 "name":"Chris Johnson",
 "jerseyNumber":"3",
-"ratings":[{"hgt":63,"stre":51,"spd":41,"jmp":59,"endu":43,"ins":0,"dnk":0,"ft":40,"fg":0,"tp":1,"diq":55,"oiq":0,"drb":19,"pss":0,"reb":0}],
+"ratings":[{"hgt":63,"stre":51,"spd":41,"jmp":59,"endu":46,"ins":59,"dnk":52,"ft":40,"fg":23,"tp":1,"diq":55,"oiq":49,"drb":29,"pss":33,"reb":63}],
 "pos":"C","hgt":83,"weight":209,
 "born":{"year":1985,"loc":"Washington, DC"},
 "imgURL":"https://big3.com/wp-content/uploads/2019/05/Ghost-Ballers-Chris-Johnson.png",
@@ -727,7 +727,7 @@
 {"tid":11,
 "name":"Jeremy Pargo",
 "jerseyNumber":"11",
-"ratings":[{"hgt":29,"stre":39,"spd":37,"jmp":35,"endu":37,"ins":0,"dnk":0,"ft":0,"fg":57,"tp":61,"diq":0,"oiq":57,"drb":0,"pss":0,"reb":0}],
+"ratings":[{"hgt":29,"stre":39,"spd":37,"jmp":35,"endu":37,"ins":22,"dnk":56,"ft":32,"fg":47,"tp":61,"diq":31,"oiq":57,"drb":55,"pss":47,"reb":42}],
 "pos":"PG","hgt":74,"weight":219,
 "born":{"year":1986,"loc":"Chicago, IL"},
 "imgURL":"https://big3.com/wp-content/uploads/2019/08/Triplets-Jeremy-Pargo.png",
@@ -889,6 +889,43 @@
 "born":{"year":1982,"loc":"Minneapolis, MN"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101187.png",
 "college":"Michigan State",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-2,"draft":{"year":2022},
+"name":"Perry Jones",
+"jerseyNumber":"1",
+"ratings":[{"hgt":64,"stre":35,"spd":50,"jmp":75,"endu":40,"ins":48,"dnk":45,"ft":46,"fg":55,"tp":30,"diq":35,"oiq":33,"drb":37,"pss":30,"reb":45}],
+"pos":"PF","hgt":83,"weight":235,
+"born":{"year":1992,"loc":"Winnsboro, LA"},
+"imgURL":"https://i.imgur.com/jL9nhR2.png",
+"college":"Baylor",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-2,"draft":{"year":2022},
+"name":"Corey Maggette",
+"ratings":[{"hgt":42,"stre":68,"spd":43,"jmp":37,"endu":38,"ins":38,"dnk":60,"ft":61,"fg":43,"tp":45,"diq":32,"oiq":41,"drb":45,"pss":25,"reb":52}],
+"pos":"SF","hgt":78,"weight":225,
+"born":{"year":1979,"loc":"Melrose Park, IL"},
+"imgURL":"https://big3.com/wp-content/uploads/2018/05/POWER__COREY-MAGGETTE-768x626.png",
+"college":"Duke",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-2,"draft":{"year":2022},
+"name":"Eddy Curry",
+"ratings":[{"hgt":63,"stre":81,"spd":22,"jmp":7,"endu":39,"ins":71,"dnk":52,"ft":41,"fg":46,"tp":0,"diq":37,"oiq":43,"drb":15,"pss":22,"reb":50}],
+"pos":"C","hgt":83,"weight":285,
+"born":{"year":1982,"loc":"Harvey, IL"},
+"imgURL":"http://big3.lmdevstaging4.com/wp-content/uploads/2018/05/KILLER-3S__EDDY-CURRY.png",
+"college":"Thornwood HS (IL)",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-2,"draft":{"year":2022},
+"name":"C.J. Watson",
+"ratings":[{"hgt":30,"stre":18,"spd":56,"jmp":48,"endu":40,"ins":32,"dnk":57,"ft":68,"fg":55,"tp":60,"diq":16,"oiq":59,"drb":63,"pss":67,"reb":17}],
+"pos":"G","hgt":74,"weight":175,
+"born":{"year":1984,"loc":"Las Vegas, NV"},
+"imgURL":"http://big3.lmdevstaging4.com/wp-content/uploads/2018/05/KILLER-3S__CJ-WATSON.png",
+"college":"Tennessee",
 "injury":{"type":"Healthy","gamesRemaining":0}}
 
 ],
@@ -945,7 +982,7 @@
 ],
 
 
-"gameAttributes": {
+"gameAttributes":{
 "confs":[{"cid":0,"name":"Big3"}],
 "divs":[{"did":0,"cid":0,"name":"Big3"}],
 "numPeriods":2,
