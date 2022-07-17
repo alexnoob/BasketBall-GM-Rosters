@@ -294,7 +294,7 @@
 {"tid":4,
 "name":"Corey Brewer",
 "jerseyNumber":"13",
-"ratings":[{"hgt":56,"stre":42,"spd":0,"jmp":0,"endu":44,"ins":0,"dnk":0,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":0,"pss":0,"reb":0}],
+"ratings":[{"hgt":56,"stre":42,"spd":46,"jmp":43,"endu":44,"ins":43,"dnk":55,"ft":39,"fg":37,"tp":31,"diq":47,"oiq":46,"drb":39,"pss":32,"reb":51}],
 "pos":"GF","hgt":81,"weight":186,
 "born":{"year":1986,"loc":"Portland, TN"},
 "imgURL":"https://big3.com/wp-content/uploads/2022/05/Bivouac-Corey-Brewer.png",
@@ -667,7 +667,7 @@
 {"tid":10,
 "name":"Earl Clark",
 "jerseyNumber":"5",
-"ratings":[{"hgt":59,"stre":0,"spd":0,"jmp":0,"endu":0,"ins":0,"dnk":0,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":0,"pss":0,"reb":0}],
+"ratings":[{"hgt":59,"stre":55,"spd":0,"jmp":48,"endu":41,"ins":0,"dnk":0,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":0,"pss":0,"reb":72}],
 "pos":"F","hgt":82,"weight":234,
 "born":{"year":1988,"loc":"Plainfield, NJ"},
 "imgURL":"https://big3.com/wp-content/uploads/2021/06/Trilogy-Earl-Clark.png",
@@ -691,7 +691,7 @@
 {"tid":10,
 "name":"Isaiah Briscoe",
 "jerseyNumber":"13",
-"ratings":[{"hgt":33,"stre":0,"spd":0,"jmp":0,"endu":0,"ins":0,"dnk":0,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":0,"pss":0,"reb":0}],
+"ratings":[{"hgt":33,"stre":37,"spd":59,"jmp":47,"endu":52,"ins":34,"dnk":67,"ft":20,"fg":37,"tp":32,"diq":37,"oiq":51,"drb":54,"pss":50,"reb":45}],
 "pos":"PG","hgt":75,"weight":210,
 "born":{"year":1996,"loc":"Union, NJ"},
 "imgURL":"https://big3.com/wp-content/uploads/2021/06/Trilogy-Isaiah-Briscoe.png",
@@ -838,6 +838,11 @@
 "numGames":32,
 "playIn":false,
 "numGamesPlayoffSeries":[1,1],
+"numPeriods":1,
+"quarterLength":10,
+"elam":true,
+"elamMinutes":10,
+"elamPoints":50,
 "draftAges":[30,49]
 }
 
