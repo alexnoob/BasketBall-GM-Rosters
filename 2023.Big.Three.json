@@ -318,7 +318,7 @@
 {"tid":4,
 "name":"Jeff Ayres",
 "jerseyNumber":"19",
-"ratings":[{"hgt":59,"stre":61,"spd":0,"jmp":0,"endu":0,"ins":0,"dnk":0,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":0,"pss":0,"reb":0}],
+"ratings":[{"hgt":59,"stre":61,"spd":41,"jmp":47,"endu":50,"ins":59,"dnk":62,"ft":47,"fg":37,"tp":39,"diq":38,"oiq":47,"drb":33,"pss":31,"reb":64}],
 "pos":"FC","hgt":82,"weight":240,
 "born":{"year":1987,"loc":"Ontario, CA"},
 "imgURL":"https://big3.com/wp-content/uploads/2022/05/Bivouac-Jeff-Ayres.png",
@@ -1139,6 +1139,14 @@
 "college":"Cincinnati",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
+{"tid":-2,"draft":{"year":2023},
+"firstName":"World B.","lastName":"Flat",
+"ratings":[{"hgt":34,"stre":44,"spd":79,"jmp":80,"endu":73,"ins":76,"dnk":95,"ft":71,"fg":85,"tp":68,"diq":40,"oiq":66,"drb":91,"pss":40,"reb":76}],
+"pos":"PG","hgt":74,"weight":195,
+"born":{"year":1992,"loc":"Melbourne, Australia"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202681.png",
+"college":"Duke",
+"injury":{"type":"Healthy","gamesRemaining":0}},
 ],
 
 "teams":[
