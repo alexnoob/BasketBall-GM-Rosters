@@ -1247,6 +1247,19 @@
 "college":"Pepperdine",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
+{"tid":-2,"draft":{"year":2023},
+"name":"Brandon Knight",
+"ratings":[{"hgt":33,"stre":27,"spd":54,"jmp":48,"endu":32,"ins":32,"dnk":54,"ft":66,"fg":53,"tp":59,"diq":36,"oiq":52,"drb":60,"pss":45,"reb":29}],
+"pos":"G","hgt":74,"weight":192,
+"born":{"year":1992,"loc":"Miami, FL"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202688.png",
+"college":"Kentucky",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+
+
+
+
 ],
 
 "teams":[
