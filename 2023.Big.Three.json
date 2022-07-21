@@ -1238,6 +1238,15 @@
 "college":"Michigan State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
+{"tid":-2,"draft":{"year":2023},
+"name":"Mychel Thompson",
+"ratings":[{"hgt":40,"stre":19,"spd":74,"jmp":56,"endu":55,"ins":25,"dnk":76,"ft":61,"fg":55,"tp":70,"diq":25,"oiq":26,"drb":35,"pss":29,"reb":30}],
+"pos":"GF","hgt":78,"weight":211,
+"born":{"year":1988,"loc":"Los Angeles, CA"},
+"imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6523.png&w=350&h=254",
+"college":"Pepperdine",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
 ],
 
 "teams":[
