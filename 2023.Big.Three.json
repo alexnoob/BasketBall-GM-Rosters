@@ -137,7 +137,7 @@
 {"tid":1,
 "name":"Derrick Byars",
 "jerseyNumber":"99",
-"ratings":[{"hgt":48,"stre":48,"spd":0,"jmp":0,"endu":0,"ins":0,"dnk":0,"ft":0,"fg":0,"tp":0,"diq":0,"oiq":0,"drb":0,"pss":0,"reb":0}],
+"ratings":[{"hgt":48,"stre":54,"spd":37,"jmp":40,"endu":40,"ins":51,"dnk":48,"ft":47,"fg":37,"tp":33,"diq":47,"oiq":39,"drb":37,"pss":22,"reb":61}],
 "pos":"SF","hgt":79,"weight":220,
 "born":{"year":1984,"loc":"Memphis, TN"},
 "imgURL":"https://big3.com/wp-content/uploads/2018/05/3co-Derrick-Byars.png",
@@ -1256,7 +1256,23 @@
 "college":"Kentucky",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
+{"tid":-2,"draft":{"year":2023},
+"firstName":"Frank","lastName":"Ntilikina",
+"ratings":[{"hgt":43,"stre":42,"spd":57,"jmp":54,"endu":47,"ins":38,"dnk":49,"ft":45,"fg":43,"tp":55,"diq":56,"oiq":49,"drb":48,"pss":46,"reb":45}],
+"pos":"G","hgt":76,"weight":200,
+"born":{"year":1999,"loc":"Ixelles, Belgium - Country: France"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628373.png",
+"college":"France",
+"injury":{"type":"Healthy","gamesRemaining":0}},
 
+{"tid":-2,"draft":{"year":2023},
+"name":"Anthony Bennett",
+"ratings":[{"hgt":48,"stre":67,"spd":47,"jmp":46,"endu":38,"ins":56,"dnk":58,"ft":53,"fg":53,"tp":48,"diq":50,"oiq":25,"drb":33,"pss":10,"reb":62}],
+"pos":"PF","hgt":79,"weight":235,
+"born":{"year":1993,"loc":"Toronto, Canada"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203461.png",
+"college":"UNLV",
+"injury":{"type":"Healthy","gamesRemaining":0}},
 
 
 
