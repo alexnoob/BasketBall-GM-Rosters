@@ -1310,6 +1310,34 @@
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2731.png",
 "college":"Connecticut",
 "injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-2,"draft":{"year":2024},
+"name":"Bol Bol",
+"ratings":[{"hgt":76,"stre":43,"spd":37,"jmp":30,"endu":29,"ins":58,"dnk":51,"ft":62,"fg":40,"tp":45,"diq":52,"oiq":37,"drb":41,"pss":20,"reb":54}],
+"pos":"FC","hgt":86,"weight":220,
+"born":{"year":2000,"loc":"Khartoum, Sudan"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629626.png",
+"college":"Oregon",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-2,"draft":{"year":2024},
+"name":"Jimmer Fredette",
+"ratings":[{"hgt":27,"stre":25,"spd":50,"jmp":44,"endu":40,"ins":38,"dnk":42,"ft":76,"fg":62,"tp":65,"diq":21,"oiq":39,"drb":52,"pss":1,"reb":28}],
+"pos":"G","hgt":74,"weight":195,
+"born":{"year":1989,"loc":"Glens Falls, NY"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6434.png",
+"college":"Brigham Young",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-2,"draft":{"year":2024},
+"name":"Enes Freedom",
+"ratings":[{"hgt":66,"stre":54,"spd":37,"jmp":48,"endu":39,"ins":82,"dnk":69,"ft":48,"fg":63,"tp":0,"diq":0,"oiq":62,"drb":34,"pss":39,"reb":92}],
+"pos":"C","hgt":82,"weight":250,
+"born":{"year":1992,"loc":"Zurich, Switzerland - Country: Turkey"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202683.png",
+"college":"Stoneridge PS (CA)",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
 ],
 
 "teams":[
