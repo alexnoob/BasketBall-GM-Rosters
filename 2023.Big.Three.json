@@ -1338,6 +1338,24 @@
 "college":"Stoneridge PS (CA)",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
+{"tid":-2,"draft":{"year":2024},
+"name":"Jeremy Lin",
+"ratings":[{"hgt":33,"stre":20,"spd":58,"jmp":47,"endu":36,"ins":39,"dnk":70,"ft":62,"fg":60,"tp":59,"diq":31,"oiq":52,"drb":70,"pss":54,"reb":45}],
+"pos":"PG","hgt":75,"weight":200,
+"born":{"year":1989,"loc":"Palo Alto, CA"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202391.png",
+"college":"Harvard",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-2,"draft":{"year":2024},
+"name":"Kyle Korver",
+"ratings":[{"hgt":48,"stre":46,"spd":35,"jmp":37,"endu":30,"ins":28,"dnk":55,"ft":63,"fg":77,"tp":86,"diq":39,"oiq":62,"drb":40,"pss":38,"reb":48}],
+"pos":"GF","hgt":79,"weight":212,
+"born":{"year":1981,"loc":"Lakewood, CA"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2594.png",
+"college":"Creighton",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
 ],
 
 "teams":[
