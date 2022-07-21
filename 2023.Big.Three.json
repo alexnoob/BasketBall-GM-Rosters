@@ -1158,7 +1158,7 @@
 "college":"Washington",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2023},
+{"tid":-2,"draft":{"year":2024},
 "name":"Ben Simmons",
 "jerseyNumber":"25",
 "ratings":[{"hgt":66,"stre":47,"spd":72,"jmp":50,"endu":56,"ins":5,"dnk":7,"ft":29,"fg":4,"tp":3,"diq":49,"oiq":60,"drb":62,"pss":73,"reb":78}],
@@ -1256,9 +1256,9 @@
 "college":"Kentucky",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2023},
+{"tid":-2,"draft":{"year":2024},
 "firstName":"Frank","lastName":"Ntilikina",
-"ratings":[{"hgt":43,"stre":42,"spd":57,"jmp":54,"endu":47,"ins":38,"dnk":49,"ft":45,"fg":43,"tp":55,"diq":56,"oiq":49,"drb":48,"pss":46,"reb":45}],
+"ratings":[{"hgt":43,"stre":42,"spd":57,"jmp":54,"endu":47,"ins":38,"dnk":49,"ft":45,"fg":43,"tp":55,"diq":86,"oiq":49,"drb":48,"pss":46,"reb":45}],
 "pos":"G","hgt":76,"weight":200,
 "born":{"year":1999,"loc":"Ixelles, Belgium - Country: France"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628373.png",
@@ -1320,7 +1320,7 @@
 "college":"Oregon",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2024},
+{"tid":-2,"draft":{"year":2023},
 "name":"Jimmer Fredette",
 "ratings":[{"hgt":27,"stre":25,"spd":50,"jmp":44,"endu":40,"ins":38,"dnk":42,"ft":76,"fg":62,"tp":65,"diq":21,"oiq":39,"drb":52,"pss":1,"reb":28}],
 "pos":"G","hgt":74,"weight":195,
@@ -1338,7 +1338,7 @@
 "college":"Stoneridge PS (CA)",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2024},
+{"tid":-2,"draft":{"year":2023},
 "name":"Jeremy Lin",
 "ratings":[{"hgt":33,"stre":20,"spd":58,"jmp":47,"endu":36,"ins":39,"dnk":70,"ft":62,"fg":60,"tp":59,"diq":31,"oiq":52,"drb":70,"pss":54,"reb":45}],
 "pos":"PG","hgt":75,"weight":200,
