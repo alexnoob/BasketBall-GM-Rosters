@@ -13,7 +13,7 @@
 		"seasons": {
 			"1969": { "imgURL": "https://i.ibb.co/MR2WyQ2/atl1969.png" },
 			"1970": { "imgURL": "https://i.ibb.co/V97cTPz/atl1970.png" },
-			"1971": { "imgURL": "https://i.ibb.co/sv8bzmK/atl1971.png" },
+			"1971": { "imgURL":"https://i.imgur.com/womb1in.png","imgURLSmall":"https://i.ibb.co/sv8bzmK/atl1971.png" },
 			"1973": {
 				"imgURL": "https://i.imgur.com/3cWQdf2.png",
 				"imgURLSmall": "https://i.ibb.co/3m1yMXh/atl1973.png" },
