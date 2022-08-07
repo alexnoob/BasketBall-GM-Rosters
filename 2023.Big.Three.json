@@ -821,12 +821,13 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-2,"draft":{"year":2022},
-"name":"Rasual Butler",
-"ratings":[{"hgt":57,"stre":56,"spd":48,"jmp":51,"endu":21,"ins":34,"dnk":48,"ft":62,"fg":61,"tp":51,"diq":61,"oiq":37,"drb":37,"pss":29,"reb":22}],
-"pos":"GF","hgt":79,"weight":215,
-"born":{"year":1979,"loc":"Philadelphia, PA"},
-"imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2446.png",
-"college":"La Salle",
+"name":"God Shammgod",
+"jerseyNumber":"2",
+"ratings":[{"hgt":22,"stre":17,"spd":48,"jmp":27,"endu":22,"ins":23,"dnk":63,"ft":55,"fg":45,"tp":45,"diq":31,"oiq":43,"drb":84,"pss":50,"reb":31}],
+"pos":"PG","hgt":72,"weight":169,
+"born":{"year":1976,"loc":"New York City, NY"},
+"imgURL":"https://i.imgur.com/hQCV6sT.png",
+"college":"Providence",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-2,"draft":{"year":2022},
@@ -1437,15 +1438,6 @@
 "relatives":[{"type":"father","pid":131,"name":"Kenyon Martin"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-2,"draft":{"year":2024},
-"name":"God Shammgod",
-"jerseyNumber":"2",
-"ratings":[{"hgt":22,"stre":17,"spd":48,"jmp":27,"endu":22,"ins":23,"dnk":63,"ft":55,"fg":45,"tp":45,"diq":31,"oiq":43,"drb":84,"pss":50,"reb":31}],
-"pos":"PG","hgt":72,"weight":169,
-"born":{"year":1976,"loc":"New York City, NY"},
-"imgURL":"https://i.imgur.com/hQCV6sT.png",
-"college":"Providence",
-"injury":{"type":"Healthy","gamesRemaining":0}},
 
 ],
 
