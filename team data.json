@@ -62,6 +62,7 @@
 	},
 	"BOS": {
 		"imgURL": "https://i.imgur.com/H94UWlD.png",
+		"imgURLSmall": "https://i.imgur.com/Lh6bjaR.png",
 		"name": "Celtics",
 		"region": "Boston",
 		"colors": ["#007a33","#ffffff","#ffffff"],
