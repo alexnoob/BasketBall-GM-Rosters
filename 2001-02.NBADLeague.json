@@ -271,10 +271,10 @@
 "imgURLSmall":"https://upload.wikimedia.org/wikipedia/fr/9/9d/Energy_de_l%27Iowa_2013.png"}},
 
 {"id":67,"type":"expansionDraft","season":2014,"phase":4,"info":{"teams":[
-{"tid":24,"region":"Westchester","name":"Knicks","abbrev":"WES","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
-"colors":["#0068b3","#f68428","#f68428"],"jersey":"jersey2",
-"imgURL":"https://i.imgur.com/q34Z8HB.png",
-"imgURLSmall":"https://i.imgur.com/uIc9Vir.png"}
+	{"tid":24,"region":"Westchester","name":"Knicks","abbrev":"WES","cid":0,"did":0,"pop":0.1,"stadiumCapacity":5000,
+	"colors":["#0068b3","#f68428","#f68428"],"jersey":"jersey2",
+	"imgURL":"https://i.imgur.com/q34Z8HB.png",
+	"imgURLSmall":"https://i.imgur.com/uIc9Vir.png"}
 ]}},
 
 {"id":68,"type":"gameAttributes","season":2015,"phase":0,"info":{"confs":[{"cid":0,"name":"Eastern Conference"},{"cid":1,"name":"Western Conference"}],"divs":[{"did":0,"cid":0,"name":"East Division"},{"did":1,"cid":0,"name":"Central Division"},{"did":2,"cid":1,"name":"Southwest Division"},{"did":3,"cid":1,"name":"West Division"}]}},
@@ -306,10 +306,10 @@
 {"id":81,"type":"teamInfo","season":2015,"phase":0,"info":{"tid":20,"region":"Rio Grande Valley","did":2,"cid":1}},
 
 {"id":82,"type":"expansionDraft","season":2015,"phase":4,"info":{"teams":[
-{"tid":25,"region":"Raptors","name":"905","abbrev":"RAP","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
-"colors":["#ce1141","#ffffff","#000000"],"jersey":"jersey2",
-"imgURL":"https://content.sportslogos.net/logos/17/5797/full/raptors_905_logo__2587.png",
-"imgURLSmall":"https://content.sportslogos.net/logos/17/5797/full/raptors_905_logo__1879.png"}
+	{"tid":25,"region":"Raptors","name":"905","abbrev":"RAP","cid":0,"did":0,"pop":0.7,"stadiumCapacity":5400,
+	"colors":["#ce1141","#ffffff","#000000"],"jersey":"jersey2",
+	"imgURL":"https://content.sportslogos.net/logos/17/5797/full/raptors_905_logo__2587.png",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/5797/full/raptors_905_logo__1879.png"}
 ]}},
 
 {"id":83,"type":"gameAttributes","season":2016,"phase":0,"info":{"confs":[{"cid":0,"name":"Eastern Conference"},{"cid":1,"name":"Western Conference"}],"divs":[{"did":0,"cid":0,"name":"Atlantic Division"},{"did":1,"cid":0,"name":"Central Division"},{"did":2,"cid":1,"name":"Southwest Division"},{"did":3,"cid":1,"name":"Pacific Division"}]}},
@@ -317,10 +317,10 @@
 {"id":84,"type":"teamInfo","season":2016,"phase":0,"info":{"tid":4,"region":"Canton","did":1,"cid":0}},
 
 {"id":85,"type":"expansionDraft","season":2016,"phase":4,"info":{"teams":[
-{"tid":26,"region":"Greensboro","name":"Swarm","abbrev":"SWR","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
-"colors":["#000000","#00778b","#211747"],"jersey":"jersey2",
-"imgURL":"https://content.sportslogos.net/logos/17/5934/full/greensboro_swarm_logo__6183.png",
-"imgURLSmall":"https://content.sportslogos.net/logos/17/5934/full/greensboro_swarm_logo__2647.png"},
+	{"tid":26,"region":"Greensboro","name":"Swarm","abbrev":"SWR","cid":0,"did":0,"pop":0.8,"stadiumCapacity":2118,
+	"colors":["#000000","#00778b","#211747"],"jersey":"jersey2",
+	"imgURL":"https://content.sportslogos.net/logos/17/5934/full/greensboro_swarm_logo__6183.png",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/5934/full/greensboro_swarm_logo__2647.png"},
 {"tid":27,"region":"Long Island","name":"Nets","abbrev":"LIN","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
 "colors":["#003da5","#ffffff","#d50032"],"jersey":"jersey2",
 "imgURL":"https://content.sportslogos.net/logos/17/6014/full/long_island_nets_logo__7346.png",
@@ -540,12 +540,17 @@
 	"imgURL":"https://stats.gleague.nba.com/media/img/teams/logos/CTN.svg",
 	"imgURLSmall":"https://i.imgur.com/8S3cbLi.png"}},
 	
-{"id":138,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":34,"region":"Birmingham","name":"Squadron","abbrev":"BIR",
+{"id":137,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":34,"region":"Birmingham","name":"Squadron","abbrev":"BIR",
 	"pop":1.1,"stadiumCapacity":17654,
 	"colors":["#ce0e2d","#ffffff","#86724c"],"jersey":"jersey2",
 	"imgURL":"https://i.imgur.com/7yWZUwp.png",
-	"imgURLSmall":"https://content.sportslogos.net/logos/17/6810/full/birmingham_squadron_logo_alternate_2022_sportslogosnet-9473.png"}}
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/6810/full/birmingham_squadron_logo_alternate_2022_sportslogosnet-9473.png"}},
 
+{"id":138,"type":"teamInfo","season":2023,"phase":0,"info":{"tid":29,"region":"Ontario","name":"Clippers","abbrev":"ONT",
+	"pop":1.1,"stadiumCapacity":17654,
+	"colors":["#ce0e2d","#ffffff","#86724c"],"jersey":"jersey2",
+	"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/logos/nbagleague/1612709924/primary/D/logo.svg",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/6514/full/agua_caliente_clippers_logo_alternate_2019_sportslogosnet-9254.png"}}
 ],
 
 "gameAttributes":{
