@@ -331,24 +331,29 @@
 "imgURLSmall":"https://i.imgur.com/ngb9OiC.png"}
 ]}},
 
-{"id":86,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":11,"region":"Northern Arizona","name":"Suns","abbrev":"NAZ",
+{"id":86,"type":"teamInfo","season":2016,"phase":0,"info":{"tid":24,"region":"Westchester","name":"Knicks","abbrev":"WES","cid":0,"did":0,"pop":0.1,"stadiumCapacity":5000,
+	"colors":["#0068b3","#f68428","#f68428"],"jersey":"jersey2",
+	"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/logos/nbagleague/1612709919/primary/D/logo.svg",
+	"imgURLSmall":"https://ak-static.cms.nba.com/wp-content/uploads/logos/nbagleague/1612709919/primary/D/logo.svg"}},
+
+{"id":87,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":11,"region":"Northern Arizona","name":"Suns","abbrev":"NAZ",
 "colors":["#1d1160","#ffffff","#e56020"],
 "imgURL":"https://upload.wikimedia.org/wikipedia/fr/c/cc/Suns_de_Northern_Arizona.png",
 "imgURLSmall":"https://i.imgur.com/EsfXZGe.png"}},
-{"id":87,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":14,"region":"Salt Lake City","name":"Stars","abbrev":"SLC",
+{"id":88,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":14,"region":"Salt Lake City","name":"Stars","abbrev":"SLC",
 "colors":["#002b5c","#f9a01b","#ffffff"],
 "imgURL":"https://i.imgur.com/hO04lRn.png",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/6017/full/salt_lake_city_stars_logo_alternate_2017_sportslogosnet-4271.png"}},
-{"id":88,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":0,"region":"Oklahoma City",
+{"id":89,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":0,"region":"Oklahoma City",
 "colors":["#0072ce","#ffffff","#f94f1c"],
 "imgURL":"https://content.sportslogos.net/logos/17/5465/full/oklahoma_city_blue_logo_primary_2017_sportslogosnet-9884.png",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/5465/full/oklahoma_city_blue_logo_alternate_2017_sportslogosnet-8378.png"}},
 
-{"id":89,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":25,"region":"Raptors","did":1,"cid":0}},
-{"id":90,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":18,"region":"Iowa","did":2,"cid":1}},
-{"id":91,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":16,"region":"Sioux Falls","did":2,"cid":1}},
+{"id":90,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":25,"region":"Raptors","did":1,"cid":0}},
+{"id":91,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":18,"region":"Iowa","did":2,"cid":1}},
+{"id":92,"type":"teamInfo","season":2017,"phase":0,"info":{"tid":16,"region":"Sioux Falls","did":2,"cid":1}},
 
-{"id":92,"type":"expansionDraft","season":2017,"phase":4,"info":{"teams":[
+{"id":93,"type":"expansionDraft","season":2017,"phase":4,"info":{"teams":[
 {"tid":29,"region":"Agua Caliente","name":"Clippers","abbrev":"ACC","cid":0,"did":0,"pop":0.1,"stadiumCapacity":1000,
 "colors":["#d50032","#000000","#003da5"],"jersey":"jersey2",
 "imgURL":"https://content.sportslogos.net/logos/17/6514/full/agua_caliente_clippers_logo__1765.png",
@@ -367,7 +372,7 @@
 "imgURLSmall":"https://i.imgur.com/K1fYY4C.png"}
 ]}},
 
-{"id":93,"type":"gameAttributes","season":2018,"phase":0,"info":{
+{"id":94,"type":"gameAttributes","season":2018,"phase":0,"info":{
 	"confs":[
 	{"cid":0,"name":"Eastern Conference"},
 	{"cid":1,"name":"Western Conference"}],
@@ -380,101 +385,101 @@
 	{"did":5,"cid":1,"name":"Southwest Division"}],
 	"numGamesPlayoffSeries":[1,1,1,3],"numPlayoffByes":4}},
 
-{"id":94,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":21,"region":"Lakeland","name":"Magic","abbrev":"LAK",
+{"id":95,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":21,"region":"Lakeland","name":"Magic","abbrev":"LAK",
 "did":2,"cid":0,"colors":["#000000","#ffffff","#0057b7"],
 "imgURL":"https://content.sportslogos.net/logos/17/6513/full/lakeland_magic_logo__4014.png",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/6513/full/lakeland_magic_logo_alternate_2018_sportslogosnet-4135.png"}},
-{"id":95,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":18,"region":"Iowa","name":"Wolves","abbrev":"IOW",
+{"id":96,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":18,"region":"Iowa","name":"Wolves","abbrev":"IOW",
 "did":3,"cid":1,"colors":["#0c2340","#ffffff","#9ea2a2"],
 "imgURL":"https://content.sportslogos.net/logos/17/6516/full/iowa_wolves_logo__8735.png",
 "imgURLSmall":"https://content.sportslogos.net/logos/17/6516/full/iowa_wolves_logo__4044.png"}},
-{"id":96,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":15,"region":"South Bay","name":"Lakers","abbrev":"SBL",
+{"id":97,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":15,"region":"South Bay","name":"Lakers","abbrev":"SBL",
 "did":4,"cid":1,"colors":["#552583","#fdb927","#fdb927"],
 "imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/9/90/South_Bay_Lakers_logo.svg/1920px-South_Bay_Lakers_logo.svg.png",
 "imgURLSmall":"https://i.imgur.com/r7HAr3b.png"}},
-{"id":97,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":17,"region":"Fort Wayne","name":"Mad Ants",
+{"id":98,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":17,"region":"Fort Wayne","name":"Mad Ants",
 "did":1,"cid":0,"colors":["#002d62","#fdbb30","#fdbb30"],
 "imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Fort_Wayne_Mad_Ants_logo.svg/1920px-Fort_Wayne_Mad_Ants_logo.svg.png",
 "imgURLSmall":"https://a.espncdn.com/i/teamlogos/nba-development/500/scoreboard/fwn.png"}},
-{"id":98,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":1,"region":"Austin","did":5,"cid":1}},
-{"id":99,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":12,"region":"Texas","did":5,"cid":1}},
-{"id":100,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":14,"region":"Salt Lake City","did":5,"cid":1}},
-{"id":101,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":20,"region":"Rio Grande Valley","did":5,"cid":1}},
-{"id":102,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":11,"region":"Northern Arizona","did":4,"cid":1}},
-{"id":103,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":13,"region":"Santa Cruz","did":4,"cid":1}},
-{"id":104,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":22,"region":"Reno","did":4,"cid":1,
+{"id":99,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":1,"region":"Austin","did":5,"cid":1}},
+{"id":100,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":12,"region":"Texas","did":5,"cid":1}},
+{"id":101,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":14,"region":"Salt Lake City","did":5,"cid":1}},
+{"id":102,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":20,"region":"Rio Grande Valley","did":5,"cid":1}},
+{"id":103,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":11,"region":"Northern Arizona","did":4,"cid":1}},
+{"id":104,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":13,"region":"Santa Cruz","did":4,"cid":1}},
+{"id":105,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":22,"region":"Reno","did":4,"cid":1,
 "colors":["#000000","#ffffff","#3c1e57"],
 "imgURL":"https://i.imgur.com/6L0DleA.png","imgURLSmall":"https://i.imgur.com/nxfbm2g.png"}},
-{"id":105,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":29,"region":"Agua Caliente","did":4,"cid":1}},
-{"id":106,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":0,"region":"Oklahoma City","did":3,"cid":1}},
-{"id":107,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":16,"region":"Sioux Falls","did":3,"cid":1}},
-{"id":108,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":25,"region":"Raptors","did":0,"cid":0}},
-{"id":109,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":26,"region":"Greensboro","did":2,"cid":0}},
-{"id":110,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":30,"region":"Erie","did":2,"cid":0}},
-{"id":111,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":19,"region":"Delaware","did":2,"cid":0}},
+{"id":106,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":29,"region":"Agua Caliente","did":4,"cid":1}},
+{"id":107,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":0,"region":"Oklahoma City","did":3,"cid":1}},
+{"id":108,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":16,"region":"Sioux Falls","did":3,"cid":1}},
+{"id":109,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":25,"region":"Raptors","did":0,"cid":0}},
+{"id":110,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":26,"region":"Greensboro","did":2,"cid":0}},
+{"id":111,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":30,"region":"Erie","did":2,"cid":0}},
+{"id":112,"type":"teamInfo","season":2018,"phase":0,"info":{"tid":19,"region":"Delaware","did":2,"cid":0}},
 
-{"id":112,"type":"expansionDraft","season":2018,"phase":4,"info":{"teams":[
+{"id":113,"type":"expansionDraft","season":2018,"phase":4,"info":{"teams":[
 	{"tid":33,"region":"Capital City","name":"Go-Go","abbrev":"CGG","cid":0,"did":2,"pop":0.7,"stadiumCapacity":1000,
 	"colors":["#0c2340","#c8102e","#ffffff"],"jersey":"jersey2",
 	"imgURL":"https://content.sportslogos.net/logos/17/6612/full/capital_city_go-go_logo__1631.png",
 	"imgURLSmall":"https://content.sportslogos.net/logos/17/6612/full/capital_city_go-go_logo__4644.png"}
 ]}},
 
-{"id":113,"type":"teamInfo","season":2019,"phase":0,"info":{"tid":22,"region":"Stockton","name":"Kings","abbrev":"STO",
+{"id":114,"type":"teamInfo","season":2019,"phase":0,"info":{"tid":22,"region":"Stockton","name":"Kings","abbrev":"STO",
 "colors":["#000000","#ffffff","#5a2d81"],
 "imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Stockton_Kings_logo.svg/1920px-Stockton_Kings_logo.svg.png",
 "imgURLSmall":"https://i.imgur.com/X0AEqQM.png"}},
-{"id":114,"type":"teamInfo","season":2019,"phase":0,"info":{
+{"id":115,"type":"teamInfo","season":2019,"phase":0,"info":{
 	"tid":19,"region":"Delaware","name":"Blue Coats","cid":0,"did":0,
 	"colors":["#003da5","#000000","#003da5"],
 	"imgURL":"https://content.sportslogos.net/logos/17/6613/full/delaware_blue_coats_logo__8620.png",
 	"imgURLSmall":"https://content.sportslogos.net/logos/17/6613/full/delaware_blue_coats_logo__3092.png"}},
-{"id":115,"type":"teamInfo","season":2019,"phase":0,"info":{
+{"id":116,"type":"teamInfo","season":2019,"phase":0,"info":{
 	"tid":1,"region":"Austin",
 	"imgURL":"https://upload.wikimedia.org/wikipedia/fr/4/43/Spurs_d%27Austin.png",
 	"imgURLSmall":"https://upload.wikimedia.org/wikipedia/fr/4/43/Spurs_d%27Austin.png"}},
 
-{"id":116,"type":"expansionDraft","season":2019,"phase":4,"info":{"teams":[
+{"id":117,"type":"expansionDraft","season":2019,"phase":4,"info":{"teams":[
 	{"tid":34,"region":"Erie","name":"BayHawks","abbrev":"ERB","cid":0,"did":2,"pop":0.1,"stadiumCapacity":1000,
 	"colors":["#000000","#ffffff","#bc9b6a"],"jersey":"jersey2",
 	"imgURL":"https://content.sportslogos.net/logos/17/2686/full/a02180cueuiso0ivsmhx07mey.gif",
 	"imgURLSmall":"https://content.sportslogos.net/logos/17/2686/full/y3u1bzg0bb0z3wrt14wyfkhlx.gif"}
 ]}},
 
-{"id":117,"type":"gameAttributes","season":2020,"phase":0,"info":{"numGames":42,"numGamesPlayoffSeries":[],"numPlayoffByes":0}},
+{"id":118,"type":"gameAttributes","season":2020,"phase":0,"info":{"numGames":42,"numGamesPlayoffSeries":[],"numPlayoffByes":0}},
 
-{"id":118,"type":"teamInfo","season":2020,"phase":0,"info":{
+{"id":119,"type":"teamInfo","season":2020,"phase":0,"info":{
 	"tid":30,"region":"College Park","name":"Skyhawks","abbrev":"CPK",
 	"colors":["#061822","#fcb928","#c71232"],"stadiumCapacity":3500,
 	"imgURL":"https://content.sportslogos.net/logos/17/6709/full/5637_college_park_skyhawks-primary-2020.png",
 	"imgURLSmall":"https://content.sportslogos.net/logos/17/6709/full/2348_college_park_skyhawks-alternate-2020.png"}},
 
-{"id":119,"type":"contraction","season":2020,"phase":4,"info":{"tid":10}},
-{"id":120,"type":"contraction","season":2020,"phase":4,"info":{"tid":11}},
-{"id":121,"type":"contraction","season":2020,"phase":4,"info":{"tid":12}},
-{"id":122,"type":"contraction","season":2020,"phase":4,"info":{"tid":15}},
-{"id":123,"type":"contraction","season":2020,"phase":4,"info":{"tid":16}},
-{"id":124,"type":"contraction","season":2020,"phase":4,"info":{"tid":22}},
-{"id":125,"type":"contraction","season":2020,"phase":4,"info":{"tid":23}},
-{"id":126,"type":"contraction","season":2020,"phase":4,"info":{"tid":28}},
-{"id":127,"type":"contraction","season":2020,"phase":4,"info":{"tid":30}},
-{"id":128,"type":"contraction","season":2020,"phase":4,"info":{"tid":32}},
-{"id":129,"type":"contraction","season":2020,"phase":4,"info":{"tid":33}},
+{"id":120,"type":"contraction","season":2020,"phase":4,"info":{"tid":10}},
+{"id":121,"type":"contraction","season":2020,"phase":4,"info":{"tid":11}},
+{"id":122,"type":"contraction","season":2020,"phase":4,"info":{"tid":12}},
+{"id":123,"type":"contraction","season":2020,"phase":4,"info":{"tid":15}},
+{"id":124,"type":"contraction","season":2020,"phase":4,"info":{"tid":16}},
+{"id":125,"type":"contraction","season":2020,"phase":4,"info":{"tid":22}},
+{"id":126,"type":"contraction","season":2020,"phase":4,"info":{"tid":23}},
+{"id":127,"type":"contraction","season":2020,"phase":4,"info":{"tid":28}},
+{"id":128,"type":"contraction","season":2020,"phase":4,"info":{"tid":30}},
+{"id":129,"type":"contraction","season":2020,"phase":4,"info":{"tid":32}},
+{"id":130,"type":"contraction","season":2020,"phase":4,"info":{"tid":33}},
 
-{"id":130,"type":"expansionDraft","season":2020,"phase":4,"info":{"teams":[
+{"id":131,"type":"expansionDraft","season":2020,"phase":4,"info":{"teams":[
 	{"tid":35,"region":"G League","name":"Ignite","abbrev":"GLI","cid":1,"did":4,"pop":0.1,"stadiumCapacity":1000,
 	"colors":["#000000","#ffffff","#bcbcbc"],"jersey":"jersey2",
 	"imgURL":"https://i.imgur.com/XvUbMRX.png",
 	"imgURLSmall":"https://i.imgur.com/XvUbMRX.png"}
 ]}},
 
-{"id":131,"type":"gameAttributes","season":2021,"phase":0,"info":{"numGames":15,"numGamesPlayoffSeries":[1,1,1]}},
+{"id":132,"type":"gameAttributes","season":2021,"phase":0,"info":{"numGames":15,"numGamesPlayoffSeries":[1,1,1]}},
 
-{"id":132,"type":"teamInfo","season":2021,"phase":0,"info":{"tid":19,"region":"Delaware",
+{"id":133,"type":"teamInfo","season":2021,"phase":0,"info":{"tid":19,"region":"Delaware",
 	"imgURL":"https://content.sportslogos.net/logos/17/6613/full/delaware_blue_coats_logo__5731.png",
 	"imgURLSmall":"https://content.sportslogos.net/logos/17/6613/full/delaware_blue_coats_logo_alternate_2019_sportslogosnet-2165.png"}},
 
-{"id":133,"type":"expansionDraft","season":2021,"phase":4,"info":{"teams":[
+{"id":134,"type":"expansionDraft","season":2021,"phase":4,"info":{"teams":[
 	{"tid":36,"region":"Mexico City","name":"Capitanes","abbrev":"MEX","cid":1,"did":5,"pop":9.2,"stadiumCapacity":5242,
 	"colors":["#1d428a","#ffe11a","#ffe11a"],"jersey":"jersey2",
 	"imgURL":"https://content.sportslogos.net/logos/17/6788/full/mexico_city_capitanes_logo_primary_20228717.png",
@@ -527,30 +532,35 @@
 	"imgURLSmall":"https://content.sportslogos.net/logos/17/6612/full/capital_city_go-go_logo__4644.png"}
 ]}},
 
-{"id":134,"type":"gameAttributes","season":2022,"phase":0,"info":{
+{"id":135,"type":"gameAttributes","season":2022,"phase":0,"info":{
 	"numGames":50,"numGamesPlayoffSeries":[1,1,1,3],"numPlayoffByes":4}},
 
-{"id":135,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":19,"region":"Delaware","name":"Blue Coats",
+{"id":136,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":19,"region":"Delaware","name":"Blue Coats",
 	"colors":["#0044a2","#ffffff","#0044a2"],
 	"imgURL":"https://upload.wikimedia.org/wikipedia/fr/6/6b/Blue_Coats_du_Delaware_2021.png",
 	"imgURLSmall":"https://content.sportslogos.net/logos/17/6613/full/delaware_blue_coats_logo_alternate_2022_sportslogosnet-7806.png"}},
 
-{"id":136,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":4,"region":"Cleveland","name":"Charge","abbrev":"CLE",
+{"id":137,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":4,"region":"Cleveland","name":"Charge","abbrev":"CLE",
 	"colors":["#70213a","#010c29","#ffb915"],
 	"imgURL":"https://stats.gleague.nba.com/media/img/teams/logos/CTN.svg",
 	"imgURLSmall":"https://i.imgur.com/8S3cbLi.png"}},
 	
-{"id":137,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":34,"region":"Birmingham","name":"Squadron","abbrev":"BIR",
+{"id":138,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":34,"region":"Birmingham","name":"Squadron","abbrev":"BIR",
 	"pop":1.1,"stadiumCapacity":17654,
 	"colors":["#ce0e2d","#ffffff","#86724c"],"jersey":"jersey2",
 	"imgURL":"https://i.imgur.com/7yWZUwp.png",
 	"imgURLSmall":"https://content.sportslogos.net/logos/17/6810/full/birmingham_squadron_logo_alternate_2022_sportslogosnet-9473.png"}},
 
-{"id":138,"type":"teamInfo","season":2023,"phase":0,"info":{"tid":29,"region":"Ontario","name":"Clippers","abbrev":"ONT",
+{"id":139,"type":"teamInfo","season":2023,"phase":0,"info":{"tid":29,"region":"Ontario","name":"Clippers","abbrev":"ONT",
 	"pop":1.1,"stadiumCapacity":17654,
 	"colors":["#ce0e2d","#ffffff","#86724c"],"jersey":"jersey2",
 	"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/logos/nbagleague/1612709924/primary/D/logo.svg",
-	"imgURLSmall":"https://content.sportslogos.net/logos/17/6514/full/agua_caliente_clippers_logo_alternate_2019_sportslogosnet-9254.png"}}
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/6514/full/agua_caliente_clippers_logo_alternate_2019_sportslogosnet-9254.png"}},
+	
+{"id":140,"type":"teamInfo","season":2023,"phase":0,"info":{"tid":35,"region":"G League","name":"Ignite","abbrev":"GLI","cid":1,	"did":4,"pop":0.3,"stadiumCapacity":5567,
+	"colors":["#061922","#ffffff","#9d1d96"],"jersey":"jersey2",
+	"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/logos/nbagleague/1612709930/primary/D/logo.svg",
+	"imgURLSmall":"https://ak-static.cms.nba.com/wp-content/uploads/logos/nbagleague/1612709930/primary/D/logo.svg"}}
 ],
 
 "gameAttributes":{
@@ -568,6 +578,7 @@
 "numDraftRounds":3,
 "draftAges":[18,22],
 "rookieContractLengths":[1,1],
+"hideDisabledTeams":true,
 "playerBioInfo":{"frequencies":{"USA":150,"Canada":5,"Mexico":2,"France":2,"Croatia":1,"Serbia":1,"Nigeria":1,"Japan":1,"Philippines":1}}
 }
 }
