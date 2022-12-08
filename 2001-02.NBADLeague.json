@@ -1,5 +1,5 @@
 {"startingSeason":2002,
-"version":46,
+"version":52,
 "teams":[
 {"tid":0,"cid":0,"did":0,
 "region":"Asheville","name":"Altitude","abbrev":"ASH","pop":0.4,"strategy":"contending",
@@ -551,13 +551,16 @@
 	"imgURL":"https://i.imgur.com/7yWZUwp.png",
 	"imgURLSmall":"https://content.sportslogos.net/logos/17/6810/full/birmingham_squadron_logo_alternate_2022_sportslogosnet-9473.png"}},
 
-{"id":139,"type":"teamInfo","season":2023,"phase":0,"info":{"tid":29,"region":"Ontario","name":"Clippers","abbrev":"ONT",
+
+{"id":139,"type":"gameAttributes","season":2023,"phase":0,"info":{"elam":true,"elamASG":true,"elamMinutes":4,"elamOvertime":true,"elamPoints":7}},
+
+{"id":140,"type":"teamInfo","season":2023,"phase":0,"info":{"tid":29,"region":"Ontario","name":"Clippers","abbrev":"ONT",
 	"pop":1.1,"stadiumCapacity":17654,
 	"colors":["#ce0e2d","#ffffff","#86724c"],"jersey":"jersey2",
 	"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/logos/nbagleague/1612709924/primary/D/logo.svg",
 	"imgURLSmall":"https://content.sportslogos.net/logos/17/6514/full/agua_caliente_clippers_logo_alternate_2019_sportslogosnet-9254.png"}},
 	
-{"id":140,"type":"teamInfo","season":2023,"phase":0,"info":{"tid":35,"region":"G League","name":"Ignite","abbrev":"GLI","cid":1,	"did":4,"pop":0.3,"stadiumCapacity":5567,
+{"id":141,"type":"teamInfo","season":2023,"phase":0,"info":{"tid":35,"region":"G League","name":"Ignite","abbrev":"GLI","cid":1,	"did":4,"pop":0.3,"stadiumCapacity":5567,
 	"colors":["#061922","#ffffff","#9d1d96"],"jersey":"jersey2",
 	"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/logos/nbagleague/1612709930/primary/D/logo.svg",
 	"imgURLSmall":"https://ak-static.cms.nba.com/wp-content/uploads/logos/nbagleague/1612709930/primary/D/logo.svg"}}
