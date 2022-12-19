@@ -113,6 +113,7 @@
 "imgURL":"https://i.imgur.com/7cJyrEc.png",
 "contract":{"amount":100,"exp":2023},
 "college":"Chicago State",
+"awards":[{"season":2019,"type":"Most Valuable Player"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":0,
@@ -234,6 +235,7 @@
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3977.png",
 "contract":{"amount":70,"exp":2023},
 "college":"France",
+"awards":[{"season":2008,"type":"Most Valuable Player"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":1,
@@ -255,17 +257,19 @@
 "imgURL":"https://i.imgur.com/HjzrNYL.png",
 "contract":{"amount":50,"exp":2023},
 "college":"France",
+"awards":[{"season":2014,"type":"Most Valuable Player"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":1,
 "name":"Charles Kahudi",
 "jerseyNumber":"5",
-"ratings":[{"hgt":48,"stre":58,"spd":52,"jmp":54,"endu":47,"ins":36,"dnk":51,"ft":65,"fg":51,"tp":47,"diq":44,"oiq":44,"drb":38,"pss":31,"reb":43}],
+"ratings":[{"hgt":48,"stre":58,"spd":52,"jmp":54,"endu":47,"ins":36,"dnk":51,"ft":65,"fg":51,"tp":47,"diq":54,"oiq":41,"drb":38,"pss":31,"reb":43}],
 "pos":"PF","hgt":79,"weight":220,
 "born":{"year":1987,"loc":"Kinshasa, Zaire - Country: France"},
 "imgURL":"https://i.imgur.com/mp83PAB.png",
 "contract":{"amount":60,"exp":2023},
 "college":"France",
+"awards":[{"season":2016,"type":"Defensive Player of the Year"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":1,
@@ -960,6 +964,7 @@
 "imgURL":"https://i.imgur.com/fb8tzbr.png",
 "contract":{"amount":50,"exp":2023},
 "college":"Florida",
+"awards":[{"season":2016,"type":"Most Improved Player"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":9,
@@ -993,6 +998,7 @@
 "imgURL":"https://i.imgur.com/PlN5wPm.png",
 "contract":{"amount":70,"exp":2023},
 "college":"France",
+"awards":[{"season":2015,"type":"Most Improved Player"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":9,
@@ -1819,6 +1825,7 @@
 "imgURL":"https://i.imgur.com/C0zLpDx.png",
 "contract":{"amount":50,"exp":2024},
 "college":"France",
+"awards":[{"season":2022,"type":"Defensive Player of the Year"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":16,
@@ -2408,6 +2415,7 @@
 "imgURL":"https://i.imgur.com/larw5kn.png",
 "contract":{"amount":50,"exp":2023},
 "college":"France",
+"awards":[{"season":2015,"type":"Most Valuable Player"}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":3,
@@ -2430,8 +2438,43 @@
 "imgURL":"https://i.imgur.com/06DbNHb.png",
 "contract":{"amount":70,"exp":2023},
 "college":"High Point",
-"injury":{"type":"Healthy","gamesRemaining":0}}
+"injury":{"type":"Healthy","gamesRemaining":0}},
 
+{"tid":2,
+"name":"Paul Lacombe",
+"jerseyNumber":"6",
+"ratings":[{"hgt":37,"stre":47,"spd":56,"jmp":38,"endu":46,"ins":51,"dnk":52,"ft":25,"fg":31,"tp":37,"diq":45,"oiq":47,"drb":43,"pss":52,"reb":41}],
+"pos":"SG","hgt":76,"weight":195,
+"born":{"year":1990,"loc":" Venissieux, France"},
+"imgURL":"https://i.imgur.com/31ZmVS1.png",
+"contract":{"amount":50,"exp":2023},
+"college":"France",
+"awards":[{"season":2017,"type":"Most Improved Player"}],
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":5,
+"name":"Lahaou Konaté",
+"jerseyNumber":"5",
+"ratings":[{"hgt":41,"stre":42,"spd":32,"jmp":44,"endu":35,"ins":42,"dnk":37,"ft":57,"fg":41,"tp":27,"diq":61,"oiq":30,"drb":33,"pss":36,"reb":54}],
+"pos":"GF","hgt":77,"weight":176,
+"born":{"year":1992,"loc":"Créteil, France"},
+"imgURL":"https://i.imgur.com/DMEjPhg.png",
+"contract":{"amount":30,"exp":2023},
+"college":"France",
+"awards":[{"season":2019,"type":"Defensive Player of the Year"}],
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
+"name":"Mickael Gelabale",
+"jerseyNumber":"30",
+"ratings":[{"hgt":48,"stre":50,"spd":31,"jmp":36,"endu":27,"ins":43,"dnk":51,"ft":52,"fg":55,"tp":56,"diq":26,"oiq":35,"drb":43,"pss":30,"reb":36}],
+"pos":"SF","hgt":79,"weight":215,
+"born":{"year":1983,"loc":"Pointe-Noire, France"},
+"imgURL":"https://i.imgur.com/2bOV1EW.png",
+"contract":{"amount":80,"exp":2023},
+"college":"France",
+"awards":[{"season":2011,"type":"Most Valuable Player"}],
+"injury":{"type":"Healthy","gamesRemaining":0}}
 ],
 
 
