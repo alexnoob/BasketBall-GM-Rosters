@@ -2320,8 +2320,8 @@
 "retiredJerseyNumbers":[
 {"number":"2","seasonRetired":2000,"seasonTeamInfo":2023,"text":"Malik Sealy"},
 {"number":"FLIP","seasonRetired":2018,"seasonTeamInfo":2023,"text":"Flip Saunders"}],
-"imgURL":"https://i.imgur.com/037yAWf.png",
-"imgURLSmall":"https://i.imgur.com/tVyaRnG.png"},
+"imgURL":"https://i.imgur.com/WFdRHCz.png",
+"imgURLSmall":"https://i.imgur.com/WFdRHCz.png"},
 {"tid":18,"cid":1,"did":3,
 "region":"New Orleans","name":"Pelicans","abbrev":"NOP","pop":1.3,"strategy":"rebuilding",
 "stadiumCapacity":16867,
