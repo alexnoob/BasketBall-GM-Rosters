@@ -1242,7 +1242,7 @@
 {"tid":10,
 "firstName":"Jabari","lastName":"Smith Jr.",
 "jerseyNumber":"10",
-"ratings":[{"season":2023,"hgt":60,"stre":43,"spd":55,"jmp":63,"endu":66,"ins":42,"dnk":58,"ft":56,"fg":57,"tp":65,"diq":35,"oiq":50,"drb":39,"pss":35,"reb":61}],
+"ratings":[{"season":2023,"hgt":60,"stre":49,"spd":58,"jmp":63,"endu":66,"ins":52,"dnk":68,"ft":56,"fg":57,"tp":65,"diq":35,"oiq":60,"drb":39,"pss":35,"reb":61}],
 "pos":"PF","hgt":82,"weight":210,
 "born":{"year":2003,"loc":"Fayetteville, GA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631095.png",
@@ -1851,7 +1851,7 @@
 {"tid":15,
 "name":"Orlando Robinson",
 "jerseyNumber":"25",
-"ratings":[{"hgt":66,"stre":52,"spd":45,"jmp":43,"endu":39,"ins":44,"dnk":64,"ft":41,"fg":37,"tp":32,"diq":37,"oiq":45,"drb":36,"pss":38,"reb":66}],
+"ratings":[{"hgt":66,"stre":58,"spd":45,"jmp":43,"endu":59,"ins":74,"dnk":68,"ft":41,"fg":37,"tp":32,"diq":37,"oiq":45,"drb":36,"pss":38,"reb":66}],
 "pos":"FC","hgt":84,"weight":225,
 "born":{"year":2001,"loc":"Las Vegas, NV"},
 "imgURL":"https://cdn.nba.com/headshots/nba/latest/260x190/1631115.png",
@@ -3678,6 +3678,19 @@
 "college":"Hungary",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
+{"tid":23,
+"name":"Grant Sherfield",
+"jerseyNumber":"25",
+"ratings":[{"hgt":29,"stre":54,"spd":53,"jmp":56,"endu":30,"ins":38,"dnk":53,"ft":65,"fg":48,"tp":50,"diq":43,"oiq":59,"drb":51,"pss":50,"reb":32}],
+"pos":"G","hgt":74,"weight":228,
+"born":{"year":2000,"loc":"Arlington, TX"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4431794.png&w=350&h=254",
+"contract":{"amount":100,"exp":2023},
+"transactions":[{"phase":0,"season":2023,"tid":23,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2023},
+"college":"Oklahoma",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
 ],
 
 "teams":[
@@ -4029,7 +4042,7 @@
 "imgURL":"https://content.sportslogos.net/logos/6/239/full/6765_portland_trail_blazers-alternate-2018.png",
 "imgURLSmall":"https://content.sportslogos.net/logos/6/239/full/6765_portland_trail_blazers-alternate-2018.png"},
 {"tid":25,"cid":1,"did":5,
-"region":"Sacramento","name":"Kings","abbrev":"SAC","pop":2.1,"strategy":"wat?",
+"region":"Sacramento","name":"Kings","abbrev":"SAC","pop":2.1,"strategy":"Contending",
 "stadiumCapacity":17608,
 "colors":["#5a2d81","#ffffff","#5a2d81"],"jersey":"jersey2",
 "retiredJerseyNumbers":[
