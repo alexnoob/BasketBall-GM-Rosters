@@ -397,6 +397,7 @@
 	},
 	"IND":{
 		"imgURL":"https://i.ibb.co/tb138QC/ind1977.png",
+		"imgURLSmall":"https://i.imgur.com/6Lxrsh8.png",
 		"name":"Pacers",
 		"region":"Indiana",
 		"colors":["#002D62","#FDBB30","#BEC0C2"],
@@ -460,28 +461,35 @@
 		}
 	},
 	"LAL":{
-		"imgURL":"https://i.imgur.com/qwqH4Ac.png",
+		"imgURL":"https://content.sportslogos.net/logos/6/237/full/los_angeles_lakers_logo_primary_1961_sportslogosnet-1530.png",
 		"imgURLSmall":"https://i.imgur.com/xHqcFHl.png",
 		"name":"Lakers",
 		"region":"Los Angeles",
 		"colors":["#004b87","#ffffff","#00a9e0"],
 		"seasons":{
-			"1967":{
-				"imgURL":"https://i.imgur.com/qwqH4Ac.png",
+			"1966":{
+				"imgURL":"https://content.sportslogos.net/logos/6/237/full/los_angeles_lakers_logo_primary_19662123.png",
 				"imgURLSmall":"https://i.imgur.com/xHqcFHl.png",
 				"colors":["#702f8a","#ffffff","#ffc72c"]},
-			"1977":{
+			"1972":{
+				"imgURL":"https://content.sportslogos.net/logos/6/237/full/los_angeles_lakers_logo_primary_1972_sportslogosnet-4011.png",
+				"imgURLSmall":"https://content.sportslogos.net/logos/6/237/full/los_angeles_lakers_logo_primary_1972_sportslogosnet-4011.png",
+				"colors":["#702f8a","#ffffff","#ffc72c"]},
+			"1976":{
 				"imgURL":"https://i.ibb.co/c3yDsF6/lal1977.png",
 				"imgURLSmall":"https://i.ibb.co/c3yDsF6/lal1977.png",
 				"colors":["#702f8a","#ffffff","#ffc72c"]},
-			"2002":{
+			"2000":{
 				"imgURL":"https://i.ibb.co/TbMMKSd/lal2002.png",
 				"imgURLSmall":"https://i.imgur.com/Xwr5PFQ.png",
 				"colors":["#702f8a","#ffffff","#ffc72c"]},
 			"2018":{
 				"imgURL":"https://i.ibb.co/TbMMKSd/lal2002.png",
 				"imgURLSmall":"https://i.imgur.com/Xwr5PFQ.png",
-				"colors":["#ffc72c","#582c83","#582c83"]}
+				"colors":["#ffc72c","#582c83","#582c83"]},
+			"2024":{
+				"imgURL":"https://content.sportslogos.net/logos/6/237/full/los_angeles_lakers_logo_primary_2024_sportslogosnet-7324.png",
+				"imgURLSmall":"https://i.imgur.com/Xwr5PFQ.png"}
 		}
 	},
 	"MEM":{
@@ -529,7 +537,8 @@
 		"colors":["#009429","#f7a500","#ffffff"],
 		"seasons":{
 			"1969":{
-				"imgURL":"https://i.ibb.co/fMW90hT/mil1969.png"
+				"imgURL":"https://i.ibb.co/fMW90hT/mil1969.png",
+				"imgURLSmall":"https://i.imgur.com/plZt0sf.png"
 			},
 			"1979":{
 				"imgURLSmall":"https://i.imgur.com/D3fwX2X.png"
@@ -633,7 +642,13 @@
 		"imgURLSmall":"https://i.imgur.com/NUWBVXh.png",
 		"name":"Pelicans",
 		"region":"New Orleans",
-		"colors":["#0C2340","#C8102E","#85714D"]
+		"colors":["#0C2340","#C8102E","#85714D"],
+		"seasons":{
+			"2024":{
+				"imgURL":"https://i.imgur.com/eUddr3j.png",
+				"imgURLSmall":"https://i.imgur.com/ysbNihB.png"
+			}
+		}
 	},
 	"NYK":{
 		"abbrev":"NYK",
