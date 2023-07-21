@@ -3,6 +3,36 @@
 "players":[
 
 {"tid":-1,
+"name":"C.J. Elleby",
+"ratings":[{"hgt":42,"stre":39,"spd":50,"jmp":62,"endu":33,"ins":42,"dnk":57,"ft":60,"fg":48,"tp":51,"diq":41,"oiq":44,"drb":37,"pss":42,"reb":57}],
+"pos":"SF","hgt":78,"weight":200,
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629604.png",
+"born":{"year":2000,"loc":"Federal Way, WA"},
+"contract":{"amount":1800,"exp":2023},
+"transactions":[{"phase":0,"season":2020,"tid":24,"type":"draft","pickNum":46}],
+"draft":{"round":2,"pick":16,"tid":24,"originalTid":24,"year":2020},
+"college":"Washington State",
+"stats":[
+{"playoffs":false,"yearsWithTeam":1,"season":2021,"jerseyNumber":"16","tid":24,"gp":30,"gs":0,"min":192,"fg":25,"fga":66,"tp":7,"tpa":34,"ft":11,"fta":15,"orb":11,"drb":21,"ba":2,"ast":10,"stl":6,"blk":3,"tov":5,"pf":27,"pts":68,"pm":-15,"pm100":-3.7,"onOff100":-5.9,"per":9.4,"ortg":105,"drtg":117,"orbp":6,"drbp":12,"trbp":8.9,"astp":7.1,"stlp":1.5,"blkp":1.4,"usgp":17.4,"ows":0,"dws":0.1,"obpm":-4.1,"dbpm":-1.5,"vorp":-0.2,"ewa":-0.1,"dd":0,"td":0,"minMax":[31.1],"fgMax":[5],"fgaMax":[9],"tpMax":[1],"tpaMax":[5],"2pMax":[4],"2paMax":[4],"ftMax":[4],"ftaMax":[6],"orbMax":[3],"drbMax":[4],"trbMax":[7],"astMax":[2],"stlMax":[2],"blkMax":[2],"tovMax":[2],"pfMax":[4],"ptsMax":[15],"gmscMax":[14.7],"pmMax":[11]},
+{"playoffs":true,"season":2021,"jerseyNumber":"16","tid":24,"gp":2,"gs":0,"min":8,"fg":0,"fga":1,"tp":0,"tpa":0,"ft":0,"fta":0,"orb":1,"drb":2,"ba":0,"ast":1,"stl":0,"blk":0,"tov":1,"pf":0,"pts":0,"pm":1,"pm100":-6.7,"onOff100":-5.1,"per":0.4,"ortg":61,"drtg":123,"orbp":14.8,"drbp":28.2,"trbp":21.7,"astp":14.8,"stlp":0,"blkp":0,"usgp":11.3,"ows":0,"dws":0,"obpm":-4.6,"dbpm":-2.3,"vorp":0,"ewa":0,"dd":0,"td":0,"minMax":[4.4],"fgMax":[0],"fgaMax":[1],"tpMax":[0],"tpaMax":[0],"2pMax":[0],"2paMax":[1],"ftMax":[0],"ftaMax":[0],"orbMax":[1],"drbMax":[2],"trbMax":[3],"astMax":[1],"stlMax":[0],"blkMax":[0],"baMax":[0],"tovMax":[1],"pfMax":[0],"ptsMax":[0],"gmscMax":[0.3],"pmMax":[2]},
+{"playoffs":false,"yearsWithTeam":2,"season":2022,"jerseyNumber":"16","tid":24,"gp":58,"gs":28,"min":1174,"fg":121,"fga":308,"tp":37,"tpa":126,"ft":60,"fta":84,"orb":66,"drb":161,"ba":12,"ast":87,"stl":35,"blk":19,"tov":56,"pf":116,"pts":339,"pm":-348,"pm100":-14.8,"onOff100":-8.4,"per":9.2,"ortg":102,"drtg":117,"orbp":6,"drbp":15.6,"trbp":10.6,"astp":10.6,"stlp":1.5,"blkp":1.6,"usgp":14.8,"ows":-0.1,"dws":0.5,"obpm":-3.8,"dbpm":-1.5,"vorp":-1,"ewa":-0.8,"dd":0,"td":0,"minMax":[43.2],"fgMax":[7],"fgaMax":[11],"tpMax":[2],"tpaMax":[6],"2pMax":[5],"2paMax":[10],"ftMax":[6],"ftaMax":[8],"orbMax":[7],"drbMax":[10],"trbMax":[13],"astMax":[7],"stlMax":[3],"blkMax":[2],"tovMax":[6],"pfMax":[5],"ptsMax":[17],"gmscMax":[17.8],"pmMax":[29]}],
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
+"name":"M.J. Walker",
+"ratings":[{"hgt":44,"stre":36,"spd":59,"jmp":49,"endu":30,"ins":32,"dnk":53,"ft":54,"fg":44,"tp":41,"diq":44,"oiq":43,"drb":42,"pss":33,"reb":33}],
+"pos":"SG","hgt":78,"weight":215,
+"born":{"year":1998,"loc":"Jonesboro, GA"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1630640.png",
+"contract":{"amount":1000,"exp":2023},
+"transactions":[{"phase":0,"season":2022,"tid":23,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2021},
+"college":"Florida State",
+"stats":[
+{"playoffs":false,"yearsWithTeam":1,"season":2022,"jerseyNumber":"21","tid":23,"gp":2,"gs":0,"min":8,"fg":0,"fga":4,"tp":0,"tpa":2,"ft":0,"fta":0,"orb":0,"drb":1,"ba":1,"ast":1,"stl":2,"blk":0,"tov":0,"pf":1,"pts":0,"pm":-3,"pm100":-11.7,"onOff100":-19.5,"per":-3.3,"ortg":18,"drtg":86,"orbp":0,"drbp":13.1,"trbp":6.7,"astp":13.8,"stlp":12,"blkp":0,"usgp":21.5,"ows":-0.1,"dws":0,"obpm":-15.8,"dbpm":6.2,"vorp":0,"ewa":-0.1,"dd":0,"td":0,"minMax":[7.7],"fgMax":[0],"fgaMax":[3],"tpMax":[0],"tpaMax":[2],"2pMax":[0],"2paMax":[1],"ftMax":[0],"ftaMax":[0],"orbMax":[0],"drbMax":[1],"trbMax":[1],"astMax":[1],"stlMax":[2],"blkMax":[0],"baMax":[1],"tovMax":[0],"pfMax":[1],"ptsMax":[0],"gmscMax":[0.5],"pmMax":[0]}],
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"Emmanuel Mudiay",
 "ratings":[{"season":2016,"hgt":33,"stre":50,"spd":63,"jmp":68,"endu":42,"ins":37,"dnk":64,"ft":52,"fg":50,"tp":49,"diq":38,"oiq":40,"drb":51,"pss":50,"reb":62},{"season":2017,"hgt":33,"stre":50,"spd":63,"jmp":68,"endu":42,"ins":37,"dnk":64,"ft":52,"fg":50,"tp":49,"diq":38,"oiq":40,"drb":51,"pss":50,"reb":62},{"season":2018,"hgt":33,"stre":50,"spd":63,"jmp":68,"endu":42,"ins":37,"dnk":64,"ft":52,"fg":50,"tp":49,"diq":38,"oiq":40,"drb":51,"pss":50,"reb":62},{"season":2019,"hgt":33,"stre":50,"spd":63,"jmp":68,"endu":42,"ins":37,"dnk":64,"ft":52,"fg":50,"tp":49,"diq":38,"oiq":40,"drb":51,"pss":50,"reb":62},{"season":2020,"hgt":33,"stre":50,"spd":63,"jmp":68,"endu":42,"ins":37,"dnk":64,"ft":52,"fg":50,"tp":49,"diq":38,"oiq":40,"drb":51,"pss":50,"reb":62},{"season":2021,"hgt":33,"stre":50,"spd":63,"jmp":68,"endu":42,"ins":37,"dnk":64,"ft":52,"fg":50,"tp":49,"diq":38,"oiq":40,"drb":51,"pss":50,"reb":62},{"season":2022,"hgt":33,"stre":50,"spd":63,"jmp":68,"endu":42,"ins":37,"dnk":64,"ft":52,"fg":50,"tp":49,"diq":38,"oiq":40,"drb":51,"pss":50,"reb":62},{"season":2023,"hgt":33,"stre":50,"spd":63,"jmp":68,"endu":42,"ins":37,"dnk":64,"ft":52,"fg":50,"tp":49,"diq":38,"oiq":40,"drb":51,"pss":50,"reb":62},
 {"season":2024,"hgt":33,"stre":50,"spd":63,"jmp":68,"endu":42,"ins":37,"dnk":64,"ft":52,"fg":50,"tp":49,"diq":38,"oiq":40,"drb":51,"pss":50,"reb":62}],
