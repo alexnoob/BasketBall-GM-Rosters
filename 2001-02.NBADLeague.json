@@ -544,13 +544,12 @@
 	"colors":["#70213a","#010c29","#ffb915"],
 	"imgURL":"https://stats.gleague.nba.com/media/img/teams/logos/CTN.svg",
 	"imgURLSmall":"https://i.imgur.com/8S3cbLi.png"}},
-	
+
 {"id":138,"type":"teamInfo","season":2022,"phase":0,"info":{"tid":34,"region":"Birmingham","name":"Squadron","abbrev":"BIR",
 	"pop":1.1,"stadiumCapacity":17654,
 	"colors":["#ce0e2d","#ffffff","#86724c"],"jersey":"jersey2",
 	"imgURL":"https://i.imgur.com/7yWZUwp.png",
 	"imgURLSmall":"https://content.sportslogos.net/logos/17/6810/full/birmingham_squadron_logo_alternate_2022_sportslogosnet-9473.png"}},
-
 
 {"id":139,"type":"gameAttributes","season":2023,"phase":0,"info":{"elam":true,"elamASG":true,"elamMinutes":4,"elamOvertime":true,"elamPoints":7}},
 
@@ -560,10 +559,23 @@
 	"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/logos/nbagleague/1612709924/primary/D/logo.svg",
 	"imgURLSmall":"https://content.sportslogos.net/logos/17/6514/full/agua_caliente_clippers_logo_alternate_2019_sportslogosnet-9254.png"}},
 	
-{"id":141,"type":"teamInfo","season":2023,"phase":0,"info":{"tid":35,"region":"G League","name":"Ignite","abbrev":"GLI","cid":1,	"did":4,"pop":0.3,"stadiumCapacity":5567,
+{"id":141,"type":"teamInfo","season":2023,"phase":0,"info":{"tid":35,"region":"G League","name":"Ignite","abbrev":"GLI","cid":1,"did":4,"pop":0.3,"stadiumCapacity":5567,
 	"colors":["#061922","#ffffff","#9d1d96"],"jersey":"jersey2",
 	"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/logos/nbagleague/1612709930/primary/D/logo.svg",
-	"imgURLSmall":"https://ak-static.cms.nba.com/wp-content/uploads/logos/nbagleague/1612709930/primary/D/logo.svg"}}
+	"imgURLSmall":"https://ak-static.cms.nba.com/wp-content/uploads/logos/nbagleague/1612709930/primary/D/logo.svg"}},
+	
+{"id":142,"type":"expansionDraft","season":2024,"phase":4,"info":{"teams":[
+	{"tid":37,"region":"Rip City","name":"Remix","abbrev":"RIP","cid":1,"did":4,"pop":0.7,"stadiumCapacity":4852,
+	"colors":["#c8102e","#000000","#f5dfb8"],"jersey":"jersey2",
+	"imgURL":"https://upload.wikimedia.org/wikipedia/en/1/17/Rip_City_Remix_logo.svg",
+	"imgURLSmall":"https://i.imgur.com/p5SHoFf.png"}
+]}},
+
+{"id":142,"type":"teamInfo","season":2023,"phase":0,"info":{"tid":21,"region":"Osceola","name":"Magic","abbrev":"OSC",
+	"did":2,"cid":0,"colors":["#000000","#ffffff","#0057b7"],"pop":0.4,"stadiumCapacity":8000,
+	"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/logos/nbagleague/1612709925/primary/D/logo.svg",
+	"imgURLSmall":"https://content.sportslogos.net/logos/17/6513/full/lakeland_magic_logo_alternate_2018_sportslogosnet-4135.png"}}
+
 ],
 
 "gameAttributes":{
