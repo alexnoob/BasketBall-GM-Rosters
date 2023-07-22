@@ -3,6 +3,19 @@
 "players":[
 
 {"tid":-1,
+"name":"Tyler Hall",
+"ratings":[{"hgt":41,"stre":37,"spd":48,"jmp":41,"endu":44,"ins":33,"dnk":52,"ft":59,"fg":55,"tp":61,"diq":31,"oiq":47,"drb":42,"pss":41,"reb":55}],
+"pos":"SG","hgt":77,"weight":209,
+"born":{"year":1997,"loc":"Rock Island, IL"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629788.png",
+"contract":{"amount":1000,"exp":2023},
+"transactions":[{"phase":0,"season":2022,"tid":19,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2019},
+"college":"Montana State",
+"stats":[{"playoffs":false,"yearsWithTeam":1,"season":2022,"jerseyNumber":"16","tid":19,"gp":1,"gs":0,"min":2,"fg":0,"fga":0,"tp":0,"tpa":0,"ft":0,"fta":0,"orb":0,"drb":0,"ba":0,"ast":0,"stl":0,"blk":0,"tov":0,"pf":0,"pts":0,"pm":-5,"pm100":-90,"onOff100":-90.3,"per":0,"ortg":"","drtg":120,"orbp":0,"drbp":0,"trbp":0,"astp":0,"stlp":0,"blkp":0,"usgp":0,"ows":0,"dws":0,"obpm":-8.1,"dbpm":-0.5,"vorp":0,"ewa":0,"dd":0,"td":0,"minMax":[1.9],"fgMax":[0],"fgaMax":[0],"tpMax":[0],"tpaMax":[0],"2pMax":[0],"2paMax":[0],"ftMax":[0],"ftaMax":[0],"orbMax":[0],"drbMax":[0],"trbMax":[0],"astMax":[0],"stlMax":[0],"blkMax":[0],"baMax":[0],"tovMax":[0],"pfMax":[0],"ptsMax":[0],"gmscMax":[0],"pmMax":[-5]}],
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"C.J. Elleby",
 "ratings":[{"hgt":42,"stre":39,"spd":50,"jmp":62,"endu":33,"ins":42,"dnk":57,"ft":60,"fg":48,"tp":51,"diq":41,"oiq":44,"drb":37,"pss":42,"reb":57}],
 "pos":"SF","hgt":78,"weight":200,
