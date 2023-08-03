@@ -310,12 +310,12 @@
 			"2006":{
 				"imgURL":"https://i.ibb.co/FJ8yCLC/det2006.png",
 				"imgURLSmall":"https://i.imgur.com/9K75oJk.png",
-				"colors":["#D50032","#041E42","#003DA5"]
+				"colors":["#003DA5","#D50032","#041E42"]
 			},
 			"2018":{
 				"imgURL":"https://i.ibb.co/0VbJpVJ/det2018.png",
 				"imgURLSmall":"https://i.imgur.com/XKpV0aX.png",
-				"colors":["#C8102E","#1d42ba","#bec0c2"]
+				"colors":["#003DA5","#D50032","#041E42"]
 			}
 		}
 	},
@@ -470,19 +470,19 @@
 			"1966":{
 				"imgURL":"https://content.sportslogos.net/logos/6/237/full/los_angeles_lakers_logo_primary_19662123.png",
 				"imgURLSmall":"https://i.imgur.com/xHqcFHl.png",
-				"colors":["#702f8a","#ffffff","#ffc72c"]},
+				"colors":["#ffc72c","#582c83","#582c83"]},
 			"1972":{
 				"imgURL":"https://content.sportslogos.net/logos/6/237/full/los_angeles_lakers_logo_primary_1972_sportslogosnet-4011.png",
 				"imgURLSmall":"https://content.sportslogos.net/logos/6/237/full/los_angeles_lakers_logo_primary_1972_sportslogosnet-4011.png",
-				"colors":["#702f8a","#ffffff","#ffc72c"]},
+				"colors":["#ffc72c","#582c83","#582c83"]},
 			"1976":{
 				"imgURL":"https://i.ibb.co/c3yDsF6/lal1977.png",
 				"imgURLSmall":"https://i.ibb.co/c3yDsF6/lal1977.png",
-				"colors":["#702f8a","#ffffff","#ffc72c"]},
+				"colors":["#ffc72c","#582c83","#582c83"]},
 			"2000":{
 				"imgURL":"https://i.ibb.co/TbMMKSd/lal2002.png",
 				"imgURLSmall":"https://i.imgur.com/Xwr5PFQ.png",
-				"colors":["#702f8a","#ffffff","#ffc72c"]},
+				"colors":["#ffc72c","#582c83","#582c83"]},
 			"2018":{
 				"imgURL":"https://i.ibb.co/TbMMKSd/lal2002.png",
 				"imgURLSmall":"https://i.imgur.com/Xwr5PFQ.png",
@@ -850,7 +850,7 @@
 			"2017":{
 				"imgURL":"https://i.imgur.com/WgHr0BH.png",
 				"imgURLSmall":"https://i.imgur.com/qYg12Er.png",
-				"colors":["#5a2d81","#63727A","#000000"]
+				"colors":["#753bbd","#cdd6db","#010101"]
 			}
 		}
 	},
