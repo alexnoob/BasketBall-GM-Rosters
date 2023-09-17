@@ -10261,7 +10261,7 @@
 {"number":"4","seasonRetired":2018,"seasonTeamInfo":2013,"text":"Vincent Lecavalier"},
 {"number":"26","seasonRetired":2017,"seasonTeamInfo":2014,"text":"Martin St. Louis"},
 {"number":"99","seasonRetired":2000,"seasonTeamInfo":2000,"text":"Wayne Gretzky"}]},
-{"tid":27,"region":"Toronto","name":"Maple Leaf","abbrev":"TOR",
+{"tid":27,"region":"Toronto","name":"Maple Leafs","abbrev":"TOR",
 "imgURL":"https://upload.wikimedia.org/wikipedia/en/b/b6/Toronto_Maple_Leafs_2016_logo.svg",
 "imgURLSmall":"https://upload.wikimedia.org/wikipedia/en/b/b6/Toronto_Maple_Leafs_2016_logo.svg",
 "colors":["#293f77","#ffffff","#ffffff"],"jersey":"hockey3","cid":0,"did":0,"pop":6.2,"stadiumCapacity":20270,"retiredJerseyNumbers":[
