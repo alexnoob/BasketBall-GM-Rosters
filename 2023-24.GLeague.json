@@ -2139,6 +2139,18 @@
 "college":"Florida",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
+{"tid":13,
+"name":"Jett Howard",
+"jerseyNumber":"13",
+"ratings":[{"season":2024,"hgt":48,"stre":45,"spd":51,"jmp":59,"endu":45,"ins":38,"dnk":41,"ft":59,"fg":59,"tp":60,"diq":27,"oiq":37,"drb":38,"pss":40,"reb":46}],
+"pos":"SF","hgt":80,"weight":215,
+"born":{"year":2004,"loc":"Fort Lauderdale, FL"},
+"imgURL":"https://cdn.nba.com/headshots/nba/latest/260x190/1641724.png",
+"contract":{"amount":5800,"exp":2027,"rookie":true},
+"draft":{"round":1,"pick":11,"tid":21,"originalTid":4,"year":2023},
+"college":"Michigan",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
 {"tid":19,
 "name":"Javon Freeman-Liberty",
 "jerseyNumber":"0",
