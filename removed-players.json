@@ -3,6 +3,33 @@
 "players":[
 
 {"tid":-1,
+"name":"Tyler Burton",
+"jerseyNumber":"23",
+"ratings":[{"hgt":48,"stre":50,"spd":48,"jmp":45,"endu":42,"ins":35,"dnk":55,"ft":51,"fg":44,"tp":45,"diq":40,"oiq":40,"drb":38,"pss":30,"reb":61}],
+"pos":"SF","hgt":79,"weight":215,
+"born":{"year":2000,"loc":"Uxbridge, MA"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4431914.png&w=350&h=254",
+"contract":{"amount":1100,"exp":2025},
+"college":"Villanova",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
+"name":"Marko Simonovic",
+"ratings":[{"season":2022,"hgt":63,"stre":43,"spd":47,"jmp":38,"endu":37,"ins":40,"dnk":45,"ft":55,"fg":53,"tp":46,"diq":38,"oiq":38,"drb":30,"pss":36,"reb":59},{"season":2023,"hgt":63,"stre":43,"spd":47,"jmp":38,"endu":37,"ins":40,"dnk":45,"ft":55,"fg":53,"tp":46,"diq":38,"oiq":38,"drb":30,"pss":36,"reb":59},
+{"season":2024,"hgt":63,"stre":43,"spd":47,"jmp":38,"endu":37,"ins":40,"dnk":45,"ft":55,"fg":53,"tp":46,"diq":38,"oiq":38,"drb":30,"pss":36,"reb":59}],
+"pos":"C","hgt":83,"weight":220,
+"born":{"year":2000,"loc":"Kolasin, Montenegro"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630250.png",
+"contract":{"amount":1800,"exp":2024},
+"transactions":[{"phase":0,"season":2020,"tid":4,"type":"draft","pickNum":44}],
+"draft":{"round":2,"pick":14,"tid":4,"originalTid":14,"year":2020},
+"college":"Serbia",
+"stats":[
+{"playoffs":false,"yearsWithTeam":1,"season":2022,"jerseyNumber":"19","tid":4,"gp":9,"gs":0,"min":35,"fg":4,"fga":15,"tp":1,"tpa":5,"ft":8,"fta":11,"orb":5,"drb":5,"ba":3,"ast":0,"stl":1,"blk":1,"tov":2,"pf":6,"pts":17,"pm":3,"pm100":9.3,"onOff100":9.7,"per":10.2,"ortg":96,"drtg":113,"orbp":16.2,"drbp":16,"trbp":16.1,"astp":0,"stlp":1.4,"blkp":2.5,"usgp":27.5,"ows":0,"dws":0,"obpm":-6.1,"dbpm":-5,"vorp":-0.1,"ewa":0,"dd":0,"td":0,"minMax":[6.7],"fgMax":[3],"fgaMax":[5],"tpMax":[1],"tpaMax":[2],"2pMax":[2],"2paMax":[3],"ftMax":[2],"ftaMax":[3],"orbMax":[2],"drbMax":[2],"trbMax":[4],"astMax":[0],"stlMax":[1],"blkMax":[1],"tovMax":[1],"pfMax":[4],"ptsMax":[8],"gmscMax":[7.5],"pmMax":[6]},
+{"playoffs":false,"yearsWithTeam":2,"season":2023,"jerseyNumber":"19","tid":4,"gp":7,"gs":0,"min":20,"fg":2,"fga":7,"tp":1,"tpa":4,"ft":1,"fta":2,"orb":1,"drb":1,"ba":0,"ast":0,"stl":0,"blk":0,"tov":0,"pf":5,"pts":6,"pm":15,"pm100":36,"onOff100":34.6,"per":-0.1,"ortg":88,"drtg":119,"orbp":5.8,"drbp":5.6,"trbp":5.7,"astp":0,"stlp":0,"blkp":0,"usgp":17.4,"ows":0,"dws":0,"obpm":-10.5,"dbpm":-3.8,"vorp":-0.1,"ewa":-0.1,"dd":0,"td":0,"minMax":[8.2],"fgMax":[1],"fgaMax":[3],"tpMax":[1],"tpaMax":[2],"2pMax":[1],"2paMax":[1],"ftMax":[1],"ftaMax":[2],"orbMax":[1],"drbMax":[1],"trbMax":[1],"astMax":[0],"stlMax":[0],"blkMax":[0],"baMax":[0],"tovMax":[0],"pfMax":[3],"ptsMax":[4],"gmscMax":[1],"pmMax":[15]}],
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"Nae'Qwan Tomlin",
 "jerseyNumber":"35",
 "ratings":[{"hgt":59,"stre":52,"spd":42,"jmp":55,"endu":33,"ins":54,"dnk":64,"ft":41,"fg":39,"tp":34,"diq":40,"oiq":25,"drb":38,"pss":37,"reb":62}],
