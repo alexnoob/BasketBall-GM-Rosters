@@ -3,6 +3,21 @@
 "players":[
 
 {"tid":-1,
+"name":"Trevor Hudgins",
+"ratings":[{"season":2023,"hgt":25,"stre":43,"spd":58,"jmp":46,"endu":32,"ins":35,"dnk":50,"ft":74,"fg":53,"tp":65,"diq":38,"oiq":49,"drb":51,"pss":45,"reb":38},
+{"season":2024,"hgt":25,"stre":43,"spd":58,"jmp":46,"endu":32,"ins":35,"dnk":50,"ft":74,"fg":53,"tp":65,"diq":38,"oiq":49,"drb":51,"pss":45,"reb":38}],
+"pos":"PG","hgt":72,"weight":180,
+"born":{"year":1999,"loc":"Manhattan, KS"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631309.png",
+"contract":{"amount":500,"exp":2024},
+"transactions":[{"phase":0,"season":2022,"tid":10,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2022},
+"college":"Northwest Missouri State",
+"stats":[
+{"playoffs":false,"yearsWithTeam":1,"season":2023,"jerseyNumber":"12","tid":10,"gp":5,"gs":0,"min":28,"fg":2,"fga":9,"tp":2,"tpa":8,"ft":3,"fta":3,"orb":0,"drb":0,"ba":0,"ast":3,"stl":0,"blk":0,"tov":1,"pf":1,"pts":9,"pm":3,"pm100":9.3,"onOff100":17.7,"per":4.2,"ortg":103,"drtg":128,"orbp":0,"drbp":0,"trbp":0,"astp":13.9,"stlp":0,"blkp":0,"usgp":16.8,"ows":0,"dws":0,"obpm":-3.8,"dbpm":-4.7,"vorp":0,"ewa":-0.1,"dd":0,"td":0,"minMax":[13.5],"fgMax":[1],"fgaMax":[8],"tpMax":[1],"tpaMax":[7],"2pMax":[0],"2paMax":[1],"ftMax":[3],"ftaMax":[3],"orbMax":[0],"drbMax":[0],"trbMax":[0],"astMax":[3],"stlMax":[0],"blkMax":[0],"baMax":[0],"tovMax":[1],"pfMax":[1],"ptsMax":[3],"gmscMax":[5.1],"pmMax":[4]}],
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"Edmond Sumner",
 "ratings":[{"season":2018,"hgt":41,"stre":37,"spd":65,"jmp":61,"endu":55,"ins":39,"dnk":79,"ft":57,"fg":35,"tp":46,"diq":50,"oiq":53,"drb":56,"pss":47,"reb":50},{"season":2019,"hgt":41,"stre":37,"spd":65,"jmp":61,"endu":55,"ins":39,"dnk":79,"ft":57,"fg":35,"tp":46,"diq":50,"oiq":53,"drb":56,"pss":47,"reb":50},{"season":2020,"hgt":41,"stre":37,"spd":65,"jmp":61,"endu":55,"ins":39,"dnk":79,"ft":57,"fg":35,"tp":46,"diq":50,"oiq":53,"drb":56,"pss":47,"reb":50},{"season":2021,"hgt":41,"stre":37,"spd":65,"jmp":61,"endu":55,"ins":39,"dnk":79,"ft":57,"fg":35,"tp":46,"diq":50,"oiq":53,"drb":56,"pss":47,"reb":50},{"season":2022,"hgt":41,"stre":37,"spd":65,"jmp":61,"endu":55,"ins":39,"dnk":79,"ft":57,"fg":35,"tp":46,"diq":50,"oiq":53,"drb":56,"pss":47,"reb":50},{"season":2023,"hgt":41,"stre":37,"spd":65,"jmp":61,"endu":55,"ins":39,"dnk":79,"ft":57,"fg":35,"tp":46,"diq":50,"oiq":53,"drb":56,"pss":47,"reb":50},
 {"season":2024,"hgt":41,"stre":37,"spd":52,"jmp":53,"endu":42,"ins":31,"dnk":59,"ft":57,"fg":35,"tp":46,"diq":42,"oiq":46,"drb":51,"pss":47,"reb":45}],
