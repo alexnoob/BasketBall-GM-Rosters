@@ -3,6 +3,20 @@
 "players":[
 
 {"tid":-1,
+"firstName":"Chance","lastName":"Commanche",
+"ratings":[{"hgt":59,"stre":51,"spd":41,"jmp":57,"endu":34,"ins":53,"dnk":54,"ft":59,"fg":31,"tp":1,"diq":48,"oiq":48,"drb":27,"pss":30,"reb":68}],
+"pos":"C","hgt":82,"weight":210,
+"born":{"year":1996,"loc":"Los Angeles, CA"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1628435.png",
+"contract":{"amount":1100,"exp":2024},
+"transactions":[{"phase":0,"season":2023,"tid":24,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2017},
+"college":"Arizona",
+"stats":[
+{"playoffs":false,"yearsWithTeam":1,"season":2023,"jerseyNumber":"50","tid":24,"gp":1,"gs":0,"min":21,"fg":3,"fga":5,"tp":0,"tpa":0,"ft":1,"fta":4,"orb":2,"drb":1,"ba":0,"ast":0,"stl":0,"blk":1,"tov":0,"pf":0,"pts":7,"pm":-29,"pm100":-65.1,"onOff100":-61.7,"per":12.2,"ortg":115,"drtg":123,"orbp":10.9,"drbp":5.5,"trbp":8.2,"astp":0,"stlp":0,"blkp":4.2,"usgp":14,"ows":0,"dws":0,"obpm":-2.6,"dbpm":-4.9,"vorp":0,"ewa":0,"dd":0,"td":0,"minMax":[20.7],"fgMax":[3],"fgaMax":[5],"tpMax":[0],"tpaMax":[0],"2pMax":[3],"2paMax":[5],"ftMax":[1],"ftaMax":[4],"orbMax":[2],"drbMax":[1],"trbMax":[3],"astMax":[0],"stlMax":[0],"blkMax":[1],"baMax":[0],"tovMax":[0],"pfMax":[0],"ptsMax":[7],"gmscMax":[5.9],"pmMax":[-29]}],
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"Gorgui Dieng",
 "ratings":[{"season":2014,"hgt":66,"stre":44,"spd":30,"jmp":46,"endu":11,"ins":33,"dnk":39,"ft":54,"fg":67,"tp":57,"diq":56,"oiq":59,"drb":30,"pss":46,"reb":72},{"season":2015,"hgt":66,"stre":44,"spd":30,"jmp":46,"endu":11,"ins":33,"dnk":39,"ft":54,"fg":67,"tp":57,"diq":56,"oiq":59,"drb":30,"pss":46,"reb":72},{"season":2016,"hgt":66,"stre":44,"spd":30,"jmp":46,"endu":11,"ins":33,"dnk":39,"ft":54,"fg":67,"tp":57,"diq":56,"oiq":59,"drb":30,"pss":46,"reb":72},{"season":2017,"hgt":66,"stre":44,"spd":30,"jmp":46,"endu":11,"ins":33,"dnk":39,"ft":54,"fg":67,"tp":57,"diq":56,"oiq":59,"drb":30,"pss":46,"reb":72},{"season":2018,"hgt":66,"stre":44,"spd":30,"jmp":46,"endu":11,"ins":33,"dnk":39,"ft":54,"fg":67,"tp":57,"diq":56,"oiq":59,"drb":30,"pss":46,"reb":72},{"season":2019,"hgt":66,"stre":44,"spd":30,"jmp":46,"endu":11,"ins":33,"dnk":39,"ft":54,"fg":67,"tp":57,"diq":56,"oiq":59,"drb":30,"pss":46,"reb":72},{"season":2020,"hgt":66,"stre":44,"spd":30,"jmp":46,"endu":11,"ins":33,"dnk":39,"ft":54,"fg":67,"tp":57,"diq":56,"oiq":59,"drb":30,"pss":46,"reb":72},{"season":2021,"hgt":66,"stre":44,"spd":30,"jmp":46,"endu":11,"ins":33,"dnk":39,"ft":54,"fg":67,"tp":57,"diq":56,"oiq":59,"drb":30,"pss":46,"reb":72},{"season":2022,"hgt":66,"stre":44,"spd":30,"jmp":46,"endu":11,"ins":33,"dnk":39,"ft":54,"fg":67,"tp":57,"diq":56,"oiq":59,"drb":30,"pss":46,"reb":72},{"season":2023,"hgt":66,"stre":44,"spd":30,"jmp":46,"endu":11,"ins":33,"dnk":39,"ft":54,"fg":67,"tp":57,"diq":56,"oiq":59,"drb":30,"pss":46,"reb":72},
 {"season":2024,"hgt":66,"stre":44,"spd":30,"jmp":46,"endu":11,"ins":33,"dnk":39,"ft":54,"fg":57,"tp":51,"diq":53,"oiq":51,"drb":30,"pss":46,"reb":67}],
@@ -3921,18 +3935,6 @@
 "contract":{"amount":1000,"exp":2023},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2022},
 "college":"Bosnia and Herzegovina",
-"injury":{"type":"Healthy","gamesRemaining":0}},
-
-{"tid":-1,
-"name":"Henri Drell",
-"jerseyNumber":"3",
-"ratings":[{"hgt":55,"stre":42,"spd":47,"jmp":48,"endu":27,"ins":42,"dnk":57,"ft":55,"fg":34,"tp":30,"diq":44,"oiq":40,"drb":30,"pss":33,"reb":50}],
-"pos":"SF","hgt":81,"weight":190,
-"born":{"year":2000,"loc":"Tallinn, Estonia"},
-"imgURL":"https://i.imgur.com/mF5pYTt.png",
-"contract":{"amount":1000,"exp":2022},
-"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2022},
-"college":"G League",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
