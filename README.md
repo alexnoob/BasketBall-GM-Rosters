@@ -3,7 +3,7 @@ BasketBall-GM-Rosters
 
 Custom Rosters for Basketball GM
 
-If you want to play this exact version:
+If you want to play with a custom roster:
 
 * Download the JSON file
 * In BBGM, create a new custom league, then select the "UPLOAD LEAGUE FILE" feature under "CUSTOMIZE"
