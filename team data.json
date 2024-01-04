@@ -306,13 +306,12 @@
 				"colors":["#006271","#ffffff","#ffa400"] },
 			"2002":{
 				"imgURL":"https://i.ibb.co/0cmFqkq/det2002.png",
-				"imgURLSmall":"https://i.imgur.com/LhaHMPH.png" },
+				"imgURLSmall":"https://i.imgur.com/LhaHMPH.png",
 				"colors":["#006271","#ffffff","#ffa400"] },
 			"2006":{
 				"imgURL":"https://i.ibb.co/FJ8yCLC/det2006.png",
 				"imgURLSmall":"https://i.imgur.com/9K75oJk.png",
-				"colors":["#003DA5","#D50032","#041E42"]
-			},
+				"colors":["#003DA5","#D50032","#041E42"] },
 			"2018":{
 				"imgURL":"https://i.ibb.co/0VbJpVJ/det2018.png",
 				"imgURLSmall":"https://i.imgur.com/XKpV0aX.png",
