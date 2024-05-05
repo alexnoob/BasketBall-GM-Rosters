@@ -94,6 +94,7 @@
 ],
 
 "gameAttributes":{
+"gender":"female",
 "confs":[{"cid":0,"name":"Eastern Conference"},{"cid":1,"name":"Western Conference"}],
 "divs":[{"did":0,"cid":0,"name":"Eastern Conference"},{"did":1,"cid":1,"name":"Western Conference"}],
 "numGames":32,
