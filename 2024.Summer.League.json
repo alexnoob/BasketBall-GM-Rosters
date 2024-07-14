@@ -4,7 +4,7 @@
 
 {"tid":0,
 "firstName":"Robert","lastName":"Baker II",
-"jerseyNumber":"60",
+"jerseyNumber":"35",
 "ratings":[{"hgt":63,"stre":42,"spd":37,"jmp":42,"endu":28,"ins":40,"dnk":42,"ft":52,"fg":29,"tp":31,"diq":40,"oiq":34,"drb":37,"pss":39,"reb":59}],
 "pos":"PF","hgt":83,"weight":205,
 "born":{"year":1999,"loc":"Woodstock, GA"},
@@ -17,7 +17,7 @@
 
 {"tid":0,
 "name":"Jordan Bowden",
-"jerseyNumber":"35",
+"jerseyNumber":"8",
 "ratings":[{"hgt":41,"stre":39,"spd":53,"jmp":47,"endu":37,"ins":20,"dnk":54,"ft":61,"fg":47,"tp":33,"diq":39,"oiq":42,"drb":37,"pss":41,"reb":50}],
 "pos":"GF","hgt":77,"weight":193,
 "born":{"year":1997,"loc":"Knoxville, TN"},
@@ -30,6 +30,7 @@
 
 {"tid":0,
 "name":"Kobe Bufkin",
+"jerseyNumber":"4",
 "ratings":[{"season":2024,"hgt":44,"stre":29,"spd":61,"jmp":66,"endu":35,"ins":40,"dnk":47,"ft":62,"fg":47,"tp":50,"diq":30,"oiq":36,"drb":42,"pss":40,"reb":43}],
 "pos":"SG","hgt":76,"weight":195,
 "born":{"year":2004,"loc":"Grand Rapids, MI"},
@@ -55,6 +56,7 @@
 
 {"tid":0,
 "name":"Mouhamed Gueye",
+"jerseyNumber":"18",
 "ratings":[{"season":2024,"hgt":64,"stre":36,"spd":54,"jmp":51,"endu":38,"ins":40,"dnk":51,"ft":35,"fg":48,"tp":31,"diq":25,"oiq":30,"drb":39,"pss":28,"reb":70}],
 "pos":"C","hgt":82,"weight":210,
 "born":{"year":2003,"loc":"Dakar, Senegal"},
@@ -67,6 +69,7 @@
 
 {"tid":0,
 "name":"E.J. Liddell",
+"jerseyNumber":"32",
 "ratings":[{"season":2024,"hgt":54,"stre":56,"spd":47,"jmp":65,"endu":40,"ins":55,"dnk":55,"ft":52,"fg":44,"tp":40,"diq":40,"oiq":36,"drb":34,"pss":43,"reb":68}],
 "pos":"PF","hgt":79,"weight":240,
 "born":{"year":2001,"loc":"Bellevile, IL"},
@@ -105,7 +108,7 @@
 
 {"tid":0,
 "name":"Keaton Wallace",
-"jerseyNumber":"32",
+"jerseyNumber":"22",
 "ratings":[{"hgt":37,"stre":27,"spd":59,"jmp":52,"endu":31,"ins":52,"dnk":58,"ft":45,"fg":40,"tp":44,"diq":47,"oiq":33,"drb":40,"pss":47,"reb":49}],
 "pos":"G","hgt":76,"weight":195,
 "born":{"year":1999,"loc":"Richardson, TX"},
@@ -118,8 +121,8 @@
 
 {"tid":0,
 "name":"Dylan Windler",
-"ratings":[{"season":2021,"hgt":44,"stre":40,"spd":48,"jmp":50,"endu":48,"ins":47,"dnk":46,"ft":52,"fg":58,"tp":62,"diq":39,"oiq":57,"drb":39,"pss":40,"reb":49},{"season":2022,"hgt":44,"stre":40,"spd":48,"jmp":50,"endu":48,"ins":47,"dnk":46,"ft":52,"fg":58,"tp":62,"diq":39,"oiq":57,"drb":39,"pss":40,"reb":49},{"season":2023,"hgt":44,"stre":40,"spd":48,"jmp":50,"endu":48,"ins":47,"dnk":46,"ft":52,"fg":58,"tp":62,"diq":39,"oiq":57,"drb":39,"pss":40,"reb":49},
-{"season":2024,"hgt":44,"stre":40,"spd":48,"jmp":50,"endu":48,"ins":47,"dnk":46,"ft":52,"fg":58,"tp":62,"diq":39,"oiq":57,"drb":39,"pss":40,"reb":49}],
+"jerseyNumber":"20",
+"ratings":[{"hgt":44,"stre":40,"spd":48,"jmp":50,"endu":48,"ins":47,"dnk":46,"ft":52,"fg":58,"tp":62,"diq":39,"oiq":57,"drb":39,"pss":40,"reb":49}],
 "pos":"GF","hgt":78,"weight":196,
 "born":{"year":1997,"loc":"Indianapolis, IN"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629685.png",
@@ -945,6 +948,19 @@
 "transactions":[{"phase":0,"season":2023,"tid":25,"type":"draft","pickNum":54}],
 "draft":{"round":2,"pick":24,"tid":25,"originalTid":25,"year":2023},
 "college":"Furman",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":8,
+"name":"Tolu Smith",
+"jerseyNumber":"38",
+"ratings":[{"hgt":63,"stre":49,"spd":47,"jmp":49,"endu":37,"ins":62,"dnk":45,"ft":33,"fg":27,"tp":1,"diq":28,"oiq":40,"drb":21,"pss":24,"reb":73}],
+"pos":"FC","hgt":83,"weight":245,
+"born":{"year":1998,"loc":"Bay St. Louis, MS"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4397882.png&w=350&h=254",
+"contract":{"amount":50,"exp":2024},
+"transactions":[{"phase":0,"season":2024,"tid":8,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2024},
+"college":"Mississippi State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":9,
@@ -3790,7 +3806,7 @@
 {"tid":0,"cid":0,"did":2,
 "region":"Atlanta","name":"Hawks","abbrev":"ATL","pop":5.8,"strategy":"contending",
 "stadiumCapacity":18118,
-"colors":["#c8102e","#ffffff","#c8102e"],"jersey":"jersey2",
+"colors":["#c8102e","#ffffff","#000000"],"jersey":"jersey2",
 "retiredJerseyNumbers":[
 {"number":"9","seasonRetired":1965,"seasonTeamInfo":2023,"text":"Bob Pettit"},
 {"number":"21","seasonRetired":2001,"seasonTeamInfo":2023,"pid":199,"text":""},
@@ -3910,7 +3926,7 @@
 {"tid":8,"cid":0,"did":1,
 "region":"Detroit","name":"Pistons","abbrev":"DET","pop":4.3,"strategy":"rebuilding",
 "stadiumCapacity":20491,
-"colors":["#1d428a","#ffffff","#1d428a"],"jersey":"jersey2",
+"colors":["#1d428a","#ffffff","#bec0c2"],"jersey":"jersey2",
 "retiredJerseyNumbers":[
 {"number":"1","seasonRetired":2016,"seasonTeamInfo":2023,"text":"Chauncey Billups"},
 {"number":"2 ","seasonRetired":1997,"seasonTeamInfo":2023,"text":"Chuck Daly"},
