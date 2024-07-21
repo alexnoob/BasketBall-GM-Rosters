@@ -3,6 +3,22 @@
 "players":[
 
 {"tid":-1,
+"name":"Jordan Schakel",
+"ratings":[{"season":2022,"hgt":44,"stre":44,"spd":48,"jmp":42,"endu":41,"ins":28,"dnk":54,"ft":50,"fg":49,"tp":52,"diq":45,"oiq":46,"drb":48,"pss":40,"reb":47},{"season":2023,"hgt":44,"stre":44,"spd":48,"jmp":42,"endu":41,"ins":28,"dnk":54,"ft":50,"fg":49,"tp":52,"diq":45,"oiq":46,"drb":48,"pss":40,"reb":47},
+{"season":2024,"hgt":44,"stre":44,"spd":48,"jmp":42,"endu":41,"ins":28,"dnk":54,"ft":50,"fg":49,"tp":52,"diq":45,"oiq":46,"drb":48,"pss":40,"reb":47}],
+"pos":"GF","hgt":78,"weight":200,
+"born":{"year":1998,"loc":"Torrance, CA"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630648.png",
+"contract":{"amount":1100,"exp":2024},
+"transactions":[{"phase":0,"season":2022,"tid":29,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2021},
+"college":"San Diego State",
+"stats":[
+{"playoffs":false,"yearsWithTeam":1,"season":2022,"jerseyNumber":"20","tid":29,"gp":4,"gs":0,"min":30,"fg":1,"fga":11,"tp":1,"tpa":6,"ft":2,"fta":2,"orb":2,"drb":6,"ba":2,"ast":0,"stl":1,"blk":0,"tov":1,"pf":0,"pts":5,"pm":2,"pm100":3.3,"onOff100":6.6,"per":-1.2,"ortg":55,"drtg":114,"orbp":7.5,"drbp":21.8,"trbp":14.8,"astp":0,"stlp":1.6,"blkp":0,"usgp":19.1,"ows":-0.2,"dws":0,"obpm":-8.6,"dbpm":-4.4,"vorp":-0.1,"ewa":-0.2,"dd":0,"td":0,"minMax":[12],"fgMax":[1],"fgaMax":[6],"tpMax":[1],"tpaMax":[3],"2pMax":[0],"2paMax":[3],"ftMax":[2],"ftaMax":[2],"orbMax":[1],"drbMax":[4],"trbMax":[4],"astMax":[0],"stlMax":[1],"blkMax":[0],"tovMax":[1],"pfMax":[0],"ptsMax":[5],"gmscMax":[3.8],"pmMax":[4]},
+{"playoffs":false,"yearsWithTeam":2,"season":2023,"jerseyNumber":"20","tid":29,"gp":2,"gs":0,"min":6,"fg":1,"fga":2,"tp":1,"tpa":1,"ft":0,"fta":0,"orb":0,"drb":0,"ba":0,"ast":1,"stl":1,"blk":0,"tov":0,"pf":1,"pts":3,"pm":6,"pm100":33.3,"onOff100":34.7,"per":24.3,"ortg":161,"drtg":106,"orbp":0,"drbp":0,"trbp":0,"astp":23.5,"stlp":8.1,"blkp":0,"usgp":14.5,"ows":0,"dws":0,"obpm":7.7,"dbpm":9.3,"vorp":0,"ewa":0,"dd":0,"td":0,"minMax":[5.2],"fgMax":[1],"fgaMax":[2],"tpMax":[1],"tpaMax":[1],"2pMax":[0],"2paMax":[1],"ftMax":[0],"ftaMax":[0],"orbMax":[0],"drbMax":[0],"trbMax":[0],"astMax":[1],"stlMax":[1],"blkMax":[0],"baMax":[0],"tovMax":[0],"pfMax":[1],"ptsMax":[3],"gmscMax":[3.3],"pmMax":[4]}],
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"Jerome Robinson",
 "ratings":[{"season":2019,"hgt":42,"stre":44,"spd":50,"jmp":46,"endu":35,"ins":31,"dnk":52,"ft":53,"fg":73,"tp":60,"diq":42,"oiq":49,"drb":43,"pss":38,"reb":34},{"season":2020,"hgt":42,"stre":44,"spd":50,"jmp":46,"endu":35,"ins":31,"dnk":52,"ft":53,"fg":73,"tp":60,"diq":42,"oiq":49,"drb":43,"pss":38,"reb":34},{"season":2021,"hgt":42,"stre":44,"spd":50,"jmp":46,"endu":35,"ins":31,"dnk":52,"ft":53,"fg":73,"tp":60,"diq":42,"oiq":49,"drb":43,"pss":38,"reb":34},{"season":2023,"hgt":42,"stre":44,"spd":50,"jmp":46,"endu":35,"ins":31,"dnk":52,"ft":53,"fg":73,"tp":60,"diq":42,"oiq":49,"drb":43,"pss":38,"reb":34},
 {"season":2024,"hgt":42,"stre":44,"spd":50,"jmp":46,"endu":35,"ins":31,"dnk":52,"ft":48,"fg":73,"tp":60,"diq":42,"oiq":49,"drb":43,"pss":38,"reb":34}],
@@ -522,19 +538,6 @@
 {"playoffs":false,"yearsWithTeam":1,"season":2022,"jerseyNumber":"27","tid":29,"gp":3,"gs":0,"min":18,"fg":2,"fga":6,"tp":0,"tpa":2,"ft":0,"fta":1,"orb":5,"drb":7,"ast":0,"stl":0,"blk":0,"tov":3,"pf":0,"pts":4,"ba":2,"pm":-5,"pm100":-3.8,"onOff100":-0.5,"ortg":72,"drtg":112,"per":5.7,"ewa":-0.1,"orbp":31.3,"drbp":42.4,"trbp":36.9,"astp":0,"stlp":0,"blkp":0,"usgp":23.3,"ows":-0.1,"dws":0,"obpm":-7.7,"dbpm":-8.3,"vorp":-0.1,"dd":0,"td":0,"minMax":[9.4],"fgMax":[2],"fgaMax":[5],"tpMax":[0],"tpaMax":[1],"2pMax":[2],"2paMax":[4],"ftMax":[0],"ftaMax":[1],"orbMax":[5],"drbMax":[4],"trbMax":[8],"astMax":[0],"stlMax":[0],"blkMax":[0],"tovMax":[3],"pfMax":[0],"ptsMax":[4],"gmscMax":[2.3],"pmMax":[-1]},
 {"playoffs":false,"yearsWithTeam":1,"season":2022,"jerseyNumber":"24","tid":18,"gp":4,"gs":0,"min":28,"fg":3,"fga":10,"tp":0,"tpa":0,"ft":3,"fta":4,"orb":7,"drb":6,"ast":1,"stl":2,"blk":0,"tov":1,"pf":3,"pts":9,"ba":2,"pm":21,"pm100":32.5,"onOff100":33.8,"ortg":106,"drtg":108,"per":15.9,"ewa":0.1,"orbp":27.1,"drbp":24.3,"trbp":25.7,"astp":4.9,"stlp":3.5,"blkp":0,"usgp":19.6,"ows":0,"dws":0,"obpm":-1.9,"dbpm":-3,"vorp":0,"dd":0,"td":0,"minMax":[16.6],"fgMax":[2],"fgaMax":[5],"tpMax":[0],"tpaMax":[0],"2pMax":[2],"2paMax":[5],"ftMax":[2],"ftaMax":[2],"orbMax":[3],"drbMax":[4],"trbMax":[7],"astMax":[1],"stlMax":[1],"blkMax":[0],"tovMax":[1],"pfMax":[2],"ptsMax":[5],"gmscMax":[6],"pmMax":[11]},
 {"playoffs":false,"yearsWithTeam":1,"season":2023,"jerseyNumber":"19","tid":26,"gp":4,"gs":0,"min":30,"fg":3,"fga":6,"tp":0,"tpa":2,"ft":1,"fta":2,"orb":2,"drb":8,"ba":0,"ast":1,"stl":1,"blk":0,"tov":4,"pf":3,"pts":7,"pm":12,"pm100":23.1,"onOff100":33.5,"per":4.3,"ortg":74,"drtg":117,"orbp":7,"drbp":30.3,"trbp":18.2,"astp":4.2,"stlp":1.6,"blkp":0,"usgp":15,"ows":-0.1,"dws":0,"obpm":-7.4,"dbpm":-1.7,"vorp":-0.1,"ewa":-0.1,"dd":0,"td":0,"minMax":[14.8],"fgMax":[2],"fgaMax":[5],"tpMax":[0],"tpaMax":[2],"2pMax":[2],"2paMax":[3],"ftMax":[1],"ftaMax":[2],"orbMax":[1],"drbMax":[3],"trbMax":[4],"astMax":[1],"stlMax":[1],"blkMax":[0],"baMax":[0],"tovMax":[3],"pfMax":[2],"ptsMax":[5],"gmscMax":[3],"pmMax":[6]}],
-"injury":{"type":"Healthy","gamesRemaining":0}},
-
-{"tid":-1,
-"name":"D.J. Steward",
-"jerseyNumber":"2",
-"ratings":[{"season":2024,"hgt":35,"stre":22,"spd":64,"jmp":44,"endu":38,"ins":28,"dnk":48,"ft":60,"fg":50,"tp":37,"diq":24,"oiq":42,"drb":48,"pss":33,"reb":56}],
-"pos":"SG","hgt":74,"weight":163,
-"born":{"year":2002,"loc":"Chicago, IL"},
-"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630569.png",
-"contract":{"amount":1100,"exp":2024},
-"transactions":[{"phase":0,"season":2021,"tid":25,"type":"freeAgent"}],
-"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2021},
-"college":"Duke",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
