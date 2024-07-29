@@ -3,6 +3,17 @@
 "players":[
 
 {"tid":-1,
+"name":"Brandon Huntley-Hatfield",
+"jerseyNumber":"5",
+"ratings":[{"hgt":59,"stre":56,"spd":48,"jmp":46,"endu":35,"ins":50,"dnk":56,"ft":25,"fg":28,"tp":20,"diq":32,"oiq":25,"drb":33,"pss":32,"reb":51}],
+"pos":"PF","hgt":82,"weight":250,
+"born":{"year":2004,"loc":"Clarksville, TN"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4432680.png&w=350&h=254",
+"contract":{"amount":1100,"exp":2025},
+"college":"Louisville",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"Jordan Schakel",
 "ratings":[{"season":2022,"hgt":44,"stre":44,"spd":48,"jmp":42,"endu":41,"ins":28,"dnk":54,"ft":50,"fg":49,"tp":52,"diq":45,"oiq":46,"drb":48,"pss":40,"reb":47},{"season":2023,"hgt":44,"stre":44,"spd":48,"jmp":42,"endu":41,"ins":28,"dnk":54,"ft":50,"fg":49,"tp":52,"diq":45,"oiq":46,"drb":48,"pss":40,"reb":47},
 {"season":2024,"hgt":44,"stre":44,"spd":48,"jmp":42,"endu":41,"ins":28,"dnk":54,"ft":50,"fg":49,"tp":52,"diq":45,"oiq":46,"drb":48,"pss":40,"reb":47}],
