@@ -3,6 +3,28 @@
 "players":[
 
 {"tid":-1,
+"name":"Tyrese Hunter",
+"jerseyNumber":"4",
+"ratings":[{"hgt":22,"stre":27,"spd":58,"jmp":41,"endu":35,"ins":33,"dnk":40,"ft":57,"fg":48,"tp":55,"diq":37,"oiq":45,"drb":55,"pss":46,"reb":45}],
+"pos":"PG","hgt":72,"weight":175,
+"born":{"year":2004,"loc":"Racine, WI"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4683751.png&w=350&h=254",
+"contract":{"amount":1200,"exp":2025},
+"college":"Memphis",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
+"name":"Mike Sharavjamts",
+"jerseyNumber":"55",
+"ratings":[{"hgt":47,"stre":29,"spd":45,"jmp":42,"endu":42,"ins":38,"dnk":37,"ft":63,"fg":55,"tp":60,"diq":32,"oiq":38,"drb":43,"pss":46,"reb":38}],
+"pos":"GF","hgt":80,"weight":180,
+"born":{"year":2003,"loc":"Ulaanbaatar, Mongolia"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/5105875.png&w=350&h=254",
+"contract":{"amount":1200,"exp":2025},
+"college":"Utah",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"Brandon Huntley-Hatfield",
 "jerseyNumber":"5",
 "ratings":[{"hgt":59,"stre":56,"spd":48,"jmp":46,"endu":35,"ins":50,"dnk":56,"ft":25,"fg":28,"tp":20,"diq":32,"oiq":25,"drb":33,"pss":32,"reb":51}],
