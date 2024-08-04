@@ -3,6 +3,17 @@
 "players":[
 
 {"tid":-1,
+"name":"Arthur Kaluma",
+"jerseyNumber":"24",
+"ratings":[{"hgt":53,"stre":45,"spd":55,"jmp":54,"endu":46,"ins":43,"dnk":50,"ft":38,"fg":38,"tp":35,"diq":39,"oiq":37,"drb":38,"pss":35,"reb":60}],
+"pos":"F","hgt":79,"weight":225,
+"born":{"year":2002,"loc":"Boston, MA"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4433599.png&w=350&h=254",
+"contract":{"amount":1100,"exp":2024},
+"college":"Kansas State",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"Ryan Mutombo",
 "jerseyNumber":"21",
 "ratings":[{"hgt":74,"stre":53,"spd":36,"jmp":28,"endu":34,"ins":29,"dnk":53,"ft":40,"fg":25,"tp":28,"diq":34,"oiq":24,"drb":28,"pss":22,"reb":54}],
