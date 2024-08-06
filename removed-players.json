@@ -3,6 +3,28 @@
 "players":[
 
 {"tid":-1,
+"name":"Kobe Johnson",
+"jerseyNumber":"0",
+"ratings":[{"hgt":42,"stre":41,"spd":54,"jmp":55,"endu":39,"ins":28,"dnk":47,"ft":55,"fg":46,"tp":45,"diq":48,"oiq":37,"drb":40,"pss":33,"reb":52}],
+"pos":"SG","hgt":77,"weight":200,
+"born":{"year":2003,"loc":"Glendale, WI"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4683857.png&w=350&h=254",
+"contract":{"amount":1100,"exp":2025},
+"college":"UCLA",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
+"name":"Tucker DeVries",
+"jerseyNumber":"12",
+"ratings":[{"hgt":48,"stre":41,"spd":41,"jmp":37,"endu":35,"ins":28,"dnk":42,"ft":53,"fg":53,"tp":63,"diq":29,"oiq":48,"drb":37,"pss":38,"reb":55}],
+"pos":"SF","hgt":79,"weight":210,
+"born":{"year":2003,"loc":"Waukee, IA"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4837238.png&w=350&h=254",
+"contract":{"amount":1200,"exp":2025},
+"college":"West Virginia",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"Arthur Kaluma",
 "jerseyNumber":"24",
 "ratings":[{"hgt":53,"stre":45,"spd":55,"jmp":54,"endu":46,"ins":43,"dnk":50,"ft":38,"fg":38,"tp":35,"diq":39,"oiq":37,"drb":38,"pss":35,"reb":60}],
