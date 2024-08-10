@@ -3,6 +3,50 @@
 "players":[
 
 {"tid":-1,
+"name":"Mark Sears",
+"jerseyNumber":"1",
+"ratings":[{"hgt":26,"stre":22,"spd":60,"jmp":34,"endu":27,"ins":41,"dnk":53,"ft":65,"fg":51,"tp":56,"diq":37,"oiq":50,"drb":54,"pss":47,"reb":48}],
+"pos":"PG","hgt":73,"weight":185,
+"born":{"year":2002,"loc":"Muscle Shoals, AL"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4703530.png&w=350&h=254",
+"contract":{"amount":1200,"exp":2025},
+"college":"Alabama",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
+"name":"Caleb Love",
+"jerseyNumber":"2",
+"ratings":[{"hgt":41,"stre":47,"spd":66,"jmp":67,"endu":40,"ins":48,"dnk":55,"ft":56,"fg":53,"tp":40,"diq":30,"oiq":41,"drb":51,"pss":46,"reb":53}],
+"pos":"G","hgt":76,"weight":195,
+"born":{"year":2002,"loc":"St. Louis, MO"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4433144.png&w=350&h=254",
+"contract":{"amount":1100,"exp":2024},
+"college":"Arizona",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
+"name":"Grant Nelson",
+"jerseyNumber":"2",
+"ratings":[{"hgt":63,"stre":54,"spd":43,"jmp":48,"endu":38,"ins":47,"dnk":48,"ft":65,"fg":45,"tp":47,"diq":42,"oiq":41,"drb":31,"pss":38,"reb":57}],
+"pos":"PF","hgt":83,"weight":230,
+"born":{"year":2002,"loc":"Devils Lake, ND"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4702670.png&w=350&h=254",
+"contract":{"amount":1200,"exp":2025},
+"college":"Alabama",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
+"name":"Tyon Grant-Foster",
+"jerseyNumber":"7",
+"ratings":[{"hgt":48,"stre":47,"spd":60,"jmp":57,"endu":33,"ins":32,"dnk":42,"ft":50,"fg":33,"tp":43,"diq":45,"oiq":33,"drb":39,"pss":31,"reb":40}],
+"pos":"GF","hgt":79,"weight":210,
+"born":{"year":2000,"loc":"Kansas City, KS"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4700527.png&w=350&h=254",
+"contract":{"amount":1200,"exp":2025},
+"college":"Grand Canyon",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"Kobe Johnson",
 "jerseyNumber":"0",
 "ratings":[{"hgt":42,"stre":41,"spd":54,"jmp":55,"endu":39,"ins":28,"dnk":47,"ft":55,"fg":46,"tp":45,"diq":48,"oiq":37,"drb":40,"pss":33,"reb":52}],
@@ -7259,10 +7303,6 @@
 {"number":"41","seasonRetired":1981,"seasonTeamInfo":2023,"pid":290,"text":""},
 {"number":"45","seasonRetired":2018,"seasonTeamInfo":2023,"text":"Phil Chenier"}],
 "imgURL":"https://i.imgur.com/KAX48d0.png",
-"imgURLSmall":"https://i.imgur.com/xwDq8vp.png"}],
-
-
-
-
+"imgURLSmall":"https://i.imgur.com/xwDq8vp.png"}]
 
 }
