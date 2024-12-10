@@ -3288,7 +3288,7 @@
 "jerseyNumber":"4",
 "ratings":[{"season":2025,"hgt":55,"stre":28,"spd":52,"jmp":42,"endu":39,"ins":29,"dnk":52,"ft":46,"fg":55,"tp":47,"diq":28,"oiq":39,"drb":39,"pss":30,"reb":47}],
 "pos":"GF","hgt":79,"weight":190,
-"born":{"year":2005,"loc":"France"},
+"born":{"year":2006,"loc":"Aubagne, France"},
 "imgURL":"https://cdn.nba.com/headshots/nba/latest/260x190/1642359.png",
 "contract":{"amount":2300,"exp":2028,"rookie":true},
 "draft":{"round":1,"pick":25,"tid":19,"originalTid":19,"year":2024},
