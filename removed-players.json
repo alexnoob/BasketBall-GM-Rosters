@@ -3,6 +3,17 @@
 "players":[
 
 {"tid":-1,
+"name":"Babacar Sane",
+"jerseyNumber":"4",
+"ratings":[{"season":2025,"hgt":45,"stre":35,"spd":57,"jmp":57,"endu":22,"ins":20,"dnk":37,"ft":36,"fg":32,"tp":30,"diq":28,"oiq":23,"drb":22,"pss":23,"reb":30}],
+"pos":"GF","hgt":78,"weight":193,
+"born":{"year":2004,"loc":"Ziguinchor, Senegal"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1641526.png",
+"contract":{"amount":1200,"exp":2025},
+"college":"G League Ignite",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"Rudy Gay",
 "ratings":[{"season":2007,"hgt":53,"stre":40,"spd":46,"jmp":51,"endu":33,"ins":35,"dnk":54,"ft":63,"fg":58,"tp":62,"diq":47,"oiq":53,"drb":53,"pss":42,"reb":60},{"season":2008,"hgt":53,"stre":40,"spd":46,"jmp":51,"endu":33,"ins":35,"dnk":54,"ft":63,"fg":58,"tp":62,"diq":47,"oiq":53,"drb":53,"pss":42,"reb":60},{"season":2009,"hgt":53,"stre":40,"spd":46,"jmp":51,"endu":33,"ins":35,"dnk":54,"ft":63,"fg":58,"tp":62,"diq":47,"oiq":53,"drb":53,"pss":42,"reb":60},{"season":2010,"hgt":53,"stre":40,"spd":46,"jmp":51,"endu":33,"ins":35,"dnk":54,"ft":63,"fg":58,"tp":62,"diq":47,"oiq":53,"drb":53,"pss":42,"reb":60},{"season":2011,"hgt":53,"stre":40,"spd":46,"jmp":51,"endu":33,"ins":35,"dnk":54,"ft":63,"fg":58,"tp":62,"diq":47,"oiq":53,"drb":53,"pss":42,"reb":60},{"season":2012,"hgt":53,"stre":40,"spd":46,"jmp":51,"endu":33,"ins":35,"dnk":54,"ft":63,"fg":58,"tp":62,"diq":47,"oiq":53,"drb":53,"pss":42,"reb":60},{"season":2013,"hgt":53,"stre":40,"spd":46,"jmp":51,"endu":33,"ins":35,"dnk":54,"ft":63,"fg":58,"tp":62,"diq":47,"oiq":53,"drb":53,"pss":42,"reb":60},{"season":2014,"hgt":53,"stre":40,"spd":46,"jmp":51,"endu":33,"ins":35,"dnk":54,"ft":63,"fg":58,"tp":62,"diq":47,"oiq":53,"drb":53,"pss":42,"reb":60},{"season":2015,"hgt":53,"stre":40,"spd":46,"jmp":51,"endu":33,"ins":35,"dnk":54,"ft":63,"fg":58,"tp":62,"diq":47,"oiq":53,"drb":53,"pss":42,"reb":60},{"season":2016,"hgt":53,"stre":40,"spd":46,"jmp":51,"endu":33,"ins":35,"dnk":54,"ft":63,"fg":58,"tp":62,"diq":47,"oiq":53,"drb":53,"pss":42,"reb":60},{"season":2017,"hgt":53,"stre":40,"spd":46,"jmp":51,"endu":33,"ins":35,"dnk":54,"ft":63,"fg":58,"tp":62,"diq":47,"oiq":53,"drb":53,"pss":42,"reb":60},{"season":2018,"hgt":53,"stre":40,"spd":46,"jmp":51,"endu":33,"ins":35,"dnk":54,"ft":63,"fg":58,"tp":62,"diq":47,"oiq":53,"drb":53,"pss":42,"reb":60},{"season":2019,"hgt":53,"stre":40,"spd":46,"jmp":51,"endu":33,"ins":35,"dnk":54,"ft":63,"fg":58,"tp":62,"diq":47,"oiq":53,"drb":53,"pss":42,"reb":60},{"season":2020,"hgt":53,"stre":40,"spd":46,"jmp":51,"endu":33,"ins":35,"dnk":54,"ft":63,"fg":58,"tp":62,"diq":47,"oiq":53,"drb":53,"pss":42,"reb":60},{"season":2021,"hgt":53,"stre":40,"spd":46,"jmp":51,"endu":33,"ins":35,"dnk":54,"ft":63,"fg":58,"tp":62,"diq":47,"oiq":53,"drb":53,"pss":42,"reb":60},{"season":2022,"hgt":53,"stre":40,"spd":46,"jmp":51,"endu":33,"ins":35,"dnk":54,"ft":63,"fg":58,"tp":62,"diq":47,"oiq":53,"drb":53,"pss":42,"reb":60},{"season":2023,"hgt":53,"stre":35,"spd":46,"jmp":51,"endu":23,"ins":35,"dnk":44,"ft":63,"fg":65,"tp":62,"diq":47,"oiq":59,"drb":53,"pss":39,"reb":60},{"season":2024,"hgt":53,"stre":35,"spd":37,"jmp":45,"endu":23,"ins":35,"dnk":44,"ft":63,"fg":56,"tp":57,"diq":45,"oiq":59,"drb":50,"pss":39,"reb":57},
 {"season":2025,"hgt":53,"stre":35,"spd":37,"jmp":45,"endu":23,"ins":35,"dnk":44,"ft":63,"fg":56,"tp":57,"diq":45,"oiq":59,"drb":50,"pss":39,"reb":57}],
@@ -1163,17 +1174,6 @@
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4433144.png&w=350&h=254",
 "contract":{"amount":1100,"exp":2024},
 "college":"Arizona",
-"injury":{"type":"Healthy","gamesRemaining":0}},
-
-{"tid":-1,
-"name":"Tyon Grant-Foster",
-"jerseyNumber":"7",
-"ratings":[{"hgt":48,"stre":47,"spd":60,"jmp":57,"endu":33,"ins":32,"dnk":42,"ft":50,"fg":33,"tp":43,"diq":45,"oiq":33,"drb":39,"pss":31,"reb":40}],
-"pos":"GF","hgt":79,"weight":210,
-"born":{"year":2000,"loc":"Kansas City, KS"},
-"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4700527.png&w=350&h=254",
-"contract":{"amount":1200,"exp":2025},
-"college":"Grand Canyon",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
