@@ -3,6 +3,21 @@
 "players":[
 
 {"tid":-1,
+"name":"Darius Days",
+"ratings":[{"season":2023,"hgt":48,"stre":59,"spd":49,"jmp":37,"endu":37,"ins":49,"dnk":53,"ft":44,"fg":48,"tp":53,"diq":40,"oiq":48,"drb":31,"pss":30,"reb":65},{"season":2024,"hgt":48,"stre":59,"spd":49,"jmp":37,"endu":37,"ins":49,"dnk":53,"ft":44,"fg":48,"tp":53,"diq":40,"oiq":48,"drb":31,"pss":30,"reb":65},
+{"season":2025,"hgt":48,"stre":59,"spd":49,"jmp":37,"endu":37,"ins":49,"dnk":53,"ft":44,"fg":48,"tp":53,"diq":40,"oiq":48,"drb":31,"pss":30,"reb":65}],
+"pos":"PF","hgt":79,"weight":245,
+"born":{"year":2000,"loc":"Gainesville, FL"},
+"imgURL":"https://cdn.nba.com/headshots/nba/latest/260x190/1630620.png",
+"contract":{"amount":1200,"exp":2025},
+"transactions":[{"phase":0,"season":2022,"tid":10,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2022},
+"college":"LSU",
+"stats":[
+{"playoffs":false,"yearsWithTeam":1,"season":2023,"jerseyNumber":"5","tid":10,"gp":4,"gs":0,"min":25,"fg":5,"fga":12,"tp":3,"tpa":10,"ft":2,"fta":2,"orb":1,"drb":5,"ba":1,"ast":1,"stl":0,"blk":1,"tov":0,"pf":2,"pts":15,"pm":1,"pm100":4.1,"onOff100":12.5,"per":18.3,"ortg":132,"drtg":120,"orbp":4.3,"drbp":22.2,"trbp":13.2,"astp":6.2,"stlp":0,"blkp":3.9,"usgp":21.4,"ows":0.1,"dws":0,"obpm":4.7,"dbpm":-1.4,"vorp":0,"ewa":0.1,"dd":0,"td":0,"minMax":[17.3],"fgMax":[2],"fgaMax":[7],"tpMax":[2],"tpaMax":[6],"2pMax":[1],"2paMax":[1],"ftMax":[2],"ftaMax":[2],"orbMax":[1],"drbMax":[3],"trbMax":[3],"astMax":[1],"stlMax":[0],"blkMax":[1],"baMax":[1],"tovMax":[0],"pfMax":[2],"ptsMax":[7],"gmscMax":[5],"pmMax":[4]}],
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"Deonte Burton",
 "ratings":[{"season":2019,"hgt":40,"stre":55,"spd":59,"jmp":69,"endu":36,"ins":35,"dnk":64,"ft":41,"fg":44,"tp":49,"diq":31,"oiq":36,"drb":40,"pss":33,"reb":52},{"season":2020,"hgt":40,"stre":55,"spd":59,"jmp":69,"endu":36,"ins":35,"dnk":64,"ft":41,"fg":44,"tp":49,"diq":31,"oiq":36,"drb":40,"pss":33,"reb":52},{"season":2023,"hgt":40,"stre":55,"spd":59,"jmp":69,"endu":36,"ins":35,"dnk":64,"ft":41,"fg":44,"tp":49,"diq":31,"oiq":36,"drb":40,"pss":33,"reb":52},{"season":2024,"hgt":40,"stre":55,"spd":59,"jmp":69,"endu":36,"ins":35,"dnk":64,"ft":41,"fg":44,"tp":49,"diq":31,"oiq":36,"drb":40,"pss":33,"reb":52},
 {"season":2025,"hgt":40,"stre":55,"spd":59,"jmp":69,"endu":36,"ins":35,"dnk":64,"ft":41,"fg":44,"tp":49,"diq":31,"oiq":36,"drb":40,"pss":33,"reb":52}],
