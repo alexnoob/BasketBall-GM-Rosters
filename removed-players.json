@@ -3,6 +3,17 @@
 "players":[
 
 {"tid":-1,
+"name":"Saint Thomas",
+"jerseyNumber":"0",
+"ratings":[{"hgt":48,"stre":47,"spd":40,"jmp":41,"endu":33,"ins":32,"dnk":42,"ft":65,"fg":47,"tp":47,"diq":35,"oiq":40,"drb":33,"pss":45,"reb":55}],
+"pos":"F","hgt":79,"weight":200,
+"born":{"year":2003,"loc":"Omaha, NE"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4897471.png&w=350&h=254",
+"contract":{"amount":1200,"exp":2025},
+"college":"USC",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"Darius Days",
 "ratings":[{"season":2023,"hgt":48,"stre":59,"spd":49,"jmp":37,"endu":37,"ins":49,"dnk":53,"ft":44,"fg":48,"tp":53,"diq":40,"oiq":48,"drb":31,"pss":30,"reb":65},{"season":2024,"hgt":48,"stre":59,"spd":49,"jmp":37,"endu":37,"ins":49,"dnk":53,"ft":44,"fg":48,"tp":53,"diq":40,"oiq":48,"drb":31,"pss":30,"reb":65},
 {"season":2025,"hgt":48,"stre":59,"spd":49,"jmp":37,"endu":37,"ins":49,"dnk":53,"ft":44,"fg":48,"tp":53,"diq":40,"oiq":48,"drb":31,"pss":30,"reb":65}],
