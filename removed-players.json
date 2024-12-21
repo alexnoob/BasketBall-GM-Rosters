@@ -3,6 +3,25 @@
 "players":[
 
 {"tid":-1,
+"name":"Nathan Knight",
+"ratings":[{"season":2021,"hgt":63,"stre":59,"spd":39,"jmp":49,"endu":37,"ins":48,"dnk":88,"ft":52,"fg":26,"tp":40,"diq":39,"oiq":48,"drb":39,"pss":38,"reb":68},{"season":2022,"hgt":63,"stre":59,"spd":39,"jmp":49,"endu":37,"ins":48,"dnk":88,"ft":52,"fg":26,"tp":40,"diq":39,"oiq":48,"drb":39,"pss":38,"reb":68},{"season":2023,"hgt":63,"stre":59,"spd":39,"jmp":49,"endu":37,"ins":48,"dnk":88,"ft":52,"fg":26,"tp":40,"diq":39,"oiq":48,"drb":39,"pss":38,"reb":68},{"season":2024,"hgt":63,"stre":57,"spd":38,"jmp":48,"endu":20,"ins":46,"dnk":85,"ft":52,"fg":25,"tp":39,"diq":38,"oiq":47,"drb":38,"pss":37,"reb":67},
+{"season":2025,"hgt":63,"stre":57,"spd":38,"jmp":48,"endu":20,"ins":46,"dnk":85,"ft":52,"fg":25,"tp":39,"diq":38,"oiq":47,"drb":38,"pss":37,"reb":67}],
+"pos":"FC","hgt":82,"weight":253,
+"born":{"year":1998,"loc":"Syracuse, NY"},
+"imgURL":"https://cdn.nba.com/headshots/nba/latest/260x190/1630233.png",
+"contract":{"amount":1200,"exp":2025},
+"transactions":[{"phase":0,"season":2024,"tid":1,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2020},
+"college":"William & Mary",
+"stats":[
+{"playoffs":false,"yearsWithTeam":1,"season":2021,"jerseyNumber":"1","tid":0,"gp":33,"gs":0,"min":279,"fg":37,"fga":100,"tp":6,"tpa":33,"ft":44,"fta":55,"orb":27,"drb":45,"ba":10,"ast":8,"stl":9,"blk":10,"tov":15,"pf":22,"pts":124,"pm":-17,"pm100":-3.2,"onOff100":-6.3,"per":13.9,"ortg":106,"drtg":112,"orbp":10.8,"drbp":17.3,"trbp":14.1,"astp":4,"stlp":1.6,"blkp":3.2,"usgp":21.7,"ows":0.1,"dws":0.3,"obpm":-2.2,"dbpm":-1.5,"vorp":-0.1,"ewa":0.3,"dd":1,"td":0,"minMax":[26],"fgMax":[6],"fgaMax":[9],"tpMax":[2],"tpaMax":[4],"2pMax":[5],"2paMax":[8],"ftMax":[9],"ftaMax":[10],"orbMax":[4],"drbMax":[7],"trbMax":[10],"astMax":[2],"stlMax":[1],"blkMax":[2],"tovMax":[2],"pfMax":[2],"ptsMax":[16],"gmscMax":[18.6],"pmMax":[24]},
+{"playoffs":true,"season":2021,"jerseyNumber":"1","tid":0,"gp":6,"gs":0,"min":14,"fg":2,"fga":7,"tp":0,"tpa":2,"ft":0,"fta":2,"orb":0,"drb":6,"ba":2,"ast":0,"stl":0,"blk":2,"tov":0,"pf":2,"pts":4,"pm":-7,"pm100":-28.4,"onOff100":-27.7,"per":2.7,"ortg":53,"drtg":98,"orbp":0,"drbp":46.3,"trbp":23.4,"astp":0,"stlp":0,"blkp":12.3,"usgp":24.9,"ows":-0.1,"dws":0,"obpm":-10.4,"dbpm":-0.4,"vorp":0,"ewa":-0.1,"dd":0,"td":0,"minMax":[4.2],"fgMax":[1],"fgaMax":[2],"tpMax":[0],"tpaMax":[1],"2pMax":[1],"2paMax":[2],"ftMax":[0],"ftaMax":[2],"orbMax":[0],"drbMax":[3],"trbMax":[3],"astMax":[0],"stlMax":[0],"blkMax":[2],"tovMax":[0],"pfMax":[1],"ptsMax":[2],"gmscMax":[1.9],"pmMax":[2]},
+{"playoffs":false,"yearsWithTeam":1,"season":2022,"jerseyNumber":"13","tid":17,"gp":37,"gs":2,"min":267,"fg":45,"fga":88,"tp":4,"tpa":13,"ft":44,"fta":60,"orb":32,"drb":53,"ba":12,"ast":22,"stl":7,"blk":8,"tov":18,"pf":42,"pts":138,"pm":22,"pm100":4.4,"onOff100":2.1,"per":18.7,"ortg":122,"drtg":111,"orbp":12.5,"drbp":21.8,"trbp":17.1,"astp":11.9,"stlp":1.2,"blkp":2.9,"usgp":20.7,"ows":0.6,"dws":0.3,"obpm":-0.7,"dbpm":0.1,"vorp":0.1,"ewa":1,"dd":1,"td":0,"minMax":[29.2],"fgMax":[8],"fgaMax":[12],"tpMax":[2],"tpaMax":[3],"2pMax":[6],"2paMax":[9],"ftMax":[4],"ftaMax":[4],"orbMax":[4],"drbMax":[9],"trbMax":[11],"astMax":[4],"stlMax":[1],"blkMax":[1],"tovMax":[2],"pfMax":[6],"ptsMax":[20],"gmscMax":[19.7],"pmMax":[16]},
+{"playoffs":false,"yearsWithTeam":2,"season":2023,"jerseyNumber":"13","tid":17,"gp":38,"gs":0,"min":291,"fg":46,"fga":81,"tp":8,"tpa":22,"ft":39,"fta":57,"orb":22,"drb":34,"ba":7,"ast":13,"stl":10,"blk":6,"tov":21,"pf":41,"pts":139,"pm":-9,"pm100":-2.8,"onOff100":-2.8,"per":14.5,"ortg":118,"drtg":114,"orbp":8.6,"drbp":12.8,"trbp":10.8,"astp":6.1,"stlp":1.6,"blkp":1.8,"usgp":18.7,"ows":0.4,"dws":0.3,"obpm":-2.3,"dbpm":-0.8,"vorp":-0.1,"ewa":0.4,"dd":0,"td":0,"minMax":[26.1],"fgMax":[6],"fgaMax":[9],"tpMax":[2],"tpaMax":[3],"2pMax":[5],"2paMax":[6],"ftMax":[7],"ftaMax":[8],"orbMax":[4],"drbMax":[4],"trbMax":[8],"astMax":[3],"stlMax":[3],"blkMax":[1],"tovMax":[3],"pfMax":[4],"ptsMax":[19],"gmscMax":[17.7],"pmMax":[23]},
+{"playoffs":true,"season":2023,"jerseyNumber":"13","tid":17,"gp":2,"gs":0,"min":5,"fg":1,"fga":4,"tp":0,"tpa":2,"ft":0,"fta":0,"orb":1,"drb":0,"ba":0,"ast":0,"stl":0,"blk":0,"tov":1,"pf":0,"pts":2,"pm":-3,"pm100":-33.3,"onOff100":-24.6,"per":-10.8,"ortg":54,"drtg":127,"orbp":22.8,"drbp":0,"trbp":11.7,"astp":0,"stlp":0,"blkp":0,"usgp":46.2,"ows":-0.1,"dws":0,"obpm":-13.7,"dbpm":-12.1,"vorp":0,"ewa":-0.1,"dd":0,"td":0,"minMax":[4.5],"fgMax":[1],"fgaMax":[4],"tpMax":[0],"tpaMax":[2],"2pMax":[1],"2paMax":[2],"ftMax":[0],"ftaMax":[0],"orbMax":[1],"drbMax":[0],"trbMax":[1],"astMax":[0],"stlMax":[0],"blkMax":[0],"baMax":[0],"tovMax":[1],"pfMax":[0],"ptsMax":[2],"gmscMax":[0],"pmMax":[2]}],
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"Saint Thomas",
 "jerseyNumber":"0",
 "ratings":[{"hgt":48,"stre":47,"spd":40,"jmp":41,"endu":33,"ins":32,"dnk":42,"ft":65,"fg":47,"tp":47,"diq":35,"oiq":40,"drb":33,"pss":45,"reb":55}],
