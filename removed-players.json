@@ -3,6 +3,17 @@
 "players":[
 
 {"tid":-1,
+"name":"Michael Ajayi",
+"jerseyNumber":"1",
+"ratings":[{"hgt":50,"stre":55,"spd":40,"jmp":54,"endu":40,"ins":43,"dnk":50,"ft":38,"fg":38,"tp":47,"diq":35,"oiq":37,"drb":28,"pss":35,"reb":66}],
+"pos":"F","hgt":79,"weight":228,
+"born":{"year":2003,"loc":"Kent, WA"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/5176517.png&w=350&h=254",
+"contract":{"amount":1200,"exp":2025},
+"college":"Gonzaga",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"Nathan Knight",
 "ratings":[{"season":2021,"hgt":63,"stre":59,"spd":39,"jmp":49,"endu":37,"ins":48,"dnk":88,"ft":52,"fg":26,"tp":40,"diq":39,"oiq":48,"drb":39,"pss":38,"reb":68},{"season":2022,"hgt":63,"stre":59,"spd":39,"jmp":49,"endu":37,"ins":48,"dnk":88,"ft":52,"fg":26,"tp":40,"diq":39,"oiq":48,"drb":39,"pss":38,"reb":68},{"season":2023,"hgt":63,"stre":59,"spd":39,"jmp":49,"endu":37,"ins":48,"dnk":88,"ft":52,"fg":26,"tp":40,"diq":39,"oiq":48,"drb":39,"pss":38,"reb":68},{"season":2024,"hgt":63,"stre":57,"spd":38,"jmp":48,"endu":20,"ins":46,"dnk":85,"ft":52,"fg":25,"tp":39,"diq":38,"oiq":47,"drb":38,"pss":37,"reb":67},
 {"season":2025,"hgt":63,"stre":57,"spd":38,"jmp":48,"endu":20,"ins":46,"dnk":85,"ft":52,"fg":25,"tp":39,"diq":38,"oiq":47,"drb":38,"pss":37,"reb":67}],
@@ -1270,17 +1281,6 @@
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4683857.png&w=350&h=254",
 "contract":{"amount":1100,"exp":2025},
 "college":"UCLA",
-"injury":{"type":"Healthy","gamesRemaining":0}},
-
-{"tid":-1,
-"name":"Tucker DeVries",
-"jerseyNumber":"12",
-"ratings":[{"hgt":48,"stre":41,"spd":41,"jmp":37,"endu":35,"ins":28,"dnk":42,"ft":53,"fg":53,"tp":63,"diq":29,"oiq":48,"drb":37,"pss":38,"reb":55}],
-"pos":"SF","hgt":79,"weight":210,
-"born":{"year":2003,"loc":"Waukee, IA"},
-"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4837238.png&w=350&h=254",
-"contract":{"amount":1200,"exp":2025},
-"college":"West Virginia",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
