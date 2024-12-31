@@ -1517,9 +1517,9 @@
 "college":"Stanford",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":28,
 "firstName":"Mike","lastName":"Miles Jr.",
-"jerseyNumber":"23",
+"jerseyNumber":"16",
 "ratings":[{"hgt":30,"stre":44,"spd":54,"jmp":43,"endu":22,"ins":35,"dnk":48,"ft":48,"fg":43,"tp":35,"diq":35,"oiq":30,"drb":47,"pss":46,"reb":45}],
 "pos":"PG","hgt":74,"weight":195,
 "born":{"year":2003,"loc":"Highlands, TX"},
@@ -3059,7 +3059,7 @@
 "college":"Hungary",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":24,
+{"tid":14,
 "name":"Maxwell Lewis",
 "jerseyNumber":"20",
 "ratings":[{"hgt":50,"stre":33,"spd":46,"jmp":46,"endu":30,"ins":42,"dnk":48,"ft":56,"fg":53,"tp":56,"diq":34,"oiq":35,"drb":36,"pss":38,"reb":51}],
@@ -3527,7 +3527,7 @@
 "college":"Ohio State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":28,
+{"tid":-1,
 "name":"Joshua Primo",
 "jerseyNumber":"12",
 "ratings":[{"hgt":42,"stre":37,"spd":50,"jmp":66,"endu":47,"ins":44,"dnk":60,"ft":47,"fg":43,"tp":53,"diq":34,"oiq":40,"drb":40,"pss":42,"reb":56}],
@@ -3539,7 +3539,7 @@
 "college":"Alabama",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":28,
+{"tid":-1,
 "name":"D.J. Steward",
 "jerseyNumber":"00",
 "ratings":[{"season":2025,"hgt":35,"stre":32,"spd":64,"jmp":44,"endu":38,"ins":32,"dnk":54,"ft":60,"fg":50,"tp":37,"diq":30,"oiq":48,"drb":48,"pss":44,"reb":59}],
@@ -3861,7 +3861,33 @@
 "contract":{"amount":100,"exp":2025},
 "draft":{"round":1,"pick":9,"tid":6,"originalTid":6,"year":2017},
 "college":"NC State",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":28,
+"name":"Marcus Domask",
+"jerseyNumber":"3",
+"ratings":[{"hgt":44,"stre":41,"spd":52,"jmp":41,"endu":33,"ins":37,"dnk":58,"ft":64,"fg":44,"tp":36,"diq":30,"oiq":42,"drb":44,"pss":37,"reb":51}],
+"pos":"GF","hgt":78,"weight":215,
+"born":{"year":2000,"loc":"Waupun, WI"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1642452.png",
+"contract":{"amount":50,"exp":2025},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2024},
+"college":"Illinois",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":27,
+"name":"Tyler Kolek",
+"jerseyNumber":"13",
+"ratings":[{"hgt":29,"stre":40,"spd":55,"jmp":46,"endu":50,"ins":42,"dnk":54,"ft":65,"fg":66,"tp":42,"diq":41,"oiq":52,"drb":51,"pss":56,"reb":48}],
+"pos":"PG","hgt":75,"weight":195,
+"born":{"year":2001,"loc":"Cumberland, RI"},
+"imgURL":"https://cdn.nba.com/headshots/nba/latest/260x190/1642278.png",
+"contract":{"amount":2300,"exp":2028,"rookie":true},
+"draft":{"round":2,"pick":4,"tid":24,"originalTid":3,"year":2024},
+"college":"Marquette",
 "injury":{"type":"Healthy","gamesRemaining":0}}
+
+
 ],
 
 "teams":[
