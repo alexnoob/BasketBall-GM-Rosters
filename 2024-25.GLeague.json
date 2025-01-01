@@ -86,7 +86,7 @@
 "college":"San Francisco",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":0,
+{"tid":21,
 "name":"Elijah Harkless",
 "jerseyNumber":"15",
 "ratings":[{"hgt":40,"stre":31,"spd":49,"jmp":47,"endu":33,"ins":31,"dnk":43,"ft":50,"fg":48,"tp":37,"diq":25,"oiq":39,"drb":45,"pss":41,"reb":58}],
@@ -2098,7 +2098,7 @@
 "pos":"SF","hgt":78,"weight":210,
 "born":{"year":2002,"loc":"Santo Domingo, Dominican Republic"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1642357.png",
-"contract":{"amount":600,"exp":2025,"rookie":true},
+"contract":{"amount":100,"exp":2025,"rookie":true},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2024},
 "college":"Memphis",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -3885,8 +3885,19 @@
 "contract":{"amount":2300,"exp":2028,"rookie":true},
 "draft":{"round":2,"pick":4,"tid":24,"originalTid":3,"year":2024},
 "college":"Marquette",
-"injury":{"type":"Healthy","gamesRemaining":0}}
+"injury":{"type":"Healthy","gamesRemaining":0}},
 
+{"tid":0,
+"name":"Jordan Lathon",
+"jerseyNumber":"20",
+"ratings":[{"hgt":41,"stre":31,"spd":49,"jmp":47,"endu":33,"ins":31,"dnk":43,"ft":37,"fg":48,"tp":37,"diq":39,"oiq":32,"drb":45,"pss":41,"reb":58}],
+"pos":"G","hgt":77,"weight":195,
+"born":{"year":2000,"loc":"Grandview, MO"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1642584.png",
+"contract":{"amount":50,"exp":2025},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2023},
+"college":"Morehead State",
+"injury":{"type":"Healthy","gamesRemaining":0}},
 
 ],
 
