@@ -1877,7 +1877,7 @@
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2022},
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":15,
+{"tid":-1,
 "name":"London Johnson",
 "jerseyNumber":"4",
 "ratings":[{"hgt":38,"stre":30,"spd":61,"jmp":53,"endu":32,"ins":41,"dnk":43,"ft":55,"fg":56,"tp":47,"diq":31,"oiq":36,"drb":54,"pss":48,"reb":39}],
@@ -3909,6 +3909,18 @@
 "contract":{"amount":50,"exp":2025},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2025},
 "college":"Western Illinois",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":15,
+"name":"Tristan Enaruna",
+"jerseyNumber":"6",
+"ratings":[{"hgt":52,"stre":34,"spd":45,"jmp":46,"endu":25,"ins":38,"dnk":52,"ft":12,"fg":40,"tp":32,"diq":41,"oiq":32,"drb":37,"pss":34,"reb":62}],
+"pos":"GF","hgt":80,"weight":220,
+"born":{"year":2001,"loc":"Almere, Netherlands"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1642400.png",
+"contract":{"amount":50,"exp":2025},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2024},
+"college":"Cleveland State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 ],
