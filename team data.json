@@ -792,7 +792,7 @@
 	},
 	"POR":{
 		"imgURL":"https://i.imgur.com/MTiHNr2.png",
-		"name":"Trailblazers",
+		"name":"Trail Blazers",
 		"region":"Portland",
 		"colors":["#ba0c2f","#ffffff","#000000"],
 		"seasons":{
@@ -899,7 +899,7 @@
 	},
 	"SEA":{
 		"imgURL":"https://i.imgur.com/GahKo8c.png",
-		"name":"Supersonics",
+		"name":"SuperSonics",
 		"region":"Seattle",
 		"colors":["#173f35","#ffffff","#eaaa00"],
 		"seasons":{
