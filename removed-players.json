@@ -3,6 +3,22 @@
 "players":[
 
 {"tid":-1,
+"name":"Zavier Simpson",
+"ratings":[{"season":2022,"hgt":22,"stre":24,"spd":61,"jmp":46,"endu":42,"ins":22,"dnk":59,"ft":40,"fg":57,"tp":30,"diq":40,"oiq":43,"drb":66,"pss":63,"reb":26},{"season":2023,"hgt":22,"stre":24,"spd":61,"jmp":46,"endu":42,"ins":22,"dnk":59,"ft":40,"fg":57,"tp":30,"diq":40,"oiq":43,"drb":66,"pss":63,"reb":26},{"season":2024,"hgt":22,"stre":24,"spd":61,"jmp":46,"endu":42,"ins":22,"dnk":59,"ft":40,"fg":57,"tp":30,"diq":40,"oiq":43,"drb":66,"pss":63,"reb":26},
+{"season":2025,"hgt":22,"stre":24,"spd":61,"jmp":46,"endu":42,"ins":22,"dnk":59,"ft":40,"fg":57,"tp":30,"diq":40,"oiq":43,"drb":66,"pss":63,"reb":26}],
+"pos":"PG","hgt":72,"weight":190,
+"born":{"year":1997,"loc":"Lima, OH"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630285.png",
+"contract":{"amount":1600,"exp":2025},
+"transactions":[{"phase":0,"season":2024,"tid":14,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2020},
+"college":"Michigan",
+"stats":[
+{"playoffs":false,"yearsWithTeam":1,"season":2022,"jerseyNumber":"9","tid":20,"gp":4,"gs":4,"min":174,"fg":19,"fga":52,"tp":1,"tpa":8,"ft":5,"fta":5,"orb":2,"drb":19,"ba":7,"ast":30,"stl":5,"blk":4,"tov":10,"pf":15,"pts":44,"pm":-95,"pm100":-26.1,"onOff100":-18.6,"per":7.7,"ortg":91,"drtg":114,"orbp":1.2,"drbp":11.4,"trbp":6.2,"astp":25.2,"stlp":1.4,"blkp":2.1,"usgp":15.9,"ows":-0.2,"dws":0.1,"obpm":-6,"dbpm":-1.9,"vorp":-0.3,"ewa":-0.3,"dd":0,"td":0,"minMax":[46.5],"fgMax":[7],"fgaMax":[15],"tpMax":[1],"tpaMax":[3],"2pMax":[6],"2paMax":[12],"ftMax":[3],"ftaMax":[3],"orbMax":[1],"drbMax":[8],"trbMax":[9],"astMax":[11],"stlMax":[3],"blkMax":[2],"tovMax":[4],"pfMax":[6],"ptsMax":[17],"gmscMax":[15.8],"pmMax":[-1]},
+{"playoffs":false,"yearsWithTeam":1,"season":2024,"jerseyNumber":"2","tid":14,"gp":7,"gs":0,"min":161,"fg":17,"fga":54,"tp":5,"tpa":17,"ft":3,"fta":4,"orb":4,"drb":16,"ba":7,"ast":25,"stl":7,"blk":3,"tov":10,"pf":11,"pts":42,"pm":-29,"pm100":-9.4,"onOff100":-2.2,"per":6.3,"ortg":86,"drtg":115,"orbp":2.6,"drbp":11.3,"trbp":6.8,"astp":22.5,"stlp":2.1,"blkp":1.7,"usgp":17.5,"ows":-0.3,"dws":0.2,"obpm":-6.2,"dbpm":0.3,"vorp":-0.2,"ewa":-0.4,"dd":0,"td":0,"minMax":[32.7],"fgMax":[5],"fgaMax":[15],"tpMax":[3],"tpaMax":[6],"2pMax":[4],"2paMax":[9],"ftMax":[3],"ftaMax":[4],"orbMax":[2],"drbMax":[7],"trbMax":[8],"astMax":[5],"stlMax":[2],"blkMax":[2],"tovMax":[3],"pfMax":[5],"ptsMax":[14],"gmscMax":[12.2],"pmMax":[15]}],
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"Ish Wainright",
 "ratings":[{"season":2022,"hgt":49,"stre":60,"spd":56,"jmp":51,"endu":30,"ins":29,"dnk":34,"ft":38,"fg":60,"tp":54,"diq":58,"oiq":45,"drb":38,"pss":37,"reb":55},{"season":2023,"hgt":49,"stre":60,"spd":56,"jmp":53,"endu":30,"ins":29,"dnk":34,"ft":42,"fg":60,"tp":54,"diq":58,"oiq":50,"drb":38,"pss":37,"reb":55},{"season":2024,"hgt":49,"stre":52,"spd":54,"jmp":50,"endu":13,"ins":28,"dnk":33,"ft":48,"fg":58,"tp":53,"diq":57,"oiq":49,"drb":37,"pss":36,"reb":54},
 {"season":2025,"hgt":49,"stre":52,"spd":54,"jmp":50,"endu":13,"ins":28,"dnk":33,"ft":48,"fg":58,"tp":53,"diq":57,"oiq":49,"drb":37,"pss":36,"reb":54}],
