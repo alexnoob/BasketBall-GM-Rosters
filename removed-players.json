@@ -4118,17 +4118,6 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
-"name":"Micah Peavy",
-"jerseyNumber":"0",
-"ratings":[{"hgt":48,"stre":33,"spd":50,"jmp":55,"endu":38,"ins":42,"dnk":55,"ft":20,"fg":30,"tp":23,"diq":37,"oiq":40,"drb":50,"pss":36,"reb":56}],
-"pos":"SG","hgt":79,"weight":215,
-"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4432185.png&w=350&h=254",
-"born":{"year":2002,"loc":"Houston, TX"},
-"contract":{"amount":1100,"exp":2024},
-"college":"TCU",
-"injury":{"type":"Healthy","gamesRemaining":0}},
-
-{"tid":-1,
 "name":"Allen Flanigan",
 "jerseyNumber":"22",
 "ratings":[{"hgt":44,"stre":57,"spd":54,"jmp":57,"endu":33,"ins":41,"dnk":42,"ft":45,"fg":45,"tp":40,"diq":40,"oiq":30,"drb":43,"pss":44,"reb":62}],
