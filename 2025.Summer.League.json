@@ -33,7 +33,8 @@
 "pos":"SG","hgt":77,"weight":200,
 "born":{"year":2003,"loc":"Glendale, WI"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4683857.png&w=350&h=254",
-"contract":{"amount":1100,"exp":2025},
+"contract":{"amount":100,"exp":2025},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2025},
 "college":"UCLA",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
@@ -45,8 +46,8 @@
 "born":{"year":1999,"loc":"Decatur, AL"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1641881.png",
 "contract":{"amount":50,"exp":2025},
-"college":"DePaul",
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2023},
+"college":"DePaul",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":0,
@@ -1189,7 +1190,7 @@
 {"tid":10,
 "name":"Kennedy Chandler",
 "jerseyNumber":"47",
-"ratings":[{"hgt":30,"stre":28,"spd":63,"jmp":64,"endu":26,"ins":30,"dnk":50,"ft":59,"fg":41,"tp":39,"diq":33,"oiq":30,"drb":47,"pss":46,"reb":41}],
+"ratings":[{"hgt":30,"stre":28,"spd":63,"jmp":64,"endu":40,"ins":38,"dnk":50,"ft":59,"fg":41,"tp":39,"diq":33,"oiq":47,"drb":47,"pss":46,"reb":41}],
 "pos":"PG","hgt":73,"weight":172,
 "born":{"year":2003,"loc":"Cordova, TN"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631113.png",
@@ -1237,7 +1238,7 @@
 {"tid":10,
 "name":"Reed Sheppard",
 "jerseyNumber":"15",
-"ratings":[{"hgt":31,"stre":35,"spd":55,"jmp":69,"endu":38,"ins":41,"dnk":21,"ft":61,"fg":80,"tp":68,"diq":45,"oiq":60,"drb":38,"pss":54,"reb":54}],
+"ratings":[{"hgt":31,"stre":35,"spd":55,"jmp":69,"endu":54,"ins":51,"dnk":31,"ft":61,"fg":80,"tp":68,"diq":45,"oiq":65,"drb":38,"pss":54,"reb":54}],
 "pos":"SG","hgt":75,"weight":180,
 "born":{"year":2004,"loc":"London, KY"},
 "imgURL":"https://cdn.nba.com/headshots/nba/latest/260x190/1642263.png",
@@ -2853,7 +2854,7 @@
 {"tid":24,
 "name":"Rayan Rupert",
 "jerseyNumber":"21",
-"ratings":[{"hgt":54,"stre":33,"spd":60,"jmp":48,"endu":45,"ins":32,"dnk":39,"ft":51,"fg":52,"tp":49,"diq":40,"oiq":49,"drb":35,"pss":37,"reb":58}],
+"ratings":[{"hgt":54,"stre":33,"spd":60,"jmp":48,"endu":54,"ins":42,"dnk":49,"ft":51,"fg":58,"tp":53,"diq":40,"oiq":55,"drb":35,"pss":37,"reb":58}],
 "pos":"SG","hgt":79,"weight":190,
 "born":{"year":2004,"loc":"Strasbourg, France"},
 "imgURL":"https://cdn.nba.com/headshots/nba/latest/260x190/1641712.png",
@@ -3533,17 +3534,29 @@
 "college":"Florida State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
+{"tid":10,
+"name":"Chris Ledlum",
+"jerseyNumber":"43",
+"ratings":[{"hgt":44,"stre":41,"spd":52,"jmp":44,"endu":31,"ins":28,"dnk":47,"ft":30,"fg":40,"tp":43,"diq":44,"oiq":37,"drb":40,"pss":37,"reb":62}],
+"pos":"SG","hgt":78,"weight":242,
+"born":{"year":2001,"loc":"Brooklyn, NY"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4431728.png&w=350&h=254",
+"contract":{"amount":100,"exp":2025},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2024},
+"college":"St. John's",
+"injury":{"type":"Healthy","gamesRemaining":0}},
 
-
-
-
-
-
-
-
-
-
-
+{"tid":24,
+"name":"Sean Pedulla",
+"jerseyNumber":"53",
+"ratings":[{"hgt":29,"stre":41,"spd":49,"jmp":47,"endu":34,"ins":30,"dnk":48,"ft":60,"fg":48,"tp":56,"diq":37,"oiq":44,"drb":55,"pss":50,"reb":44}],
+"pos":"G","hgt":74,"weight":190,
+"born":{"year":2003,"loc":"Edmond, OK"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4709131.png&w=350&h=254",
+"contract":{"amount":1200,"exp":2025},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2025},
+"college":"Ole Miss",
+"injury":{"type":"Healthy","gamesRemaining":0}},
 
 ],
 
