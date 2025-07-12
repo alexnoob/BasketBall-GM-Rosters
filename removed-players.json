@@ -1661,6 +1661,7 @@
 "born":{"year":2003,"loc":"Omaha, NE"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4897471.png&w=350&h=254",
 "contract":{"amount":1200,"exp":2025},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2025},
 "college":"USC",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
@@ -2802,6 +2803,7 @@
 "born":{"year":2003,"loc":"Philadelphia, PA"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4897397.png&w=350&h=254",
 "contract":{"amount":1200,"exp":2025},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2025},
 "college":"Villanova",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
@@ -2854,6 +2856,7 @@
 "born":{"year":2002,"loc":"Boston, MA"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4433599.png&w=350&h=254",
 "contract":{"amount":1200,"exp":2024},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2025},
 "college":"Texas",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
@@ -3127,6 +3130,7 @@
 "born":{"year":2003,"loc":"Atlanta, GA"},
 "imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4897007.png&w=350&h=254",
 "contract":{"amount":1000,"exp":2025},
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2025},
 "college":"Miami (FL)",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
