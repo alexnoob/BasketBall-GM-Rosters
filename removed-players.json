@@ -3,6 +3,17 @@
 "players":[
 
 {"tid":-1,
+"name":"Tyon Grant-Foster",
+"jerseyNumber":"7",
+"ratings":[{"hgt":48,"stre":47,"spd":60,"jmp":57,"endu":33,"ins":32,"dnk":42,"ft":50,"fg":33,"tp":43,"diq":45,"oiq":33,"drb":39,"pss":31,"reb":40}],
+"pos":"GF","hgt":79,"weight":210,
+"born":{"year":2000,"loc":"Kansas City, KS"},
+"imgURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4700527.png&w=350&h=254",
+"contract":{"amount":1200,"exp":2026},
+"college":"Grand Canyon",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "name":"J.J. Starling",
 "jerseyNumber":"1",
 "ratings":[{"hgt":37,"stre":39,"spd":59,"jmp":53,"endu":44,"ins":37,"dnk":44,"ft":45,"fg":51,"tp":52,"diq":30,"oiq":37,"drb":48,"pss":38,"reb":48}],
