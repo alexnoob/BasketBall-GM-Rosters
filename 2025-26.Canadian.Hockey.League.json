@@ -61,8 +61,13 @@
 {"number":"39","seasonRetired":2025,"seasonTeamInfo":1996,"text":"Frank Banham"},
 {"number":"44","seasonRetired":2021,"seasonTeamInfo":2021,"text":"Chase Wouters"}]},
 {"tid":10,"cid":0,"did":1,"region":"Swift Current","name":"Broncos","abbrev":"SWI","pop":0.1,"stadiumCapacity":2879,"colors":["#013e7d","#ffffff","#01703b"],"jersey":"hockey2",
-"imgURL":"",
-"imgURLSmall":""},
+"imgURL":"https://upload.wikimedia.org/wikipedia/en/e/e4/Swift_Current_Broncos.svg",
+"imgURLSmall":"https://i.imgur.com/HnnbmmK.png",
+"retiredJerseyNumbers":[
+{"number":"8","seasonRetired":1986,"seasonTeamInfo":1986,"text":"Trent Kresse"},
+{"number":"9","seasonRetired":1986,"seasonTeamInfo":1986,"text":"Scott Krueger"},
+{"number":"11","seasonRetired":1986,"seasonTeamInfo":1986,"text":"Brent Ruff"},
+{"number":"22","seasonRetired":1986,"seasonTeamInfo":1986,"text":"Chris Mantyka"}]},
 {"tid":11,"cid":0,"did":2,"region":"Kamloops","name":"Blazers","abbrev":"KAM","pop":0.1,"stadiumCapacity":5464,"colors":["#041e41","#f76318","#ffffff"],"jersey":"hockey2",
 "imgURL":"",
 "imgURLSmall":""},
@@ -232,7 +237,7 @@
 "forceRetireAge":21,
 "minRetireAge":18,
 "draftAges":[16,20],
-"playerBioInfo":{"frequencies":{"USA":30,"Canada":100,"Finland":10,"Russia":10,"Slovakia":5,"Germany":2}},
+"playerBioInfo":{"frequencies":{"USA":60,"Canada":300,"Czech Republic":20,"Finland":10,"Sweden":10,"Switzerland":10,"Russia":10,"Slovakia":5,"Germany":2}},
 "draftType":"freeAgents",
 
 }
