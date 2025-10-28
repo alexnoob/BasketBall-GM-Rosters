@@ -238,7 +238,7 @@
 "minRetireAge":18,
 "draftAges":[16,20],
 "playerBioInfo":{"frequencies":{"USA":60,"Canada":300,"Czech Republic":20,"Finland":10,"Sweden":10,"Switzerland":10,"Russia":10,"Slovakia":5,"Germany":2}},
-"draftType":"freeAgents",
+"draftType":"freeAgents"
 
 }
 
