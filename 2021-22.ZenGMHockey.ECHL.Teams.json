@@ -159,7 +159,7 @@
 "minRosterSize":20,
 "maxRosterSize":20,
 "draftAges":[18,22],
-"draftType":"freeAgents",
+"draftType":"freeAgents"
 
 }
 
