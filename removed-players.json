@@ -3,6 +3,20 @@
 "players":[
 
 {"tid":-1,
+"name":"Izaiah Brockington",
+"ratings":[{"season":2024,"hgt":37,"stre":39,"spd":59,"jmp":57,"endu":34,"ins":40,"dnk":58,"ft":54,"fg":52,"tp":46,"diq":37,"oiq":44,"drb":47,"pss":45,"reb":44},{"season":2025,"hgt":37,"stre":39,"spd":59,"jmp":57,"endu":34,"ins":40,"dnk":58,"ft":54,"fg":52,"tp":46,"diq":37,"oiq":44,"drb":47,"pss":45,"reb":44},
+{"season":2026,"hgt":37,"stre":39,"spd":59,"jmp":57,"endu":34,"ins":40,"dnk":58,"ft":54,"fg":52,"tp":46,"diq":37,"oiq":44,"drb":47,"pss":45,"reb":44}],
+"pos":"G","hgt":76,"weight":200,"srID":"brockiz01",
+"born":{"year":2000,"loc":"Towson, MD"},
+"imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1631167.png",
+"contract":{"amount":1300,"exp":2026},
+"transactions":[{"phase":0,"season":2024,"tid":18,"type":"freeAgent"}],
+"draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2022},
+"college":"Iowa State",
+"stats":[{"playoffs":false,"yearsWithTeam":1,"season":2024,"jerseyNumber":"21","tid":18,"gp":1,"gs":0,"min":3,"fg":2,"fga":5,"tp":0,"tpa":1,"ft":0,"fta":0,"orb":1,"drb":1,"ba":1,"ast":0,"stl":0,"blk":0,"tov":0,"pf":0,"pts":4,"pm":3,"pm100":21.4,"onOff100":16.8,"per":26.6,"ortg":93,"drtg":113,"orbp":37.6,"drbp":36.7,"trbp":37.1,"astp":0,"stlp":0,"blkp":0,"usgp":72.5,"ows":0,"dws":0,"obpm":-9.2,"dbpm":-8.5,"vorp":0,"ewa":0,"dd":0,"td":0,"minMax":[3.3],"fgMax":[2],"fgaMax":[5],"tpMax":[0],"tpaMax":[1],"2pMax":[2],"2paMax":[4],"ftMax":[0],"ftaMax":[0],"orbMax":[1],"drbMax":[1],"trbMax":[2],"astMax":[0],"stlMax":[0],"blkMax":[0],"baMax":[1],"tovMax":[0],"pfMax":[0],"ptsMax":[4],"gmscMax":[2.3],"pmMax":[3]}],
+"injury":{"type":"Healthy","gamesRemaining":0}},
+
+{"tid":-1,
 "firstName":"Michael","lastName":"Foster Jr.",
 "ratings":[{"season":2023,"hgt":63,"stre":51,"spd":40,"jmp":50,"endu":30,"ins":46,"dnk":49,"ft":51,"fg":31,"tp":28,"diq":25,"oiq":20,"drb":27,"pss":23,"reb":59},{"season":2024,"hgt":63,"stre":51,"spd":40,"jmp":50,"endu":30,"ins":46,"dnk":49,"ft":51,"fg":31,"tp":28,"diq":25,"oiq":20,"drb":27,"pss":23,"reb":59},{"season":2025,"hgt":63,"stre":51,"spd":40,"jmp":50,"endu":30,"ins":46,"dnk":49,"ft":51,"fg":31,"tp":28,"diq":25,"oiq":20,"drb":27,"pss":23,"reb":59},
 {"season":2026,"hgt":63,"stre":51,"spd":40,"jmp":50,"endu":30,"ins":46,"dnk":49,"ft":51,"fg":31,"tp":28,"diq":25,"oiq":20,"drb":27,"pss":23,"reb":59}],
