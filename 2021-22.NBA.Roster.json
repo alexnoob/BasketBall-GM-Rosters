@@ -17497,6 +17497,20 @@
 "imgURL":"https://i.imgur.com/KAX48d0.png",
 "imgURLSmall":"https://i.imgur.com/xwDq8vp.png"}],
 
+"conferences":[
+{"cid":0, "conference": "Eastern"},
+{"cid":1, "conference": "Western"}
+],
+
+"divisions":[
+{"did":0, "division": "Atlantic"},
+{"did":1, "division": "Central"},
+{"did":2, "division": "Southeast"},
+{"did":3, "division": "Southwest"},
+{"did":4, "division": "Northwest"},
+{"did":5, "division": "Pacific"}
+],
+
 "draftPicks":[
 {"tid":0,"originalTid":0,"round":1,"pick":0,"season":2022,"dpid":0},
 {"tid":26,"originalTid":1,"round":1,"pick":0,"season":2022,"dpid":1},
